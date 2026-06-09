@@ -83,6 +83,7 @@ def parse_items(html: str):
             desc_node = card.css_first("p, .description, .browse__item-description")
             desc = desc_node.text(strip=True) if desc_node else ""
 
+               # အညွှန်းစာတိုတွေကို သန့်ရှင်းအောင်လုပ်မယ်
             items.append(
                 {
                     "id": make_id(link, title),
@@ -141,10 +142,10 @@ def build_rss(items: list[dict]) -> None:
 def build_index(new_count: int, total_count: int) -> None:
     rss_url = "./feed.xml"
     html = f"""<!doctype html>
-<html lang=\"en\">
+<html lang="en">
   <head>
-    <meta charset=\"utf-8\" />
-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{RSS_TITLE}</title>
     <style>
       body {{ font-family: system-ui, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 16px; line-height: 1.6; }}
@@ -153,12 +154,12 @@ def build_index(new_count: int, total_count: int) -> None:
     </style>
   </head>
   <body>
-    <div class=\"card\">
+    <div class="card">
       <h1>{RSS_TITLE}</h1>
       <p>{RSS_DESCRIPTION}</p>
       <p>စုစုပေါင်း item: <strong>{total_count}</strong></p>
       <p>အသစ်တွေ့: <strong>{new_count}</strong></p>
-      <p><a href=\"{rss_url}\">RSS feed ကိုဖွင့်မယ်</a></p>
+      <p><a href="{rss_url}">RSS feed ကိုဖွင့်မယ်</a></p>
     </div>
   </body>
 </html>
@@ -174,6 +175,7 @@ def telegram_send(text: str) -> None:
     payload = {
         "chat_id": TELEGRAM_CHAT_ID,
         "text": text,
+        "parse_mode": "HTML",
         "disable_web_page_preview": True,
     }
     session = requests.Session()
@@ -189,6 +191,8 @@ def main() -> None:
     conn = db()
     seen = load_seen(conn)
 
+    is_cold_start = (len(seen) == 0)
+
     html = fetch_html(TARGET_URL)
     items = parse_items(html)
     new_items = [item for item in items if item["id"] not in seen]
@@ -200,10 +204,12 @@ def main() -> None:
     build_index(len(new_items), len(items))
 
     if new_items:
-        lines = ["အသစ်တွေတွေ့တယ် 👀"]
-        for item in new_items[:10]:
-            lines.append(f"- {item['title']} {item['link']}")
-        telegram_send("\n".join(lines))
+        if is_cold_start:
+            print("Cold start detected. Saved items to database without sending Telegram alerts.")
+        else:
+            for item in new_items[:10]:
+                message = f"<b>အသစ်တွေ့တယ် 👀</b>\n\n<b>{item['title']}</b>\n{item['link']}"
+                telegram_send(message)
 
     conn.close()
     print(f"done: {len(items)} items, {len(new_items)} new")
