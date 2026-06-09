@@ -1,4 +1,5 @@
 import os
+import random
 import re
 import sqlite3
 from datetime import datetime, timezone
@@ -24,6 +25,60 @@ RSS_DESCRIPTION = os.getenv(
 )
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+
+RANDOM_PHRASES = [
+    "အသစ်တွေ့တယ် 👀",
+    "App အသစ်လေး တွေ့ပြီ ✨",
+    "ဒါလေး ကြည့်ကြည့် 👀",
+    "အသစ်တက်လာတာ ရှိတယ်နော် 🚀",
+    "ဒီ App လေး စိတ်ဝင်စားဖို့ ကောင်းမယ် ထင်တယ် 🌟",
+    "Bug တွေ ရှင်းပြီးသား App သစ်လေး တက်လာတယ် 🛠️",
+    "ရှာနေတဲ့ App ဖြစ်မလား ကြည့်လိုက်ဦး 🔍",
+    "AlternativeTo မှာ အသစ်တက်လာပြီ 📢",
+    "ဒီနေ့အတွက် App အသစ်လေး 🎁",
+    "ဒါလေး သုံးကြည့်ရင် ကောင်းမလား 💭",
+    "အသစ်တွေ့တာလေး မျှဝေပေးမယ် 🤝",
+    "App အလန်းလေး တစ်ခု တွေ့ပြန်ပြီ 🔥",
+    "ဒါလေးက အသုံးဝင်မယ် ထင်တယ် 🛠️",
+    "Android အတွက် အသစ်လေး တွေ့တယ် 🤖",
+    "ဒီ App လေးကို စမ်းကြည့်ပါဦး 🧪",
+    "အသစ်ထွက်လာတာ ရှိတယ် 👀",
+    "စိတ်ဝင်စားစရာ App လေး တွေ့လို့ 🌈",
+    "ဒါလေးက Free ဖြစ်ပြီး အသစ်တက်လာတာ 💸",
+    "တွေ့တာနဲ့ ချက်ချင်း ပို့ပေးလိုက်တယ် ⚡",
+    "App အသစ်လေး တစ်ခု တွေ့ပြန်ပြီ 💎",
+    "ဒါလေးက အဆင်ပြေမလား ကြည့်ပါဦး ✅",
+    "Android အသစ်လေး တွေ့ပြန်ပြီ 📱",
+    "ဒီ App လေးက တကယ် အသုံးဝင်မယ် 🌟",
+    "အသစ်တွေ့တာလေး တစ်ခုရှိတယ် 🧐",
+    "ဒါလေး သုံးကြည့်ဖို့ အကြံပေးချင်တယ် 👍",
+    "AlternativeTo ကနေ အသစ်တွေ့တာ 📡",
+    "App အသစ်လေး တွေ့လို့ ပို့ပေးတာ 💌",
+    "ဒါလေးက အလန်းပဲ ဖြစ်မယ် 💥",
+    "အသစ်တက်လာတဲ့ App လေး တစ်ခု 🌙",
+    "ဒီ App လေးကို သတိထားကြည့်ပါ ⚠️",
+    "တွေ့တာနဲ့ ပို့ပေးလိုက်တာ 🏃‍♂️",
+    "Android free app အသစ်လေး တွေ့ပြီ 🍀",
+    "ဒါလေးက အသုံးဝင်မယ့် tool လေးပဲ ⚙️",
+    "App အသစ်လေး တွေ့လို့ မျှဝေတာ ☀️",
+    "ဒီ App လေး စမ်းသုံးကြည့်ပါဦး 🕹️",
+    "အသစ်တွေ့တာလေး တစ်ခုရှိတယ်နော် 🎈",
+    "ဒါလေးက တကယ် အဆင်ပြေမယ် 💯",
+    "AlternativeTo မှာ အသစ်တက်လာပြန်ပြီ 📣",
+    "App အသစ်လေး တစ်ခု တွေ့ပြန်ပြီ 🎇",
+    "ဒါလေးက စိတ်ဝင်စားဖို့ ကောင်းတယ် 🌀",
+    "Android အတွက် အသစ်လေး တွေ့တယ် 🔋",
+    "ဒီ App လေးက အသုံးတည့်မယ် ထင်တယ် 📌",
+    "အသစ်တွေ့တာလေး ပို့ပေးလိုက်တယ် 📮",
+    "ဒါလေးက အသစ်ပဲ၊ ကြည့်လိုက်ဦး 👁️",
+    "App အလန်းလေး တွေ့ပြန်ပြီ 🌠",
+    "ဒါလေးက အသုံးဝင်မယ့် အရာပဲ 💎",
+    "Android free app အသစ်တွေ့ပြီ 🍃",
+    "ဒီ App လေးက တကယ် အမိုက်စားပဲ 😎",
+    "အသစ်တွေ့တာလေး ရှိတယ် 🍬",
+    "ဒါလေးက အဆင်ပြေမလား စမ်းကြည့်ပါ 🎯",
+    "AlternativeTo ကနေ အသစ်တွေ့ပြန်ပြီ 📡"
+]
 
 ROOT = Path(__file__).resolve().parent
 DIST_DIR = ROOT / "dist"
@@ -176,7 +231,7 @@ def telegram_send(text: str) -> None:
         "chat_id": TELEGRAM_CHAT_ID,
         "text": text,
         "parse_mode": "HTML",
-        "disable_web_page_preview": True,
+        "disable_web_page_preview": False,
     }
     session = requests.Session()
     resp = session.post(url, json=payload, timeout=30)
@@ -208,7 +263,8 @@ def main() -> None:
             print("Cold start detected. Saved items to database without sending Telegram alerts.")
         else:
             for item in new_items[:10]:
-                message = f"<b>အသစ်တွေ့တယ် 👀</b>\n\n<b>{item['title']}</b>\n{item['link']}"
+                random_text = random.choice(RANDOM_PHRASES)
+                message = f"<b>{random_text}</b>\n\n<b>{item['title']}</b>\n\n{item['link']}"
                 telegram_send(message)
 
     conn.close()
