@@ -1,0 +1,545 @@
+{
+  "last_checked": "2026-06-17T00:51:47.771366+00:00",
+  "seen": {
+    "https://alternativeto.net/software/spatius/about/|Spatius": {
+      "title": "Spatius",
+      "link": "https://alternativeto.net/software/spatius/about/",
+      "first_seen": "2026-06-09T16:32:53.562164+00:00"
+    },
+    "https://alternativeto.net/software/daremeet/about/|Daremeet": {
+      "title": "Daremeet",
+      "link": "https://alternativeto.net/software/daremeet/about/",
+      "first_seen": "2026-06-09T16:32:53.563264+00:00"
+    },
+    "https://alternativeto.net/software/dartist-darts-scorer-and-ai/about/|Dartist": {
+      "title": "Dartist",
+      "link": "https://alternativeto.net/software/dartist-darts-scorer-and-ai/about/",
+      "first_seen": "2026-06-09T16:32:53.564001+00:00"
+    },
+    "https://alternativeto.net/software/wishowl/about/|Wishowl": {
+      "title": "Wishowl",
+      "link": "https://alternativeto.net/software/wishowl/about/",
+      "first_seen": "2026-06-09T16:32:53.564606+00:00"
+    },
+    "https://alternativeto.net/software/pdf-inspector/about/|PDF Inspector": {
+      "title": "PDF Inspector",
+      "link": "https://alternativeto.net/software/pdf-inspector/about/",
+      "first_seen": "2026-06-09T16:32:53.565231+00:00"
+    },
+    "https://alternativeto.net/software/xnotes/about/|xnotes": {
+      "title": "xnotes",
+      "link": "https://alternativeto.net/software/xnotes/about/",
+      "first_seen": "2026-06-09T16:32:53.566110+00:00"
+    },
+    "https://alternativeto.net/software/temp-contact-tempnumber-saver/about/|Temp Contact": {
+      "title": "Temp Contact",
+      "link": "https://alternativeto.net/software/temp-contact-tempnumber-saver/about/",
+      "first_seen": "2026-06-09T16:32:53.566775+00:00"
+    },
+    "https://alternativeto.net/software/momentum-todo-tasks-and-routines/about/|Momentum TODO": {
+      "title": "Momentum TODO",
+      "link": "https://alternativeto.net/software/momentum-todo-tasks-and-routines/about/",
+      "first_seen": "2026-06-09T16:32:53.567379+00:00"
+    },
+    "https://alternativeto.net/software/yarai-skincare/about/|YARAI": {
+      "title": "YARAI",
+      "link": "https://alternativeto.net/software/yarai-skincare/about/",
+      "first_seen": "2026-06-09T16:32:53.567998+00:00"
+    },
+    "https://alternativeto.net/software/supercmms/about/|SuperCMMS": {
+      "title": "SuperCMMS",
+      "link": "https://alternativeto.net/software/supercmms/about/",
+      "first_seen": "2026-06-09T16:32:53.568607+00:00"
+    },
+    "https://alternativeto.net/software/habitforge/about/|HabitForge": {
+      "title": "HabitForge",
+      "link": "https://alternativeto.net/software/habitforge/about/",
+      "first_seen": "2026-06-09T16:32:53.569199+00:00"
+    },
+    "https://alternativeto.net/software/your-pomodoro/about/|Your Pomodoro": {
+      "title": "Your Pomodoro",
+      "link": "https://alternativeto.net/software/your-pomodoro/about/",
+      "first_seen": "2026-06-09T16:32:53.569780+00:00"
+    },
+    "https://alternativeto.net/software/digiagriapp/about/|DigiAgriApp": {
+      "title": "DigiAgriApp",
+      "link": "https://alternativeto.net/software/digiagriapp/about/",
+      "first_seen": "2026-06-09T16:32:53.570364+00:00"
+    },
+    "https://alternativeto.net/software/nfile/about/|NFile": {
+      "title": "NFile",
+      "link": "https://alternativeto.net/software/nfile/about/",
+      "first_seen": "2026-06-09T16:32:53.570912+00:00"
+    },
+    "https://alternativeto.net/software/seekquel/about/|Seekquel": {
+      "title": "Seekquel",
+      "link": "https://alternativeto.net/software/seekquel/about/",
+      "first_seen": "2026-06-09T16:32:53.571632+00:00"
+    },
+    "https://alternativeto.net/software/game-of-fives/about/|Game of Fives": {
+      "title": "Game of Fives",
+      "link": "https://alternativeto.net/software/game-of-fives/about/",
+      "first_seen": "2026-06-09T16:32:53.572282+00:00"
+    },
+    "https://alternativeto.net/software/open3d-viewer/about/|Open3D Viewer": {
+      "title": "Open3D Viewer",
+      "link": "https://alternativeto.net/software/open3d-viewer/about/",
+      "first_seen": "2026-06-09T16:32:53.572867+00:00"
+    },
+    "https://alternativeto.net/software/geometryviewer/about/|GeometryViewer": {
+      "title": "GeometryViewer",
+      "link": "https://alternativeto.net/software/geometryviewer/about/",
+      "first_seen": "2026-06-09T16:32:53.573508+00:00"
+    },
+    "https://alternativeto.net/software/summ-it/about/|Summ-it": {
+      "title": "Summ-it",
+      "link": "https://alternativeto.net/software/summ-it/about/",
+      "first_seen": "2026-06-09T16:32:53.574183+00:00"
+    },
+    "https://alternativeto.net/software/updatium/about/|Updatium": {
+      "title": "Updatium",
+      "link": "https://alternativeto.net/software/updatium/about/",
+      "first_seen": "2026-06-09T16:32:53.574757+00:00"
+    },
+    "https://alternativeto.net/software/bookjor/about/|Bookjor": {
+      "title": "Bookjor",
+      "link": "https://alternativeto.net/software/bookjor/about/",
+      "first_seen": "2026-06-09T16:32:53.575361+00:00"
+    },
+    "https://alternativeto.net/software/rozvibe/about/|RozVibe": {
+      "title": "RozVibe",
+      "link": "https://alternativeto.net/software/rozvibe/about/",
+      "first_seen": "2026-06-09T16:32:53.575978+00:00"
+    },
+    "https://alternativeto.net/software/untyped--voice-to-email/about/|Untyped": {
+      "title": "Untyped",
+      "link": "https://alternativeto.net/software/untyped--voice-to-email/about/",
+      "first_seen": "2026-06-09T16:32:53.576739+00:00"
+    },
+    "https://alternativeto.net/software/planneat-indian-meal-planner/about/|PlanNEat": {
+      "title": "PlanNEat",
+      "link": "https://alternativeto.net/software/planneat-indian-meal-planner/about/",
+      "first_seen": "2026-06-09T16:32:53.577314+00:00"
+    },
+    "https://alternativeto.net/software/vnesys/about/|Vnesys": {
+      "title": "Vnesys",
+      "link": "https://alternativeto.net/software/vnesys/about/",
+      "first_seen": "2026-06-09T16:32:53.578174+00:00"
+    },
+    "https://alternativeto.net/software/resolvekit/about/|ResolveKit": {
+      "title": "ResolveKit",
+      "link": "https://alternativeto.net/software/resolvekit/about/",
+      "first_seen": "2026-06-09T21:49:25.631181+00:00"
+    },
+    "https://alternativeto.net/software/planotrak/about/|PlanoTrak": {
+      "title": "PlanoTrak",
+      "link": "https://alternativeto.net/software/planotrak/about/",
+      "first_seen": "2026-06-09T23:06:36.477325+00:00"
+    },
+    "https://alternativeto.net/software/cazvid/about/|CazVid": {
+      "title": "CazVid",
+      "link": "https://alternativeto.net/software/cazvid/about/",
+      "first_seen": "2026-06-09T23:44:11.744874+00:00"
+    },
+    "https://alternativeto.net/software/foodkin/about/|FoodKin": {
+      "title": "FoodKin",
+      "link": "https://alternativeto.net/software/foodkin/about/",
+      "first_seen": "2026-06-10T06:04:18.479269+00:00"
+    },
+    "https://alternativeto.net/software/docnado-document-manager-/about/|DocNado (Document Manager)": {
+      "title": "DocNado (Document Manager)",
+      "link": "https://alternativeto.net/software/docnado-document-manager-/about/",
+      "first_seen": "2026-06-10T06:04:18.481543+00:00"
+    },
+    "https://alternativeto.net/software/memobloom-photo-memories/about/|MemoBloom: Photo Memories": {
+      "title": "MemoBloom: Photo Memories",
+      "link": "https://alternativeto.net/software/memobloom-photo-memories/about/",
+      "first_seen": "2026-06-10T06:04:18.482402+00:00"
+    },
+    "https://alternativeto.net/software/worldtimeplanner/about/|WorldTimePlanner": {
+      "title": "WorldTimePlanner",
+      "link": "https://alternativeto.net/software/worldtimeplanner/about/",
+      "first_seen": "2026-06-10T06:04:18.483109+00:00"
+    },
+    "https://alternativeto.net/software/hercules---gym-tracker/about/|Hercules - Gym Tracker": {
+      "title": "Hercules  -  Gym Tracker",
+      "link": "https://alternativeto.net/software/hercules---gym-tracker/about/",
+      "first_seen": "2026-06-10T13:56:16.924075+00:00"
+    },
+    "https://alternativeto.net/software/flextv/about/|FlexTV": {
+      "title": "FlexTV",
+      "link": "https://alternativeto.net/software/flextv/about/",
+      "first_seen": "2026-06-10T13:56:16.926654+00:00"
+    },
+    "https://alternativeto.net/software/messagefuture/about/|MessageFuture": {
+      "title": "MessageFuture",
+      "link": "https://alternativeto.net/software/messagefuture/about/",
+      "first_seen": "2026-06-10T13:56:16.927554+00:00"
+    },
+    "https://alternativeto.net/software/zeropop/about/|ZeroPop": {
+      "title": "ZeroPop",
+      "link": "https://alternativeto.net/software/zeropop/about/",
+      "first_seen": "2026-06-10T13:56:16.928438+00:00"
+    },
+    "https://alternativeto.net/software/tld/about/|tld": {
+      "title": "tld",
+      "link": "https://alternativeto.net/software/tld/about/",
+      "first_seen": "2026-06-10T17:25:20.942707+00:00"
+    },
+    "https://alternativeto.net/software/altersend/about/|Altersend": {
+      "title": "Altersend",
+      "link": "https://alternativeto.net/software/altersend/about/",
+      "first_seen": "2026-06-10T17:25:20.947898+00:00"
+    },
+    "https://alternativeto.net/software/nutribalance/about/|NutriBalance": {
+      "title": "NutriBalance",
+      "link": "https://alternativeto.net/software/nutribalance/about/",
+      "first_seen": "2026-06-10T17:25:20.948685+00:00"
+    },
+    "https://alternativeto.net/software/voicescroll/about/|VoiceScroll": {
+      "title": "VoiceScroll",
+      "link": "https://alternativeto.net/software/voicescroll/about/",
+      "first_seen": "2026-06-10T17:25:20.949473+00:00"
+    },
+    "https://alternativeto.net/software/logged-media/about/|Logged.media": {
+      "title": "Logged.media",
+      "link": "https://alternativeto.net/software/logged-media/about/",
+      "first_seen": "2026-06-10T19:54:40.444690+00:00"
+    },
+    "https://alternativeto.net/software/tld/about/|tlDiagram": {
+      "title": "tlDiagram",
+      "link": "https://alternativeto.net/software/tld/about/",
+      "first_seen": "2026-06-10T19:54:40.447011+00:00"
+    },
+    "https://alternativeto.net/software/pensio--ai-journaling-app/about/|Pensio": {
+      "title": "Pensio",
+      "link": "https://alternativeto.net/software/pensio--ai-journaling-app/about/",
+      "first_seen": "2026-06-10T22:05:14.247018+00:00"
+    },
+    "https://alternativeto.net/software/logged-media/about/|Logged": {
+      "title": "Logged",
+      "link": "https://alternativeto.net/software/logged-media/about/",
+      "first_seen": "2026-06-10T22:05:14.250462+00:00"
+    },
+    "https://alternativeto.net/software/altersend/about/|AlterSend": {
+      "title": "AlterSend",
+      "link": "https://alternativeto.net/software/altersend/about/",
+      "first_seen": "2026-06-11T02:06:49.406495+00:00"
+    },
+    "https://alternativeto.net/software/tuneline/about/|Tuneline": {
+      "title": "Tuneline",
+      "link": "https://alternativeto.net/software/tuneline/about/",
+      "first_seen": "2026-06-11T11:46:40.200760+00:00"
+    },
+    "https://alternativeto.net/software/metiq/about/|Metiq": {
+      "title": "Metiq",
+      "link": "https://alternativeto.net/software/metiq/about/",
+      "first_seen": "2026-06-11T11:46:40.203748+00:00"
+    },
+    "https://alternativeto.net/software/hermes-agent-fork/about/|Hermes Agent Fork": {
+      "title": "Hermes Agent Fork",
+      "link": "https://alternativeto.net/software/hermes-agent-fork/about/",
+      "first_seen": "2026-06-11T11:46:40.205015+00:00"
+    },
+    "https://alternativeto.net/software/universal-tv-remote-control/about/|Universal TV Remote Control": {
+      "title": "Universal TV Remote Control",
+      "link": "https://alternativeto.net/software/universal-tv-remote-control/about/",
+      "first_seen": "2026-06-11T11:46:40.205937+00:00"
+    },
+    "https://alternativeto.net/software/arcforge/about/|ArcForge": {
+      "title": "ArcForge",
+      "link": "https://alternativeto.net/software/arcforge/about/",
+      "first_seen": "2026-06-11T11:46:40.207046+00:00"
+    },
+    "https://alternativeto.net/software/pokecut/about/|Pokecut": {
+      "title": "Pokecut",
+      "link": "https://alternativeto.net/software/pokecut/about/",
+      "first_seen": "2026-06-11T11:46:40.208319+00:00"
+    },
+    "https://alternativeto.net/software/nfcore/about/|NFCore": {
+      "title": "NFCore",
+      "link": "https://alternativeto.net/software/nfcore/about/",
+      "first_seen": "2026-06-11T15:24:18.153503+00:00"
+    },
+    "https://alternativeto.net/software/chessdna/about/|ChessDNA": {
+      "title": "ChessDNA",
+      "link": "https://alternativeto.net/software/chessdna/about/",
+      "first_seen": "2026-06-11T15:24:18.156939+00:00"
+    },
+    "https://alternativeto.net/software/myna-cx/about/|Myna.cx": {
+      "title": "Myna.cx",
+      "link": "https://alternativeto.net/software/myna-cx/about/",
+      "first_seen": "2026-06-11T15:24:18.157755+00:00"
+    },
+    "https://alternativeto.net/software/classrec/about/|ClassRec": {
+      "title": "ClassRec",
+      "link": "https://alternativeto.net/software/classrec/about/",
+      "first_seen": "2026-06-11T15:24:18.158608+00:00"
+    },
+    "https://alternativeto.net/software/conjugaizen/about/|Conjugaizen": {
+      "title": "Conjugaizen",
+      "link": "https://alternativeto.net/software/conjugaizen/about/",
+      "first_seen": "2026-06-11T18:35:56.205684+00:00"
+    },
+    "https://alternativeto.net/software/residex/about/|Residex": {
+      "title": "Residex",
+      "link": "https://alternativeto.net/software/residex/about/",
+      "first_seen": "2026-06-11T18:35:56.207899+00:00"
+    },
+    "https://alternativeto.net/software/mkzero-math-challenge/about/|mkZero": {
+      "title": "mkZero",
+      "link": "https://alternativeto.net/software/mkzero-math-challenge/about/",
+      "first_seen": "2026-06-11T18:35:56.209316+00:00"
+    },
+    "https://alternativeto.net/software/krypt/about/|Krypt": {
+      "title": "Krypt",
+      "link": "https://alternativeto.net/software/krypt/about/",
+      "first_seen": "2026-06-11T21:07:25.837590+00:00"
+    },
+    "https://alternativeto.net/software/flac-r/about/|Flac-R": {
+      "title": "Flac-R",
+      "link": "https://alternativeto.net/software/flac-r/about/",
+      "first_seen": "2026-06-11T22:58:30.641811+00:00"
+    },
+    "https://alternativeto.net/software/lrc-r/about/|Lrc-R": {
+      "title": "Lrc-R",
+      "link": "https://alternativeto.net/software/lrc-r/about/",
+      "first_seen": "2026-06-12T05:15:16.290650+00:00"
+    },
+    "https://alternativeto.net/software/anydex/about/|AnyDex": {
+      "title": "AnyDex",
+      "link": "https://alternativeto.net/software/anydex/about/",
+      "first_seen": "2026-06-12T09:16:10.358926+00:00"
+    },
+    "https://alternativeto.net/software/hootark/about/|HootArk": {
+      "title": "HootArk",
+      "link": "https://alternativeto.net/software/hootark/about/",
+      "first_seen": "2026-06-12T09:16:10.361330+00:00"
+    },
+    "https://alternativeto.net/software/baylo/about/|Baylo": {
+      "title": "Baylo",
+      "link": "https://alternativeto.net/software/baylo/about/",
+      "first_seen": "2026-06-12T12:36:56.855992+00:00"
+    },
+    "https://alternativeto.net/software/leaf--book-and-reading-tracker/about/|Leaf - Book & Reading Tracker": {
+      "title": "Leaf - Book & Reading Tracker",
+      "link": "https://alternativeto.net/software/leaf--book-and-reading-tracker/about/",
+      "first_seen": "2026-06-12T12:36:56.858494+00:00"
+    },
+    "https://alternativeto.net/software/agilis-dating/about/|Agilis": {
+      "title": "Agilis",
+      "link": "https://alternativeto.net/software/agilis-dating/about/",
+      "first_seen": "2026-06-12T12:36:56.859281+00:00"
+    },
+    "https://alternativeto.net/software/trips-together/about/|Trips Together": {
+      "title": "Trips Together",
+      "link": "https://alternativeto.net/software/trips-together/about/",
+      "first_seen": "2026-06-12T18:09:25.780195+00:00"
+    },
+    "https://alternativeto.net/software/verified-apps/about/|Verified Apps": {
+      "title": "Verified Apps",
+      "link": "https://alternativeto.net/software/verified-apps/about/",
+      "first_seen": "2026-06-12T18:09:25.782680+00:00"
+    },
+    "https://alternativeto.net/software/code-the-path_-maze-game/about/|Code the path_ Maze Game": {
+      "title": "Code the path_ Maze Game",
+      "link": "https://alternativeto.net/software/code-the-path_-maze-game/about/",
+      "first_seen": "2026-06-12T20:26:54.715444+00:00"
+    },
+    "https://alternativeto.net/software/croc-app/about/|croc-app": {
+      "title": "croc-app",
+      "link": "https://alternativeto.net/software/croc-app/about/",
+      "first_seen": "2026-06-12T22:12:21.680036+00:00"
+    },
+    "https://alternativeto.net/software/jamu/about/|Jamu": {
+      "title": "Jamu",
+      "link": "https://alternativeto.net/software/jamu/about/",
+      "first_seen": "2026-06-13T10:36:01.040330+00:00"
+    },
+    "https://alternativeto.net/software/nori/about/|Nori": {
+      "title": "Nori",
+      "link": "https://alternativeto.net/software/nori/about/",
+      "first_seen": "2026-06-13T10:36:01.042906+00:00"
+    },
+    "https://alternativeto.net/software/zenon/about/|Zenon": {
+      "title": "Zenon",
+      "link": "https://alternativeto.net/software/zenon/about/",
+      "first_seen": "2026-06-13T16:03:15.359955+00:00"
+    },
+    "https://alternativeto.net/software/irischat/about/|irischat": {
+      "title": "irischat",
+      "link": "https://alternativeto.net/software/irischat/about/",
+      "first_seen": "2026-06-14T00:20:22.718778+00:00"
+    },
+    "https://alternativeto.net/software/velonote/about/|Velonote": {
+      "title": "Velonote",
+      "link": "https://alternativeto.net/software/velonote/about/",
+      "first_seen": "2026-06-14T16:56:19.640689+00:00"
+    },
+    "https://alternativeto.net/software/irischat/about/|IrisChat": {
+      "title": "IrisChat",
+      "link": "https://alternativeto.net/software/irischat/about/",
+      "first_seen": "2026-06-14T16:56:19.643054+00:00"
+    },
+    "https://alternativeto.net/software/soundcrowd/about/|SoundCrowd": {
+      "title": "SoundCrowd",
+      "link": "https://alternativeto.net/software/soundcrowd/about/",
+      "first_seen": "2026-06-15T05:21:04.153637+00:00"
+    },
+    "https://alternativeto.net/software/myfam/about/|MyFam": {
+      "title": "MyFam",
+      "link": "https://alternativeto.net/software/myfam/about/",
+      "first_seen": "2026-06-15T05:21:04.156004+00:00"
+    },
+    "https://alternativeto.net/software/meil-tau/about/|Meile Tau": {
+      "title": "Meile Tau",
+      "link": "https://alternativeto.net/software/meil-tau/about/",
+      "first_seen": "2026-06-15T11:30:00.302863+00:00"
+    },
+    "https://alternativeto.net/software/zen-crossword-puzzles/about/|Zen Crossword Puzzles": {
+      "title": "Zen Crossword Puzzles",
+      "link": "https://alternativeto.net/software/zen-crossword-puzzles/about/",
+      "first_seen": "2026-06-15T11:30:00.304952+00:00"
+    },
+    "https://alternativeto.net/software/stowfolio/about/|Stowfolio": {
+      "title": "Stowfolio",
+      "link": "https://alternativeto.net/software/stowfolio/about/",
+      "first_seen": "2026-06-15T11:30:00.305670+00:00"
+    },
+    "https://alternativeto.net/software/nerdcalci/about/|NerdCalci": {
+      "title": "NerdCalci",
+      "link": "https://alternativeto.net/software/nerdcalci/about/",
+      "first_seen": "2026-06-15T16:30:09.604822+00:00"
+    },
+    "https://alternativeto.net/software/ribbit-ai-itinerary-planner/about/|Ribbit: AI Itinerary Planner": {
+      "title": "Ribbit: AI Itinerary Planner",
+      "link": "https://alternativeto.net/software/ribbit-ai-itinerary-planner/about/",
+      "first_seen": "2026-06-15T16:30:09.607366+00:00"
+    },
+    "https://alternativeto.net/software/vaultkeepr/about/|VaultKeepR": {
+      "title": "VaultKeepR",
+      "link": "https://alternativeto.net/software/vaultkeepr/about/",
+      "first_seen": "2026-06-15T16:30:09.608323+00:00"
+    },
+    "https://alternativeto.net/software/kage/about/|kage": {
+      "title": "kage",
+      "link": "https://alternativeto.net/software/kage/about/",
+      "first_seen": "2026-06-15T16:30:09.609250+00:00"
+    },
+    "https://alternativeto.net/software/shintaku/about/|shintaku": {
+      "title": "shintaku",
+      "link": "https://alternativeto.net/software/shintaku/about/",
+      "first_seen": "2026-06-15T16:30:09.610105+00:00"
+    },
+    "https://alternativeto.net/software/nutrify-ai/about/|Nutrify AI": {
+      "title": "Nutrify AI",
+      "link": "https://alternativeto.net/software/nutrify-ai/about/",
+      "first_seen": "2026-06-15T16:30:09.610887+00:00"
+    },
+    "https://alternativeto.net/software/fleet-battle--sea-battle/about/|Fleet Battle": {
+      "title": "Fleet Battle",
+      "link": "https://alternativeto.net/software/fleet-battle--sea-battle/about/",
+      "first_seen": "2026-06-15T16:30:09.611586+00:00"
+    },
+    "https://alternativeto.net/software/splitmate-pro/about/|SplitMate Pro": {
+      "title": "SplitMate Pro",
+      "link": "https://alternativeto.net/software/splitmate-pro/about/",
+      "first_seen": "2026-06-15T16:30:09.612370+00:00"
+    },
+    "https://alternativeto.net/software/green-api/about/|GREEN-API": {
+      "title": "GREEN-API",
+      "link": "https://alternativeto.net/software/green-api/about/",
+      "first_seen": "2026-06-15T16:30:09.613335+00:00"
+    },
+    "https://alternativeto.net/software/hebrew-bible-study/about/|Hebrew Bible Study": {
+      "title": "Hebrew Bible Study",
+      "link": "https://alternativeto.net/software/hebrew-bible-study/about/",
+      "first_seen": "2026-06-15T20:05:33.189524+00:00"
+    },
+    "https://alternativeto.net/software/ontimecall/about/|OnTimeCall": {
+      "title": "OnTimeCall",
+      "link": "https://alternativeto.net/software/ontimecall/about/",
+      "first_seen": "2026-06-15T20:05:33.192154+00:00"
+    },
+    "https://alternativeto.net/software/eat4cheaper/about/|Eat4Cheaper": {
+      "title": "Eat4Cheaper",
+      "link": "https://alternativeto.net/software/eat4cheaper/about/",
+      "first_seen": "2026-06-15T22:27:31.865611+00:00"
+    },
+    "https://alternativeto.net/software/niuniu/about/|NiuNiu": {
+      "title": "NiuNiu",
+      "link": "https://alternativeto.net/software/niuniu/about/",
+      "first_seen": "2026-06-16T05:38:48.642989+00:00"
+    },
+    "https://alternativeto.net/software/jetlag-coach/about/|Jetlag Coach": {
+      "title": "Jetlag Coach",
+      "link": "https://alternativeto.net/software/jetlag-coach/about/",
+      "first_seen": "2026-06-16T10:31:30.413564+00:00"
+    },
+    "https://alternativeto.net/software/medication-timer/about/|Medication Timer": {
+      "title": "Medication Timer",
+      "link": "https://alternativeto.net/software/medication-timer/about/",
+      "first_seen": "2026-06-16T15:32:32.156704+00:00"
+    },
+    "https://alternativeto.net/software/unicorn/about/|Unicorn": {
+      "title": "Unicorn",
+      "link": "https://alternativeto.net/software/unicorn/about/",
+      "first_seen": "2026-06-16T15:32:32.159855+00:00"
+    },
+    "https://alternativeto.net/software/famzam/about/|FamZam": {
+      "title": "FamZam",
+      "link": "https://alternativeto.net/software/famzam/about/",
+      "first_seen": "2026-06-16T15:32:32.160691+00:00"
+    },
+    "https://alternativeto.net/software/geniechef/about/|GenieChef": {
+      "title": "GenieChef",
+      "link": "https://alternativeto.net/software/geniechef/about/",
+      "first_seen": "2026-06-16T15:32:32.161885+00:00"
+    },
+    "https://alternativeto.net/software/greetings-island/about/|Greetings Island": {
+      "title": "Greetings Island",
+      "link": "https://alternativeto.net/software/greetings-island/about/",
+      "first_seen": "2026-06-16T15:32:32.162853+00:00"
+    },
+    "https://alternativeto.net/software/quietflame/about/|QuietFlame": {
+      "title": "QuietFlame",
+      "link": "https://alternativeto.net/software/quietflame/about/",
+      "first_seen": "2026-06-16T15:32:32.163787+00:00"
+    },
+    "https://alternativeto.net/software/millo-momentum-tracker/about/|Millo": {
+      "title": "Millo",
+      "link": "https://alternativeto.net/software/millo-momentum-tracker/about/",
+      "first_seen": "2026-06-16T15:32:32.164774+00:00"
+    },
+    "https://alternativeto.net/software/foodreveal-food-label-scanner/about/|FoodReveal": {
+      "title": "FoodReveal",
+      "link": "https://alternativeto.net/software/foodreveal-food-label-scanner/about/",
+      "first_seen": "2026-06-16T15:32:32.165794+00:00"
+    },
+    "https://alternativeto.net/software/learn-dino/about/|Learn Dino": {
+      "title": "Learn Dino",
+      "link": "https://alternativeto.net/software/learn-dino/about/",
+      "first_seen": "2026-06-16T19:06:41.625332+00:00"
+    },
+    "https://alternativeto.net/software/fastcam-secure-pdf-scanner-app/about/|Pickon FastCam": {
+      "title": "Pickon FastCam",
+      "link": "https://alternativeto.net/software/fastcam-secure-pdf-scanner-app/about/",
+      "first_seen": "2026-06-16T19:06:41.627837+00:00"
+    },
+    "https://alternativeto.net/software/simple-radio-by-kykycb/about/|Simple Radio by KyKyCb": {
+      "title": "Simple Radio by KyKyCb",
+      "link": "https://alternativeto.net/software/simple-radio-by-kykycb/about/",
+      "first_seen": "2026-06-16T19:06:41.628745+00:00"
+    },
+    "https://alternativeto.net/software/tmdroid/about/|tmdroid": {
+      "title": "tmdroid",
+      "link": "https://alternativeto.net/software/tmdroid/about/",
+      "first_seen": "2026-06-16T19:06:41.629557+00:00"
+    },
+    "https://alternativeto.net/software/calendar-in-telegram/about/|Calendar in Telegram": {
+      "title": "Calendar in Telegram",
+      "link": "https://alternativeto.net/software/calendar-in-telegram/about/",
+      "first_seen": "2026-06-16T21:47:32.340820+00:00"
+    }
+  }
+}

@@ -2,7 +2,8 @@ import os
 import random
 import re
 import sqlite3
-from datetime import datetime, timezone
+import json
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urljoin
 
@@ -71,9 +72,9 @@ RANDOM_PHRASES = [
     "ဒီ App လေးက အသုံးတည့်မယ် ထင်တယ် 📌",
     "အသစ်တွေ့တာလေး ပို့ပေးလိုက်တယ် 📮",
     "ဒါလေးက အသစ်ပဲ၊ ကြည့်လိုက်ဦး 👁️",
-    "App အလန်းလေး တွေ့ပြန်ပြီ 🌠",
+    "App အလန်းလေး တွေ့ပြန်ပြီ <b>🌠</b>",
     "ဒါလေးက အသုံးဝင်မယ့် အရာပဲ 💎",
-    "Android free app အသစ်တွေ့ပြီ 🍃",
+    "Android free app အသစ်တွေ့ပြီ <b>🍃</b>",
     "ဒီ App လေးက တကယ် အမိုက်စားပဲ 😎",
     "အသစ်တွေ့တာလေး ရှိတယ် 🍬",
     "ဒါလေးက အဆင်ပြေမလား စမ်းကြည့်ပါ 🎯",
@@ -83,6 +84,7 @@ RANDOM_PHRASES = [
 ROOT = Path(__file__).resolve().parent
 DIST_DIR = ROOT / "dist"
 DB_PATH = ROOT / "watcher.db"
+JSON_PATH = ROOT / "watcher.json"
 RSS_PATH = DIST_DIR / "feed.xml"
 INDEX_PATH = DIST_DIR / "index.html"
 
@@ -91,19 +93,88 @@ def ensure_dirs() -> None:
     DIST_DIR.mkdir(parents=True, exist_ok=True)
 
 
-def db() -> sqlite3.Connection:
-    conn = sqlite3.connect(DB_PATH)
-    conn.execute(
-        """
-        CREATE TABLE IF NOT EXISTS seen (
-            item_id TEXT PRIMARY KEY,
-            title TEXT,
-            link TEXT,
-            first_seen TEXT
-        )
-        """
-    )
-    return conn
+def load_data() -> dict:
+    """Loads state from JSON, migrating from SQLite if JSON doesn't exist but SQLite does."""
+    state = {
+        "last_checked": None,
+        "seen": {}
+    }
+
+    # 1. If JSON already exists, load from it
+    if JSON_PATH.exists():
+        try:
+            with open(JSON_PATH, "r", encoding="utf-8") as f:
+                loaded = json.load(f)
+                state["last_checked"] = loaded.get("last_checked")
+                state["seen"] = loaded.get("seen", {})
+                return state
+        except Exception as e:
+            print(f"Error loading JSON, falling back: {e}")
+
+    # 2. If JSON does not exist but SQLite DB does, migrate the data
+    if DB_PATH.exists():
+        print("Migrating existing data from SQLite watcher.db to JSON...")
+        try:
+            conn = sqlite3.connect(DB_PATH)
+            # Check if seen table exists
+            cur = conn.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='seen'")
+            if cur.fetchone():
+                cur = conn.execute("SELECT item_id, title, link, first_seen FROM seen")
+                for row in cur.fetchall():
+                    item_id, title, link, first_seen = row
+                    state["seen"][item_id] = {
+                        "title": title,
+                        "link": link,
+                        "first_seen": first_seen or datetime.now(timezone.utc).isoformat()
+                    }
+                conn.close()
+                state["last_checked"] = datetime.now(timezone.utc).isoformat()
+
+                # Save the migrated data immediately
+                save_data(state)
+                print(f"Successfully migrated {len(state['seen'])} items from SQLite to JSON.")
+
+                # Rename the database for safety
+                try:
+                    DB_PATH.rename(DB_PATH.with_suffix(".db.bak"))
+                    print("Renamed watcher.db to watcher.db.bak to prevent future migrations.")
+                except Exception as e:
+                    print(f"Could not rename watcher.db: {e}")
+            else:
+                conn.close()
+        except Exception as e:
+            print(f"Error during migration from SQLite: {e}")
+
+    return state
+
+
+def save_data(state: dict) -> None:
+    """Saves state to JSON file with nice formatting for readability and git diffs."""
+    try:
+        with open(JSON_PATH, "w", encoding="utf-8") as f:
+            json.dump(state, f, indent=2, ensure_ascii=False)
+    except Exception as e:
+        print(f"Error saving JSON state: {e}")
+
+
+def prune_old_items(state: dict, days: int = 30) -> int:
+    """Prunes items older than `days` from the state. Returns the count of pruned items."""
+    now = datetime.now(timezone.utc)
+    limit_date = (now - timedelta(days=days)).isoformat()
+
+    initial_count = len(state["seen"])
+
+    # Filter the seen items dictionary to keep only items newer than the limit_date
+    state["seen"] = {
+        item_id: info
+        for item_id, info in state["seen"].items()
+        if info.get("first_seen", "") >= limit_date
+    }
+
+    pruned_count = initial_count - len(state["seen"])
+    if pruned_count > 0:
+        print(f"Pruned {pruned_count} items older than {days} days from database.")
+    return pruned_count
 
 
 def fetch_html(url: str) -> str:
@@ -138,7 +209,7 @@ def parse_items(html: str):
             desc_node = card.css_first("p, .description, .browse__item-description")
             desc = desc_node.text(strip=True) if desc_node else ""
 
-               # အညွှန်းစာတိုတွေကို သန့်ရှင်းအောင်လုပ်မယ်
+            # အညွှန်းစာတိုတွေကို သန့်ရှင်းအောင်လုပ်မယ်
             items.append(
                 {
                     "id": make_id(link, title),
@@ -154,25 +225,7 @@ def parse_items(html: str):
     return list(uniq.values())
 
 
-def load_seen(conn: sqlite3.Connection) -> set[str]:
-    cur = conn.execute("SELECT item_id FROM seen")
-    return {row[0] for row in cur.fetchall()}
-
-
-def save_seen(conn: sqlite3.Connection, item: dict) -> None:
-    conn.execute(
-        "INSERT OR IGNORE INTO seen (item_id, title, link, first_seen) VALUES (?, ?, ?, ?)",
-        (
-            item["id"],
-            item["title"],
-            item["link"],
-            datetime.now(timezone.utc).isoformat(),
-        ),
-    )
-    conn.commit()
-
-
-def build_rss(items: list[dict]) -> None:
+def build_rss(items: list[dict], state: dict) -> None:
     fg = FeedGenerator()
     fg.title(RSS_TITLE)
     fg.link(href=RSS_LINK, rel="self")
@@ -189,7 +242,23 @@ def build_rss(items: list[dict]) -> None:
         fe.link(href=item["link"])
         if item["desc"]:
             fe.description(item["desc"])
-        fe.pubDate(datetime.now(timezone.utc))
+
+        # Use stored first_seen date to keep the feed's dates accurate
+        item_state = state["seen"].get(item["id"], {})
+        first_seen_str = item_state.get("first_seen")
+        if first_seen_str:
+            try:
+                # fromisoformat handles 'Z' or offset if standard, 
+                # but let's parse robustly
+                if first_seen_str.endswith("+00:00"):
+                    first_seen_str = first_seen_str.replace("+00:00", "Z")
+                pub_date = datetime.fromisoformat(first_seen_str.replace("Z", "+00:00"))
+            except ValueError:
+                pub_date = datetime.now(timezone.utc)
+        else:
+            pub_date = datetime.now(timezone.utc)
+
+        fe.pubDate(pub_date)
 
     fg.rss_file(str(RSS_PATH), pretty=True)
 
@@ -203,9 +272,9 @@ def build_index(new_count: int, total_count: int) -> None:
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{RSS_TITLE}</title>
     <style>
-      body {{ font-family: system-ui, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 16px; line-height: 1.6; }}
-      code, a {{ word-break: break-word; }}
-      .card {{ padding: 16px; border: 1px solid #ddd; border-radius: 12px; }}
+      body {{{{ font-family: system-ui, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 16px; line-height: 1.6; }}}}
+      code, a {{{{ word-break: break-word; }}}}
+      .card {{{{ padding: 16px; border: 1px solid #ddd; border-radius: 12px; }}}}
     </style>
   </head>
   <body>
@@ -214,7 +283,7 @@ def build_index(new_count: int, total_count: int) -> None:
       <p>{RSS_DESCRIPTION}</p>
       <p>စုစုပေါင်း item: <strong>{total_count}</strong></p>
       <p>အသစ်တွေ့: <strong>{new_count}</strong></p>
-      <p><a href="{rss_url}">RSS feed ကိုဖွင့်မယ်</a></p>
+      <p><a href="{{rss_url}}">RSS feed ကိုဖွင့်မယ်</a></p>
     </div>
   </body>
 </html>
@@ -243,31 +312,64 @@ def main() -> None:
         raise RuntimeError("TARGET_URL is missing")
 
     ensure_dirs()
-    conn = db()
-    seen = load_seen(conn)
+    state = load_data()
 
-    is_cold_start = (len(seen) == 0)
+    # If last_checked is None, or state["seen"] is empty, it's a cold start
+    is_cold_start = (state["last_checked"] is None or len(state["seen"]) == 0)
 
-    html = fetch_html(TARGET_URL)
+    try:
+        html = fetch_html(TARGET_URL)
+    except Exception as e:
+        error_msg = f"❌ <b>AlternativeTo RSS Error</b>: Failed to fetch AlternativeTo page.\nError: {e}"
+        print(error_msg)
+        telegram_send(error_msg)
+        return
+
     items = parse_items(html)
-    new_items = [item for item in items if item["id"] not in seen]
 
-    for item in new_items:
-        save_seen(conn, item)
+    # ⚠️ CSS Selector/Parsing Flaw Detection
+    if len(items) == 0:
+        warning_msg = (
+            "⚠️ <b>AlternativeTo RSS Warning</b>: No items were parsed from AlternativeTo page!\n"
+            "CSS selectors might have changed, or access is blocked."
+        )
+        print(warning_msg)
+        telegram_send(warning_msg)
+        return
 
-    build_rss(items)
+    # Check for new items since the last run
+    new_items = []
+    for item in items:
+        if item["id"] not in state["seen"]:
+            # Record first seen time
+            state["seen"][item["id"]] = {
+                "title": item["title"],
+                "link": item["link"],
+                "first_seen": datetime.now(timezone.utc).isoformat()
+            }
+            new_items.append(item)
+
+    # Prune items older than 30 days to keep file size small
+    prune_old_items(state, days=30)
+
+    # Build RSS feed with the correct publication dates and index page
+    build_rss(items, state)
     build_index(len(new_items), len(items))
 
+    # Send alerts if there are new items and it's not a cold start
     if new_items:
         if is_cold_start:
-            print("Cold start detected. Saved items to database without sending Telegram alerts.")
+            print("Cold start detected. Saved items to JSON without sending Telegram alerts.")
         else:
             for item in new_items[:10]:
                 random_text = random.choice(RANDOM_PHRASES)
                 message = f"<b>{random_text}</b>\n\n<b>{item['title']}</b>\n\n{item['link']}"
                 telegram_send(message)
 
-    conn.close()
+    # Update last_checked timestamp and save the data
+    state["last_checked"] = datetime.now(timezone.utc).isoformat()
+    save_data(state)
+
     print(f"done: {len(items)} items, {len(new_items)} new")
 
 
