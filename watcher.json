@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-17T18:05:04.749000+00:00",
+  "last_checked": "2026-06-17T20:29:13.531224+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -615,6 +615,21 @@
       "title": "HabitIt",
       "link": "https://alternativeto.net/software/habitit/about/",
       "first_seen": "2026-06-17T15:38:20.584679+00:00"
+    },
+    "https://alternativeto.net/software/tomeu--chinese-reader/about/|Tomeu": {
+      "title": "Tomeu",
+      "link": "https://alternativeto.net/software/tomeu--chinese-reader/about/",
+      "first_seen": "2026-06-17T20:29:11.710449+00:00"
+    },
+    "https://alternativeto.net/software/letheia/about/|Letheia": {
+      "title": "Letheia",
+      "link": "https://alternativeto.net/software/letheia/about/",
+      "first_seen": "2026-06-17T20:29:11.710470+00:00"
+    },
+    "https://alternativeto.net/software/givore-give-away-and-find-items/about/|Givore": {
+      "title": "Givore",
+      "link": "https://alternativeto.net/software/givore-give-away-and-find-items/about/",
+      "first_seen": "2026-06-17T20:29:11.710473+00:00"
     }
   }
 }
