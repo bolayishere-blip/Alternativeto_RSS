@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-17T06:54:23.320708+00:00",
+  "last_checked": "2026-06-17T11:50:56.762625+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -570,6 +570,26 @@
       "title": "Simple Radio",
       "link": "https://alternativeto.net/software/simple-radio-by-kykycb/about/",
       "first_seen": "2026-06-17T06:54:20.844419+00:00"
+    },
+    "https://alternativeto.net/software/searchspot/about/|SearchSpot": {
+      "title": "SearchSpot",
+      "link": "https://alternativeto.net/software/searchspot/about/",
+      "first_seen": "2026-06-17T11:50:54.555085+00:00"
+    },
+    "https://alternativeto.net/software/rawly/about/|Rawly": {
+      "title": "Rawly",
+      "link": "https://alternativeto.net/software/rawly/about/",
+      "first_seen": "2026-06-17T11:50:54.555111+00:00"
+    },
+    "https://alternativeto.net/software/koedesk/about/|koedesk": {
+      "title": "koedesk",
+      "link": "https://alternativeto.net/software/koedesk/about/",
+      "first_seen": "2026-06-17T11:50:54.555115+00:00"
+    },
+    "https://alternativeto.net/software/lingoodie--learn-and-earn/about/|Lingoodie": {
+      "title": "Lingoodie",
+      "link": "https://alternativeto.net/software/lingoodie--learn-and-earn/about/",
+      "first_seen": "2026-06-17T11:50:54.555117+00:00"
     }
   }
 }
