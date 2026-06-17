@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-17T00:57:05.052879+00:00",
+  "last_checked": "2026-06-17T01:44:26.554702+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -545,6 +545,11 @@
       "title": "VirtualGamePad-PC",
       "link": "https://alternativeto.net/software/virtualgamepad-pc/about/",
       "first_seen": "2026-06-17T00:57:04.507505+00:00"
+    },
+    "https://alternativeto.net/software/matcha-timer/about/|Matcha Timer": {
+      "title": "Matcha Timer",
+      "link": "https://alternativeto.net/software/matcha-timer/about/",
+      "first_seen": "2026-06-17T01:44:25.836524+00:00"
     }
   }
 }
