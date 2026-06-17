@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-17T00:51:47.771366+00:00",
+  "last_checked": "2026-06-17T00:57:05.052879+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -540,6 +540,11 @@
       "title": "Calendar in Telegram",
       "link": "https://alternativeto.net/software/calendar-in-telegram/about/",
       "first_seen": "2026-06-16T21:47:32.340820+00:00"
+    },
+    "https://alternativeto.net/software/virtualgamepad-pc/about/|VirtualGamePad-PC": {
+      "title": "VirtualGamePad-PC",
+      "link": "https://alternativeto.net/software/virtualgamepad-pc/about/",
+      "first_seen": "2026-06-17T00:57:04.507505+00:00"
     }
   }
 }
