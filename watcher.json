@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-17T11:50:56.762625+00:00",
+  "last_checked": "2026-06-17T15:38:23.279598+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -590,6 +590,31 @@
       "title": "Lingoodie",
       "link": "https://alternativeto.net/software/lingoodie--learn-and-earn/about/",
       "first_seen": "2026-06-17T11:50:54.555117+00:00"
+    },
+    "https://alternativeto.net/software/quayat-chat/about/|Quayat Chat": {
+      "title": "Quayat Chat",
+      "link": "https://alternativeto.net/software/quayat-chat/about/",
+      "first_seen": "2026-06-17T15:38:20.584647+00:00"
+    },
+    "https://alternativeto.net/software/pushit/about/|PUSHIT": {
+      "title": "PUSHIT",
+      "link": "https://alternativeto.net/software/pushit/about/",
+      "first_seen": "2026-06-17T15:38:20.584668+00:00"
+    },
+    "https://alternativeto.net/software/the-renal-traveller/about/|The Renal Traveller": {
+      "title": "The Renal Traveller",
+      "link": "https://alternativeto.net/software/the-renal-traveller/about/",
+      "first_seen": "2026-06-17T15:38:20.584671+00:00"
+    },
+    "https://alternativeto.net/software/lorebible/about/|LoreBible": {
+      "title": "LoreBible",
+      "link": "https://alternativeto.net/software/lorebible/about/",
+      "first_seen": "2026-06-17T15:38:20.584673+00:00"
+    },
+    "https://alternativeto.net/software/habitit/about/|HabitIt": {
+      "title": "HabitIt",
+      "link": "https://alternativeto.net/software/habitit/about/",
+      "first_seen": "2026-06-17T15:38:20.584679+00:00"
     }
   }
 }
