@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-17T01:44:26.554702+00:00",
+  "last_checked": "2026-06-17T06:54:23.320708+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -550,6 +550,26 @@
       "title": "Matcha Timer",
       "link": "https://alternativeto.net/software/matcha-timer/about/",
       "first_seen": "2026-06-17T01:44:25.836524+00:00"
+    },
+    "https://alternativeto.net/software/wishwave--wishlist-and-registry-maker/about/|Wishwave": {
+      "title": "Wishwave",
+      "link": "https://alternativeto.net/software/wishwave--wishlist-and-registry-maker/about/",
+      "first_seen": "2026-06-17T06:54:20.844387+00:00"
+    },
+    "https://alternativeto.net/software/rune-duel-dark-match-3-rpg/about/|Rune Duel: Dark Match 3 RPG": {
+      "title": "Rune Duel: Dark Match 3 RPG",
+      "link": "https://alternativeto.net/software/rune-duel-dark-match-3-rpg/about/",
+      "first_seen": "2026-06-17T06:54:20.844409+00:00"
+    },
+    "https://alternativeto.net/software/filefeedback/about/|FileFeedback": {
+      "title": "FileFeedback",
+      "link": "https://alternativeto.net/software/filefeedback/about/",
+      "first_seen": "2026-06-17T06:54:20.844412+00:00"
+    },
+    "https://alternativeto.net/software/simple-radio-by-kykycb/about/|Simple Radio": {
+      "title": "Simple Radio",
+      "link": "https://alternativeto.net/software/simple-radio-by-kykycb/about/",
+      "first_seen": "2026-06-17T06:54:20.844419+00:00"
     }
   }
 }
