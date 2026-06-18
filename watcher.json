@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-18T21:10:26.728562+00:00",
+  "last_checked": "2026-06-18T23:12:34.990437+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -680,6 +680,11 @@
       "title": "Acrobeat",
       "link": "https://alternativeto.net/software/acrobeat/about/",
       "first_seen": "2026-06-18T21:10:26.057089+00:00"
+    },
+    "https://alternativeto.net/software/splitie/about/|Splitie": {
+      "title": "Splitie",
+      "link": "https://alternativeto.net/software/splitie/about/",
+      "first_seen": "2026-06-18T23:12:34.312553+00:00"
     }
   }
 }
