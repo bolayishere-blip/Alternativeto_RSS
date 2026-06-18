@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-18T04:53:13.545164+00:00",
+  "last_checked": "2026-06-18T12:33:53.353548+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -635,6 +635,11 @@
       "title": "SIMT",
       "link": "https://alternativeto.net/software/simt/about/",
       "first_seen": "2026-06-18T04:53:12.779242+00:00"
+    },
+    "https://alternativeto.net/software/altsea/about/|AltSea": {
+      "title": "AltSea",
+      "link": "https://alternativeto.net/software/altsea/about/",
+      "first_seen": "2026-06-18T12:33:52.741197+00:00"
     }
   }
 }
