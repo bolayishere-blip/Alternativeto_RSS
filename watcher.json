@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-18T12:33:53.353548+00:00",
+  "last_checked": "2026-06-18T16:04:34.781748+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -640,6 +640,36 @@
       "title": "AltSea",
       "link": "https://alternativeto.net/software/altsea/about/",
       "first_seen": "2026-06-18T12:33:52.741197+00:00"
+    },
+    "https://alternativeto.net/software/budgetzen/about/|BudgetZen": {
+      "title": "BudgetZen",
+      "link": "https://alternativeto.net/software/budgetzen/about/",
+      "first_seen": "2026-06-18T16:04:28.027051+00:00"
+    },
+    "https://alternativeto.net/software/fata/about/|fata": {
+      "title": "fata",
+      "link": "https://alternativeto.net/software/fata/about/",
+      "first_seen": "2026-06-18T16:04:28.027073+00:00"
+    },
+    "https://alternativeto.net/software/vertical-running-coach/about/|Vertical": {
+      "title": "Vertical",
+      "link": "https://alternativeto.net/software/vertical-running-coach/about/",
+      "first_seen": "2026-06-18T16:04:28.027076+00:00"
+    },
+    "https://alternativeto.net/software/tomo--feed-your-curiosity/about/|Tomo - Feed your curiosity": {
+      "title": "Tomo - Feed your curiosity",
+      "link": "https://alternativeto.net/software/tomo--feed-your-curiosity/about/",
+      "first_seen": "2026-06-18T16:04:28.027079+00:00"
+    },
+    "https://alternativeto.net/software/open-100x/about/|Open 100x": {
+      "title": "Open 100x",
+      "link": "https://alternativeto.net/software/open-100x/about/",
+      "first_seen": "2026-06-18T16:04:28.027081+00:00"
+    },
+    "https://alternativeto.net/software/citywalker/about/|CityWalker": {
+      "title": "CityWalker",
+      "link": "https://alternativeto.net/software/citywalker/about/",
+      "first_seen": "2026-06-18T16:04:28.027083+00:00"
     }
   }
 }
