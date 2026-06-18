@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-18T16:04:34.781748+00:00",
+  "last_checked": "2026-06-18T18:34:19.795144+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -670,6 +670,11 @@
       "title": "CityWalker",
       "link": "https://alternativeto.net/software/citywalker/about/",
       "first_seen": "2026-06-18T16:04:28.027083+00:00"
+    },
+    "https://alternativeto.net/software/fluxlinux/about/|FluxLinux": {
+      "title": "FluxLinux",
+      "link": "https://alternativeto.net/software/fluxlinux/about/",
+      "first_seen": "2026-06-18T18:34:18.935834+00:00"
     }
   }
 }
