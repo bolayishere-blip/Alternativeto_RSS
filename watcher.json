@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-17T23:57:48.030973+00:00",
+  "last_checked": "2026-06-18T04:53:13.545164+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -630,6 +630,11 @@
       "title": "Givore",
       "link": "https://alternativeto.net/software/givore-give-away-and-find-items/about/",
       "first_seen": "2026-06-17T20:29:11.710473+00:00"
+    },
+    "https://alternativeto.net/software/simt/about/|SIMT": {
+      "title": "SIMT",
+      "link": "https://alternativeto.net/software/simt/about/",
+      "first_seen": "2026-06-18T04:53:12.779242+00:00"
     }
   }
 }
