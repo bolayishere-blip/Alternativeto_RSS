@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-19T02:08:47.849692+00:00",
+  "last_checked": "2026-06-19T07:28:02.906048+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -690,6 +690,21 @@
       "title": "RoadFolio",
       "link": "https://alternativeto.net/software/roadfolio/about/",
       "first_seen": "2026-06-19T02:08:47.181493+00:00"
+    },
+    "https://alternativeto.net/software/repov/about/|Repov": {
+      "title": "Repov",
+      "link": "https://alternativeto.net/software/repov/about/",
+      "first_seen": "2026-06-19T07:28:01.108388+00:00"
+    },
+    "https://alternativeto.net/software/block-drop/about/|Block Drop": {
+      "title": "Block Drop",
+      "link": "https://alternativeto.net/software/block-drop/about/",
+      "first_seen": "2026-06-19T07:28:01.108411+00:00"
+    },
+    "https://alternativeto.net/software/aeonchat/about/|AeonChat": {
+      "title": "AeonChat",
+      "link": "https://alternativeto.net/software/aeonchat/about/",
+      "first_seen": "2026-06-19T07:28:01.108414+00:00"
     }
   }
 }
