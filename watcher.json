@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-19T11:50:11.670192+00:00",
+  "last_checked": "2026-06-19T14:38:13.967239+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -730,6 +730,16 @@
       "title": "FluxShare",
       "link": "https://alternativeto.net/software/fluxshare/about/",
       "first_seen": "2026-06-19T11:50:08.871290+00:00"
+    },
+    "https://alternativeto.net/software/recip-a-tor/about/|Recip-A-Tor": {
+      "title": "Recip-A-Tor",
+      "link": "https://alternativeto.net/software/recip-a-tor/about/",
+      "first_seen": "2026-06-19T14:38:12.612552+00:00"
+    },
+    "https://alternativeto.net/software/pi-fyi/about/|PI.FYI": {
+      "title": "PI.FYI",
+      "link": "https://alternativeto.net/software/pi-fyi/about/",
+      "first_seen": "2026-06-19T14:38:12.612576+00:00"
     }
   }
 }
