@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-19T20:46:18.092682+00:00",
+  "last_checked": "2026-06-19T21:54:50.613596+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -760,6 +760,16 @@
       "title": "All Out",
       "link": "https://alternativeto.net/software/all-out/about/",
       "first_seen": "2026-06-19T17:03:51.212607+00:00"
+    },
+    "https://alternativeto.net/software/price-scanner/about/|Price Scanner": {
+      "title": "Price Scanner",
+      "link": "https://alternativeto.net/software/price-scanner/about/",
+      "first_seen": "2026-06-19T21:54:49.364925+00:00"
+    },
+    "https://alternativeto.net/software/imagineart/about/|ImagineArt": {
+      "title": "ImagineArt",
+      "link": "https://alternativeto.net/software/imagineart/about/",
+      "first_seen": "2026-06-19T21:54:49.364948+00:00"
     }
   }
 }
