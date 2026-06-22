@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-22T16:03:28.237265+00:00",
+  "last_checked": "2026-06-22T19:43:23.317164+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -830,6 +830,21 @@
       "title": "Cravly",
       "link": "https://alternativeto.net/software/cravly/about/",
       "first_seen": "2026-06-22T16:03:25.339231+00:00"
+    },
+    "https://alternativeto.net/software/the-only-ever-app/about/|Only Ever": {
+      "title": "Only Ever",
+      "link": "https://alternativeto.net/software/the-only-ever-app/about/",
+      "first_seen": "2026-06-22T19:43:21.679352+00:00"
+    },
+    "https://alternativeto.net/software/clera/about/|Clera": {
+      "title": "Clera",
+      "link": "https://alternativeto.net/software/clera/about/",
+      "first_seen": "2026-06-22T19:43:21.679372+00:00"
+    },
+    "https://alternativeto.net/software/my-job-trackr/about/|My Job Trackr": {
+      "title": "My Job Trackr",
+      "link": "https://alternativeto.net/software/my-job-trackr/about/",
+      "first_seen": "2026-06-22T19:43:21.679375+00:00"
     }
   }
 }
