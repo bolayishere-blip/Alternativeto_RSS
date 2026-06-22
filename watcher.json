@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-21T23:59:17.832715+00:00",
+  "last_checked": "2026-06-22T05:23:18.048754+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -770,6 +770,21 @@
       "title": "ImagineArt",
       "link": "https://alternativeto.net/software/imagineart/about/",
       "first_seen": "2026-06-19T21:54:49.364948+00:00"
+    },
+    "https://alternativeto.net/software/weatherfront/about/|WeatherFront": {
+      "title": "WeatherFront",
+      "link": "https://alternativeto.net/software/weatherfront/about/",
+      "first_seen": "2026-06-22T05:23:15.405961+00:00"
+    },
+    "https://alternativeto.net/software/eleganote/about/|Eleganote": {
+      "title": "Eleganote",
+      "link": "https://alternativeto.net/software/eleganote/about/",
+      "first_seen": "2026-06-22T05:23:15.405980+00:00"
+    },
+    "https://alternativeto.net/software/10deep/about/|10deep": {
+      "title": "10deep",
+      "link": "https://alternativeto.net/software/10deep/about/",
+      "first_seen": "2026-06-22T05:23:15.405983+00:00"
     }
   }
 }
