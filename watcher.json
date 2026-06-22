@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-22T11:14:42.546753+00:00",
+  "last_checked": "2026-06-22T16:03:28.237265+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -810,6 +810,26 @@
       "title": "Veri Sizintisi",
       "link": "https://alternativeto.net/software/veri-s-z-nt-s-/about/",
       "first_seen": "2026-06-22T11:14:39.706001+00:00"
+    },
+    "https://alternativeto.net/software/biblioscan/about/|BiblioScan": {
+      "title": "BiblioScan",
+      "link": "https://alternativeto.net/software/biblioscan/about/",
+      "first_seen": "2026-06-22T16:03:25.339205+00:00"
+    },
+    "https://alternativeto.net/software/wolfes-club/about/|Wolfes Club": {
+      "title": "Wolfes Club",
+      "link": "https://alternativeto.net/software/wolfes-club/about/",
+      "first_seen": "2026-06-22T16:03:25.339226+00:00"
+    },
+    "https://alternativeto.net/software/swis-sphone/about/|SWIS SPhone": {
+      "title": "SWIS SPhone",
+      "link": "https://alternativeto.net/software/swis-sphone/about/",
+      "first_seen": "2026-06-22T16:03:25.339229+00:00"
+    },
+    "https://alternativeto.net/software/cravly/about/|Cravly": {
+      "title": "Cravly",
+      "link": "https://alternativeto.net/software/cravly/about/",
+      "first_seen": "2026-06-22T16:03:25.339231+00:00"
     }
   }
 }
