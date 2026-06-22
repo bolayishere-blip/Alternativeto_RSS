@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-22T05:23:18.048754+00:00",
+  "last_checked": "2026-06-22T11:14:42.546753+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -785,6 +785,31 @@
       "title": "10deep",
       "link": "https://alternativeto.net/software/10deep/about/",
       "first_seen": "2026-06-22T05:23:15.405983+00:00"
+    },
+    "https://alternativeto.net/software/daily-affirmations-widget/about/|Daily Affirm": {
+      "title": "Daily Affirm",
+      "link": "https://alternativeto.net/software/daily-affirmations-widget/about/",
+      "first_seen": "2026-06-22T11:14:39.705970+00:00"
+    },
+    "https://alternativeto.net/software/ekygai/about/|EKYGAI": {
+      "title": "EKYGAI",
+      "link": "https://alternativeto.net/software/ekygai/about/",
+      "first_seen": "2026-06-22T11:14:39.705993+00:00"
+    },
+    "https://alternativeto.net/software/pikash-budget-expense-tracker/about/|Pikash": {
+      "title": "Pikash",
+      "link": "https://alternativeto.net/software/pikash-budget-expense-tracker/about/",
+      "first_seen": "2026-06-22T11:14:39.705997+00:00"
+    },
+    "https://alternativeto.net/software/fit-horizon/about/|Fit Horizon": {
+      "title": "Fit Horizon",
+      "link": "https://alternativeto.net/software/fit-horizon/about/",
+      "first_seen": "2026-06-22T11:14:39.705999+00:00"
+    },
+    "https://alternativeto.net/software/veri-s-z-nt-s-/about/|Veri Sizintisi": {
+      "title": "Veri Sizintisi",
+      "link": "https://alternativeto.net/software/veri-s-z-nt-s-/about/",
+      "first_seen": "2026-06-22T11:14:39.706001+00:00"
     }
   }
 }
