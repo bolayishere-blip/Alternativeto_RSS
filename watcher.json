@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-22T19:43:23.317164+00:00",
+  "last_checked": "2026-06-22T21:51:41.405902+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -845,6 +845,11 @@
       "title": "My Job Trackr",
       "link": "https://alternativeto.net/software/my-job-trackr/about/",
       "first_seen": "2026-06-22T19:43:21.679375+00:00"
+    },
+    "https://alternativeto.net/software/t2decode/about/|T2DECODE": {
+      "title": "T2DECODE",
+      "link": "https://alternativeto.net/software/t2decode/about/",
+      "first_seen": "2026-06-22T21:51:40.663941+00:00"
     }
   }
 }
