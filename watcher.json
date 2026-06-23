@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-23T15:35:44.734564+00:00",
+  "last_checked": "2026-06-23T17:28:59.092352+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -910,6 +910,11 @@
       "title": "AI Call",
       "link": "https://alternativeto.net/software/ai-call/about/",
       "first_seen": "2026-06-23T15:35:43.369511+00:00"
+    },
+    "https://alternativeto.net/software/chess-coach-openings/about/|Chess Coach: Openings": {
+      "title": "Chess Coach: Openings",
+      "link": "https://alternativeto.net/software/chess-coach-openings/about/",
+      "first_seen": "2026-06-23T17:28:58.326472+00:00"
     }
   }
 }
