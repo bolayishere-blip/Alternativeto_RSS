@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-23T12:26:22.873864+00:00",
+  "last_checked": "2026-06-23T15:35:44.734564+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -900,6 +900,16 @@
       "title": "TYPA",
       "link": "https://alternativeto.net/software/typa--restock-tracker/about/",
       "first_seen": "2026-06-23T12:26:21.168221+00:00"
+    },
+    "https://alternativeto.net/software/videflow/about/|VideFlow": {
+      "title": "VideFlow",
+      "link": "https://alternativeto.net/software/videflow/about/",
+      "first_seen": "2026-06-23T15:35:43.369495+00:00"
+    },
+    "https://alternativeto.net/software/ai-call/about/|AI Call": {
+      "title": "AI Call",
+      "link": "https://alternativeto.net/software/ai-call/about/",
+      "first_seen": "2026-06-23T15:35:43.369511+00:00"
     }
   }
 }
