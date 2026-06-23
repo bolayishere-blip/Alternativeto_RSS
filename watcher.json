@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-23T17:28:59.092352+00:00",
+  "last_checked": "2026-06-23T19:29:20.718175+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -915,6 +915,11 @@
       "title": "Chess Coach: Openings",
       "link": "https://alternativeto.net/software/chess-coach-openings/about/",
       "first_seen": "2026-06-23T17:28:58.326472+00:00"
+    },
+    "https://alternativeto.net/software/versedb/about/|VerseDB": {
+      "title": "VerseDB",
+      "link": "https://alternativeto.net/software/versedb/about/",
+      "first_seen": "2026-06-23T19:29:14.947091+00:00"
     }
   }
 }
