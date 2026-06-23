@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-23T05:50:42.337821+00:00",
+  "last_checked": "2026-06-23T09:45:10.951468+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -860,6 +860,36 @@
       "title": "ShizuCallRecorder",
       "link": "https://alternativeto.net/software/shizucallrecorder/about/",
       "first_seen": "2026-06-23T05:50:41.408892+00:00"
+    },
+    "https://alternativeto.net/software/bookpledge/about/|BookPledge": {
+      "title": "BookPledge",
+      "link": "https://alternativeto.net/software/bookpledge/about/",
+      "first_seen": "2026-06-23T09:45:03.278887+00:00"
+    },
+    "https://alternativeto.net/software/neodb-you/about/|NeoDB You": {
+      "title": "NeoDB You",
+      "link": "https://alternativeto.net/software/neodb-you/about/",
+      "first_seen": "2026-06-23T09:45:03.278907+00:00"
+    },
+    "https://alternativeto.net/software/vectraride/about/|VectraRide": {
+      "title": "VectraRide",
+      "link": "https://alternativeto.net/software/vectraride/about/",
+      "first_seen": "2026-06-23T09:45:03.278910+00:00"
+    },
+    "https://alternativeto.net/software/alchedoc-ai/about/|AlcheDoc AI": {
+      "title": "AlcheDoc AI",
+      "link": "https://alternativeto.net/software/alchedoc-ai/about/",
+      "first_seen": "2026-06-23T09:45:03.278912+00:00"
+    },
+    "https://alternativeto.net/software/medinotex/about/|MediNoteX": {
+      "title": "MediNoteX",
+      "link": "https://alternativeto.net/software/medinotex/about/",
+      "first_seen": "2026-06-23T09:45:03.278914+00:00"
+    },
+    "https://alternativeto.net/software/peeplynx/about/|Peeplynx": {
+      "title": "Peeplynx",
+      "link": "https://alternativeto.net/software/peeplynx/about/",
+      "first_seen": "2026-06-23T09:45:03.278916+00:00"
     }
   }
 }
