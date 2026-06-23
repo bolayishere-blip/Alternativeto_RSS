@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-23T21:17:45.019220+00:00",
+  "last_checked": "2026-06-23T22:42:13.576057+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -920,6 +920,11 @@
       "title": "VerseDB",
       "link": "https://alternativeto.net/software/versedb/about/",
       "first_seen": "2026-06-23T19:29:14.947091+00:00"
+    },
+    "https://alternativeto.net/software/idazery/about/|idazery": {
+      "title": "idazery",
+      "link": "https://alternativeto.net/software/idazery/about/",
+      "first_seen": "2026-06-23T22:42:12.832828+00:00"
     }
   }
 }
