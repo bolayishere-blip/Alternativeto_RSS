@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-24T12:08:46.268793+00:00",
+  "last_checked": "2026-06-24T15:07:19.937173+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -950,6 +950,21 @@
       "title": "MyNotifyAssist",
       "link": "https://alternativeto.net/software/mynotifyassist/about/",
       "first_seen": "2026-06-24T12:08:45.564045+00:00"
+    },
+    "https://alternativeto.net/software/mapanim/about/|MapAnim": {
+      "title": "MapAnim",
+      "link": "https://alternativeto.net/software/mapanim/about/",
+      "first_seen": "2026-06-24T15:07:17.973319+00:00"
+    },
+    "https://alternativeto.net/software/samsara-wellness/about/|Samsara Wellness": {
+      "title": "Samsara Wellness",
+      "link": "https://alternativeto.net/software/samsara-wellness/about/",
+      "first_seen": "2026-06-24T15:07:17.973338+00:00"
+    },
+    "https://alternativeto.net/software/scrolltoll--screen-time-gym/about/|ScrollToll": {
+      "title": "ScrollToll",
+      "link": "https://alternativeto.net/software/scrolltoll--screen-time-gym/about/",
+      "first_seen": "2026-06-24T15:07:17.973341+00:00"
     }
   }
 }
