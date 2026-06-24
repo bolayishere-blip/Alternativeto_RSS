@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-24T01:48:25.173154+00:00",
+  "last_checked": "2026-06-24T05:53:46.141562+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -930,6 +930,11 @@
       "title": "Foldio",
       "link": "https://alternativeto.net/software/foldio/about/",
       "first_seen": "2026-06-24T01:48:24.422836+00:00"
+    },
+    "https://alternativeto.net/software/klipa-iptv--m3u-y-xtream-local/about/|Klipa IPTV": {
+      "title": "Klipa IPTV",
+      "link": "https://alternativeto.net/software/klipa-iptv--m3u-y-xtream-local/about/",
+      "first_seen": "2026-06-24T05:53:45.332116+00:00"
     }
   }
 }
