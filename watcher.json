@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-24T17:17:14.178290+00:00",
+  "last_checked": "2026-06-24T19:03:05.072279+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -970,6 +970,11 @@
       "title": "RepRaptor",
       "link": "https://alternativeto.net/software/repraptor/about/",
       "first_seen": "2026-06-24T17:17:13.389496+00:00"
+    },
+    "https://alternativeto.net/software/shellular/about/|Shellular": {
+      "title": "Shellular",
+      "link": "https://alternativeto.net/software/shellular/about/",
+      "first_seen": "2026-06-24T19:03:04.212569+00:00"
     }
   }
 }
