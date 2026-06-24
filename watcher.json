@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-24T15:07:19.937173+00:00",
+  "last_checked": "2026-06-24T17:17:14.178290+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -965,6 +965,11 @@
       "title": "ScrollToll",
       "link": "https://alternativeto.net/software/scrolltoll--screen-time-gym/about/",
       "first_seen": "2026-06-24T15:07:17.973341+00:00"
+    },
+    "https://alternativeto.net/software/repraptor/about/|RepRaptor": {
+      "title": "RepRaptor",
+      "link": "https://alternativeto.net/software/repraptor/about/",
+      "first_seen": "2026-06-24T17:17:13.389496+00:00"
     }
   }
 }
