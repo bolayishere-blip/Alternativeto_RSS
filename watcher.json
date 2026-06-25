@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-25T21:12:34.950861+00:00",
+  "last_checked": "2026-06-25T22:51:17.088336+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1025,6 +1025,11 @@
       "title": "GenyConnect",
       "link": "https://alternativeto.net/software/genyconnect/about/",
       "first_seen": "2026-06-25T21:12:33.801493+00:00"
+    },
+    "https://alternativeto.net/software/delife/about/|delife": {
+      "title": "delife",
+      "link": "https://alternativeto.net/software/delife/about/",
+      "first_seen": "2026-06-25T22:51:16.406802+00:00"
     }
   }
 }
