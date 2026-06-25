@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-25T19:25:05.898571+00:00",
+  "last_checked": "2026-06-25T21:12:34.950861+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1015,6 +1015,16 @@
       "title": "PlainForge",
       "link": "https://alternativeto.net/software/plainforge/about/",
       "first_seen": "2026-06-25T19:25:04.083865+00:00"
+    },
+    "https://alternativeto.net/software/easyroutine/about/|EasyRoutine": {
+      "title": "EasyRoutine",
+      "link": "https://alternativeto.net/software/easyroutine/about/",
+      "first_seen": "2026-06-25T21:12:33.801474+00:00"
+    },
+    "https://alternativeto.net/software/genyconnect/about/|GenyConnect": {
+      "title": "GenyConnect",
+      "link": "https://alternativeto.net/software/genyconnect/about/",
+      "first_seen": "2026-06-25T21:12:33.801493+00:00"
     }
   }
 }
