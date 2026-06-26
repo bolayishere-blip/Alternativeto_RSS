@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-26T11:24:00.957206+00:00",
+  "last_checked": "2026-06-26T13:29:55.832441+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1050,6 +1050,11 @@
       "title": "Stashly",
       "link": "https://alternativeto.net/software/stashly--save-and-find-links/about/",
       "first_seen": "2026-06-26T11:23:59.355975+00:00"
+    },
+    "https://alternativeto.net/software/zunoy-authenticator/about/|Zunoy Authenticator": {
+      "title": "Zunoy Authenticator",
+      "link": "https://alternativeto.net/software/zunoy-authenticator/about/",
+      "first_seen": "2026-06-26T13:29:55.095576+00:00"
     }
   }
 }
