@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-26T04:44:18.915301+00:00",
+  "last_checked": "2026-06-26T08:22:37.006425+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1030,6 +1030,16 @@
       "title": "delife",
       "link": "https://alternativeto.net/software/delife/about/",
       "first_seen": "2026-06-25T22:51:16.406802+00:00"
+    },
+    "https://alternativeto.net/software/zunoy-uptime/about/|Zunoy Uptime": {
+      "title": "Zunoy Uptime",
+      "link": "https://alternativeto.net/software/zunoy-uptime/about/",
+      "first_seen": "2026-06-26T08:22:34.812417+00:00"
+    },
+    "https://alternativeto.net/software/loopid-link/about/|loopid.link": {
+      "title": "loopid.link",
+      "link": "https://alternativeto.net/software/loopid-link/about/",
+      "first_seen": "2026-06-26T08:22:34.812434+00:00"
     }
   }
 }
