@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-26T13:29:55.832441+00:00",
+  "last_checked": "2026-06-26T15:55:17.096454+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1055,6 +1055,21 @@
       "title": "Zunoy Authenticator",
       "link": "https://alternativeto.net/software/zunoy-authenticator/about/",
       "first_seen": "2026-06-26T13:29:55.095576+00:00"
+    },
+    "https://alternativeto.net/software/frunkfriends/about/|FrunkFriends": {
+      "title": "FrunkFriends",
+      "link": "https://alternativeto.net/software/frunkfriends/about/",
+      "first_seen": "2026-06-26T15:55:14.767737+00:00"
+    },
+    "https://alternativeto.net/software/tallykins/about/|Tallykins": {
+      "title": "Tallykins",
+      "link": "https://alternativeto.net/software/tallykins/about/",
+      "first_seen": "2026-06-26T15:55:14.767762+00:00"
+    },
+    "https://alternativeto.net/software/watchforge/about/|WatchForge": {
+      "title": "WatchForge",
+      "link": "https://alternativeto.net/software/watchforge/about/",
+      "first_seen": "2026-06-26T15:55:14.767765+00:00"
     }
   }
 }
