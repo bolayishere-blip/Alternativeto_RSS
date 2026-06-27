@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-27T16:45:12.246854+00:00",
+  "last_checked": "2026-06-27T17:48:25.586036+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1095,6 +1095,16 @@
       "title": "Recalla",
       "link": "https://alternativeto.net/software/recalla/about/",
       "first_seen": "2026-06-27T14:01:27.847476+00:00"
+    },
+    "https://alternativeto.net/software/simply-minimal-white-icon-pack/about/|Simply Minimal White Icon Pack": {
+      "title": "Simply Minimal White Icon Pack",
+      "link": "https://alternativeto.net/software/simply-minimal-white-icon-pack/about/",
+      "first_seen": "2026-06-27T17:48:24.203494+00:00"
+    },
+    "https://alternativeto.net/software/snow-icon-pack-/about/|Snow (icon pack)": {
+      "title": "Snow (icon pack)",
+      "link": "https://alternativeto.net/software/snow-icon-pack-/about/",
+      "first_seen": "2026-06-27T17:48:24.203516+00:00"
     }
   }
 }
