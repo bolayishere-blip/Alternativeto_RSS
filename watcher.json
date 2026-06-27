@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-27T11:57:57.646619+00:00",
+  "last_checked": "2026-06-27T14:01:28.541439+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1090,6 +1090,11 @@
       "title": "Breadcrumbs: Travel Journal",
       "link": "https://alternativeto.net/software/breadcrumbs-travel-journal/about/",
       "first_seen": "2026-06-27T08:19:38.513339+00:00"
+    },
+    "https://alternativeto.net/software/recalla/about/|Recalla": {
+      "title": "Recalla",
+      "link": "https://alternativeto.net/software/recalla/about/",
+      "first_seen": "2026-06-27T14:01:27.847476+00:00"
     }
   }
 }
