@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-27T17:48:25.586036+00:00",
+  "last_checked": "2026-06-27T18:57:17.444380+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1105,6 +1105,11 @@
       "title": "Snow (icon pack)",
       "link": "https://alternativeto.net/software/snow-icon-pack-/about/",
       "first_seen": "2026-06-27T17:48:24.203516+00:00"
+    },
+    "https://alternativeto.net/software/todo-agenda/about/|Todo Agenda": {
+      "title": "Todo Agenda",
+      "link": "https://alternativeto.net/software/todo-agenda/about/",
+      "first_seen": "2026-06-27T18:57:16.498065+00:00"
     }
   }
 }
