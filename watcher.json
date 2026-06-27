@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-27T01:48:55.032191+00:00",
+  "last_checked": "2026-06-27T05:41:46.173340+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1080,6 +1080,11 @@
       "title": "Latarka (Shake Flashlight)",
       "link": "https://alternativeto.net/software/latarka-shake-flashlight-/about/",
       "first_seen": "2026-06-26T22:45:47.815729+00:00"
+    },
+    "https://alternativeto.net/software/pixel-guide/about/|Pixel Guide": {
+      "title": "Pixel Guide",
+      "link": "https://alternativeto.net/software/pixel-guide/about/",
+      "first_seen": "2026-06-27T05:41:45.422751+00:00"
     }
   }
 }
