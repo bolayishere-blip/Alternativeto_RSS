@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-29T12:07:29.857260+00:00",
+  "last_checked": "2026-06-29T16:09:58.698185+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1140,6 +1140,41 @@
       "title": "Chemical Suite",
       "link": "https://alternativeto.net/software/chemical-suite/about/",
       "first_seen": "2026-06-29T12:07:26.664008+00:00"
+    },
+    "https://alternativeto.net/software/pomoking-pomodoro-focus-timer/about/|PomoKing": {
+      "title": "PomoKing",
+      "link": "https://alternativeto.net/software/pomoking-pomodoro-focus-timer/about/",
+      "first_seen": "2026-06-29T16:09:50.966977+00:00"
+    },
+    "https://alternativeto.net/software/festivalguide/about/|FestivalGuide": {
+      "title": "FestivalGuide",
+      "link": "https://alternativeto.net/software/festivalguide/about/",
+      "first_seen": "2026-06-29T16:09:50.967049+00:00"
+    },
+    "https://alternativeto.net/software/equipment-tracker-pro/about/|Equipment Tracker Pro": {
+      "title": "Equipment Tracker Pro",
+      "link": "https://alternativeto.net/software/equipment-tracker-pro/about/",
+      "first_seen": "2026-06-29T16:09:50.967054+00:00"
+    },
+    "https://alternativeto.net/software/booknook--social-reading/about/|Booknook": {
+      "title": "Booknook",
+      "link": "https://alternativeto.net/software/booknook--social-reading/about/",
+      "first_seen": "2026-06-29T16:09:50.967057+00:00"
+    },
+    "https://alternativeto.net/software/n-zik/about/|N-Zik": {
+      "title": "N-Zik",
+      "link": "https://alternativeto.net/software/n-zik/about/",
+      "first_seen": "2026-06-29T16:09:50.967060+00:00"
+    },
+    "https://alternativeto.net/software/mpvrex/about/|mpvRex": {
+      "title": "mpvRex",
+      "link": "https://alternativeto.net/software/mpvrex/about/",
+      "first_seen": "2026-06-29T16:09:50.967063+00:00"
+    },
+    "https://alternativeto.net/software/freedm/about/|Freedm": {
+      "title": "Freedm",
+      "link": "https://alternativeto.net/software/freedm/about/",
+      "first_seen": "2026-06-29T16:09:50.967065+00:00"
     }
   }
 }
