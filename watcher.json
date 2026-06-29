@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-29T07:00:39.962360+00:00",
+  "last_checked": "2026-06-29T12:07:29.857260+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1120,6 +1120,26 @@
       "title": "ZenRead",
       "link": "https://alternativeto.net/software/zenread/about/",
       "first_seen": "2026-06-29T07:00:38.711211+00:00"
+    },
+    "https://alternativeto.net/software/curbox/about/|Curbox": {
+      "title": "Curbox",
+      "link": "https://alternativeto.net/software/curbox/about/",
+      "first_seen": "2026-06-29T12:07:26.663982+00:00"
+    },
+    "https://alternativeto.net/software/ai-budget-assistant/about/|AI Budget Assistant": {
+      "title": "AI Budget Assistant",
+      "link": "https://alternativeto.net/software/ai-budget-assistant/about/",
+      "first_seen": "2026-06-29T12:07:26.664002+00:00"
+    },
+    "https://alternativeto.net/software/rhymeflux/about/|RhymeFlux": {
+      "title": "RhymeFlux",
+      "link": "https://alternativeto.net/software/rhymeflux/about/",
+      "first_seen": "2026-06-29T12:07:26.664006+00:00"
+    },
+    "https://alternativeto.net/software/chemical-suite/about/|Chemical Suite": {
+      "title": "Chemical Suite",
+      "link": "https://alternativeto.net/software/chemical-suite/about/",
+      "first_seen": "2026-06-29T12:07:26.664008+00:00"
     }
   }
 }
