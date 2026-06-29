@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-29T01:58:35.121779+00:00",
+  "last_checked": "2026-06-29T07:00:39.962360+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1110,6 +1110,16 @@
       "title": "Todo Agenda",
       "link": "https://alternativeto.net/software/todo-agenda/about/",
       "first_seen": "2026-06-27T18:57:16.498065+00:00"
+    },
+    "https://alternativeto.net/software/revo-permission-analyzer/about/|Revo Permission Analyzer": {
+      "title": "Revo Permission Analyzer",
+      "link": "https://alternativeto.net/software/revo-permission-analyzer/about/",
+      "first_seen": "2026-06-29T07:00:38.711191+00:00"
+    },
+    "https://alternativeto.net/software/zenread/about/|ZenRead": {
+      "title": "ZenRead",
+      "link": "https://alternativeto.net/software/zenread/about/",
+      "first_seen": "2026-06-29T07:00:38.711211+00:00"
     }
   }
 }
