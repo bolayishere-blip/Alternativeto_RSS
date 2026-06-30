@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-30T00:17:15.113057+00:00",
+  "last_checked": "2026-06-30T04:39:09.266986+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1185,6 +1185,11 @@
       "title": "CalmWave",
       "link": "https://alternativeto.net/software/calmwave/about/",
       "first_seen": "2026-06-29T23:01:06.392125+00:00"
+    },
+    "https://alternativeto.net/software/amiqo/about/|amiqo": {
+      "title": "amiqo",
+      "link": "https://alternativeto.net/software/amiqo/about/",
+      "first_seen": "2026-06-30T04:39:07.906747+00:00"
     }
   }
 }
