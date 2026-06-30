@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-30T04:39:09.266986+00:00",
+  "last_checked": "2026-06-30T08:20:44.228956+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1190,6 +1190,16 @@
       "title": "amiqo",
       "link": "https://alternativeto.net/software/amiqo/about/",
       "first_seen": "2026-06-30T04:39:07.906747+00:00"
+    },
+    "https://alternativeto.net/software/gymcare/about/|Gymcare": {
+      "title": "Gymcare",
+      "link": "https://alternativeto.net/software/gymcare/about/",
+      "first_seen": "2026-06-30T08:20:42.650219+00:00"
+    },
+    "https://alternativeto.net/software/roomellow/about/|Roomellow": {
+      "title": "Roomellow",
+      "link": "https://alternativeto.net/software/roomellow/about/",
+      "first_seen": "2026-06-30T08:20:42.650241+00:00"
     }
   }
 }
