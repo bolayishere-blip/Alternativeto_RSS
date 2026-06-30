@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-30T21:56:41.555277+00:00",
+  "last_checked": "2026-06-30T23:18:31.992235+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1240,6 +1240,11 @@
       "title": "PhoneShield",
       "link": "https://alternativeto.net/software/phoneshield-catch-intruders-/about/",
       "first_seen": "2026-06-30T21:56:40.841862+00:00"
+    },
+    "https://alternativeto.net/software/chessever/about/|ChessEver": {
+      "title": "ChessEver",
+      "link": "https://alternativeto.net/software/chessever/about/",
+      "first_seen": "2026-06-30T23:18:31.119585+00:00"
     }
   }
 }
