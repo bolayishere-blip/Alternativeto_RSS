@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-30T13:24:47.647590+00:00",
+  "last_checked": "2026-06-30T16:06:42.235321+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1205,6 +1205,31 @@
       "title": "TopTier Strategy",
       "link": "https://alternativeto.net/software/toptier-strategy/about/",
       "first_seen": "2026-06-30T13:24:46.904656+00:00"
+    },
+    "https://alternativeto.net/software/legba/about/|Legba": {
+      "title": "Legba",
+      "link": "https://alternativeto.net/software/legba/about/",
+      "first_seen": "2026-06-30T16:06:38.639265+00:00"
+    },
+    "https://alternativeto.net/software/the-wonder-weeks/about/|The Wonder Weeks": {
+      "title": "The Wonder Weeks",
+      "link": "https://alternativeto.net/software/the-wonder-weeks/about/",
+      "first_seen": "2026-06-30T16:06:38.639288+00:00"
+    },
+    "https://alternativeto.net/software/otomato/about/|Otomato": {
+      "title": "Otomato",
+      "link": "https://alternativeto.net/software/otomato/about/",
+      "first_seen": "2026-06-30T16:06:38.639291+00:00"
+    },
+    "https://alternativeto.net/software/skylight-calendar/about/|Skylight Calendar": {
+      "title": "Skylight Calendar",
+      "link": "https://alternativeto.net/software/skylight-calendar/about/",
+      "first_seen": "2026-06-30T16:06:38.639293+00:00"
+    },
+    "https://alternativeto.net/software/the-vance-case--found-phone/about/|The Vance Case": {
+      "title": "The Vance Case",
+      "link": "https://alternativeto.net/software/the-vance-case--found-phone/about/",
+      "first_seen": "2026-06-30T16:06:38.639295+00:00"
     }
   }
 }
