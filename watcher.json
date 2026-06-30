@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-30T20:23:23.574425+00:00",
+  "last_checked": "2026-06-30T21:56:41.555277+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1235,6 +1235,11 @@
       "title": "SkillResy",
       "link": "https://alternativeto.net/software/skillresy/about/",
       "first_seen": "2026-06-30T20:23:22.722493+00:00"
+    },
+    "https://alternativeto.net/software/phoneshield-catch-intruders-/about/|PhoneShield": {
+      "title": "PhoneShield",
+      "link": "https://alternativeto.net/software/phoneshield-catch-intruders-/about/",
+      "first_seen": "2026-06-30T21:56:40.841862+00:00"
     }
   }
 }
