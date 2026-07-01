@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-01T13:13:19.231277+00:00",
+  "last_checked": "2026-07-01T16:01:55.264843+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1280,6 +1280,36 @@
       "title": "Ratspeak",
       "link": "https://alternativeto.net/software/ratspeak/about/",
       "first_seen": "2026-07-01T13:13:18.334341+00:00"
+    },
+    "https://alternativeto.net/software/ownautocare/about/|OwnAutoCare": {
+      "title": "OwnAutoCare",
+      "link": "https://alternativeto.net/software/ownautocare/about/",
+      "first_seen": "2026-07-01T16:01:47.216181+00:00"
+    },
+    "https://alternativeto.net/software/chatbunk/about/|Chatbunk": {
+      "title": "Chatbunk",
+      "link": "https://alternativeto.net/software/chatbunk/about/",
+      "first_seen": "2026-07-01T16:01:47.216203+00:00"
+    },
+    "https://alternativeto.net/software/saysplit/about/|SaySplit": {
+      "title": "SaySplit",
+      "link": "https://alternativeto.net/software/saysplit/about/",
+      "first_seen": "2026-07-01T16:01:47.216207+00:00"
+    },
+    "https://alternativeto.net/software/animal-sounds/about/|Animal Sounds": {
+      "title": "Animal Sounds",
+      "link": "https://alternativeto.net/software/animal-sounds/about/",
+      "first_seen": "2026-07-01T16:01:47.216213+00:00"
+    },
+    "https://alternativeto.net/software/cinlink/about/|CinLink": {
+      "title": "CinLink",
+      "link": "https://alternativeto.net/software/cinlink/about/",
+      "first_seen": "2026-07-01T16:01:47.216215+00:00"
+    },
+    "https://alternativeto.net/software/booxreader/about/|booxReader": {
+      "title": "booxReader",
+      "link": "https://alternativeto.net/software/booxreader/about/",
+      "first_seen": "2026-07-01T16:01:47.216217+00:00"
     }
   }
 }
