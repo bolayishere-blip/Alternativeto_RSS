@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-01T06:09:58.691316+00:00",
+  "last_checked": "2026-07-01T10:14:36.608683+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1255,6 +1255,26 @@
       "title": "catchmsg",
       "link": "https://alternativeto.net/software/catchmsg/about/",
       "first_seen": "2026-07-01T06:09:57.917824+00:00"
+    },
+    "https://alternativeto.net/software/eternals-online/about/|ETERNALS:online": {
+      "title": "ETERNALS:online",
+      "link": "https://alternativeto.net/software/eternals-online/about/",
+      "first_seen": "2026-07-01T10:14:33.512740+00:00"
+    },
+    "https://alternativeto.net/software/columba-messenger/about/|Columba Messenger": {
+      "title": "Columba Messenger",
+      "link": "https://alternativeto.net/software/columba-messenger/about/",
+      "first_seen": "2026-07-01T10:14:33.512762+00:00"
+    },
+    "https://alternativeto.net/software/sober-tracker-quit-drinking/about/|Sober Tracker": {
+      "title": "Sober Tracker",
+      "link": "https://alternativeto.net/software/sober-tracker-quit-drinking/about/",
+      "first_seen": "2026-07-01T10:14:33.512765+00:00"
+    },
+    "https://alternativeto.net/software/catchmsg/about/|CatchMsg": {
+      "title": "CatchMsg",
+      "link": "https://alternativeto.net/software/catchmsg/about/",
+      "first_seen": "2026-07-01T10:14:33.512767+00:00"
     }
   }
 }
