@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-01T01:35:57.760119+00:00",
+  "last_checked": "2026-07-01T06:09:58.691316+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1250,6 +1250,11 @@
       "title": "ero",
       "link": "https://alternativeto.net/software/ero/about/",
       "first_seen": "2026-07-01T01:35:56.814454+00:00"
+    },
+    "https://alternativeto.net/software/catchmsg/about/|catchmsg": {
+      "title": "catchmsg",
+      "link": "https://alternativeto.net/software/catchmsg/about/",
+      "first_seen": "2026-07-01T06:09:57.917824+00:00"
     }
   }
 }
