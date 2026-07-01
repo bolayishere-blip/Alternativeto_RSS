@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-01T16:01:55.264843+00:00",
+  "last_checked": "2026-07-01T18:14:26.592284+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1310,6 +1310,16 @@
       "title": "booxReader",
       "link": "https://alternativeto.net/software/booxreader/about/",
       "first_seen": "2026-07-01T16:01:47.216217+00:00"
+    },
+    "https://alternativeto.net/software/tiff-viewer-and-converter/about/|TIFF Viewer and Converter": {
+      "title": "TIFF Viewer and Converter",
+      "link": "https://alternativeto.net/software/tiff-viewer-and-converter/about/",
+      "first_seen": "2026-07-01T18:14:25.375471+00:00"
+    },
+    "https://alternativeto.net/software/parking-timer-and-find-my-car/about/|Parked": {
+      "title": "Parked",
+      "link": "https://alternativeto.net/software/parking-timer-and-find-my-car/about/",
+      "first_seen": "2026-07-01T18:14:25.375494+00:00"
     }
   }
 }
