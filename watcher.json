@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-02T13:11:59.672094+00:00",
+  "last_checked": "2026-07-02T15:35:33.646968+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1355,6 +1355,31 @@
       "title": "TRIPTI.ai",
       "link": "https://alternativeto.net/software/tripti-ai/about/",
       "first_seen": "2026-07-02T13:11:58.989860+00:00"
+    },
+    "https://alternativeto.net/software/sidstuga-iptv-m3u-and-xtream/about/|Sidstuga": {
+      "title": "Sidstuga",
+      "link": "https://alternativeto.net/software/sidstuga-iptv-m3u-and-xtream/about/",
+      "first_seen": "2026-07-02T15:35:30.687776+00:00"
+    },
+    "https://alternativeto.net/software/movie-paradise/about/|Movie Paradise": {
+      "title": "Movie Paradise",
+      "link": "https://alternativeto.net/software/movie-paradise/about/",
+      "first_seen": "2026-07-02T15:35:30.687797+00:00"
+    },
+    "https://alternativeto.net/software/refract/about/|Refract": {
+      "title": "Refract",
+      "link": "https://alternativeto.net/software/refract/about/",
+      "first_seen": "2026-07-02T15:35:30.687815+00:00"
+    },
+    "https://alternativeto.net/software/bingeboxd/about/|BingeBoxd": {
+      "title": "BingeBoxd",
+      "link": "https://alternativeto.net/software/bingeboxd/about/",
+      "first_seen": "2026-07-02T15:35:30.687817+00:00"
+    },
+    "https://alternativeto.net/software/cinematique/about/|cinematique": {
+      "title": "cinematique",
+      "link": "https://alternativeto.net/software/cinematique/about/",
+      "first_seen": "2026-07-02T15:35:30.687820+00:00"
     }
   }
 }
