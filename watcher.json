@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-02T11:17:00.101532+00:00",
+  "last_checked": "2026-07-02T13:11:59.672094+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1350,6 +1350,11 @@
       "title": "BooxReader",
       "link": "https://alternativeto.net/software/booxreader/about/",
       "first_seen": "2026-07-02T11:16:58.763379+00:00"
+    },
+    "https://alternativeto.net/software/tripti-ai/about/|TRIPTI.ai": {
+      "title": "TRIPTI.ai",
+      "link": "https://alternativeto.net/software/tripti-ai/about/",
+      "first_seen": "2026-07-02T13:11:58.989860+00:00"
     }
   }
 }
