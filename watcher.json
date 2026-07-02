@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-02T05:36:48.159940+00:00",
+  "last_checked": "2026-07-02T08:32:17.193354+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1330,6 +1330,16 @@
       "title": "Kithora",
       "link": "https://alternativeto.net/software/kithora/about/",
       "first_seen": "2026-07-02T05:36:46.703996+00:00"
+    },
+    "https://alternativeto.net/software/yattapick/about/|yattapick": {
+      "title": "yattapick",
+      "link": "https://alternativeto.net/software/yattapick/about/",
+      "first_seen": "2026-07-02T08:32:16.000270+00:00"
+    },
+    "https://alternativeto.net/software/rabbithole-cam/about/|RabbitHole.cam": {
+      "title": "RabbitHole.cam",
+      "link": "https://alternativeto.net/software/rabbithole-cam/about/",
+      "first_seen": "2026-07-02T08:32:16.000297+00:00"
     }
   }
 }
