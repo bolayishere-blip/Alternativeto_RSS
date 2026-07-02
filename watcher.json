@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-02T08:32:17.193354+00:00",
+  "last_checked": "2026-07-02T11:17:00.101532+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1340,6 +1340,16 @@
       "title": "RabbitHole.cam",
       "link": "https://alternativeto.net/software/rabbithole-cam/about/",
       "first_seen": "2026-07-02T08:32:16.000297+00:00"
+    },
+    "https://alternativeto.net/software/loveconnet/about/|LoveConnet": {
+      "title": "LoveConnet",
+      "link": "https://alternativeto.net/software/loveconnet/about/",
+      "first_seen": "2026-07-02T11:16:58.763351+00:00"
+    },
+    "https://alternativeto.net/software/booxreader/about/|BooxReader": {
+      "title": "BooxReader",
+      "link": "https://alternativeto.net/software/booxreader/about/",
+      "first_seen": "2026-07-02T11:16:58.763379+00:00"
     }
   }
 }
