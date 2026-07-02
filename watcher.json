@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-02T22:49:24.110552+00:00",
+  "last_checked": "2026-07-02T23:51:43.727104+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1410,6 +1410,11 @@
       "title": "Radio Compass",
       "link": "https://alternativeto.net/software/radio-compass/about/",
       "first_seen": "2026-07-02T22:49:22.871083+00:00"
+    },
+    "https://alternativeto.net/software/smartformulapro/about/|SmartFormulaPRO": {
+      "title": "SmartFormulaPRO",
+      "link": "https://alternativeto.net/software/smartformulapro/about/",
+      "first_seen": "2026-07-02T23:51:43.049043+00:00"
     }
   }
 }
