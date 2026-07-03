@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-03T06:49:29.058519+00:00",
+  "last_checked": "2026-07-03T09:47:26.809291+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1420,6 +1420,16 @@
       "title": "Evoling",
       "link": "https://alternativeto.net/software/evoling/about/",
       "first_seen": "2026-07-03T03:29:39.961032+00:00"
+    },
+    "https://alternativeto.net/software/strobopro/about/|StroboPro": {
+      "title": "StroboPro",
+      "link": "https://alternativeto.net/software/strobopro/about/",
+      "first_seen": "2026-07-03T09:47:25.622488+00:00"
+    },
+    "https://alternativeto.net/software/mixody/about/|mixody": {
+      "title": "mixody",
+      "link": "https://alternativeto.net/software/mixody/about/",
+      "first_seen": "2026-07-03T09:47:25.622513+00:00"
     }
   }
 }
