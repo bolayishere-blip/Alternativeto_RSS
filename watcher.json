@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-03T16:06:35.835607+00:00",
+  "last_checked": "2026-07-03T17:45:38.141887+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1455,6 +1455,16 @@
       "title": "FORMA Fitness",
       "link": "https://alternativeto.net/software/forma-fitness/about/",
       "first_seen": "2026-07-03T16:06:34.869308+00:00"
+    },
+    "https://alternativeto.net/software/boney/about/|Boney": {
+      "title": "Boney",
+      "link": "https://alternativeto.net/software/boney/about/",
+      "first_seen": "2026-07-03T17:45:36.718696+00:00"
+    },
+    "https://alternativeto.net/software/fastbreak/about/|FastBreak": {
+      "title": "FastBreak",
+      "link": "https://alternativeto.net/software/fastbreak/about/",
+      "first_seen": "2026-07-03T17:45:36.718716+00:00"
     }
   }
 }
