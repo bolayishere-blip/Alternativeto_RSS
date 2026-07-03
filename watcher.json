@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-02T23:51:43.727104+00:00",
+  "last_checked": "2026-07-03T03:29:40.775173+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1415,6 +1415,11 @@
       "title": "SmartFormulaPRO",
       "link": "https://alternativeto.net/software/smartformulapro/about/",
       "first_seen": "2026-07-02T23:51:43.049043+00:00"
+    },
+    "https://alternativeto.net/software/evoling/about/|Evoling": {
+      "title": "Evoling",
+      "link": "https://alternativeto.net/software/evoling/about/",
+      "first_seen": "2026-07-03T03:29:39.961032+00:00"
     }
   }
 }
