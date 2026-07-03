@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-03T14:23:51.873860+00:00",
+  "last_checked": "2026-07-03T16:06:35.835607+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1450,6 +1450,11 @@
       "title": "Volumeal",
       "link": "https://alternativeto.net/software/volumeal/about/",
       "first_seen": "2026-07-03T14:23:51.195365+00:00"
+    },
+    "https://alternativeto.net/software/forma-fitness/about/|FORMA Fitness": {
+      "title": "FORMA Fitness",
+      "link": "https://alternativeto.net/software/forma-fitness/about/",
+      "first_seen": "2026-07-03T16:06:34.869308+00:00"
     }
   }
 }
