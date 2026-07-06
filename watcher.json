@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-06T14:35:15.647411+00:00",
+  "last_checked": "2026-07-06T17:25:20.933157+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1520,6 +1520,11 @@
       "title": "AseeksB",
       "link": "https://alternativeto.net/software/aseeksb/about/",
       "first_seen": "2026-07-06T14:35:11.485772+00:00"
+    },
+    "https://alternativeto.net/software/docflow/about/|DocFlow": {
+      "title": "DocFlow",
+      "link": "https://alternativeto.net/software/docflow/about/",
+      "first_seen": "2026-07-06T17:25:20.248736+00:00"
     }
   }
 }
