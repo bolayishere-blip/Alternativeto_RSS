@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-06T11:00:31.237589+00:00",
+  "last_checked": "2026-07-06T14:35:15.647411+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1495,6 +1495,31 @@
       "title": "Showgest",
       "link": "https://alternativeto.net/software/showgest/about/",
       "first_seen": "2026-07-06T11:00:28.969962+00:00"
+    },
+    "https://alternativeto.net/software/bramble/about/|Bramble": {
+      "title": "Bramble",
+      "link": "https://alternativeto.net/software/bramble/about/",
+      "first_seen": "2026-07-06T14:35:11.485746+00:00"
+    },
+    "https://alternativeto.net/software/museflow/about/|MuseFlow": {
+      "title": "MuseFlow",
+      "link": "https://alternativeto.net/software/museflow/about/",
+      "first_seen": "2026-07-06T14:35:11.485764+00:00"
+    },
+    "https://alternativeto.net/software/vestigia-landmarks-revealed/about/|Vestigia": {
+      "title": "Vestigia",
+      "link": "https://alternativeto.net/software/vestigia-landmarks-revealed/about/",
+      "first_seen": "2026-07-06T14:35:11.485768+00:00"
+    },
+    "https://alternativeto.net/software/hubtweak/about/|HubTweak": {
+      "title": "HubTweak",
+      "link": "https://alternativeto.net/software/hubtweak/about/",
+      "first_seen": "2026-07-06T14:35:11.485770+00:00"
+    },
+    "https://alternativeto.net/software/aseeksb/about/|AseeksB": {
+      "title": "AseeksB",
+      "link": "https://alternativeto.net/software/aseeksb/about/",
+      "first_seen": "2026-07-06T14:35:11.485772+00:00"
     }
   }
 }
