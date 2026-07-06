@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-06T01:27:31.316318+00:00",
+  "last_checked": "2026-07-06T06:06:29.171678+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1470,6 +1470,16 @@
       "title": "Meta Pocket",
       "link": "https://alternativeto.net/software/meta-pocket/about/",
       "first_seen": "2026-07-05T16:43:06.536650+00:00"
+    },
+    "https://alternativeto.net/software/odra-poker-timer/about/|Odra Poker Timer": {
+      "title": "Odra Poker Timer",
+      "link": "https://alternativeto.net/software/odra-poker-timer/about/",
+      "first_seen": "2026-07-06T06:06:27.950382+00:00"
+    },
+    "https://alternativeto.net/software/keeping-the-piece/about/|Keeping the Piece": {
+      "title": "Keeping the Piece",
+      "link": "https://alternativeto.net/software/keeping-the-piece/about/",
+      "first_seen": "2026-07-06T06:06:27.950404+00:00"
     }
   }
 }
