@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-06T17:25:20.933157+00:00",
+  "last_checked": "2026-07-06T19:17:27.218814+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1525,6 +1525,16 @@
       "title": "DocFlow",
       "link": "https://alternativeto.net/software/docflow/about/",
       "first_seen": "2026-07-06T17:25:20.248736+00:00"
+    },
+    "https://alternativeto.net/software/geo2-delivery-route-planner/about/|Geo2 Delivery Route Planner": {
+      "title": "Geo2 Delivery Route Planner",
+      "link": "https://alternativeto.net/software/geo2-delivery-route-planner/about/",
+      "first_seen": "2026-07-06T19:17:25.935025+00:00"
+    },
+    "https://alternativeto.net/software/inflect/about/|Inflect": {
+      "title": "Inflect",
+      "link": "https://alternativeto.net/software/inflect/about/",
+      "first_seen": "2026-07-06T19:17:25.935047+00:00"
     }
   }
 }
