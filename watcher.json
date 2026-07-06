@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-06T21:05:50.689970+00:00",
+  "last_checked": "2026-07-06T22:35:13.459396+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1535,6 +1535,11 @@
       "title": "Inflect",
       "link": "https://alternativeto.net/software/inflect/about/",
       "first_seen": "2026-07-06T19:17:25.935047+00:00"
+    },
+    "https://alternativeto.net/software/bookzeta/about/|BookZeta": {
+      "title": "BookZeta",
+      "link": "https://alternativeto.net/software/bookzeta/about/",
+      "first_seen": "2026-07-06T22:35:12.377750+00:00"
     }
   }
 }
