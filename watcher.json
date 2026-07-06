@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-06T06:06:29.171678+00:00",
+  "last_checked": "2026-07-06T11:00:31.237589+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1480,6 +1480,21 @@
       "title": "Keeping the Piece",
       "link": "https://alternativeto.net/software/keeping-the-piece/about/",
       "first_seen": "2026-07-06T06:06:27.950404+00:00"
+    },
+    "https://alternativeto.net/software/invoicesnest/about/|InvoicesNest": {
+      "title": "InvoicesNest",
+      "link": "https://alternativeto.net/software/invoicesnest/about/",
+      "first_seen": "2026-07-06T11:00:28.969935+00:00"
+    },
+    "https://alternativeto.net/software/aura--ai-face-and-palm-reading/about/|AURA - AI Face & Palm Reading": {
+      "title": "AURA - AI Face & Palm Reading",
+      "link": "https://alternativeto.net/software/aura--ai-face-and-palm-reading/about/",
+      "first_seen": "2026-07-06T11:00:28.969959+00:00"
+    },
+    "https://alternativeto.net/software/showgest/about/|Showgest": {
+      "title": "Showgest",
+      "link": "https://alternativeto.net/software/showgest/about/",
+      "first_seen": "2026-07-06T11:00:28.969962+00:00"
     }
   }
 }
