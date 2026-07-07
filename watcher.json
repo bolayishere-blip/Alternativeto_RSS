@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-07T08:56:48.372333+00:00",
+  "last_checked": "2026-07-07T11:57:37.935063+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1540,6 +1540,31 @@
       "title": "BookZeta",
       "link": "https://alternativeto.net/software/bookzeta/about/",
       "first_seen": "2026-07-06T22:35:12.377750+00:00"
+    },
+    "https://alternativeto.net/software/zucchini/about/|Zucchini": {
+      "title": "Zucchini",
+      "link": "https://alternativeto.net/software/zucchini/about/",
+      "first_seen": "2026-07-07T11:57:35.154978+00:00"
+    },
+    "https://alternativeto.net/software/resistorgo/about/|ResistorGo": {
+      "title": "ResistorGo",
+      "link": "https://alternativeto.net/software/resistorgo/about/",
+      "first_seen": "2026-07-07T11:57:35.155003+00:00"
+    },
+    "https://alternativeto.net/software/indosso/about/|Indosso": {
+      "title": "Indosso",
+      "link": "https://alternativeto.net/software/indosso/about/",
+      "first_seen": "2026-07-07T11:57:35.155006+00:00"
+    },
+    "https://alternativeto.net/software/i-am-coming/about/|I Am Coming": {
+      "title": "I Am Coming",
+      "link": "https://alternativeto.net/software/i-am-coming/about/",
+      "first_seen": "2026-07-07T11:57:35.155009+00:00"
+    },
+    "https://alternativeto.net/software/geo2-delivery-route-planner/about/|Geo2": {
+      "title": "Geo2",
+      "link": "https://alternativeto.net/software/geo2-delivery-route-planner/about/",
+      "first_seen": "2026-07-07T11:57:35.155011+00:00"
     }
   }
 }
