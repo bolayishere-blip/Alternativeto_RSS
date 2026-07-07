@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-07T14:56:25.531302+00:00",
+  "last_checked": "2026-07-07T17:21:17.513223+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1565,6 +1565,26 @@
       "title": "Geo2",
       "link": "https://alternativeto.net/software/geo2-delivery-route-planner/about/",
       "first_seen": "2026-07-07T11:57:35.155011+00:00"
+    },
+    "https://alternativeto.net/software/tripprof/about/|TripProf": {
+      "title": "TripProf",
+      "link": "https://alternativeto.net/software/tripprof/about/",
+      "first_seen": "2026-07-07T17:21:14.755928+00:00"
+    },
+    "https://alternativeto.net/software/no-fuss-gym/about/|No Fuss Gym": {
+      "title": "No Fuss Gym",
+      "link": "https://alternativeto.net/software/no-fuss-gym/about/",
+      "first_seen": "2026-07-07T17:21:14.755950+00:00"
+    },
+    "https://alternativeto.net/software/local-seo-audit-tool/about/|Local Seo Audit Tool": {
+      "title": "Local Seo Audit Tool",
+      "link": "https://alternativeto.net/software/local-seo-audit-tool/about/",
+      "first_seen": "2026-07-07T17:21:14.755953+00:00"
+    },
+    "https://alternativeto.net/software/devo-bible-quiet-time/about/|devo: Bible quiet time": {
+      "title": "devo: Bible quiet time",
+      "link": "https://alternativeto.net/software/devo-bible-quiet-time/about/",
+      "first_seen": "2026-07-07T17:21:14.755955+00:00"
     }
   }
 }
