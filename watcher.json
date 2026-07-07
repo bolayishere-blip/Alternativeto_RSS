@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-07T19:20:29.797012+00:00",
+  "last_checked": "2026-07-07T21:06:11.070113+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1600,6 +1600,11 @@
       "title": "Strikethrough",
       "link": "https://alternativeto.net/software/strikethrough/about/",
       "first_seen": "2026-07-07T19:20:27.641966+00:00"
+    },
+    "https://alternativeto.net/software/workhand/about/|Workhand": {
+      "title": "Workhand",
+      "link": "https://alternativeto.net/software/workhand/about/",
+      "first_seen": "2026-07-07T21:06:10.395244+00:00"
     }
   }
 }
