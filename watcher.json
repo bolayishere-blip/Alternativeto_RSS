@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-08T04:29:01.674085+00:00",
+  "last_checked": "2026-07-08T07:07:32.516395+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1610,6 +1610,11 @@
       "title": "Stasht",
       "link": "https://alternativeto.net/software/stasht/about/",
       "first_seen": "2026-07-08T04:29:00.195736+00:00"
+    },
+    "https://alternativeto.net/software/nexa-exchange/about/|NEXA EXCHANGE": {
+      "title": "NEXA EXCHANGE",
+      "link": "https://alternativeto.net/software/nexa-exchange/about/",
+      "first_seen": "2026-07-08T07:07:31.719052+00:00"
     }
   }
 }
