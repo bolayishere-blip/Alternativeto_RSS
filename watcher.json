@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-08T07:07:32.516395+00:00",
+  "last_checked": "2026-07-08T09:35:29.914011+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1615,6 +1615,11 @@
       "title": "NEXA EXCHANGE",
       "link": "https://alternativeto.net/software/nexa-exchange/about/",
       "first_seen": "2026-07-08T07:07:31.719052+00:00"
+    },
+    "https://alternativeto.net/software/flax-hospitality-platform/about/|FLAX Hospitality Platform": {
+      "title": "FLAX Hospitality Platform",
+      "link": "https://alternativeto.net/software/flax-hospitality-platform/about/",
+      "first_seen": "2026-07-08T09:35:29.245522+00:00"
     }
   }
 }
