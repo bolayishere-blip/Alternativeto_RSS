@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-08T13:10:30.535005+00:00",
+  "last_checked": "2026-07-08T15:37:38.255594+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1635,6 +1635,21 @@
       "title": "BananaSplit",
       "link": "https://alternativeto.net/software/bananasplit--expenses-tracking/about/",
       "first_seen": "2026-07-08T13:10:28.695672+00:00"
+    },
+    "https://alternativeto.net/software/scribeflow/about/|ScribeFlow": {
+      "title": "ScribeFlow",
+      "link": "https://alternativeto.net/software/scribeflow/about/",
+      "first_seen": "2026-07-08T15:37:36.443605+00:00"
+    },
+    "https://alternativeto.net/software/tokn-authenticator/about/|Tokn": {
+      "title": "Tokn",
+      "link": "https://alternativeto.net/software/tokn-authenticator/about/",
+      "first_seen": "2026-07-08T15:37:36.443625+00:00"
+    },
+    "https://alternativeto.net/software/golfwiz-ai/about/|GolfWiz AI": {
+      "title": "GolfWiz AI",
+      "link": "https://alternativeto.net/software/golfwiz-ai/about/",
+      "first_seen": "2026-07-08T15:37:36.443628+00:00"
     }
   }
 }
