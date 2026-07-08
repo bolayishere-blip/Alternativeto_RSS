@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-08T22:40:25.856051+00:00",
+  "last_checked": "2026-07-08T23:53:17.177729+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1660,6 +1660,11 @@
       "title": "TransParking",
       "link": "https://alternativeto.net/software/transparking/about/",
       "first_seen": "2026-07-08T22:40:25.178946+00:00"
+    },
+    "https://alternativeto.net/software/pennyhelm/about/|PennyHelm": {
+      "title": "PennyHelm",
+      "link": "https://alternativeto.net/software/pennyhelm/about/",
+      "first_seen": "2026-07-08T23:53:16.427887+00:00"
     }
   }
 }
