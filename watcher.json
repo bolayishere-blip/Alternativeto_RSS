@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-08T11:28:27.281117+00:00",
+  "last_checked": "2026-07-08T13:10:30.535005+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1620,6 +1620,21 @@
       "title": "FLAX Hospitality Platform",
       "link": "https://alternativeto.net/software/flax-hospitality-platform/about/",
       "first_seen": "2026-07-08T09:35:29.245522+00:00"
+    },
+    "https://alternativeto.net/software/the-running-genie/about/|The Running Genie": {
+      "title": "The Running Genie",
+      "link": "https://alternativeto.net/software/the-running-genie/about/",
+      "first_seen": "2026-07-08T13:10:28.695646+00:00"
+    },
+    "https://alternativeto.net/software/alma-safety-check-in/about/|Alma: Safety Check-In": {
+      "title": "Alma: Safety Check-In",
+      "link": "https://alternativeto.net/software/alma-safety-check-in/about/",
+      "first_seen": "2026-07-08T13:10:28.695669+00:00"
+    },
+    "https://alternativeto.net/software/bananasplit--expenses-tracking/about/|BananaSplit": {
+      "title": "BananaSplit",
+      "link": "https://alternativeto.net/software/bananasplit--expenses-tracking/about/",
+      "first_seen": "2026-07-08T13:10:28.695672+00:00"
     }
   }
 }
