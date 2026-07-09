@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-09T21:45:46.504981+00:00",
+  "last_checked": "2026-07-09T22:58:23.541720+00:00",
   "seen": {
-    "https://alternativeto.net/software/resolvekit/about/|ResolveKit": {
-      "title": "ResolveKit",
-      "link": "https://alternativeto.net/software/resolvekit/about/",
-      "first_seen": "2026-06-09T21:49:25.631181+00:00"
-    },
     "https://alternativeto.net/software/planotrak/about/|PlanoTrak": {
       "title": "PlanoTrak",
       "link": "https://alternativeto.net/software/planotrak/about/",
@@ -1640,6 +1635,11 @@
       "title": "Streamplace",
       "link": "https://alternativeto.net/software/streamplace/about/",
       "first_seen": "2026-07-09T20:10:13.570366+00:00"
+    },
+    "https://alternativeto.net/software/disc-rpm/about/|Disc RPM": {
+      "title": "Disc RPM",
+      "link": "https://alternativeto.net/software/disc-rpm/about/",
+      "first_seen": "2026-07-09T22:58:22.865038+00:00"
     }
   }
 }
