@@ -1,131 +1,6 @@
 {
-  "last_checked": "2026-07-09T16:14:37.233092+00:00",
+  "last_checked": "2026-07-09T18:13:06.780365+00:00",
   "seen": {
-    "https://alternativeto.net/software/spatius/about/|Spatius": {
-      "title": "Spatius",
-      "link": "https://alternativeto.net/software/spatius/about/",
-      "first_seen": "2026-06-09T16:32:53.562164+00:00"
-    },
-    "https://alternativeto.net/software/daremeet/about/|Daremeet": {
-      "title": "Daremeet",
-      "link": "https://alternativeto.net/software/daremeet/about/",
-      "first_seen": "2026-06-09T16:32:53.563264+00:00"
-    },
-    "https://alternativeto.net/software/dartist-darts-scorer-and-ai/about/|Dartist": {
-      "title": "Dartist",
-      "link": "https://alternativeto.net/software/dartist-darts-scorer-and-ai/about/",
-      "first_seen": "2026-06-09T16:32:53.564001+00:00"
-    },
-    "https://alternativeto.net/software/wishowl/about/|Wishowl": {
-      "title": "Wishowl",
-      "link": "https://alternativeto.net/software/wishowl/about/",
-      "first_seen": "2026-06-09T16:32:53.564606+00:00"
-    },
-    "https://alternativeto.net/software/pdf-inspector/about/|PDF Inspector": {
-      "title": "PDF Inspector",
-      "link": "https://alternativeto.net/software/pdf-inspector/about/",
-      "first_seen": "2026-06-09T16:32:53.565231+00:00"
-    },
-    "https://alternativeto.net/software/xnotes/about/|xnotes": {
-      "title": "xnotes",
-      "link": "https://alternativeto.net/software/xnotes/about/",
-      "first_seen": "2026-06-09T16:32:53.566110+00:00"
-    },
-    "https://alternativeto.net/software/temp-contact-tempnumber-saver/about/|Temp Contact": {
-      "title": "Temp Contact",
-      "link": "https://alternativeto.net/software/temp-contact-tempnumber-saver/about/",
-      "first_seen": "2026-06-09T16:32:53.566775+00:00"
-    },
-    "https://alternativeto.net/software/momentum-todo-tasks-and-routines/about/|Momentum TODO": {
-      "title": "Momentum TODO",
-      "link": "https://alternativeto.net/software/momentum-todo-tasks-and-routines/about/",
-      "first_seen": "2026-06-09T16:32:53.567379+00:00"
-    },
-    "https://alternativeto.net/software/yarai-skincare/about/|YARAI": {
-      "title": "YARAI",
-      "link": "https://alternativeto.net/software/yarai-skincare/about/",
-      "first_seen": "2026-06-09T16:32:53.567998+00:00"
-    },
-    "https://alternativeto.net/software/supercmms/about/|SuperCMMS": {
-      "title": "SuperCMMS",
-      "link": "https://alternativeto.net/software/supercmms/about/",
-      "first_seen": "2026-06-09T16:32:53.568607+00:00"
-    },
-    "https://alternativeto.net/software/habitforge/about/|HabitForge": {
-      "title": "HabitForge",
-      "link": "https://alternativeto.net/software/habitforge/about/",
-      "first_seen": "2026-06-09T16:32:53.569199+00:00"
-    },
-    "https://alternativeto.net/software/your-pomodoro/about/|Your Pomodoro": {
-      "title": "Your Pomodoro",
-      "link": "https://alternativeto.net/software/your-pomodoro/about/",
-      "first_seen": "2026-06-09T16:32:53.569780+00:00"
-    },
-    "https://alternativeto.net/software/digiagriapp/about/|DigiAgriApp": {
-      "title": "DigiAgriApp",
-      "link": "https://alternativeto.net/software/digiagriapp/about/",
-      "first_seen": "2026-06-09T16:32:53.570364+00:00"
-    },
-    "https://alternativeto.net/software/nfile/about/|NFile": {
-      "title": "NFile",
-      "link": "https://alternativeto.net/software/nfile/about/",
-      "first_seen": "2026-06-09T16:32:53.570912+00:00"
-    },
-    "https://alternativeto.net/software/seekquel/about/|Seekquel": {
-      "title": "Seekquel",
-      "link": "https://alternativeto.net/software/seekquel/about/",
-      "first_seen": "2026-06-09T16:32:53.571632+00:00"
-    },
-    "https://alternativeto.net/software/game-of-fives/about/|Game of Fives": {
-      "title": "Game of Fives",
-      "link": "https://alternativeto.net/software/game-of-fives/about/",
-      "first_seen": "2026-06-09T16:32:53.572282+00:00"
-    },
-    "https://alternativeto.net/software/open3d-viewer/about/|Open3D Viewer": {
-      "title": "Open3D Viewer",
-      "link": "https://alternativeto.net/software/open3d-viewer/about/",
-      "first_seen": "2026-06-09T16:32:53.572867+00:00"
-    },
-    "https://alternativeto.net/software/geometryviewer/about/|GeometryViewer": {
-      "title": "GeometryViewer",
-      "link": "https://alternativeto.net/software/geometryviewer/about/",
-      "first_seen": "2026-06-09T16:32:53.573508+00:00"
-    },
-    "https://alternativeto.net/software/summ-it/about/|Summ-it": {
-      "title": "Summ-it",
-      "link": "https://alternativeto.net/software/summ-it/about/",
-      "first_seen": "2026-06-09T16:32:53.574183+00:00"
-    },
-    "https://alternativeto.net/software/updatium/about/|Updatium": {
-      "title": "Updatium",
-      "link": "https://alternativeto.net/software/updatium/about/",
-      "first_seen": "2026-06-09T16:32:53.574757+00:00"
-    },
-    "https://alternativeto.net/software/bookjor/about/|Bookjor": {
-      "title": "Bookjor",
-      "link": "https://alternativeto.net/software/bookjor/about/",
-      "first_seen": "2026-06-09T16:32:53.575361+00:00"
-    },
-    "https://alternativeto.net/software/rozvibe/about/|RozVibe": {
-      "title": "RozVibe",
-      "link": "https://alternativeto.net/software/rozvibe/about/",
-      "first_seen": "2026-06-09T16:32:53.575978+00:00"
-    },
-    "https://alternativeto.net/software/untyped--voice-to-email/about/|Untyped": {
-      "title": "Untyped",
-      "link": "https://alternativeto.net/software/untyped--voice-to-email/about/",
-      "first_seen": "2026-06-09T16:32:53.576739+00:00"
-    },
-    "https://alternativeto.net/software/planneat-indian-meal-planner/about/|PlanNEat": {
-      "title": "PlanNEat",
-      "link": "https://alternativeto.net/software/planneat-indian-meal-planner/about/",
-      "first_seen": "2026-06-09T16:32:53.577314+00:00"
-    },
-    "https://alternativeto.net/software/vnesys/about/|Vnesys": {
-      "title": "Vnesys",
-      "link": "https://alternativeto.net/software/vnesys/about/",
-      "first_seen": "2026-06-09T16:32:53.578174+00:00"
-    },
     "https://alternativeto.net/software/resolvekit/about/|ResolveKit": {
       "title": "ResolveKit",
       "link": "https://alternativeto.net/software/resolvekit/about/",
@@ -1755,6 +1630,11 @@
       "title": "PokerEye",
       "link": "https://alternativeto.net/software/pokereye-tournament-director/about/",
       "first_seen": "2026-07-09T16:14:34.169045+00:00"
+    },
+    "https://alternativeto.net/software/xuterm/about/|XuTerm": {
+      "title": "XuTerm",
+      "link": "https://alternativeto.net/software/xuterm/about/",
+      "first_seen": "2026-07-09T18:13:05.966599+00:00"
     }
   }
 }
