@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-09T07:14:03.118167+00:00",
+  "last_checked": "2026-07-09T13:35:17.079645+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1690,6 +1690,51 @@
       "title": "Chatbrat.ai",
       "link": "https://alternativeto.net/software/chatbrat-ai/about/",
       "first_seen": "2026-07-09T07:14:01.792030+00:00"
+    },
+    "https://alternativeto.net/software/orlya/about/|Orlya": {
+      "title": "Orlya",
+      "link": "https://alternativeto.net/software/orlya/about/",
+      "first_seen": "2026-07-09T13:35:06.937794+00:00"
+    },
+    "https://alternativeto.net/software/downloadmapimage/about/|DownloadMapImage": {
+      "title": "DownloadMapImage",
+      "link": "https://alternativeto.net/software/downloadmapimage/about/",
+      "first_seen": "2026-07-09T13:35:06.937816+00:00"
+    },
+    "https://alternativeto.net/software/onebag/about/|OneBag": {
+      "title": "OneBag",
+      "link": "https://alternativeto.net/software/onebag/about/",
+      "first_seen": "2026-07-09T13:35:06.937818+00:00"
+    },
+    "https://alternativeto.net/software/look-it-up--reference-cards/about/|Look it up": {
+      "title": "Look it up",
+      "link": "https://alternativeto.net/software/look-it-up--reference-cards/about/",
+      "first_seen": "2026-07-09T13:35:06.937821+00:00"
+    },
+    "https://alternativeto.net/software/cue-clock/about/|Cue Clock": {
+      "title": "Cue Clock",
+      "link": "https://alternativeto.net/software/cue-clock/about/",
+      "first_seen": "2026-07-09T13:35:06.937834+00:00"
+    },
+    "https://alternativeto.net/software/gameventory/about/|GameVentory": {
+      "title": "GameVentory",
+      "link": "https://alternativeto.net/software/gameventory/about/",
+      "first_seen": "2026-07-09T13:35:06.937835+00:00"
+    },
+    "https://alternativeto.net/software/notte--ai-workspace/about/|Notte - AI Workspace": {
+      "title": "Notte - AI Workspace",
+      "link": "https://alternativeto.net/software/notte--ai-workspace/about/",
+      "first_seen": "2026-07-09T13:35:06.937837+00:00"
+    },
+    "https://alternativeto.net/software/expensespy/about/|ExpenseSpy": {
+      "title": "ExpenseSpy",
+      "link": "https://alternativeto.net/software/expensespy/about/",
+      "first_seen": "2026-07-09T13:35:06.937841+00:00"
+    },
+    "https://alternativeto.net/software/verisky/about/|VeriSky": {
+      "title": "VeriSky",
+      "link": "https://alternativeto.net/software/verisky/about/",
+      "first_seen": "2026-07-09T13:35:06.937843+00:00"
     }
   }
 }
