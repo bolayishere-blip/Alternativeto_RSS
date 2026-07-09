@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-09T03:30:55.616973+00:00",
+  "last_checked": "2026-07-09T07:14:03.118167+00:00",
   "seen": {
     "https://alternativeto.net/software/spatius/about/|Spatius": {
       "title": "Spatius",
@@ -1680,6 +1680,16 @@
       "title": "BoardGame Battles",
       "link": "https://alternativeto.net/software/boardgame-battles/about/",
       "first_seen": "2026-07-09T03:30:52.930954+00:00"
+    },
+    "https://alternativeto.net/software/librecuts/about/|LibreCuts": {
+      "title": "LibreCuts",
+      "link": "https://alternativeto.net/software/librecuts/about/",
+      "first_seen": "2026-07-09T07:14:01.792011+00:00"
+    },
+    "https://alternativeto.net/software/chatbrat-ai/about/|Chatbrat.ai": {
+      "title": "Chatbrat.ai",
+      "link": "https://alternativeto.net/software/chatbrat-ai/about/",
+      "first_seen": "2026-07-09T07:14:01.792030+00:00"
     }
   }
 }
