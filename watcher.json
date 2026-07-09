@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-09T18:13:06.780365+00:00",
+  "last_checked": "2026-07-09T20:10:14.460588+00:00",
   "seen": {
     "https://alternativeto.net/software/resolvekit/about/|ResolveKit": {
       "title": "ResolveKit",
@@ -1635,6 +1635,11 @@
       "title": "XuTerm",
       "link": "https://alternativeto.net/software/xuterm/about/",
       "first_seen": "2026-07-09T18:13:05.966599+00:00"
+    },
+    "https://alternativeto.net/software/streamplace/about/|Streamplace": {
+      "title": "Streamplace",
+      "link": "https://alternativeto.net/software/streamplace/about/",
+      "first_seen": "2026-07-09T20:10:13.570366+00:00"
     }
   }
 }
