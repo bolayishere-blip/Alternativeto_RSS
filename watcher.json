@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-10T11:16:48.237277+00:00",
+  "last_checked": "2026-07-10T13:21:38.812053+00:00",
   "seen": {
     "https://alternativeto.net/software/hercules---gym-tracker/about/|Hercules - Gym Tracker": {
       "title": "Hercules  -  Gym Tracker",
@@ -1625,6 +1625,16 @@
       "title": "Fogbreaker",
       "link": "https://alternativeto.net/software/fogbreaker--explore-the-map/about/",
       "first_seen": "2026-07-10T11:16:47.303893+00:00"
+    },
+    "https://alternativeto.net/software/been--travel-map-and-tracker/about/|been": {
+      "title": "been",
+      "link": "https://alternativeto.net/software/been--travel-map-and-tracker/about/",
+      "first_seen": "2026-07-10T13:21:37.471819+00:00"
+    },
+    "https://alternativeto.net/software/gaplearn-daily-micro-learning/about/|GapLearn": {
+      "title": "GapLearn",
+      "link": "https://alternativeto.net/software/gaplearn-daily-micro-learning/about/",
+      "first_seen": "2026-07-10T13:21:37.471839+00:00"
     }
   }
 }
