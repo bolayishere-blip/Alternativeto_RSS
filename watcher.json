@@ -1,26 +1,6 @@
 {
-  "last_checked": "2026-07-10T04:27:41.619567+00:00",
+  "last_checked": "2026-07-10T08:00:28.366016+00:00",
   "seen": {
-    "https://alternativeto.net/software/foodkin/about/|FoodKin": {
-      "title": "FoodKin",
-      "link": "https://alternativeto.net/software/foodkin/about/",
-      "first_seen": "2026-06-10T06:04:18.479269+00:00"
-    },
-    "https://alternativeto.net/software/docnado-document-manager-/about/|DocNado (Document Manager)": {
-      "title": "DocNado (Document Manager)",
-      "link": "https://alternativeto.net/software/docnado-document-manager-/about/",
-      "first_seen": "2026-06-10T06:04:18.481543+00:00"
-    },
-    "https://alternativeto.net/software/memobloom-photo-memories/about/|MemoBloom: Photo Memories": {
-      "title": "MemoBloom: Photo Memories",
-      "link": "https://alternativeto.net/software/memobloom-photo-memories/about/",
-      "first_seen": "2026-06-10T06:04:18.482402+00:00"
-    },
-    "https://alternativeto.net/software/worldtimeplanner/about/|WorldTimePlanner": {
-      "title": "WorldTimePlanner",
-      "link": "https://alternativeto.net/software/worldtimeplanner/about/",
-      "first_seen": "2026-06-10T06:04:18.483109+00:00"
-    },
     "https://alternativeto.net/software/hercules---gym-tracker/about/|Hercules - Gym Tracker": {
       "title": "Hercules  -  Gym Tracker",
       "link": "https://alternativeto.net/software/hercules---gym-tracker/about/",
@@ -1635,6 +1615,11 @@
       "title": "Kivvie",
       "link": "https://alternativeto.net/software/kivvie/about/",
       "first_seen": "2026-07-10T00:13:43.120447+00:00"
+    },
+    "https://alternativeto.net/software/parental-control-app--kubo/about/|Kubo - Parental Control": {
+      "title": "Kubo - Parental Control",
+      "link": "https://alternativeto.net/software/parental-control-app--kubo/about/",
+      "first_seen": "2026-07-10T08:00:27.641704+00:00"
     }
   }
 }
