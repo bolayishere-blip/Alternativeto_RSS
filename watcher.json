@@ -1,26 +1,6 @@
 {
-  "last_checked": "2026-07-10T13:21:38.812053+00:00",
+  "last_checked": "2026-07-10T15:55:51.463897+00:00",
   "seen": {
-    "https://alternativeto.net/software/hercules---gym-tracker/about/|Hercules - Gym Tracker": {
-      "title": "Hercules  -  Gym Tracker",
-      "link": "https://alternativeto.net/software/hercules---gym-tracker/about/",
-      "first_seen": "2026-06-10T13:56:16.924075+00:00"
-    },
-    "https://alternativeto.net/software/flextv/about/|FlexTV": {
-      "title": "FlexTV",
-      "link": "https://alternativeto.net/software/flextv/about/",
-      "first_seen": "2026-06-10T13:56:16.926654+00:00"
-    },
-    "https://alternativeto.net/software/messagefuture/about/|MessageFuture": {
-      "title": "MessageFuture",
-      "link": "https://alternativeto.net/software/messagefuture/about/",
-      "first_seen": "2026-06-10T13:56:16.927554+00:00"
-    },
-    "https://alternativeto.net/software/zeropop/about/|ZeroPop": {
-      "title": "ZeroPop",
-      "link": "https://alternativeto.net/software/zeropop/about/",
-      "first_seen": "2026-06-10T13:56:16.928438+00:00"
-    },
     "https://alternativeto.net/software/tld/about/|tld": {
       "title": "tld",
       "link": "https://alternativeto.net/software/tld/about/",
@@ -1635,6 +1615,21 @@
       "title": "GapLearn",
       "link": "https://alternativeto.net/software/gaplearn-daily-micro-learning/about/",
       "first_seen": "2026-07-10T13:21:37.471839+00:00"
+    },
+    "https://alternativeto.net/software/todoing-ly/about/|Todoing.ly": {
+      "title": "Todoing.ly",
+      "link": "https://alternativeto.net/software/todoing-ly/about/",
+      "first_seen": "2026-07-10T15:55:48.995280+00:00"
+    },
+    "https://alternativeto.net/software/asapdf/about/|ASAPDF": {
+      "title": "ASAPDF",
+      "link": "https://alternativeto.net/software/asapdf/about/",
+      "first_seen": "2026-07-10T15:55:48.995300+00:00"
+    },
+    "https://alternativeto.net/software/trainera/about/|Trainera": {
+      "title": "Trainera",
+      "link": "https://alternativeto.net/software/trainera/about/",
+      "first_seen": "2026-07-10T15:55:48.995303+00:00"
     }
   }
 }
