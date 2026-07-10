@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-10T08:00:28.366016+00:00",
+  "last_checked": "2026-07-10T11:16:48.237277+00:00",
   "seen": {
     "https://alternativeto.net/software/hercules---gym-tracker/about/|Hercules - Gym Tracker": {
       "title": "Hercules  -  Gym Tracker",
@@ -1620,6 +1620,11 @@
       "title": "Kubo - Parental Control",
       "link": "https://alternativeto.net/software/parental-control-app--kubo/about/",
       "first_seen": "2026-07-10T08:00:27.641704+00:00"
+    },
+    "https://alternativeto.net/software/fogbreaker--explore-the-map/about/|Fogbreaker": {
+      "title": "Fogbreaker",
+      "link": "https://alternativeto.net/software/fogbreaker--explore-the-map/about/",
+      "first_seen": "2026-07-10T11:16:47.303893+00:00"
     }
   }
 }
