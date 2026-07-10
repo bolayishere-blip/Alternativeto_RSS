@@ -1,16 +1,6 @@
 {
-  "last_checked": "2026-07-09T22:58:23.541720+00:00",
+  "last_checked": "2026-07-10T00:13:44.051555+00:00",
   "seen": {
-    "https://alternativeto.net/software/planotrak/about/|PlanoTrak": {
-      "title": "PlanoTrak",
-      "link": "https://alternativeto.net/software/planotrak/about/",
-      "first_seen": "2026-06-09T23:06:36.477325+00:00"
-    },
-    "https://alternativeto.net/software/cazvid/about/|CazVid": {
-      "title": "CazVid",
-      "link": "https://alternativeto.net/software/cazvid/about/",
-      "first_seen": "2026-06-09T23:44:11.744874+00:00"
-    },
     "https://alternativeto.net/software/foodkin/about/|FoodKin": {
       "title": "FoodKin",
       "link": "https://alternativeto.net/software/foodkin/about/",
@@ -1640,6 +1630,11 @@
       "title": "Disc RPM",
       "link": "https://alternativeto.net/software/disc-rpm/about/",
       "first_seen": "2026-07-09T22:58:22.865038+00:00"
+    },
+    "https://alternativeto.net/software/kivvie/about/|Kivvie": {
+      "title": "Kivvie",
+      "link": "https://alternativeto.net/software/kivvie/about/",
+      "first_seen": "2026-07-10T00:13:43.120447+00:00"
     }
   }
 }
