@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-11T14:08:08.333169+00:00",
+  "last_checked": "2026-07-11T15:14:23.739987+00:00",
   "seen": {
     "https://alternativeto.net/software/nfcore/about/|NFCore": {
       "title": "NFCore",
@@ -1565,6 +1565,11 @@
       "title": "FileFlow File Organizer",
       "link": "https://alternativeto.net/software/fileflow-file-organizer/about/",
       "first_seen": "2026-07-10T22:44:06.509918+00:00"
+    },
+    "https://alternativeto.net/software/appverifier-bg/about/|AppVerifier BG": {
+      "title": "AppVerifier BG",
+      "link": "https://alternativeto.net/software/appverifier-bg/about/",
+      "first_seen": "2026-07-11T15:14:22.845285+00:00"
     }
   }
 }
