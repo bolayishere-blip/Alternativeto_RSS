@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-12T20:24:47.381336+00:00",
+  "last_checked": "2026-07-12T21:23:40.462076+00:00",
   "seen": {
-    "https://alternativeto.net/software/code-the-path_-maze-game/about/|Code the path_ Maze Game": {
-      "title": "Code the path_ Maze Game",
-      "link": "https://alternativeto.net/software/code-the-path_-maze-game/about/",
-      "first_seen": "2026-06-12T20:26:54.715444+00:00"
-    },
     "https://alternativeto.net/software/croc-app/about/|croc-app": {
       "title": "croc-app",
       "link": "https://alternativeto.net/software/croc-app/about/",
@@ -1510,6 +1505,11 @@
       "title": "NoteSR",
       "link": "https://alternativeto.net/software/notesr/about/",
       "first_seen": "2026-07-12T19:34:16.578120+00:00"
+    },
+    "https://alternativeto.net/software/filepipe-auto-files-organizer/about/|FilePipe": {
+      "title": "FilePipe",
+      "link": "https://alternativeto.net/software/filepipe-auto-files-organizer/about/",
+      "first_seen": "2026-07-12T21:23:39.597599+00:00"
     }
   }
 }
