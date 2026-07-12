@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-12T10:53:59.802480+00:00",
+  "last_checked": "2026-07-12T12:02:34.849984+00:00",
   "seen": {
     "https://alternativeto.net/software/baylo/about/|Baylo": {
       "title": "Baylo",
@@ -1525,6 +1525,11 @@
       "title": "FilePipe: Auto Files Organizer",
       "link": "https://alternativeto.net/software/filepipe-auto-files-organizer/about/",
       "first_seen": "2026-07-12T09:22:21.574320+00:00"
+    },
+    "https://alternativeto.net/software/acurite-now/about/|AcuRite NOW": {
+      "title": "AcuRite NOW",
+      "link": "https://alternativeto.net/software/acurite-now/about/",
+      "first_seen": "2026-07-12T12:02:33.961412+00:00"
     }
   }
 }
