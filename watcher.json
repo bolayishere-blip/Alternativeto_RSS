@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-12T18:12:23.092065+00:00",
+  "last_checked": "2026-07-12T19:34:17.298670+00:00",
   "seen": {
     "https://alternativeto.net/software/code-the-path_-maze-game/about/|Code the path_ Maze Game": {
       "title": "Code the path_ Maze Game",
@@ -1505,6 +1505,11 @@
       "title": "AcuRite NOW",
       "link": "https://alternativeto.net/software/acurite-now/about/",
       "first_seen": "2026-07-12T12:02:33.961412+00:00"
+    },
+    "https://alternativeto.net/software/notesr/about/|NoteSR": {
+      "title": "NoteSR",
+      "link": "https://alternativeto.net/software/notesr/about/",
+      "first_seen": "2026-07-12T19:34:16.578120+00:00"
     }
   }
 }
