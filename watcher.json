@@ -1,16 +1,6 @@
 {
-  "last_checked": "2026-07-12T07:19:25.448338+00:00",
+  "last_checked": "2026-07-12T09:22:23.148158+00:00",
   "seen": {
-    "https://alternativeto.net/software/anydex/about/|AnyDex": {
-      "title": "AnyDex",
-      "link": "https://alternativeto.net/software/anydex/about/",
-      "first_seen": "2026-06-12T09:16:10.358926+00:00"
-    },
-    "https://alternativeto.net/software/hootark/about/|HootArk": {
-      "title": "HootArk",
-      "link": "https://alternativeto.net/software/hootark/about/",
-      "first_seen": "2026-06-12T09:16:10.361330+00:00"
-    },
     "https://alternativeto.net/software/baylo/about/|Baylo": {
       "title": "Baylo",
       "link": "https://alternativeto.net/software/baylo/about/",
@@ -1525,6 +1515,16 @@
       "title": "whisper.cpp",
       "link": "https://alternativeto.net/software/whisper-cpp/about/",
       "first_seen": "2026-07-11T18:27:44.718106+00:00"
+    },
+    "https://alternativeto.net/software/minus--budget-tracking/about/|Minus - Budget Tracking": {
+      "title": "Minus - Budget Tracking",
+      "link": "https://alternativeto.net/software/minus--budget-tracking/about/",
+      "first_seen": "2026-07-12T09:22:21.574299+00:00"
+    },
+    "https://alternativeto.net/software/filepipe-auto-files-organizer/about/|FilePipe: Auto Files Organizer": {
+      "title": "FilePipe: Auto Files Organizer",
+      "link": "https://alternativeto.net/software/filepipe-auto-files-organizer/about/",
+      "first_seen": "2026-07-12T09:22:21.574320+00:00"
     }
   }
 }
