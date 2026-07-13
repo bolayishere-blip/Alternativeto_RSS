@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-13T18:13:04.567843+00:00",
+  "last_checked": "2026-07-13T19:53:19.117802+00:00",
   "seen": {
     "https://alternativeto.net/software/irischat/about/|irischat": {
       "title": "irischat",
@@ -1570,6 +1570,11 @@
       "title": "QuitNic AI",
       "link": "https://alternativeto.net/software/quitnic-ai/about/",
       "first_seen": "2026-07-13T18:13:03.659526+00:00"
+    },
+    "https://alternativeto.net/software/mumostream/about/|MumoStream": {
+      "title": "MumoStream",
+      "link": "https://alternativeto.net/software/mumostream/about/",
+      "first_seen": "2026-07-13T19:53:18.351903+00:00"
     }
   }
 }
