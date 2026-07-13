@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-13T20:58:31.869733+00:00",
+  "last_checked": "2026-07-13T22:02:58.420057+00:00",
   "seen": {
     "https://alternativeto.net/software/irischat/about/|irischat": {
       "title": "irischat",
@@ -1575,6 +1575,11 @@
       "title": "MumoStream",
       "link": "https://alternativeto.net/software/mumostream/about/",
       "first_seen": "2026-07-13T19:53:18.351903+00:00"
+    },
+    "https://alternativeto.net/software/mindful-guard/about/|Mindful Guard": {
+      "title": "Mindful Guard",
+      "link": "https://alternativeto.net/software/mindful-guard/about/",
+      "first_seen": "2026-07-13T22:02:57.546146+00:00"
     }
   }
 }
