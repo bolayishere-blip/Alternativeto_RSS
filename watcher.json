@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-12T23:27:31.317177+00:00",
+  "last_checked": "2026-07-13T01:07:15.691142+00:00",
   "seen": {
     "https://alternativeto.net/software/jamu/about/|Jamu": {
       "title": "Jamu",
@@ -1505,6 +1505,11 @@
       "title": "FilePipe",
       "link": "https://alternativeto.net/software/filepipe-auto-files-organizer/about/",
       "first_seen": "2026-07-12T21:23:39.597599+00:00"
+    },
+    "https://alternativeto.net/software/storagebites/about/|StorageBites": {
+      "title": "StorageBites",
+      "link": "https://alternativeto.net/software/storagebites/about/",
+      "first_seen": "2026-07-13T01:07:15.006209+00:00"
     }
   }
 }
