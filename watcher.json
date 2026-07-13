@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-13T16:11:26.244790+00:00",
+  "last_checked": "2026-07-13T18:13:04.567843+00:00",
   "seen": {
     "https://alternativeto.net/software/irischat/about/|irischat": {
       "title": "irischat",
@@ -1565,6 +1565,11 @@
       "title": "W Social",
       "link": "https://alternativeto.net/software/w-social/about/",
       "first_seen": "2026-07-13T16:11:22.720822+00:00"
+    },
+    "https://alternativeto.net/software/quitnic-ai/about/|QuitNic AI": {
+      "title": "QuitNic AI",
+      "link": "https://alternativeto.net/software/quitnic-ai/about/",
+      "first_seen": "2026-07-13T18:13:03.659526+00:00"
     }
   }
 }
