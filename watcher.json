@@ -1,16 +1,6 @@
 {
-  "last_checked": "2026-07-13T07:57:27.617646+00:00",
+  "last_checked": "2026-07-13T11:22:49.887117+00:00",
   "seen": {
-    "https://alternativeto.net/software/jamu/about/|Jamu": {
-      "title": "Jamu",
-      "link": "https://alternativeto.net/software/jamu/about/",
-      "first_seen": "2026-06-13T10:36:01.040330+00:00"
-    },
-    "https://alternativeto.net/software/nori/about/|Nori": {
-      "title": "Nori",
-      "link": "https://alternativeto.net/software/nori/about/",
-      "first_seen": "2026-06-13T10:36:01.042906+00:00"
-    },
     "https://alternativeto.net/software/zenon/about/|Zenon": {
       "title": "Zenon",
       "link": "https://alternativeto.net/software/zenon/about/",
@@ -1525,6 +1515,36 @@
       "title": "MakeByMe",
       "link": "https://alternativeto.net/software/makebyme/about/",
       "first_seen": "2026-07-13T07:57:26.389401+00:00"
+    },
+    "https://alternativeto.net/software/studily/about/|Studily": {
+      "title": "Studily",
+      "link": "https://alternativeto.net/software/studily/about/",
+      "first_seen": "2026-07-13T11:22:41.706794+00:00"
+    },
+    "https://alternativeto.net/software/fuelshine/about/|Fuelshine": {
+      "title": "Fuelshine",
+      "link": "https://alternativeto.net/software/fuelshine/about/",
+      "first_seen": "2026-07-13T11:22:41.706823+00:00"
+    },
+    "https://alternativeto.net/software/intent-closer-across-language/about/|Intent: Closer Across Language": {
+      "title": "Intent: Closer Across Language",
+      "link": "https://alternativeto.net/software/intent-closer-across-language/about/",
+      "first_seen": "2026-07-13T11:22:41.706826+00:00"
+    },
+    "https://alternativeto.net/software/freaks/about/|Freaks": {
+      "title": "Freaks",
+      "link": "https://alternativeto.net/software/freaks/about/",
+      "first_seen": "2026-07-13T11:22:41.706828+00:00"
+    },
+    "https://alternativeto.net/software/fitzpot/about/|Fitzpot": {
+      "title": "Fitzpot",
+      "link": "https://alternativeto.net/software/fitzpot/about/",
+      "first_seen": "2026-07-13T11:22:41.706831+00:00"
+    },
+    "https://alternativeto.net/software/calviq-ai-calorie-tracker/about/|Calviq AI": {
+      "title": "Calviq AI",
+      "link": "https://alternativeto.net/software/calviq-ai-calorie-tracker/about/",
+      "first_seen": "2026-07-13T11:22:41.706834+00:00"
     }
   }
 }
