@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-13T13:34:08.157791+00:00",
+  "last_checked": "2026-07-13T16:11:26.244790+00:00",
   "seen": {
-    "https://alternativeto.net/software/zenon/about/|Zenon": {
-      "title": "Zenon",
-      "link": "https://alternativeto.net/software/zenon/about/",
-      "first_seen": "2026-06-13T16:03:15.359955+00:00"
-    },
     "https://alternativeto.net/software/irischat/about/|irischat": {
       "title": "irischat",
       "link": "https://alternativeto.net/software/irischat/about/",
@@ -1550,6 +1545,26 @@
       "title": "Oasis: Toilet Finder & Water",
       "link": "https://alternativeto.net/software/oasis-toilet-finder-and-water/about/",
       "first_seen": "2026-07-13T13:34:07.407656+00:00"
+    },
+    "https://alternativeto.net/software/veritask/about/|Veritask": {
+      "title": "Veritask",
+      "link": "https://alternativeto.net/software/veritask/about/",
+      "first_seen": "2026-07-13T16:11:22.720798+00:00"
+    },
+    "https://alternativeto.net/software/cylacar/about/|Cylacar": {
+      "title": "Cylacar",
+      "link": "https://alternativeto.net/software/cylacar/about/",
+      "first_seen": "2026-07-13T16:11:22.720816+00:00"
+    },
+    "https://alternativeto.net/software/listen-to-sadhu/about/|Listen to Sadhu": {
+      "title": "Listen to Sadhu",
+      "link": "https://alternativeto.net/software/listen-to-sadhu/about/",
+      "first_seen": "2026-07-13T16:11:22.720820+00:00"
+    },
+    "https://alternativeto.net/software/w-social/about/|W Social": {
+      "title": "W Social",
+      "link": "https://alternativeto.net/software/w-social/about/",
+      "first_seen": "2026-07-13T16:11:22.720822+00:00"
     }
   }
 }
