@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-13T04:44:58.533289+00:00",
+  "last_checked": "2026-07-13T07:57:27.617646+00:00",
   "seen": {
     "https://alternativeto.net/software/jamu/about/|Jamu": {
       "title": "Jamu",
@@ -1515,6 +1515,16 @@
       "title": "PlayHop",
       "link": "https://alternativeto.net/software/playhop/about/",
       "first_seen": "2026-07-13T04:44:57.285164+00:00"
+    },
+    "https://alternativeto.net/software/primedocu-scan-sign-pdf-ai/about/|PrimeDocu": {
+      "title": "PrimeDocu",
+      "link": "https://alternativeto.net/software/primedocu-scan-sign-pdf-ai/about/",
+      "first_seen": "2026-07-13T07:57:26.389379+00:00"
+    },
+    "https://alternativeto.net/software/makebyme/about/|MakeByMe": {
+      "title": "MakeByMe",
+      "link": "https://alternativeto.net/software/makebyme/about/",
+      "first_seen": "2026-07-13T07:57:26.389401+00:00"
     }
   }
 }
