@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-14T05:55:46.763348+00:00",
+  "last_checked": "2026-07-14T08:12:51.663908+00:00",
   "seen": {
     "https://alternativeto.net/software/velonote/about/|Velonote": {
       "title": "Velonote",
@@ -1575,6 +1575,11 @@
       "title": "Mindful Guard",
       "link": "https://alternativeto.net/software/mindful-guard/about/",
       "first_seen": "2026-07-13T22:02:57.546146+00:00"
+    },
+    "https://alternativeto.net/software/hanzio/about/|Hanzio": {
+      "title": "Hanzio",
+      "link": "https://alternativeto.net/software/hanzio/about/",
+      "first_seen": "2026-07-14T08:12:50.227545+00:00"
     }
   }
 }
