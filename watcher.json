@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-14T21:17:50.640212+00:00",
+  "last_checked": "2026-07-14T22:26:28.607443+00:00",
   "seen": {
     "https://alternativeto.net/software/soundcrowd/about/|SoundCrowd": {
       "title": "SoundCrowd",
@@ -1645,6 +1645,21 @@
       "title": "For Yourself",
       "link": "https://alternativeto.net/software/for-yourself/about/",
       "first_seen": "2026-07-14T21:17:49.861289+00:00"
+    },
+    "https://alternativeto.net/software/keepmysubs/about/|KeepMySubs": {
+      "title": "KeepMySubs",
+      "link": "https://alternativeto.net/software/keepmysubs/about/",
+      "first_seen": "2026-07-14T22:26:26.486505+00:00"
+    },
+    "https://alternativeto.net/software/bookniapp/about/|Bookniapp": {
+      "title": "Bookniapp",
+      "link": "https://alternativeto.net/software/bookniapp/about/",
+      "first_seen": "2026-07-14T22:26:26.486533+00:00"
+    },
+    "https://alternativeto.net/software/vows-hq/about/|Vows HQ": {
+      "title": "Vows HQ",
+      "link": "https://alternativeto.net/software/vows-hq/about/",
+      "first_seen": "2026-07-14T22:26:26.486536+00:00"
     }
   }
 }
