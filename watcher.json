@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-14T18:52:00.014107+00:00",
+  "last_checked": "2026-07-14T20:14:06.669895+00:00",
   "seen": {
     "https://alternativeto.net/software/soundcrowd/about/|SoundCrowd": {
       "title": "SoundCrowd",
@@ -1635,6 +1635,11 @@
       "title": "Wysor",
       "link": "https://alternativeto.net/software/wysor/about/",
       "first_seen": "2026-07-14T18:51:56.181023+00:00"
+    },
+    "https://alternativeto.net/software/purrtrack/about/|PurrTrack": {
+      "title": "PurrTrack",
+      "link": "https://alternativeto.net/software/purrtrack/about/",
+      "first_seen": "2026-07-14T20:14:05.836908+00:00"
     }
   }
 }
