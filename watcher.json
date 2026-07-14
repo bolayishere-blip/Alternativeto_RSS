@@ -1,16 +1,6 @@
 {
-  "last_checked": "2026-07-14T16:21:07.121914+00:00",
+  "last_checked": "2026-07-14T17:40:41.225231+00:00",
   "seen": {
-    "https://alternativeto.net/software/velonote/about/|Velonote": {
-      "title": "Velonote",
-      "link": "https://alternativeto.net/software/velonote/about/",
-      "first_seen": "2026-06-14T16:56:19.640689+00:00"
-    },
-    "https://alternativeto.net/software/irischat/about/|IrisChat": {
-      "title": "IrisChat",
-      "link": "https://alternativeto.net/software/irischat/about/",
-      "first_seen": "2026-06-14T16:56:19.643054+00:00"
-    },
     "https://alternativeto.net/software/soundcrowd/about/|SoundCrowd": {
       "title": "SoundCrowd",
       "link": "https://alternativeto.net/software/soundcrowd/about/",
@@ -1605,6 +1595,21 @@
       "title": "Heft",
       "link": "https://alternativeto.net/software/heft/about/",
       "first_seen": "2026-07-14T14:57:11.593633+00:00"
+    },
+    "https://alternativeto.net/software/fincend-expense-tracker/about/|Fincend: Expense Tracker": {
+      "title": "Fincend: Expense Tracker",
+      "link": "https://alternativeto.net/software/fincend-expense-tracker/about/",
+      "first_seen": "2026-07-14T17:40:38.937173+00:00"
+    },
+    "https://alternativeto.net/software/gympulsetimer/about/|GymPulseTimer": {
+      "title": "GymPulseTimer",
+      "link": "https://alternativeto.net/software/gympulsetimer/about/",
+      "first_seen": "2026-07-14T17:40:38.937197+00:00"
+    },
+    "https://alternativeto.net/software/dishkin-ai/about/|Dishkin AI": {
+      "title": "Dishkin AI",
+      "link": "https://alternativeto.net/software/dishkin-ai/about/",
+      "first_seen": "2026-07-14T17:40:38.937199+00:00"
     }
   }
 }
