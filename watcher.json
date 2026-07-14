@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-14T22:26:28.607443+00:00",
+  "last_checked": "2026-07-14T23:26:12.261727+00:00",
   "seen": {
     "https://alternativeto.net/software/soundcrowd/about/|SoundCrowd": {
       "title": "SoundCrowd",
@@ -1660,6 +1660,16 @@
       "title": "Vows HQ",
       "link": "https://alternativeto.net/software/vows-hq/about/",
       "first_seen": "2026-07-14T22:26:26.486536+00:00"
+    },
+    "https://alternativeto.net/software/vibekin-ai-astrology-and-chart/about/|VibeKin": {
+      "title": "VibeKin",
+      "link": "https://alternativeto.net/software/vibekin-ai-astrology-and-chart/about/",
+      "first_seen": "2026-07-14T23:26:10.890203+00:00"
+    },
+    "https://alternativeto.net/software/tasteray/about/|TasteRay": {
+      "title": "TasteRay",
+      "link": "https://alternativeto.net/software/tasteray/about/",
+      "first_seen": "2026-07-14T23:26:10.890226+00:00"
     }
   }
 }
