@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-14T12:56:24.137528+00:00",
+  "last_checked": "2026-07-14T14:57:13.399122+00:00",
   "seen": {
     "https://alternativeto.net/software/velonote/about/|Velonote": {
       "title": "Velonote",
@@ -1590,6 +1590,21 @@
       "title": "Calorie Counter AI",
       "link": "https://alternativeto.net/software/calorie-counter-ai/about/",
       "first_seen": "2026-07-14T10:12:34.705017+00:00"
+    },
+    "https://alternativeto.net/software/homio/about/|Homio": {
+      "title": "Homio",
+      "link": "https://alternativeto.net/software/homio/about/",
+      "first_seen": "2026-07-14T14:57:11.593606+00:00"
+    },
+    "https://alternativeto.net/software/runo/about/|Runo": {
+      "title": "Runo",
+      "link": "https://alternativeto.net/software/runo/about/",
+      "first_seen": "2026-07-14T14:57:11.593629+00:00"
+    },
+    "https://alternativeto.net/software/heft/about/|Heft": {
+      "title": "Heft",
+      "link": "https://alternativeto.net/software/heft/about/",
+      "first_seen": "2026-07-14T14:57:11.593633+00:00"
     }
   }
 }
