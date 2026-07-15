@@ -1,21 +1,6 @@
 {
-  "last_checked": "2026-07-15T10:52:15.259587+00:00",
+  "last_checked": "2026-07-15T12:16:53.301716+00:00",
   "seen": {
-    "https://alternativeto.net/software/meil-tau/about/|Meile Tau": {
-      "title": "Meile Tau",
-      "link": "https://alternativeto.net/software/meil-tau/about/",
-      "first_seen": "2026-06-15T11:30:00.302863+00:00"
-    },
-    "https://alternativeto.net/software/zen-crossword-puzzles/about/|Zen Crossword Puzzles": {
-      "title": "Zen Crossword Puzzles",
-      "link": "https://alternativeto.net/software/zen-crossword-puzzles/about/",
-      "first_seen": "2026-06-15T11:30:00.304952+00:00"
-    },
-    "https://alternativeto.net/software/stowfolio/about/|Stowfolio": {
-      "title": "Stowfolio",
-      "link": "https://alternativeto.net/software/stowfolio/about/",
-      "first_seen": "2026-06-15T11:30:00.305670+00:00"
-    },
     "https://alternativeto.net/software/nerdcalci/about/|NerdCalci": {
       "title": "NerdCalci",
       "link": "https://alternativeto.net/software/nerdcalci/about/",
@@ -1680,6 +1665,16 @@
       "title": "Bose",
       "link": "https://alternativeto.net/software/bose/about/",
       "first_seen": "2026-07-15T10:52:13.899524+00:00"
+    },
+    "https://alternativeto.net/software/fasttrack-fasting-tracker-ai/about/|FastTrack": {
+      "title": "FastTrack",
+      "link": "https://alternativeto.net/software/fasttrack-fasting-tracker-ai/about/",
+      "first_seen": "2026-07-15T12:16:51.763646+00:00"
+    },
+    "https://alternativeto.net/software/roots-daily-philosophy/about/|Roots: Daily Philosophy": {
+      "title": "Roots: Daily Philosophy",
+      "link": "https://alternativeto.net/software/roots-daily-philosophy/about/",
+      "first_seen": "2026-07-15T12:16:51.763668+00:00"
     }
   }
 }
