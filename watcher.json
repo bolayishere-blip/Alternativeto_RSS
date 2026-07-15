@@ -1,16 +1,6 @@
 {
-  "last_checked": "2026-07-15T04:06:08.849223+00:00",
+  "last_checked": "2026-07-15T08:55:04.719080+00:00",
   "seen": {
-    "https://alternativeto.net/software/soundcrowd/about/|SoundCrowd": {
-      "title": "SoundCrowd",
-      "link": "https://alternativeto.net/software/soundcrowd/about/",
-      "first_seen": "2026-06-15T05:21:04.153637+00:00"
-    },
-    "https://alternativeto.net/software/myfam/about/|MyFam": {
-      "title": "MyFam",
-      "link": "https://alternativeto.net/software/myfam/about/",
-      "first_seen": "2026-06-15T05:21:04.156004+00:00"
-    },
     "https://alternativeto.net/software/meil-tau/about/|Meile Tau": {
       "title": "Meile Tau",
       "link": "https://alternativeto.net/software/meil-tau/about/",
@@ -1670,6 +1660,16 @@
       "title": "TasteRay",
       "link": "https://alternativeto.net/software/tasteray/about/",
       "first_seen": "2026-07-14T23:26:10.890226+00:00"
+    },
+    "https://alternativeto.net/software/jouzt/about/|Jouzt": {
+      "title": "Jouzt",
+      "link": "https://alternativeto.net/software/jouzt/about/",
+      "first_seen": "2026-07-15T08:55:03.690758+00:00"
+    },
+    "https://alternativeto.net/software/kindhoa/about/|KindHOA": {
+      "title": "KindHOA",
+      "link": "https://alternativeto.net/software/kindhoa/about/",
+      "first_seen": "2026-07-15T08:55:03.690786+00:00"
     }
   }
 }
