@@ -1,16 +1,6 @@
 {
-  "last_checked": "2026-07-15T19:49:00.099325+00:00",
+  "last_checked": "2026-07-15T20:45:21.946412+00:00",
   "seen": {
-    "https://alternativeto.net/software/hebrew-bible-study/about/|Hebrew Bible Study": {
-      "title": "Hebrew Bible Study",
-      "link": "https://alternativeto.net/software/hebrew-bible-study/about/",
-      "first_seen": "2026-06-15T20:05:33.189524+00:00"
-    },
-    "https://alternativeto.net/software/ontimecall/about/|OnTimeCall": {
-      "title": "OnTimeCall",
-      "link": "https://alternativeto.net/software/ontimecall/about/",
-      "first_seen": "2026-06-15T20:05:33.192154+00:00"
-    },
     "https://alternativeto.net/software/eat4cheaper/about/|Eat4Cheaper": {
       "title": "Eat4Cheaper",
       "link": "https://alternativeto.net/software/eat4cheaper/about/",
@@ -1675,6 +1665,11 @@
       "title": "aTimeLogger Pro",
       "link": "https://alternativeto.net/software/atimelogger-pro/about/",
       "first_seen": "2026-07-15T15:54:48.312436+00:00"
+    },
+    "https://alternativeto.net/software/sticker-maker/about/|Sticker Maker": {
+      "title": "Sticker Maker",
+      "link": "https://alternativeto.net/software/sticker-maker/about/",
+      "first_seen": "2026-07-15T20:45:21.062513+00:00"
     }
   }
 }
