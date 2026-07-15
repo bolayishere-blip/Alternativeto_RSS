@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-15T08:55:04.719080+00:00",
+  "last_checked": "2026-07-15T10:52:15.259587+00:00",
   "seen": {
     "https://alternativeto.net/software/meil-tau/about/|Meile Tau": {
       "title": "Meile Tau",
@@ -1670,6 +1670,16 @@
       "title": "KindHOA",
       "link": "https://alternativeto.net/software/kindhoa/about/",
       "first_seen": "2026-07-15T08:55:03.690786+00:00"
+    },
+    "https://alternativeto.net/software/side-screen/about/|Side Screen": {
+      "title": "Side Screen",
+      "link": "https://alternativeto.net/software/side-screen/about/",
+      "first_seen": "2026-07-15T10:52:13.899499+00:00"
+    },
+    "https://alternativeto.net/software/bose/about/|Bose": {
+      "title": "Bose",
+      "link": "https://alternativeto.net/software/bose/about/",
+      "first_seen": "2026-07-15T10:52:13.899524+00:00"
     }
   }
 }
