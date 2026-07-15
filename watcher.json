@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-15T12:16:53.301716+00:00",
+  "last_checked": "2026-07-15T14:15:23.785170+00:00",
   "seen": {
     "https://alternativeto.net/software/nerdcalci/about/|NerdCalci": {
       "title": "NerdCalci",
@@ -1675,6 +1675,31 @@
       "title": "Roots: Daily Philosophy",
       "link": "https://alternativeto.net/software/roots-daily-philosophy/about/",
       "first_seen": "2026-07-15T12:16:51.763668+00:00"
+    },
+    "https://alternativeto.net/software/chorus-group-collab/about/|Chorus Group Collab": {
+      "title": "Chorus Group Collab",
+      "link": "https://alternativeto.net/software/chorus-group-collab/about/",
+      "first_seen": "2026-07-15T14:15:20.708911+00:00"
+    },
+    "https://alternativeto.net/software/listendock/about/|ListenDock": {
+      "title": "ListenDock",
+      "link": "https://alternativeto.net/software/listendock/about/",
+      "first_seen": "2026-07-15T14:15:20.708938+00:00"
+    },
+    "https://alternativeto.net/software/getfacade/about/|GetFacade": {
+      "title": "GetFacade",
+      "link": "https://alternativeto.net/software/getfacade/about/",
+      "first_seen": "2026-07-15T14:15:20.708942+00:00"
+    },
+    "https://alternativeto.net/software/onehaus/about/|OneHaus": {
+      "title": "OneHaus",
+      "link": "https://alternativeto.net/software/onehaus/about/",
+      "first_seen": "2026-07-15T14:15:20.708944+00:00"
+    },
+    "https://alternativeto.net/software/mqttfy/about/|MQTTfy": {
+      "title": "MQTTfy",
+      "link": "https://alternativeto.net/software/mqttfy/about/",
+      "first_seen": "2026-07-15T14:15:20.708946+00:00"
     }
   }
 }
