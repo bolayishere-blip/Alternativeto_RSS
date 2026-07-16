@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-16T12:55:47.640533+00:00",
+  "last_checked": "2026-07-16T15:05:08.087244+00:00",
   "seen": {
     "https://alternativeto.net/software/medication-timer/about/|Medication Timer": {
       "title": "Medication Timer",
@@ -1670,6 +1670,11 @@
       "title": "Piley",
       "link": "https://alternativeto.net/software/piley/about/",
       "first_seen": "2026-07-16T11:18:00.153089+00:00"
+    },
+    "https://alternativeto.net/software/opnrs/about/|opnrs": {
+      "title": "opnrs",
+      "link": "https://alternativeto.net/software/opnrs/about/",
+      "first_seen": "2026-07-16T15:05:07.384035+00:00"
     }
   }
 }
