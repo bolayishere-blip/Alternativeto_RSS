@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-16T16:39:14.015308+00:00",
+  "last_checked": "2026-07-16T17:51:47.390386+00:00",
   "seen": {
     "https://alternativeto.net/software/learn-dino/about/|Learn Dino": {
       "title": "Learn Dino",
@@ -1635,6 +1635,16 @@
       "title": "opnrs",
       "link": "https://alternativeto.net/software/opnrs/about/",
       "first_seen": "2026-07-16T15:05:07.384035+00:00"
+    },
+    "https://alternativeto.net/software/cineflo/about/|CineFlo": {
+      "title": "CineFlo",
+      "link": "https://alternativeto.net/software/cineflo/about/",
+      "first_seen": "2026-07-16T17:51:45.787081+00:00"
+    },
+    "https://alternativeto.net/software/universal-file-opener/about/|Universal File Opener": {
+      "title": "Universal File Opener",
+      "link": "https://alternativeto.net/software/universal-file-opener/about/",
+      "first_seen": "2026-07-16T17:51:45.787106+00:00"
     }
   }
 }
