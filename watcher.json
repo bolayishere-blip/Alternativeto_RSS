@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-16T09:25:07.886740+00:00",
+  "last_checked": "2026-07-16T11:18:01.384306+00:00",
   "seen": {
-    "https://alternativeto.net/software/jetlag-coach/about/|Jetlag Coach": {
-      "title": "Jetlag Coach",
-      "link": "https://alternativeto.net/software/jetlag-coach/about/",
-      "first_seen": "2026-06-16T10:31:30.413564+00:00"
-    },
     "https://alternativeto.net/software/medication-timer/about/|Medication Timer": {
       "title": "Medication Timer",
       "link": "https://alternativeto.net/software/medication-timer/about/",
@@ -1665,6 +1660,16 @@
       "title": "AuraDisplay",
       "link": "https://alternativeto.net/software/auradisplay/about/",
       "first_seen": "2026-07-16T07:04:21.735710+00:00"
+    },
+    "https://alternativeto.net/software/skilladdicts/about/|SkillAddicts": {
+      "title": "SkillAddicts",
+      "link": "https://alternativeto.net/software/skilladdicts/about/",
+      "first_seen": "2026-07-16T11:18:00.153070+00:00"
+    },
+    "https://alternativeto.net/software/piley/about/|Piley": {
+      "title": "Piley",
+      "link": "https://alternativeto.net/software/piley/about/",
+      "first_seen": "2026-07-16T11:18:00.153089+00:00"
     }
   }
 }
