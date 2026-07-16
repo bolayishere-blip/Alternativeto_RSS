@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-16T04:28:27.744172+00:00",
+  "last_checked": "2026-07-16T07:04:22.675468+00:00",
   "seen": {
-    "https://alternativeto.net/software/niuniu/about/|NiuNiu": {
-      "title": "NiuNiu",
-      "link": "https://alternativeto.net/software/niuniu/about/",
-      "first_seen": "2026-06-16T05:38:48.642989+00:00"
-    },
     "https://alternativeto.net/software/jetlag-coach/about/|Jetlag Coach": {
       "title": "Jetlag Coach",
       "link": "https://alternativeto.net/software/jetlag-coach/about/",
@@ -1665,6 +1660,11 @@
       "title": "Sticker Maker",
       "link": "https://alternativeto.net/software/sticker-maker/about/",
       "first_seen": "2026-07-15T20:45:21.062513+00:00"
+    },
+    "https://alternativeto.net/software/auradisplay/about/|AuraDisplay": {
+      "title": "AuraDisplay",
+      "link": "https://alternativeto.net/software/auradisplay/about/",
+      "first_seen": "2026-07-16T07:04:21.735710+00:00"
     }
   }
 }
