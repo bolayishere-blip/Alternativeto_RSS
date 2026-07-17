@@ -1,26 +1,6 @@
 {
-  "last_checked": "2026-07-17T06:39:09.581441+00:00",
+  "last_checked": "2026-07-17T08:57:56.979847+00:00",
   "seen": {
-    "https://alternativeto.net/software/wishwave--wishlist-and-registry-maker/about/|Wishwave": {
-      "title": "Wishwave",
-      "link": "https://alternativeto.net/software/wishwave--wishlist-and-registry-maker/about/",
-      "first_seen": "2026-06-17T06:54:20.844387+00:00"
-    },
-    "https://alternativeto.net/software/rune-duel-dark-match-3-rpg/about/|Rune Duel: Dark Match 3 RPG": {
-      "title": "Rune Duel: Dark Match 3 RPG",
-      "link": "https://alternativeto.net/software/rune-duel-dark-match-3-rpg/about/",
-      "first_seen": "2026-06-17T06:54:20.844409+00:00"
-    },
-    "https://alternativeto.net/software/filefeedback/about/|FileFeedback": {
-      "title": "FileFeedback",
-      "link": "https://alternativeto.net/software/filefeedback/about/",
-      "first_seen": "2026-06-17T06:54:20.844412+00:00"
-    },
-    "https://alternativeto.net/software/simple-radio-by-kykycb/about/|Simple Radio": {
-      "title": "Simple Radio",
-      "link": "https://alternativeto.net/software/simple-radio-by-kykycb/about/",
-      "first_seen": "2026-06-17T06:54:20.844419+00:00"
-    },
     "https://alternativeto.net/software/searchspot/about/|SearchSpot": {
       "title": "SearchSpot",
       "link": "https://alternativeto.net/software/searchspot/about/",
@@ -1630,6 +1610,16 @@
       "title": "Network Utilities Ultimate",
       "link": "https://alternativeto.net/software/network-utilities-ultimate/about/",
       "first_seen": "2026-07-17T04:25:13.068836+00:00"
+    },
+    "https://alternativeto.net/software/ntfs-reader-usb-bitlocker/about/|NTFS Reader": {
+      "title": "NTFS Reader",
+      "link": "https://alternativeto.net/software/ntfs-reader-usb-bitlocker/about/",
+      "first_seen": "2026-07-17T08:57:55.743215+00:00"
+    },
+    "https://alternativeto.net/software/oli-pregnancy-safety-scanner/about/|Oli": {
+      "title": "Oli",
+      "link": "https://alternativeto.net/software/oli-pregnancy-safety-scanner/about/",
+      "first_seen": "2026-07-17T08:57:55.743243+00:00"
     }
   }
 }
