@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-17T12:10:47.806692+00:00",
+  "last_checked": "2026-07-17T14:07:03.847762+00:00",
   "seen": {
     "https://alternativeto.net/software/quayat-chat/about/|Quayat Chat": {
       "title": "Quayat Chat",
@@ -1605,6 +1605,16 @@
       "title": "LifeTracker by LifeJournal",
       "link": "https://alternativeto.net/software/lifetracker-by-lifejournal/about/",
       "first_seen": "2026-07-17T10:54:45.283639+00:00"
+    },
+    "https://alternativeto.net/software/riseguide/about/|RiseGuide": {
+      "title": "RiseGuide",
+      "link": "https://alternativeto.net/software/riseguide/about/",
+      "first_seen": "2026-07-17T14:07:02.272136+00:00"
+    },
+    "https://alternativeto.net/software/xenofix/about/|Xenofix": {
+      "title": "Xenofix",
+      "link": "https://alternativeto.net/software/xenofix/about/",
+      "first_seen": "2026-07-17T14:07:02.272156+00:00"
     }
   }
 }
