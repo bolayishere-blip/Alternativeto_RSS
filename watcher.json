@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-17T01:09:47.422664+00:00",
+  "last_checked": "2026-07-17T04:25:16.533048+00:00",
   "seen": {
-    "https://alternativeto.net/software/matcha-timer/about/|Matcha Timer": {
-      "title": "Matcha Timer",
-      "link": "https://alternativeto.net/software/matcha-timer/about/",
-      "first_seen": "2026-06-17T01:44:25.836524+00:00"
-    },
     "https://alternativeto.net/software/wishwave--wishlist-and-registry-maker/about/|Wishwave": {
       "title": "Wishwave",
       "link": "https://alternativeto.net/software/wishwave--wishlist-and-registry-maker/about/",
@@ -1615,6 +1610,26 @@
       "title": "Universal File Opener",
       "link": "https://alternativeto.net/software/universal-file-opener/about/",
       "first_seen": "2026-07-16T17:51:45.787106+00:00"
+    },
+    "https://alternativeto.net/software/lazyreader/about/|LazyReader": {
+      "title": "LazyReader",
+      "link": "https://alternativeto.net/software/lazyreader/about/",
+      "first_seen": "2026-07-17T04:25:13.068810+00:00"
+    },
+    "https://alternativeto.net/software/groovv/about/|Groovv": {
+      "title": "Groovv",
+      "link": "https://alternativeto.net/software/groovv/about/",
+      "first_seen": "2026-07-17T04:25:13.068831+00:00"
+    },
+    "https://alternativeto.net/software/conversaide-ai-language-tutor/about/|Conversaide": {
+      "title": "Conversaide",
+      "link": "https://alternativeto.net/software/conversaide-ai-language-tutor/about/",
+      "first_seen": "2026-07-17T04:25:13.068834+00:00"
+    },
+    "https://alternativeto.net/software/network-utilities-ultimate/about/|Network Utilities Ultimate": {
+      "title": "Network Utilities Ultimate",
+      "link": "https://alternativeto.net/software/network-utilities-ultimate/about/",
+      "first_seen": "2026-07-17T04:25:13.068836+00:00"
     }
   }
 }
