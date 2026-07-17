@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-17T08:57:56.979847+00:00",
+  "last_checked": "2026-07-17T10:54:46.018875+00:00",
   "seen": {
     "https://alternativeto.net/software/searchspot/about/|SearchSpot": {
       "title": "SearchSpot",
@@ -1620,6 +1620,11 @@
       "title": "Oli",
       "link": "https://alternativeto.net/software/oli-pregnancy-safety-scanner/about/",
       "first_seen": "2026-07-17T08:57:55.743243+00:00"
+    },
+    "https://alternativeto.net/software/lifetracker-by-lifejournal/about/|LifeTracker by LifeJournal": {
+      "title": "LifeTracker by LifeJournal",
+      "link": "https://alternativeto.net/software/lifetracker-by-lifejournal/about/",
+      "first_seen": "2026-07-17T10:54:45.283639+00:00"
     }
   }
 }
