@@ -1,16 +1,6 @@
 {
-  "last_checked": "2026-07-19T13:48:58.223140+00:00",
+  "last_checked": "2026-07-19T14:43:59.319190+00:00",
   "seen": {
-    "https://alternativeto.net/software/recip-a-tor/about/|Recip-A-Tor": {
-      "title": "Recip-A-Tor",
-      "link": "https://alternativeto.net/software/recip-a-tor/about/",
-      "first_seen": "2026-06-19T14:38:12.612552+00:00"
-    },
-    "https://alternativeto.net/software/pi-fyi/about/|PI.FYI": {
-      "title": "PI.FYI",
-      "link": "https://alternativeto.net/software/pi-fyi/about/",
-      "first_seen": "2026-06-19T14:38:12.612576+00:00"
-    },
     "https://alternativeto.net/software/ciphernotes/about/|CipherNotes": {
       "title": "CipherNotes",
       "link": "https://alternativeto.net/software/ciphernotes/about/",
@@ -1510,6 +1500,16 @@
       "title": "LagX: Lower Lag Game Booster",
       "link": "https://alternativeto.net/software/lagx-lower-lag-game-booster/about/",
       "first_seen": "2026-07-18T15:13:52.541319+00:00"
+    },
+    "https://alternativeto.net/software/prism-file-explorer-techflyers-fork-/about/|Prism File Explorer (techflyers' fork)": {
+      "title": "Prism File Explorer (techflyers' fork)",
+      "link": "https://alternativeto.net/software/prism-file-explorer-techflyers-fork-/about/",
+      "first_seen": "2026-07-19T14:43:57.690189+00:00"
+    },
+    "https://alternativeto.net/software/gamer-profiles/about/|Gamer Profiles": {
+      "title": "Gamer Profiles",
+      "link": "https://alternativeto.net/software/gamer-profiles/about/",
+      "first_seen": "2026-07-19T14:43:57.690215+00:00"
     }
   }
 }
