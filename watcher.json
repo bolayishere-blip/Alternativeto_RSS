@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-19T22:06:50.407058+00:00",
+  "last_checked": "2026-07-19T23:09:06.206463+00:00",
   "seen": {
     "https://alternativeto.net/software/weatherfront/about/|WeatherFront": {
       "title": "WeatherFront",
@@ -1480,6 +1480,11 @@
       "title": "Gamer Profiles",
       "link": "https://alternativeto.net/software/gamer-profiles/about/",
       "first_seen": "2026-07-19T14:43:57.690215+00:00"
+    },
+    "https://alternativeto.net/software/titanium-browser/about/|Titanium Browser": {
+      "title": "Titanium Browser",
+      "link": "https://alternativeto.net/software/titanium-browser/about/",
+      "first_seen": "2026-07-19T23:09:05.473688+00:00"
     }
   }
 }
