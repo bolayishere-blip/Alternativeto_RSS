@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-20T07:28:43.980371+00:00",
+  "last_checked": "2026-07-20T10:26:26.752779+00:00",
   "seen": {
     "https://alternativeto.net/software/weatherfront/about/|WeatherFront": {
       "title": "WeatherFront",
@@ -1485,6 +1485,51 @@
       "title": "Titanium Browser",
       "link": "https://alternativeto.net/software/titanium-browser/about/",
       "first_seen": "2026-07-19T23:09:05.473688+00:00"
+    },
+    "https://alternativeto.net/software/osmo--ai-phone-assistant/about/|OsmO - AI Phone Assistant": {
+      "title": "OsmO - AI Phone Assistant",
+      "link": "https://alternativeto.net/software/osmo--ai-phone-assistant/about/",
+      "first_seen": "2026-07-20T10:26:16.180849+00:00"
+    },
+    "https://alternativeto.net/software/hook-notifier/about/|Hook Notifier": {
+      "title": "Hook Notifier",
+      "link": "https://alternativeto.net/software/hook-notifier/about/",
+      "first_seen": "2026-07-20T10:26:16.180867+00:00"
+    },
+    "https://alternativeto.net/software/metitem/about/|metItem": {
+      "title": "metItem",
+      "link": "https://alternativeto.net/software/metitem/about/",
+      "first_seen": "2026-07-20T10:26:16.180870+00:00"
+    },
+    "https://alternativeto.net/software/loam--mtb-service-tracker/about/|Loam MTB": {
+      "title": "Loam MTB",
+      "link": "https://alternativeto.net/software/loam--mtb-service-tracker/about/",
+      "first_seen": "2026-07-20T10:26:16.180878+00:00"
+    },
+    "https://alternativeto.net/software/simpluna/about/|Simpluna": {
+      "title": "Simpluna",
+      "link": "https://alternativeto.net/software/simpluna/about/",
+      "first_seen": "2026-07-20T10:26:16.180880+00:00"
+    },
+    "https://alternativeto.net/software/buzzbuzz--step-tracker/about/|BuzzBuzz": {
+      "title": "BuzzBuzz",
+      "link": "https://alternativeto.net/software/buzzbuzz--step-tracker/about/",
+      "first_seen": "2026-07-20T10:26:16.180882+00:00"
+    },
+    "https://alternativeto.net/software/udderance/about/|Udderance": {
+      "title": "Udderance",
+      "link": "https://alternativeto.net/software/udderance/about/",
+      "first_seen": "2026-07-20T10:26:16.180884+00:00"
+    },
+    "https://alternativeto.net/software/wecult/about/|Wecult": {
+      "title": "Wecult",
+      "link": "https://alternativeto.net/software/wecult/about/",
+      "first_seen": "2026-07-20T10:26:16.180888+00:00"
+    },
+    "https://alternativeto.net/software/bonapp-recipes-and-meal-planner/about/|BonApp!": {
+      "title": "BonApp!",
+      "link": "https://alternativeto.net/software/bonapp-recipes-and-meal-planner/about/",
+      "first_seen": "2026-07-20T10:26:16.180891+00:00"
     }
   }
 }
