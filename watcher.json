@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-20T14:54:31.281377+00:00",
+  "last_checked": "2026-07-20T16:25:19.281743+00:00",
   "seen": {
     "https://alternativeto.net/software/weatherfront/about/|WeatherFront": {
       "title": "WeatherFront",
@@ -1550,6 +1550,26 @@
       "title": "Hobi",
       "link": "https://alternativeto.net/software/hobi-tv-shows-tracker-and-trakt/about/",
       "first_seen": "2026-07-20T14:54:29.326894+00:00"
+    },
+    "https://alternativeto.net/software/uxnan--desktop-and-mobile/about/|Uxnan": {
+      "title": "Uxnan",
+      "link": "https://alternativeto.net/software/uxnan--desktop-and-mobile/about/",
+      "first_seen": "2026-07-20T16:25:16.241586+00:00"
+    },
+    "https://alternativeto.net/software/app-aquatic/about/|App-aquatic": {
+      "title": "App-aquatic",
+      "link": "https://alternativeto.net/software/app-aquatic/about/",
+      "first_seen": "2026-07-20T16:25:16.241610+00:00"
+    },
+    "https://alternativeto.net/software/nuglet/about/|Nuglet": {
+      "title": "Nuglet",
+      "link": "https://alternativeto.net/software/nuglet/about/",
+      "first_seen": "2026-07-20T16:25:16.241612+00:00"
+    },
+    "https://alternativeto.net/software/build-a-town/about/|Build a Town": {
+      "title": "Build a Town",
+      "link": "https://alternativeto.net/software/build-a-town/about/",
+      "first_seen": "2026-07-20T16:25:16.241614+00:00"
     }
   }
 }
