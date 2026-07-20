@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-20T12:33:01.279509+00:00",
+  "last_checked": "2026-07-20T14:54:31.281377+00:00",
   "seen": {
     "https://alternativeto.net/software/weatherfront/about/|WeatherFront": {
       "title": "WeatherFront",
@@ -1535,6 +1535,21 @@
       "title": "BoardSpy",
       "link": "https://alternativeto.net/software/boardspy-route-planner-and-trip/about/",
       "first_seen": "2026-07-20T12:33:00.313125+00:00"
+    },
+    "https://alternativeto.net/software/aether-ai/about/|Aether AI": {
+      "title": "Aether AI",
+      "link": "https://alternativeto.net/software/aether-ai/about/",
+      "first_seen": "2026-07-20T14:54:29.326865+00:00"
+    },
+    "https://alternativeto.net/software/volume-control-quiet-dial/about/|Volume Control: Quiet Dial": {
+      "title": "Volume Control: Quiet Dial",
+      "link": "https://alternativeto.net/software/volume-control-quiet-dial/about/",
+      "first_seen": "2026-07-20T14:54:29.326890+00:00"
+    },
+    "https://alternativeto.net/software/hobi-tv-shows-tracker-and-trakt/about/|Hobi": {
+      "title": "Hobi",
+      "link": "https://alternativeto.net/software/hobi-tv-shows-tracker-and-trakt/about/",
+      "first_seen": "2026-07-20T14:54:29.326894+00:00"
     }
   }
 }
