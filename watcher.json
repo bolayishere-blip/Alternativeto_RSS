@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-20T10:26:26.752779+00:00",
+  "last_checked": "2026-07-20T12:33:01.279509+00:00",
   "seen": {
     "https://alternativeto.net/software/weatherfront/about/|WeatherFront": {
       "title": "WeatherFront",
@@ -1530,6 +1530,11 @@
       "title": "BonApp!",
       "link": "https://alternativeto.net/software/bonapp-recipes-and-meal-planner/about/",
       "first_seen": "2026-07-20T10:26:16.180891+00:00"
+    },
+    "https://alternativeto.net/software/boardspy-route-planner-and-trip/about/|BoardSpy": {
+      "title": "BoardSpy",
+      "link": "https://alternativeto.net/software/boardspy-route-planner-and-trip/about/",
+      "first_seen": "2026-07-20T12:33:00.313125+00:00"
     }
   }
 }
