@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-21T13:03:20.877869+00:00",
+  "last_checked": "2026-07-21T15:15:52.925786+00:00",
   "seen": {
     "https://alternativeto.net/software/weatherfront/about/|WeatherFront": {
       "title": "WeatherFront",
@@ -1570,6 +1570,46 @@
       "title": "Build a Town",
       "link": "https://alternativeto.net/software/build-a-town/about/",
       "first_seen": "2026-07-20T16:25:16.241614+00:00"
+    },
+    "https://alternativeto.net/software/rockreader/about/|RockReader": {
+      "title": "RockReader",
+      "link": "https://alternativeto.net/software/rockreader/about/",
+      "first_seen": "2026-07-21T15:15:43.262948+00:00"
+    },
+    "https://alternativeto.net/software/radar-signal-client-/about/|Radar (Signal client)": {
+      "title": "Radar (Signal client)",
+      "link": "https://alternativeto.net/software/radar-signal-client-/about/",
+      "first_seen": "2026-07-21T15:15:43.262967+00:00"
+    },
+    "https://alternativeto.net/software/meetvap/about/|MeetVap": {
+      "title": "MeetVap",
+      "link": "https://alternativeto.net/software/meetvap/about/",
+      "first_seen": "2026-07-21T15:15:43.262970+00:00"
+    },
+    "https://alternativeto.net/software/sevengrid/about/|SevenGrid": {
+      "title": "SevenGrid",
+      "link": "https://alternativeto.net/software/sevengrid/about/",
+      "first_seen": "2026-07-21T15:15:43.262973+00:00"
+    },
+    "https://alternativeto.net/software/atomic-chat/about/|Atomic Chat": {
+      "title": "Atomic Chat",
+      "link": "https://alternativeto.net/software/atomic-chat/about/",
+      "first_seen": "2026-07-21T15:15:43.262975+00:00"
+    },
+    "https://alternativeto.net/software/bookseer/about/|Bookseer": {
+      "title": "Bookseer",
+      "link": "https://alternativeto.net/software/bookseer/about/",
+      "first_seen": "2026-07-21T15:15:43.262977+00:00"
+    },
+    "https://alternativeto.net/software/helioscam-pro/about/|HeliosCam Pro": {
+      "title": "HeliosCam Pro",
+      "link": "https://alternativeto.net/software/helioscam-pro/about/",
+      "first_seen": "2026-07-21T15:15:43.262982+00:00"
+    },
+    "https://alternativeto.net/software/fravora/about/|Fravora": {
+      "title": "Fravora",
+      "link": "https://alternativeto.net/software/fravora/about/",
+      "first_seen": "2026-07-21T15:15:43.262987+00:00"
     }
   }
 }
