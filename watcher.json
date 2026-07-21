@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-21T20:54:14.143068+00:00",
+  "last_checked": "2026-07-21T22:05:00.155942+00:00",
   "seen": {
     "https://alternativeto.net/software/weatherfront/about/|WeatherFront": {
       "title": "WeatherFront",
@@ -1625,6 +1625,16 @@
       "title": "Chaface",
       "link": "https://alternativeto.net/software/chaface/about/",
       "first_seen": "2026-07-21T20:54:13.012368+00:00"
+    },
+    "https://alternativeto.net/software/claritynest/about/|ClarityNest": {
+      "title": "ClarityNest",
+      "link": "https://alternativeto.net/software/claritynest/about/",
+      "first_seen": "2026-07-21T22:04:58.791580+00:00"
+    },
+    "https://alternativeto.net/software/wips--adhd-task-companion/about/|WIPS - ADHD Task Companion": {
+      "title": "WIPS - ADHD Task Companion",
+      "link": "https://alternativeto.net/software/wips--adhd-task-companion/about/",
+      "first_seen": "2026-07-21T22:04:58.791608+00:00"
     }
   }
 }
