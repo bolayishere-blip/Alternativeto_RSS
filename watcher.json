@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-21T18:04:06.604805+00:00",
+  "last_checked": "2026-07-21T19:48:17.805026+00:00",
   "seen": {
     "https://alternativeto.net/software/weatherfront/about/|WeatherFront": {
       "title": "WeatherFront",
@@ -1610,6 +1610,16 @@
       "title": "Fravora",
       "link": "https://alternativeto.net/software/fravora/about/",
       "first_seen": "2026-07-21T15:15:43.262987+00:00"
+    },
+    "https://alternativeto.net/software/musicx/about/|MusicX": {
+      "title": "MusicX",
+      "link": "https://alternativeto.net/software/musicx/about/",
+      "first_seen": "2026-07-21T19:48:16.555463+00:00"
+    },
+    "https://alternativeto.net/software/white-puzzle/about/|White Puzzle": {
+      "title": "White Puzzle",
+      "link": "https://alternativeto.net/software/white-puzzle/about/",
+      "first_seen": "2026-07-21T19:48:16.555493+00:00"
     }
   }
 }
