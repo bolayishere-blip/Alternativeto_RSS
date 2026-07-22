@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-22T17:56:32.492725+00:00",
+  "last_checked": "2026-07-22T19:34:24.443220+00:00",
   "seen": {
     "https://alternativeto.net/software/the-only-ever-app/about/|Only Ever": {
       "title": "Only Ever",
@@ -1665,6 +1665,21 @@
       "title": "Expenny",
       "link": "https://alternativeto.net/software/expenny--offline-cashbook-and-expenses/about/",
       "first_seen": "2026-07-22T16:41:54.977480+00:00"
+    },
+    "https://alternativeto.net/software/textmood/about/|TextMood": {
+      "title": "TextMood",
+      "link": "https://alternativeto.net/software/textmood/about/",
+      "first_seen": "2026-07-22T19:34:22.742262+00:00"
+    },
+    "https://alternativeto.net/software/merkio/about/|merkio": {
+      "title": "merkio",
+      "link": "https://alternativeto.net/software/merkio/about/",
+      "first_seen": "2026-07-22T19:34:22.742287+00:00"
+    },
+    "https://alternativeto.net/software/walletfood/about/|WalletFood": {
+      "title": "WalletFood",
+      "link": "https://alternativeto.net/software/walletfood/about/",
+      "first_seen": "2026-07-22T19:34:22.742291+00:00"
     }
   }
 }
