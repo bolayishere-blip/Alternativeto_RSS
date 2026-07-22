@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-21T23:09:31.129242+00:00",
+  "last_checked": "2026-07-22T00:07:09.814901+00:00",
   "seen": {
     "https://alternativeto.net/software/weatherfront/about/|WeatherFront": {
       "title": "WeatherFront",
@@ -1645,6 +1645,31 @@
       "title": "Digital Detox Tree: Focus",
       "link": "https://alternativeto.net/software/digital-detox-tree-focus/about/",
       "first_seen": "2026-07-21T23:09:29.989732+00:00"
+    },
+    "https://alternativeto.net/software/zonepoints-bluetooth-heart-rate-monitor/about/|ZonePoints": {
+      "title": "ZonePoints",
+      "link": "https://alternativeto.net/software/zonepoints-bluetooth-heart-rate-monitor/about/",
+      "first_seen": "2026-07-22T00:07:06.310666+00:00"
+    },
+    "https://alternativeto.net/software/bursu-connection-manager/about/|BURSU Connection Manager": {
+      "title": "BURSU Connection Manager",
+      "link": "https://alternativeto.net/software/bursu-connection-manager/about/",
+      "first_seen": "2026-07-22T00:07:06.310695+00:00"
+    },
+    "https://alternativeto.net/software/lexup--master-english-vocabulary/about/|LexUp": {
+      "title": "LexUp",
+      "link": "https://alternativeto.net/software/lexup--master-english-vocabulary/about/",
+      "first_seen": "2026-07-22T00:07:06.310698+00:00"
+    },
+    "https://alternativeto.net/software/knotswap/about/|KnotSwap": {
+      "title": "KnotSwap",
+      "link": "https://alternativeto.net/software/knotswap/about/",
+      "first_seen": "2026-07-22T00:07:06.310701+00:00"
+    },
+    "https://alternativeto.net/software/privatta/about/|Privatta": {
+      "title": "Privatta",
+      "link": "https://alternativeto.net/software/privatta/about/",
+      "first_seen": "2026-07-22T00:07:06.310702+00:00"
     }
   }
 }
