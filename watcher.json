@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-22T21:53:48.899313+00:00",
+  "last_checked": "2026-07-22T22:46:24.333771+00:00",
   "seen": {
     "https://alternativeto.net/software/trainwiz-workout-pet-game/about/|TrainWiz": {
       "title": "TrainWiz",
@@ -1660,6 +1660,11 @@
       "title": "WalletFood",
       "link": "https://alternativeto.net/software/walletfood/about/",
       "first_seen": "2026-07-22T19:34:22.742291+00:00"
+    },
+    "https://alternativeto.net/software/readstatsapp/about/|ReadStatsApp": {
+      "title": "ReadStatsApp",
+      "link": "https://alternativeto.net/software/readstatsapp/about/",
+      "first_seen": "2026-07-22T22:46:23.583112+00:00"
     }
   }
 }
