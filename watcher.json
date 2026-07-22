@@ -1,31 +1,6 @@
 {
-  "last_checked": "2026-07-22T09:03:28.921592+00:00",
+  "last_checked": "2026-07-22T11:17:35.306290+00:00",
   "seen": {
-    "https://alternativeto.net/software/daily-affirmations-widget/about/|Daily Affirm": {
-      "title": "Daily Affirm",
-      "link": "https://alternativeto.net/software/daily-affirmations-widget/about/",
-      "first_seen": "2026-06-22T11:14:39.705970+00:00"
-    },
-    "https://alternativeto.net/software/ekygai/about/|EKYGAI": {
-      "title": "EKYGAI",
-      "link": "https://alternativeto.net/software/ekygai/about/",
-      "first_seen": "2026-06-22T11:14:39.705993+00:00"
-    },
-    "https://alternativeto.net/software/pikash-budget-expense-tracker/about/|Pikash": {
-      "title": "Pikash",
-      "link": "https://alternativeto.net/software/pikash-budget-expense-tracker/about/",
-      "first_seen": "2026-06-22T11:14:39.705997+00:00"
-    },
-    "https://alternativeto.net/software/fit-horizon/about/|Fit Horizon": {
-      "title": "Fit Horizon",
-      "link": "https://alternativeto.net/software/fit-horizon/about/",
-      "first_seen": "2026-06-22T11:14:39.705999+00:00"
-    },
-    "https://alternativeto.net/software/veri-s-z-nt-s-/about/|Veri Sizintisi": {
-      "title": "Veri Sizintisi",
-      "link": "https://alternativeto.net/software/veri-s-z-nt-s-/about/",
-      "first_seen": "2026-06-22T11:14:39.706001+00:00"
-    },
     "https://alternativeto.net/software/biblioscan/about/|BiblioScan": {
       "title": "BiblioScan",
       "link": "https://alternativeto.net/software/biblioscan/about/",
@@ -1655,6 +1630,26 @@
       "title": "Privatta",
       "link": "https://alternativeto.net/software/privatta/about/",
       "first_seen": "2026-07-22T00:07:06.310702+00:00"
+    },
+    "https://alternativeto.net/software/german-vault/about/|German Vault": {
+      "title": "German Vault",
+      "link": "https://alternativeto.net/software/german-vault/about/",
+      "first_seen": "2026-07-22T11:17:31.638626+00:00"
+    },
+    "https://alternativeto.net/software/buck-the-critics-watchlist/about/|Buck The Critics": {
+      "title": "Buck The Critics",
+      "link": "https://alternativeto.net/software/buck-the-critics-watchlist/about/",
+      "first_seen": "2026-07-22T11:17:31.638645+00:00"
+    },
+    "https://alternativeto.net/software/leanup/about/|Leanup": {
+      "title": "Leanup",
+      "link": "https://alternativeto.net/software/leanup/about/",
+      "first_seen": "2026-07-22T11:17:31.638648+00:00"
+    },
+    "https://alternativeto.net/software/roz/about/|Roz": {
+      "title": "Roz",
+      "link": "https://alternativeto.net/software/roz/about/",
+      "first_seen": "2026-07-22T11:17:31.638650+00:00"
     }
   }
 }
