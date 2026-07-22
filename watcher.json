@@ -1,26 +1,6 @@
 {
-  "last_checked": "2026-07-22T15:05:29.575505+00:00",
+  "last_checked": "2026-07-22T16:41:56.744669+00:00",
   "seen": {
-    "https://alternativeto.net/software/biblioscan/about/|BiblioScan": {
-      "title": "BiblioScan",
-      "link": "https://alternativeto.net/software/biblioscan/about/",
-      "first_seen": "2026-06-22T16:03:25.339205+00:00"
-    },
-    "https://alternativeto.net/software/wolfes-club/about/|Wolfes Club": {
-      "title": "Wolfes Club",
-      "link": "https://alternativeto.net/software/wolfes-club/about/",
-      "first_seen": "2026-06-22T16:03:25.339226+00:00"
-    },
-    "https://alternativeto.net/software/swis-sphone/about/|SWIS SPhone": {
-      "title": "SWIS SPhone",
-      "link": "https://alternativeto.net/software/swis-sphone/about/",
-      "first_seen": "2026-06-22T16:03:25.339229+00:00"
-    },
-    "https://alternativeto.net/software/cravly/about/|Cravly": {
-      "title": "Cravly",
-      "link": "https://alternativeto.net/software/cravly/about/",
-      "first_seen": "2026-06-22T16:03:25.339231+00:00"
-    },
     "https://alternativeto.net/software/the-only-ever-app/about/|Only Ever": {
       "title": "Only Ever",
       "link": "https://alternativeto.net/software/the-only-ever-app/about/",
@@ -1675,6 +1655,16 @@
       "title": "Habit Tracker by Qbito",
       "link": "https://alternativeto.net/software/habit-tracker-by-qbito/about/",
       "first_seen": "2026-07-22T15:05:26.209990+00:00"
+    },
+    "https://alternativeto.net/software/armadaos/about/|ArmadaOS": {
+      "title": "ArmadaOS",
+      "link": "https://alternativeto.net/software/armadaos/about/",
+      "first_seen": "2026-07-22T16:41:54.977434+00:00"
+    },
+    "https://alternativeto.net/software/expenny--offline-cashbook-and-expenses/about/|Expenny": {
+      "title": "Expenny",
+      "link": "https://alternativeto.net/software/expenny--offline-cashbook-and-expenses/about/",
+      "first_seen": "2026-07-22T16:41:54.977480+00:00"
     }
   }
 }
