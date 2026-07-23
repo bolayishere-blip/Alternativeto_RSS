@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-23T09:59:08.067320+00:00",
+  "last_checked": "2026-07-23T11:57:25.334659+00:00",
   "seen": {
     "https://alternativeto.net/software/push-to-display/about/|Push To Display": {
       "title": "Push To Display",
@@ -1665,6 +1665,11 @@
       "title": "MojoLauncher",
       "link": "https://alternativeto.net/software/mojolauncher/about/",
       "first_seen": "2026-07-23T09:58:57.818410+00:00"
+    },
+    "https://alternativeto.net/software/open-historia/about/|Open Historia": {
+      "title": "Open Historia",
+      "link": "https://alternativeto.net/software/open-historia/about/",
+      "first_seen": "2026-07-23T11:57:24.501083+00:00"
     }
   }
 }
