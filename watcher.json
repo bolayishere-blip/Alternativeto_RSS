@@ -1,16 +1,6 @@
 {
-  "last_checked": "2026-07-23T11:57:25.334659+00:00",
+  "last_checked": "2026-07-23T14:24:02.801598+00:00",
   "seen": {
-    "https://alternativeto.net/software/push-to-display/about/|Push To Display": {
-      "title": "Push To Display",
-      "link": "https://alternativeto.net/software/push-to-display/about/",
-      "first_seen": "2026-06-23T12:26:21.168202+00:00"
-    },
-    "https://alternativeto.net/software/typa--restock-tracker/about/|TYPA": {
-      "title": "TYPA",
-      "link": "https://alternativeto.net/software/typa--restock-tracker/about/",
-      "first_seen": "2026-06-23T12:26:21.168221+00:00"
-    },
     "https://alternativeto.net/software/videflow/about/|VideFlow": {
       "title": "VideFlow",
       "link": "https://alternativeto.net/software/videflow/about/",
@@ -1670,6 +1660,21 @@
       "title": "Open Historia",
       "link": "https://alternativeto.net/software/open-historia/about/",
       "first_seen": "2026-07-23T11:57:24.501083+00:00"
+    },
+    "https://alternativeto.net/software/ax-note--note-taking-app/about/|AX Note": {
+      "title": "AX Note",
+      "link": "https://alternativeto.net/software/ax-note--note-taking-app/about/",
+      "first_seen": "2026-07-23T14:24:00.310076+00:00"
+    },
+    "https://alternativeto.net/software/bite-diary/about/|Bite Diary": {
+      "title": "Bite Diary",
+      "link": "https://alternativeto.net/software/bite-diary/about/",
+      "first_seen": "2026-07-23T14:24:00.310095+00:00"
+    },
+    "https://alternativeto.net/software/neonide/about/|NeonIDE": {
+      "title": "NeonIDE",
+      "link": "https://alternativeto.net/software/neonide/about/",
+      "first_seen": "2026-07-23T14:24:00.310098+00:00"
     }
   }
 }
