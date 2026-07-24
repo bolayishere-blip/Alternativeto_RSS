@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-24T12:58:39.576712+00:00",
+  "last_checked": "2026-07-24T15:02:10.972157+00:00",
   "seen": {
     "https://alternativeto.net/software/mapanim/about/|MapAnim": {
       "title": "MapAnim",
@@ -1640,6 +1640,21 @@
       "title": "Swifter Pro",
       "link": "https://alternativeto.net/software/swifterpro/about/",
       "first_seen": "2026-07-24T07:11:32.128876+00:00"
+    },
+    "https://alternativeto.net/software/duchinese/about/|DuChinese": {
+      "title": "DuChinese",
+      "link": "https://alternativeto.net/software/duchinese/about/",
+      "first_seen": "2026-07-24T15:02:08.624944+00:00"
+    },
+    "https://alternativeto.net/software/meow-habits--habit-tracker/about/|Meow Habits": {
+      "title": "Meow Habits",
+      "link": "https://alternativeto.net/software/meow-habits--habit-tracker/about/",
+      "first_seen": "2026-07-24T15:02:08.624968+00:00"
+    },
+    "https://alternativeto.net/software/kinu/about/|Kinu": {
+      "title": "Kinu",
+      "link": "https://alternativeto.net/software/kinu/about/",
+      "first_seen": "2026-07-24T15:02:08.624970+00:00"
     }
   }
 }
