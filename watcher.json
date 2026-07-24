@@ -1,21 +1,6 @@
 {
-  "last_checked": "2026-07-24T15:02:10.972157+00:00",
+  "last_checked": "2026-07-24T16:54:49.639780+00:00",
   "seen": {
-    "https://alternativeto.net/software/mapanim/about/|MapAnim": {
-      "title": "MapAnim",
-      "link": "https://alternativeto.net/software/mapanim/about/",
-      "first_seen": "2026-06-24T15:07:17.973319+00:00"
-    },
-    "https://alternativeto.net/software/samsara-wellness/about/|Samsara Wellness": {
-      "title": "Samsara Wellness",
-      "link": "https://alternativeto.net/software/samsara-wellness/about/",
-      "first_seen": "2026-06-24T15:07:17.973338+00:00"
-    },
-    "https://alternativeto.net/software/scrolltoll--screen-time-gym/about/|ScrollToll": {
-      "title": "ScrollToll",
-      "link": "https://alternativeto.net/software/scrolltoll--screen-time-gym/about/",
-      "first_seen": "2026-06-24T15:07:17.973341+00:00"
-    },
     "https://alternativeto.net/software/repraptor/about/|RepRaptor": {
       "title": "RepRaptor",
       "link": "https://alternativeto.net/software/repraptor/about/",
@@ -1655,6 +1640,26 @@
       "title": "Kinu",
       "link": "https://alternativeto.net/software/kinu/about/",
       "first_seen": "2026-07-24T15:02:08.624970+00:00"
+    },
+    "https://alternativeto.net/software/rustore/about/|RuStore": {
+      "title": "RuStore",
+      "link": "https://alternativeto.net/software/rustore/about/",
+      "first_seen": "2026-07-24T16:54:47.035705+00:00"
+    },
+    "https://alternativeto.net/software/monelo/about/|Monelo": {
+      "title": "Monelo",
+      "link": "https://alternativeto.net/software/monelo/about/",
+      "first_seen": "2026-07-24T16:54:47.035730+00:00"
+    },
+    "https://alternativeto.net/software/wifi-audio-streaming/about/|WiFi Audio Streaming": {
+      "title": "WiFi Audio Streaming",
+      "link": "https://alternativeto.net/software/wifi-audio-streaming/about/",
+      "first_seen": "2026-07-24T16:54:47.035733+00:00"
+    },
+    "https://alternativeto.net/software/nomsai-ai-calorie-counter/about/|NomsAI": {
+      "title": "NomsAI",
+      "link": "https://alternativeto.net/software/nomsai-ai-calorie-counter/about/",
+      "first_seen": "2026-07-24T16:54:47.035736+00:00"
     }
   }
 }
