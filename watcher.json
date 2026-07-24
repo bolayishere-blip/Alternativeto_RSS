@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-24T16:54:49.639780+00:00",
+  "last_checked": "2026-07-24T18:19:37.490180+00:00",
   "seen": {
-    "https://alternativeto.net/software/repraptor/about/|RepRaptor": {
-      "title": "RepRaptor",
-      "link": "https://alternativeto.net/software/repraptor/about/",
-      "first_seen": "2026-06-24T17:17:13.389496+00:00"
-    },
     "https://alternativeto.net/software/shellular/about/|Shellular": {
       "title": "Shellular",
       "link": "https://alternativeto.net/software/shellular/about/",
@@ -1660,6 +1655,16 @@
       "title": "NomsAI",
       "link": "https://alternativeto.net/software/nomsai-ai-calorie-counter/about/",
       "first_seen": "2026-07-24T16:54:47.035736+00:00"
+    },
+    "https://alternativeto.net/software/vmfit/about/|VMFit": {
+      "title": "VMFit",
+      "link": "https://alternativeto.net/software/vmfit/about/",
+      "first_seen": "2026-07-24T18:19:36.301197+00:00"
+    },
+    "https://alternativeto.net/software/ioweu/about/|IOweU": {
+      "title": "IOweU",
+      "link": "https://alternativeto.net/software/ioweu/about/",
+      "first_seen": "2026-07-24T18:19:36.301222+00:00"
     }
   }
 }
