@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-24T18:19:37.490180+00:00",
+  "last_checked": "2026-07-24T19:52:12.842871+00:00",
   "seen": {
-    "https://alternativeto.net/software/shellular/about/|Shellular": {
-      "title": "Shellular",
-      "link": "https://alternativeto.net/software/shellular/about/",
-      "first_seen": "2026-06-24T19:03:04.212569+00:00"
-    },
     "https://alternativeto.net/software/chat-octopus/about/|Chat Octopus": {
       "title": "Chat Octopus",
       "link": "https://alternativeto.net/software/chat-octopus/about/",
@@ -1665,6 +1660,11 @@
       "title": "IOweU",
       "link": "https://alternativeto.net/software/ioweu/about/",
       "first_seen": "2026-07-24T18:19:36.301222+00:00"
+    },
+    "https://alternativeto.net/software/coach-fartlek/about/|Coach Fartlek": {
+      "title": "Coach Fartlek",
+      "link": "https://alternativeto.net/software/coach-fartlek/about/",
+      "first_seen": "2026-07-24T19:52:12.076506+00:00"
     }
   }
 }
