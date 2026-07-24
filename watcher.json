@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-24T04:28:26.405221+00:00",
+  "last_checked": "2026-07-24T07:11:34.325191+00:00",
   "seen": {
-    "https://alternativeto.net/software/klipa-iptv--m3u-y-xtream-local/about/|Klipa IPTV": {
-      "title": "Klipa IPTV",
-      "link": "https://alternativeto.net/software/klipa-iptv--m3u-y-xtream-local/about/",
-      "first_seen": "2026-06-24T05:53:45.332116+00:00"
-    },
     "https://alternativeto.net/software/explain-my-phone-analyzer/about/|Explain My Phone": {
       "title": "Explain My Phone",
       "link": "https://alternativeto.net/software/explain-my-phone-analyzer/about/",
@@ -1645,6 +1640,21 @@
       "title": "NeonIDE",
       "link": "https://alternativeto.net/software/neonide/about/",
       "first_seen": "2026-07-23T14:24:00.310098+00:00"
+    },
+    "https://alternativeto.net/software/forewords/about/|Forewords": {
+      "title": "Forewords",
+      "link": "https://alternativeto.net/software/forewords/about/",
+      "first_seen": "2026-07-24T07:11:32.128854+00:00"
+    },
+    "https://alternativeto.net/software/adresilo/about/|Adresilo": {
+      "title": "Adresilo",
+      "link": "https://alternativeto.net/software/adresilo/about/",
+      "first_seen": "2026-07-24T07:11:32.128872+00:00"
+    },
+    "https://alternativeto.net/software/swifterpro/about/|Swifter Pro": {
+      "title": "Swifter Pro",
+      "link": "https://alternativeto.net/software/swifterpro/about/",
+      "first_seen": "2026-07-24T07:11:32.128876+00:00"
     }
   }
 }
