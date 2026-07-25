@@ -1,16 +1,6 @@
 {
-  "last_checked": "2026-07-25T06:38:25.515334+00:00",
+  "last_checked": "2026-07-25T10:19:02.470786+00:00",
   "seen": {
-    "https://alternativeto.net/software/chat-octopus/about/|Chat Octopus": {
-      "title": "Chat Octopus",
-      "link": "https://alternativeto.net/software/chat-octopus/about/",
-      "first_seen": "2026-06-25T09:26:12.203820+00:00"
-    },
-    "https://alternativeto.net/software/rewatchstream/about/|RewatchStream": {
-      "title": "RewatchStream",
-      "link": "https://alternativeto.net/software/rewatchstream/about/",
-      "first_seen": "2026-06-25T09:26:12.203856+00:00"
-    },
     "https://alternativeto.net/software/nextthing-for-gtd/about/|NextThing for GTD": {
       "title": "NextThing for GTD",
       "link": "https://alternativeto.net/software/nextthing-for-gtd/about/",
@@ -1665,6 +1655,26 @@
       "title": "Coach Fartlek",
       "link": "https://alternativeto.net/software/coach-fartlek/about/",
       "first_seen": "2026-07-24T19:52:12.076506+00:00"
+    },
+    "https://alternativeto.net/software/vortyx/about/|Vortyx": {
+      "title": "Vortyx",
+      "link": "https://alternativeto.net/software/vortyx/about/",
+      "first_seen": "2026-07-25T10:18:59.447729+00:00"
+    },
+    "https://alternativeto.net/software/fedisuite/about/|FediSuite": {
+      "title": "FediSuite",
+      "link": "https://alternativeto.net/software/fedisuite/about/",
+      "first_seen": "2026-07-25T10:18:59.447756+00:00"
+    },
+    "https://alternativeto.net/software/squeezio/about/|Squeezio": {
+      "title": "Squeezio",
+      "link": "https://alternativeto.net/software/squeezio/about/",
+      "first_seen": "2026-07-25T10:18:59.447759+00:00"
+    },
+    "https://alternativeto.net/software/awol/about/|AWOL": {
+      "title": "AWOL",
+      "link": "https://alternativeto.net/software/awol/about/",
+      "first_seen": "2026-07-25T10:18:59.447762+00:00"
     }
   }
 }
