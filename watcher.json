@@ -1,16 +1,6 @@
 {
-  "last_checked": "2026-07-27T16:04:48.622140+00:00",
+  "last_checked": "2026-07-27T17:53:38.056095+00:00",
   "seen": {
-    "https://alternativeto.net/software/simply-minimal-white-icon-pack/about/|Simply Minimal White Icon Pack": {
-      "title": "Simply Minimal White Icon Pack",
-      "link": "https://alternativeto.net/software/simply-minimal-white-icon-pack/about/",
-      "first_seen": "2026-06-27T17:48:24.203494+00:00"
-    },
-    "https://alternativeto.net/software/snow-icon-pack-/about/|Snow (icon pack)": {
-      "title": "Snow (icon pack)",
-      "link": "https://alternativeto.net/software/snow-icon-pack-/about/",
-      "first_seen": "2026-06-27T17:48:24.203516+00:00"
-    },
     "https://alternativeto.net/software/todo-agenda/about/|Todo Agenda": {
       "title": "Todo Agenda",
       "link": "https://alternativeto.net/software/todo-agenda/about/",
@@ -1660,6 +1650,26 @@
       "title": "Cove Ninja",
       "link": "https://alternativeto.net/software/cove-ninja/about/",
       "first_seen": "2026-07-27T16:04:46.752353+00:00"
+    },
+    "https://alternativeto.net/software/technomatic-2105/about/|Technomatic 2105": {
+      "title": "Technomatic 2105",
+      "link": "https://alternativeto.net/software/technomatic-2105/about/",
+      "first_seen": "2026-07-27T17:53:35.332833+00:00"
+    },
+    "https://alternativeto.net/software/k-m-f-trading-journal/about/|K.M.F. Trading Journal": {
+      "title": "K.M.F. Trading Journal",
+      "link": "https://alternativeto.net/software/k-m-f-trading-journal/about/",
+      "first_seen": "2026-07-27T17:53:35.332860+00:00"
+    },
+    "https://alternativeto.net/software/aerial-radio/about/|Aerial Radio": {
+      "title": "Aerial Radio",
+      "link": "https://alternativeto.net/software/aerial-radio/about/",
+      "first_seen": "2026-07-27T17:53:35.332863+00:00"
+    },
+    "https://alternativeto.net/software/herfreedom101/about/|HerFreedom101": {
+      "title": "HerFreedom101",
+      "link": "https://alternativeto.net/software/herfreedom101/about/",
+      "first_seen": "2026-07-27T17:53:35.332864+00:00"
     }
   }
 }
