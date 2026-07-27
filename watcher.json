@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-27T13:43:14.873139+00:00",
+  "last_checked": "2026-07-27T16:04:48.622140+00:00",
   "seen": {
-    "https://alternativeto.net/software/recalla/about/|Recalla": {
-      "title": "Recalla",
-      "link": "https://alternativeto.net/software/recalla/about/",
-      "first_seen": "2026-06-27T14:01:27.847476+00:00"
-    },
     "https://alternativeto.net/software/simply-minimal-white-icon-pack/about/|Simply Minimal White Icon Pack": {
       "title": "Simply Minimal White Icon Pack",
       "link": "https://alternativeto.net/software/simply-minimal-white-icon-pack/about/",
@@ -1650,6 +1645,21 @@
       "title": "BYDFi",
       "link": "https://alternativeto.net/software/bydfi/about/",
       "first_seen": "2026-07-27T13:43:04.925921+00:00"
+    },
+    "https://alternativeto.net/software/sha/about/|Sha": {
+      "title": "Sha",
+      "link": "https://alternativeto.net/software/sha/about/",
+      "first_seen": "2026-07-27T16:04:46.752325+00:00"
+    },
+    "https://alternativeto.net/software/sleeveup/about/|SleeveUp": {
+      "title": "SleeveUp",
+      "link": "https://alternativeto.net/software/sleeveup/about/",
+      "first_seen": "2026-07-27T16:04:46.752349+00:00"
+    },
+    "https://alternativeto.net/software/cove-ninja/about/|Cove Ninja": {
+      "title": "Cove Ninja",
+      "link": "https://alternativeto.net/software/cove-ninja/about/",
+      "first_seen": "2026-07-27T16:04:46.752353+00:00"
     }
   }
 }
