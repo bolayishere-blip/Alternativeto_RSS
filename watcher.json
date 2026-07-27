@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-27T17:53:38.056095+00:00",
+  "last_checked": "2026-07-27T19:36:40.506365+00:00",
   "seen": {
-    "https://alternativeto.net/software/todo-agenda/about/|Todo Agenda": {
-      "title": "Todo Agenda",
-      "link": "https://alternativeto.net/software/todo-agenda/about/",
-      "first_seen": "2026-06-27T18:57:16.498065+00:00"
-    },
     "https://alternativeto.net/software/revo-permission-analyzer/about/|Revo Permission Analyzer": {
       "title": "Revo Permission Analyzer",
       "link": "https://alternativeto.net/software/revo-permission-analyzer/about/",
@@ -1670,6 +1665,31 @@
       "title": "HerFreedom101",
       "link": "https://alternativeto.net/software/herfreedom101/about/",
       "first_seen": "2026-07-27T17:53:35.332864+00:00"
+    },
+    "https://alternativeto.net/software/guesskar/about/|GuessKar": {
+      "title": "GuessKar",
+      "link": "https://alternativeto.net/software/guesskar/about/",
+      "first_seen": "2026-07-27T19:36:37.779748+00:00"
+    },
+    "https://alternativeto.net/software/overgrid--drawing-grid/about/|Overgrid": {
+      "title": "Overgrid",
+      "link": "https://alternativeto.net/software/overgrid--drawing-grid/about/",
+      "first_seen": "2026-07-27T19:36:37.779779+00:00"
+    },
+    "https://alternativeto.net/software/habitshare/about/|HabitShare": {
+      "title": "HabitShare",
+      "link": "https://alternativeto.net/software/habitshare/about/",
+      "first_seen": "2026-07-27T19:36:37.779783+00:00"
+    },
+    "https://alternativeto.net/software/habit-huddle/about/|Habit Huddle": {
+      "title": "Habit Huddle",
+      "link": "https://alternativeto.net/software/habit-huddle/about/",
+      "first_seen": "2026-07-27T19:36:37.779786+00:00"
+    },
+    "https://alternativeto.net/software/woll-et/about/|Woll-eT": {
+      "title": "Woll-eT",
+      "link": "https://alternativeto.net/software/woll-et/about/",
+      "first_seen": "2026-07-27T19:36:37.779788+00:00"
     }
   }
 }
