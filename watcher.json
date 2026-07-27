@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-27T07:50:07.320755+00:00",
+  "last_checked": "2026-07-27T11:00:01.639665+00:00",
   "seen": {
-    "https://alternativeto.net/software/breadcrumbs-travel-journal/about/|Breadcrumbs: Travel Journal": {
-      "title": "Breadcrumbs: Travel Journal",
-      "link": "https://alternativeto.net/software/breadcrumbs-travel-journal/about/",
-      "first_seen": "2026-06-27T08:19:38.513339+00:00"
-    },
     "https://alternativeto.net/software/recalla/about/|Recalla": {
       "title": "Recalla",
       "link": "https://alternativeto.net/software/recalla/about/",
@@ -1575,6 +1570,46 @@
       "title": "AWOL",
       "link": "https://alternativeto.net/software/awol/about/",
       "first_seen": "2026-07-25T10:18:59.447762+00:00"
+    },
+    "https://alternativeto.net/software/pocket-clear/about/|Pocket Clear": {
+      "title": "Pocket Clear",
+      "link": "https://alternativeto.net/software/pocket-clear/about/",
+      "first_seen": "2026-07-27T10:59:52.606350+00:00"
+    },
+    "https://alternativeto.net/software/yoggi/about/|Yoggi": {
+      "title": "Yoggi",
+      "link": "https://alternativeto.net/software/yoggi/about/",
+      "first_seen": "2026-07-27T10:59:52.606377+00:00"
+    },
+    "https://alternativeto.net/software/math-says-yes/about/|Math Says Yes": {
+      "title": "Math Says Yes",
+      "link": "https://alternativeto.net/software/math-says-yes/about/",
+      "first_seen": "2026-07-27T10:59:52.606379+00:00"
+    },
+    "https://alternativeto.net/software/botanisense/about/|BotaniSense": {
+      "title": "BotaniSense",
+      "link": "https://alternativeto.net/software/botanisense/about/",
+      "first_seen": "2026-07-27T10:59:52.606381+00:00"
+    },
+    "https://alternativeto.net/software/eidex/about/|EIDEX": {
+      "title": "EIDEX",
+      "link": "https://alternativeto.net/software/eidex/about/",
+      "first_seen": "2026-07-27T10:59:52.606383+00:00"
+    },
+    "https://alternativeto.net/software/lacuna-academy/about/|Lacuna Academy": {
+      "title": "Lacuna Academy",
+      "link": "https://alternativeto.net/software/lacuna-academy/about/",
+      "first_seen": "2026-07-27T10:59:52.606385+00:00"
+    },
+    "https://alternativeto.net/software/chamet-com/about/|Chamet": {
+      "title": "Chamet",
+      "link": "https://alternativeto.net/software/chamet-com/about/",
+      "first_seen": "2026-07-27T10:59:52.606386+00:00"
+    },
+    "https://alternativeto.net/software/personal-trainer--home-workout/about/|Personal Trainer": {
+      "title": "Personal Trainer",
+      "link": "https://alternativeto.net/software/personal-trainer--home-workout/about/",
+      "first_seen": "2026-07-27T10:59:52.606391+00:00"
     }
   }
 }
