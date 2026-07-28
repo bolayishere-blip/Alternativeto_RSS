@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-28T13:13:01.062910+00:00",
+  "last_checked": "2026-07-28T15:38:03.381929+00:00",
   "seen": {
     "https://alternativeto.net/software/revo-permission-analyzer/about/|Revo Permission Analyzer": {
       "title": "Revo Permission Analyzer",
@@ -1755,6 +1755,16 @@
       "title": "FlowApp",
       "link": "https://alternativeto.net/software/flowapp-1/about/",
       "first_seen": "2026-07-28T13:12:59.675996+00:00"
+    },
+    "https://alternativeto.net/software/vortex-app/about/|Vortex App": {
+      "title": "Vortex App",
+      "link": "https://alternativeto.net/software/vortex-app/about/",
+      "first_seen": "2026-07-28T15:38:01.807307+00:00"
+    },
+    "https://alternativeto.net/software/cashleaklogger/about/|CashLeakLogger": {
+      "title": "CashLeakLogger",
+      "link": "https://alternativeto.net/software/cashleaklogger/about/",
+      "first_seen": "2026-07-28T15:38:01.807335+00:00"
     }
   }
 }
