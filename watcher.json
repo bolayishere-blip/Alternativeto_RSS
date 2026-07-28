@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-28T09:10:02.920705+00:00",
+  "last_checked": "2026-07-28T11:28:01.499786+00:00",
   "seen": {
     "https://alternativeto.net/software/revo-permission-analyzer/about/|Revo Permission Analyzer": {
       "title": "Revo Permission Analyzer",
@@ -1705,6 +1705,46 @@
       "title": "My Baby Stages",
       "link": "https://alternativeto.net/software/my-baby-stages/about/",
       "first_seen": "2026-07-28T09:10:01.629082+00:00"
+    },
+    "https://alternativeto.net/software/swiftex/about/|SwiftEx": {
+      "title": "SwiftEx",
+      "link": "https://alternativeto.net/software/swiftex/about/",
+      "first_seen": "2026-07-28T11:27:51.901418+00:00"
+    },
+    "https://alternativeto.net/software/topcal/about/|TopCal": {
+      "title": "TopCal",
+      "link": "https://alternativeto.net/software/topcal/about/",
+      "first_seen": "2026-07-28T11:27:51.901448+00:00"
+    },
+    "https://alternativeto.net/software/gridjoy/about/|GridJoy": {
+      "title": "GridJoy",
+      "link": "https://alternativeto.net/software/gridjoy/about/",
+      "first_seen": "2026-07-28T11:27:51.901452+00:00"
+    },
+    "https://alternativeto.net/software/goals-one-step-at-a-time/about/|Goals": {
+      "title": "Goals",
+      "link": "https://alternativeto.net/software/goals-one-step-at-a-time/about/",
+      "first_seen": "2026-07-28T11:27:51.901454+00:00"
+    },
+    "https://alternativeto.net/software/macaco/about/|Macaco": {
+      "title": "Macaco",
+      "link": "https://alternativeto.net/software/macaco/about/",
+      "first_seen": "2026-07-28T11:27:51.901456+00:00"
+    },
+    "https://alternativeto.net/software/million-whys/about/|Million Whys": {
+      "title": "Million Whys",
+      "link": "https://alternativeto.net/software/million-whys/about/",
+      "first_seen": "2026-07-28T11:27:51.901457+00:00"
+    },
+    "https://alternativeto.net/software/restaurantmanage/about/|RestaurantManage": {
+      "title": "RestaurantManage",
+      "link": "https://alternativeto.net/software/restaurantmanage/about/",
+      "first_seen": "2026-07-28T11:27:51.901459+00:00"
+    },
+    "https://alternativeto.net/software/playlog-video-game-tracker/about/|PlayLog: Video Game Tracker": {
+      "title": "PlayLog: Video Game Tracker",
+      "link": "https://alternativeto.net/software/playlog-video-game-tracker/about/",
+      "first_seen": "2026-07-28T11:27:51.901464+00:00"
     }
   }
 }
