@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-28T15:38:03.381929+00:00",
+  "last_checked": "2026-07-28T17:08:05.602361+00:00",
   "seen": {
     "https://alternativeto.net/software/revo-permission-analyzer/about/|Revo Permission Analyzer": {
       "title": "Revo Permission Analyzer",
@@ -1765,6 +1765,11 @@
       "title": "CashLeakLogger",
       "link": "https://alternativeto.net/software/cashleaklogger/about/",
       "first_seen": "2026-07-28T15:38:01.807335+00:00"
+    },
+    "https://alternativeto.net/software/dondurma/about/|Dondurma": {
+      "title": "Dondurma",
+      "link": "https://alternativeto.net/software/dondurma/about/",
+      "first_seen": "2026-07-28T17:08:04.786648+00:00"
     }
   }
 }
