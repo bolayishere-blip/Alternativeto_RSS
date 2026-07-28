@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-28T11:28:01.499786+00:00",
+  "last_checked": "2026-07-28T13:13:01.062910+00:00",
   "seen": {
     "https://alternativeto.net/software/revo-permission-analyzer/about/|Revo Permission Analyzer": {
       "title": "Revo Permission Analyzer",
@@ -1745,6 +1745,16 @@
       "title": "PlayLog: Video Game Tracker",
       "link": "https://alternativeto.net/software/playlog-video-game-tracker/about/",
       "first_seen": "2026-07-28T11:27:51.901464+00:00"
+    },
+    "https://alternativeto.net/software/periodvol/about/|PeriodVol": {
+      "title": "PeriodVol",
+      "link": "https://alternativeto.net/software/periodvol/about/",
+      "first_seen": "2026-07-28T13:12:59.675976+00:00"
+    },
+    "https://alternativeto.net/software/flowapp-1/about/|FlowApp": {
+      "title": "FlowApp",
+      "link": "https://alternativeto.net/software/flowapp-1/about/",
+      "first_seen": "2026-07-28T13:12:59.675996+00:00"
     }
   }
 }
