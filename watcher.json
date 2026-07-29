@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-29T07:29:32.550396+00:00",
+  "last_checked": "2026-07-29T10:13:24.434396+00:00",
   "seen": {
     "https://alternativeto.net/software/curbox/about/|Curbox": {
       "title": "Curbox",
@@ -1765,6 +1765,21 @@
       "title": "ChordPrompter",
       "link": "https://alternativeto.net/software/chordprompter/about/",
       "first_seen": "2026-07-28T18:44:18.393349+00:00"
+    },
+    "https://alternativeto.net/software/topa-home-bar-and-cocktails/about/|Topa!": {
+      "title": "Topa!",
+      "link": "https://alternativeto.net/software/topa-home-bar-and-cocktails/about/",
+      "first_seen": "2026-07-29T10:13:22.562145+00:00"
+    },
+    "https://alternativeto.net/software/korva/about/|Korva": {
+      "title": "Korva",
+      "link": "https://alternativeto.net/software/korva/about/",
+      "first_seen": "2026-07-29T10:13:22.562164+00:00"
+    },
+    "https://alternativeto.net/software/magic-sort/about/|Magic Sort": {
+      "title": "Magic Sort",
+      "link": "https://alternativeto.net/software/magic-sort/about/",
+      "first_seen": "2026-07-29T10:13:22.562167+00:00"
     }
   }
 }
