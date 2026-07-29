@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-29T16:12:17.997367+00:00",
+  "last_checked": "2026-07-29T17:42:37.932589+00:00",
   "seen": {
     "https://alternativeto.net/software/watchnplay/about/|WatchNPlay": {
       "title": "WatchNPlay",
@@ -1735,6 +1735,36 @@
       "title": "Syne",
       "link": "https://alternativeto.net/software/syne/about/",
       "first_seen": "2026-07-29T16:12:17.144491+00:00"
+    },
+    "https://alternativeto.net/software/localsafebox/about/|LocalSafeBox": {
+      "title": "LocalSafeBox",
+      "link": "https://alternativeto.net/software/localsafebox/about/",
+      "first_seen": "2026-07-29T17:42:30.884895+00:00"
+    },
+    "https://alternativeto.net/software/spade-launcher/about/|Spade Launcher": {
+      "title": "Spade Launcher",
+      "link": "https://alternativeto.net/software/spade-launcher/about/",
+      "first_seen": "2026-07-29T17:42:30.884923+00:00"
+    },
+    "https://alternativeto.net/software/speakfam/about/|SpeakFam": {
+      "title": "SpeakFam",
+      "link": "https://alternativeto.net/software/speakfam/about/",
+      "first_seen": "2026-07-29T17:42:30.884925+00:00"
+    },
+    "https://alternativeto.net/software/duoweb-simple-launcher/about/|DUOWEB Simple Launcher": {
+      "title": "DUOWEB Simple Launcher",
+      "link": "https://alternativeto.net/software/duoweb-simple-launcher/about/",
+      "first_seen": "2026-07-29T17:42:30.884927+00:00"
+    },
+    "https://alternativeto.net/software/double-entry-accounting-game/about/|Double Entry": {
+      "title": "Double Entry",
+      "link": "https://alternativeto.net/software/double-entry-accounting-game/about/",
+      "first_seen": "2026-07-29T17:42:30.884929+00:00"
+    },
+    "https://alternativeto.net/software/kashera-pos/about/|Kashera POS": {
+      "title": "Kashera POS",
+      "link": "https://alternativeto.net/software/kashera-pos/about/",
+      "first_seen": "2026-07-29T17:42:30.884930+00:00"
     }
   }
 }
