@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-29T18:43:37.618437+00:00",
+  "last_checked": "2026-07-29T20:04:02.108741+00:00",
   "seen": {
     "https://alternativeto.net/software/calmwave/about/|CalmWave": {
       "title": "CalmWave",
@@ -1760,6 +1760,16 @@
       "title": "Kashera POS",
       "link": "https://alternativeto.net/software/kashera-pos/about/",
       "first_seen": "2026-07-29T17:42:30.884930+00:00"
+    },
+    "https://alternativeto.net/software/cantone/about/|canTone": {
+      "title": "canTone",
+      "link": "https://alternativeto.net/software/cantone/about/",
+      "first_seen": "2026-07-29T20:04:00.762764+00:00"
+    },
+    "https://alternativeto.net/software/redbean/about/|Redbean": {
+      "title": "Redbean",
+      "link": "https://alternativeto.net/software/redbean/about/",
+      "first_seen": "2026-07-29T20:04:00.762783+00:00"
     }
   }
 }
