@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-29T12:24:43.112323+00:00",
+  "last_checked": "2026-07-29T14:42:24.362458+00:00",
   "seen": {
     "https://alternativeto.net/software/pomoking-pomodoro-focus-timer/about/|PomoKing": {
       "title": "PomoKing",
@@ -1760,6 +1760,11 @@
       "title": "Magic Sort",
       "link": "https://alternativeto.net/software/magic-sort/about/",
       "first_seen": "2026-07-29T10:13:22.562167+00:00"
+    },
+    "https://alternativeto.net/software/dogtorcito/about/|Dogtorcito": {
+      "title": "Dogtorcito",
+      "link": "https://alternativeto.net/software/dogtorcito/about/",
+      "first_seen": "2026-07-29T14:42:23.539301+00:00"
     }
   }
 }
