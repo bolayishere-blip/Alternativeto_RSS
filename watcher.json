@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-30T17:00:29.780199+00:00",
+  "last_checked": "2026-07-30T18:41:59.834350+00:00",
   "seen": {
     "https://alternativeto.net/software/skillresy/about/|SkillResy": {
       "title": "SkillResy",
@@ -1790,6 +1790,11 @@
       "title": "Savepoint.gg",
       "link": "https://alternativeto.net/software/savepoint-savepoint-gg-/about/",
       "first_seen": "2026-07-30T17:00:28.882420+00:00"
+    },
+    "https://alternativeto.net/software/diktafon/about/|Diktafon": {
+      "title": "Diktafon",
+      "link": "https://alternativeto.net/software/diktafon/about/",
+      "first_seen": "2026-07-30T18:41:59.276630+00:00"
     }
   }
 }
