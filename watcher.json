@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-30T09:18:27.273835+00:00",
+  "last_checked": "2026-07-30T11:25:16.591094+00:00",
   "seen": {
     "https://alternativeto.net/software/toptier-strategy/about/|TopTier Strategy": {
       "title": "TopTier Strategy",
@@ -1775,6 +1775,21 @@
       "title": "Arcanum",
       "link": "https://alternativeto.net/software/arcanum/about/",
       "first_seen": "2026-07-30T09:18:25.833802+00:00"
+    },
+    "https://alternativeto.net/software/peshield/about/|PEShield": {
+      "title": "PEShield",
+      "link": "https://alternativeto.net/software/peshield/about/",
+      "first_seen": "2026-07-30T11:25:14.772903+00:00"
+    },
+    "https://alternativeto.net/software/butler-music/about/|Butler Music": {
+      "title": "Butler Music",
+      "link": "https://alternativeto.net/software/butler-music/about/",
+      "first_seen": "2026-07-30T11:25:14.772927+00:00"
+    },
+    "https://alternativeto.net/software/mymories/about/|Mymories": {
+      "title": "Mymories",
+      "link": "https://alternativeto.net/software/mymories/about/",
+      "first_seen": "2026-07-30T11:25:14.772931+00:00"
     }
   }
 }
