@@ -1,31 +1,6 @@
 {
-  "last_checked": "2026-07-30T15:21:35.741331+00:00",
+  "last_checked": "2026-07-30T17:00:29.780199+00:00",
   "seen": {
-    "https://alternativeto.net/software/legba/about/|Legba": {
-      "title": "Legba",
-      "link": "https://alternativeto.net/software/legba/about/",
-      "first_seen": "2026-06-30T16:06:38.639265+00:00"
-    },
-    "https://alternativeto.net/software/the-wonder-weeks/about/|The Wonder Weeks": {
-      "title": "The Wonder Weeks",
-      "link": "https://alternativeto.net/software/the-wonder-weeks/about/",
-      "first_seen": "2026-06-30T16:06:38.639288+00:00"
-    },
-    "https://alternativeto.net/software/otomato/about/|Otomato": {
-      "title": "Otomato",
-      "link": "https://alternativeto.net/software/otomato/about/",
-      "first_seen": "2026-06-30T16:06:38.639291+00:00"
-    },
-    "https://alternativeto.net/software/skylight-calendar/about/|Skylight Calendar": {
-      "title": "Skylight Calendar",
-      "link": "https://alternativeto.net/software/skylight-calendar/about/",
-      "first_seen": "2026-06-30T16:06:38.639293+00:00"
-    },
-    "https://alternativeto.net/software/the-vance-case--found-phone/about/|The Vance Case": {
-      "title": "The Vance Case",
-      "link": "https://alternativeto.net/software/the-vance-case--found-phone/about/",
-      "first_seen": "2026-06-30T16:06:38.639295+00:00"
-    },
     "https://alternativeto.net/software/skillresy/about/|SkillResy": {
       "title": "SkillResy",
       "link": "https://alternativeto.net/software/skillresy/about/",
@@ -1810,6 +1785,11 @@
       "title": "Viallo",
       "link": "https://alternativeto.net/software/viallo/about/",
       "first_seen": "2026-07-30T15:21:33.978494+00:00"
+    },
+    "https://alternativeto.net/software/savepoint-savepoint-gg-/about/|Savepoint.gg": {
+      "title": "Savepoint.gg",
+      "link": "https://alternativeto.net/software/savepoint-savepoint-gg-/about/",
+      "first_seen": "2026-07-30T17:00:28.882420+00:00"
     }
   }
 }
