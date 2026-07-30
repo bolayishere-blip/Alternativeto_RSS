@@ -1,16 +1,6 @@
 {
-  "last_checked": "2026-07-30T06:39:34.180694+00:00",
+  "last_checked": "2026-07-30T09:18:27.273835+00:00",
   "seen": {
-    "https://alternativeto.net/software/gymcare/about/|Gymcare": {
-      "title": "Gymcare",
-      "link": "https://alternativeto.net/software/gymcare/about/",
-      "first_seen": "2026-06-30T08:20:42.650219+00:00"
-    },
-    "https://alternativeto.net/software/roomellow/about/|Roomellow": {
-      "title": "Roomellow",
-      "link": "https://alternativeto.net/software/roomellow/about/",
-      "first_seen": "2026-06-30T08:20:42.650241+00:00"
-    },
     "https://alternativeto.net/software/toptier-strategy/about/|TopTier Strategy": {
       "title": "TopTier Strategy",
       "link": "https://alternativeto.net/software/toptier-strategy/about/",
@@ -1775,6 +1765,16 @@
       "title": "Massiv",
       "link": "https://alternativeto.net/software/massiv/about/",
       "first_seen": "2026-07-30T06:39:31.160975+00:00"
+    },
+    "https://alternativeto.net/software/lingolingo--learn-with-youtube/about/|LingoLingo": {
+      "title": "LingoLingo",
+      "link": "https://alternativeto.net/software/lingolingo--learn-with-youtube/about/",
+      "first_seen": "2026-07-30T09:18:25.833772+00:00"
+    },
+    "https://alternativeto.net/software/arcanum/about/|Arcanum": {
+      "title": "Arcanum",
+      "link": "https://alternativeto.net/software/arcanum/about/",
+      "first_seen": "2026-07-30T09:18:25.833802+00:00"
     }
   }
 }
