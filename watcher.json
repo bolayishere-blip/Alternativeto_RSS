@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-30T04:07:05.004599+00:00",
+  "last_checked": "2026-07-30T06:39:34.180694+00:00",
   "seen": {
-    "https://alternativeto.net/software/amiqo/about/|amiqo": {
-      "title": "amiqo",
-      "link": "https://alternativeto.net/software/amiqo/about/",
-      "first_seen": "2026-06-30T04:39:07.906747+00:00"
-    },
     "https://alternativeto.net/software/gymcare/about/|Gymcare": {
       "title": "Gymcare",
       "link": "https://alternativeto.net/software/gymcare/about/",
@@ -1765,6 +1760,21 @@
       "title": "Redbean",
       "link": "https://alternativeto.net/software/redbean/about/",
       "first_seen": "2026-07-29T20:04:00.762783+00:00"
+    },
+    "https://alternativeto.net/software/kronoprompt/about/|KronoPrompt": {
+      "title": "KronoPrompt",
+      "link": "https://alternativeto.net/software/kronoprompt/about/",
+      "first_seen": "2026-07-30T06:39:31.160953+00:00"
+    },
+    "https://alternativeto.net/software/seamless-video-looper-offline/about/|Seamless Video Looper": {
+      "title": "Seamless Video Looper",
+      "link": "https://alternativeto.net/software/seamless-video-looper-offline/about/",
+      "first_seen": "2026-07-30T06:39:31.160972+00:00"
+    },
+    "https://alternativeto.net/software/massiv/about/|Massiv": {
+      "title": "Massiv",
+      "link": "https://alternativeto.net/software/massiv/about/",
+      "first_seen": "2026-07-30T06:39:31.160975+00:00"
     }
   }
 }
