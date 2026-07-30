@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-30T13:06:49.684479+00:00",
+  "last_checked": "2026-07-30T15:21:35.741331+00:00",
   "seen": {
-    "https://alternativeto.net/software/toptier-strategy/about/|TopTier Strategy": {
-      "title": "TopTier Strategy",
-      "link": "https://alternativeto.net/software/toptier-strategy/about/",
-      "first_seen": "2026-06-30T13:24:46.904656+00:00"
-    },
     "https://alternativeto.net/software/legba/about/|Legba": {
       "title": "Legba",
       "link": "https://alternativeto.net/software/legba/about/",
@@ -1800,6 +1795,21 @@
       "title": "MTG Familiar",
       "link": "https://alternativeto.net/software/mtg-familiar/about/",
       "first_seen": "2026-07-30T13:06:48.286978+00:00"
+    },
+    "https://alternativeto.net/software/savepoint-savepoint-gg-/about/|Savepoint - Game Tracer": {
+      "title": "Savepoint - Game Tracer",
+      "link": "https://alternativeto.net/software/savepoint-savepoint-gg-/about/",
+      "first_seen": "2026-07-30T15:21:33.978470+00:00"
+    },
+    "https://alternativeto.net/software/simplihome/about/|SimpliHome": {
+      "title": "SimpliHome",
+      "link": "https://alternativeto.net/software/simplihome/about/",
+      "first_seen": "2026-07-30T15:21:33.978491+00:00"
+    },
+    "https://alternativeto.net/software/viallo/about/|Viallo": {
+      "title": "Viallo",
+      "link": "https://alternativeto.net/software/viallo/about/",
+      "first_seen": "2026-07-30T15:21:33.978494+00:00"
     }
   }
 }
