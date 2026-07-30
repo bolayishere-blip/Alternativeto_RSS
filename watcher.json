@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-30T11:25:16.591094+00:00",
+  "last_checked": "2026-07-30T13:06:49.684479+00:00",
   "seen": {
     "https://alternativeto.net/software/toptier-strategy/about/|TopTier Strategy": {
       "title": "TopTier Strategy",
@@ -1790,6 +1790,16 @@
       "title": "Mymories",
       "link": "https://alternativeto.net/software/mymories/about/",
       "first_seen": "2026-07-30T11:25:14.772931+00:00"
+    },
+    "https://alternativeto.net/software/argosy-launcher/about/|Argosy Launcher": {
+      "title": "Argosy Launcher",
+      "link": "https://alternativeto.net/software/argosy-launcher/about/",
+      "first_seen": "2026-07-30T13:06:48.286950+00:00"
+    },
+    "https://alternativeto.net/software/mtg-familiar/about/|MTG Familiar": {
+      "title": "MTG Familiar",
+      "link": "https://alternativeto.net/software/mtg-familiar/about/",
+      "first_seen": "2026-07-30T13:06:48.286978+00:00"
     }
   }
 }
