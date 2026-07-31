@@ -1,26 +1,6 @@
 {
-  "last_checked": "2026-07-31T07:40:01.664891+00:00",
+  "last_checked": "2026-07-31T10:17:25.350565+00:00",
   "seen": {
-    "https://alternativeto.net/software/eternals-online/about/|ETERNALS:online": {
-      "title": "ETERNALS:online",
-      "link": "https://alternativeto.net/software/eternals-online/about/",
-      "first_seen": "2026-07-01T10:14:33.512740+00:00"
-    },
-    "https://alternativeto.net/software/columba-messenger/about/|Columba Messenger": {
-      "title": "Columba Messenger",
-      "link": "https://alternativeto.net/software/columba-messenger/about/",
-      "first_seen": "2026-07-01T10:14:33.512762+00:00"
-    },
-    "https://alternativeto.net/software/sober-tracker-quit-drinking/about/|Sober Tracker": {
-      "title": "Sober Tracker",
-      "link": "https://alternativeto.net/software/sober-tracker-quit-drinking/about/",
-      "first_seen": "2026-07-01T10:14:33.512765+00:00"
-    },
-    "https://alternativeto.net/software/catchmsg/about/|CatchMsg": {
-      "title": "CatchMsg",
-      "link": "https://alternativeto.net/software/catchmsg/about/",
-      "first_seen": "2026-07-01T10:14:33.512767+00:00"
-    },
     "https://alternativeto.net/software/ratspeak/about/|Ratspeak": {
       "title": "Ratspeak",
       "link": "https://alternativeto.net/software/ratspeak/about/",
@@ -1800,6 +1780,31 @@
       "title": "ReadLater",
       "link": "https://alternativeto.net/software/readlater/about/",
       "first_seen": "2026-07-31T07:39:53.799293+00:00"
+    },
+    "https://alternativeto.net/software/knock-and-roll/about/|Knock & Roll": {
+      "title": "Knock & Roll",
+      "link": "https://alternativeto.net/software/knock-and-roll/about/",
+      "first_seen": "2026-07-31T10:17:21.546552+00:00"
+    },
+    "https://alternativeto.net/software/smokingweaner-2-0/about/|SmokingWeaner": {
+      "title": "SmokingWeaner",
+      "link": "https://alternativeto.net/software/smokingweaner-2-0/about/",
+      "first_seen": "2026-07-31T10:17:21.546569+00:00"
+    },
+    "https://alternativeto.net/software/photo-sweep-and-clean/about/|Photo Sweep & Clean": {
+      "title": "Photo Sweep & Clean",
+      "link": "https://alternativeto.net/software/photo-sweep-and-clean/about/",
+      "first_seen": "2026-07-31T10:17:21.546572+00:00"
+    },
+    "https://alternativeto.net/software/multiquiz/about/|MultiQuiz": {
+      "title": "MultiQuiz",
+      "link": "https://alternativeto.net/software/multiquiz/about/",
+      "first_seen": "2026-07-31T10:17:21.546575+00:00"
+    },
+    "https://alternativeto.net/software/toon-blast/about/|Toon Blast": {
+      "title": "Toon Blast",
+      "link": "https://alternativeto.net/software/toon-blast/about/",
+      "first_seen": "2026-07-31T10:17:21.546576+00:00"
     }
   }
 }
