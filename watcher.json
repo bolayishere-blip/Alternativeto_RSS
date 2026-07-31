@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-07-31T12:22:41.736356+00:00",
+  "last_checked": "2026-07-31T14:59:15.293634+00:00",
   "seen": {
-    "https://alternativeto.net/software/ratspeak/about/|Ratspeak": {
-      "title": "Ratspeak",
-      "link": "https://alternativeto.net/software/ratspeak/about/",
-      "first_seen": "2026-07-01T13:13:18.334341+00:00"
-    },
     "https://alternativeto.net/software/ownautocare/about/|OwnAutoCare": {
       "title": "OwnAutoCare",
       "link": "https://alternativeto.net/software/ownautocare/about/",
@@ -1840,6 +1835,16 @@
       "title": "ReadAware",
       "link": "https://alternativeto.net/software/readaware/about/",
       "first_seen": "2026-07-31T12:22:34.621468+00:00"
+    },
+    "https://alternativeto.net/software/pocket33/about/|Pocket33": {
+      "title": "Pocket33",
+      "link": "https://alternativeto.net/software/pocket33/about/",
+      "first_seen": "2026-07-31T14:59:13.701716+00:00"
+    },
+    "https://alternativeto.net/software/timill/about/|Timill": {
+      "title": "Timill",
+      "link": "https://alternativeto.net/software/timill/about/",
+      "first_seen": "2026-07-31T14:59:13.701734+00:00"
     }
   }
 }
