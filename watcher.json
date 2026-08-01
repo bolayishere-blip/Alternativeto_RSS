@@ -1,16 +1,6 @@
 {
-  "last_checked": "2026-08-01T04:41:19.365401+00:00",
+  "last_checked": "2026-08-01T07:17:39.785007+00:00",
   "seen": {
-    "https://alternativeto.net/software/famledger/about/|FamLedger": {
-      "title": "FamLedger",
-      "link": "https://alternativeto.net/software/famledger/about/",
-      "first_seen": "2026-07-02T05:36:46.703970+00:00"
-    },
-    "https://alternativeto.net/software/kithora/about/|Kithora": {
-      "title": "Kithora",
-      "link": "https://alternativeto.net/software/kithora/about/",
-      "first_seen": "2026-07-02T05:36:46.703996+00:00"
-    },
     "https://alternativeto.net/software/yattapick/about/|yattapick": {
       "title": "yattapick",
       "link": "https://alternativeto.net/software/yattapick/about/",
@@ -1805,6 +1795,31 @@
       "title": "Timill",
       "link": "https://alternativeto.net/software/timill/about/",
       "first_seen": "2026-07-31T14:59:13.701734+00:00"
+    },
+    "https://alternativeto.net/software/tineo/about/|Tineo": {
+      "title": "Tineo",
+      "link": "https://alternativeto.net/software/tineo/about/",
+      "first_seen": "2026-08-01T07:17:37.006078+00:00"
+    },
+    "https://alternativeto.net/software/loylist/about/|Loylist": {
+      "title": "Loylist",
+      "link": "https://alternativeto.net/software/loylist/about/",
+      "first_seen": "2026-08-01T07:17:37.006105+00:00"
+    },
+    "https://alternativeto.net/software/nocebo-launcher/about/|Nocebo Launcher": {
+      "title": "Nocebo Launcher",
+      "link": "https://alternativeto.net/software/nocebo-launcher/about/",
+      "first_seen": "2026-08-01T07:17:37.006109+00:00"
+    },
+    "https://alternativeto.net/software/meteo--elegant-weather/about/|Meteo — Elegant Weather": {
+      "title": "Meteo — Elegant Weather",
+      "link": "https://alternativeto.net/software/meteo--elegant-weather/about/",
+      "first_seen": "2026-08-01T07:17:37.006112+00:00"
+    },
+    "https://alternativeto.net/software/gps-logger-private-route-map/about/|GPS Logger": {
+      "title": "GPS Logger",
+      "link": "https://alternativeto.net/software/gps-logger-private-route-map/about/",
+      "first_seen": "2026-08-01T07:17:37.006114+00:00"
     }
   }
 }
