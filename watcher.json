@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-03T08:30:52.879823+00:00",
+  "last_checked": "2026-08-03T12:00:17.230719+00:00",
   "seen": {
     "https://alternativeto.net/software/meta-pocket/about/|Meta Pocket": {
       "title": "Meta Pocket",
@@ -1685,6 +1685,11 @@
       "title": "GPS Logger",
       "link": "https://alternativeto.net/software/gps-logger-private-route-map/about/",
       "first_seen": "2026-08-01T07:17:37.006114+00:00"
+    },
+    "https://alternativeto.net/software/reprise-karaoke-setlist/about/|Reprise: Karaoke Setlist": {
+      "title": "Reprise: Karaoke Setlist",
+      "link": "https://alternativeto.net/software/reprise-karaoke-setlist/about/",
+      "first_seen": "2026-08-03T12:00:15.622959+00:00"
     }
   }
 }
