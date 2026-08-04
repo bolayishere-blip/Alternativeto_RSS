@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-08-04T15:13:24.522848+00:00",
+  "last_checked": "2026-08-04T17:07:48.908090+00:00",
   "seen": {
-    "https://alternativeto.net/software/meta-pocket/about/|Meta Pocket": {
-      "title": "Meta Pocket",
-      "link": "https://alternativeto.net/software/meta-pocket/about/",
-      "first_seen": "2026-07-05T16:43:06.536650+00:00"
-    },
     "https://alternativeto.net/software/odra-poker-timer/about/|Odra Poker Timer": {
       "title": "Odra Poker Timer",
       "link": "https://alternativeto.net/software/odra-poker-timer/about/",
@@ -1720,6 +1715,26 @@
       "title": "LunaNova",
       "link": "https://alternativeto.net/software/lunanova-daily-astrology/about/",
       "first_seen": "2026-08-04T15:13:21.381110+00:00"
+    },
+    "https://alternativeto.net/software/sloga/about/|Sloga": {
+      "title": "Sloga",
+      "link": "https://alternativeto.net/software/sloga/about/",
+      "first_seen": "2026-08-04T17:07:45.850375+00:00"
+    },
+    "https://alternativeto.net/software/ownbit-multisig-and-cold-wallet/about/|Ownbit": {
+      "title": "Ownbit",
+      "link": "https://alternativeto.net/software/ownbit-multisig-and-cold-wallet/about/",
+      "first_seen": "2026-08-04T17:07:45.850401+00:00"
+    },
+    "https://alternativeto.net/software/youtube-clips/about/|YouTube Clips": {
+      "title": "YouTube Clips",
+      "link": "https://alternativeto.net/software/youtube-clips/about/",
+      "first_seen": "2026-08-04T17:07:45.850405+00:00"
+    },
+    "https://alternativeto.net/software/warpfire-io/about/|Warpfire.io": {
+      "title": "Warpfire.io",
+      "link": "https://alternativeto.net/software/warpfire-io/about/",
+      "first_seen": "2026-08-04T17:07:45.850407+00:00"
     }
   }
 }
