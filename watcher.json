@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-04T12:49:49.861071+00:00",
+  "last_checked": "2026-08-04T15:13:24.522848+00:00",
   "seen": {
     "https://alternativeto.net/software/meta-pocket/about/|Meta Pocket": {
       "title": "Meta Pocket",
@@ -1700,6 +1700,26 @@
       "title": "GoLive Streamers",
       "link": "https://alternativeto.net/software/golive/about/",
       "first_seen": "2026-08-04T08:07:02.851183+00:00"
+    },
+    "https://alternativeto.net/software/aleph-beta/about/|Aleph Beta": {
+      "title": "Aleph Beta",
+      "link": "https://alternativeto.net/software/aleph-beta/about/",
+      "first_seen": "2026-08-04T15:13:21.381063+00:00"
+    },
+    "https://alternativeto.net/software/store-and-forget/about/|Store & Forget": {
+      "title": "Store & Forget",
+      "link": "https://alternativeto.net/software/store-and-forget/about/",
+      "first_seen": "2026-08-04T15:13:21.381089+00:00"
+    },
+    "https://alternativeto.net/software/bitematch-dinner-decision/about/|BiteMatch": {
+      "title": "BiteMatch",
+      "link": "https://alternativeto.net/software/bitematch-dinner-decision/about/",
+      "first_seen": "2026-08-04T15:13:21.381106+00:00"
+    },
+    "https://alternativeto.net/software/lunanova-daily-astrology/about/|LunaNova": {
+      "title": "LunaNova",
+      "link": "https://alternativeto.net/software/lunanova-daily-astrology/about/",
+      "first_seen": "2026-08-04T15:13:21.381110+00:00"
     }
   }
 }
