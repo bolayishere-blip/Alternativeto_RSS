@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-04T17:07:48.908090+00:00",
+  "last_checked": "2026-08-04T18:50:34.541025+00:00",
   "seen": {
     "https://alternativeto.net/software/odra-poker-timer/about/|Odra Poker Timer": {
       "title": "Odra Poker Timer",
@@ -1735,6 +1735,16 @@
       "title": "Warpfire.io",
       "link": "https://alternativeto.net/software/warpfire-io/about/",
       "first_seen": "2026-08-04T17:07:45.850407+00:00"
+    },
+    "https://alternativeto.net/software/kylon/about/|Kylon": {
+      "title": "Kylon",
+      "link": "https://alternativeto.net/software/kylon/about/",
+      "first_seen": "2026-08-04T18:50:33.262462+00:00"
+    },
+    "https://alternativeto.net/software/skillup/about/|SkillUp": {
+      "title": "SkillUp",
+      "link": "https://alternativeto.net/software/skillup/about/",
+      "first_seen": "2026-08-04T18:50:33.262490+00:00"
     }
   }
 }
