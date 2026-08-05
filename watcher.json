@@ -1,21 +1,6 @@
 {
-  "last_checked": "2026-08-05T09:04:33.206230+00:00",
+  "last_checked": "2026-08-05T11:27:01.346389+00:00",
   "seen": {
-    "https://alternativeto.net/software/invoicesnest/about/|InvoicesNest": {
-      "title": "InvoicesNest",
-      "link": "https://alternativeto.net/software/invoicesnest/about/",
-      "first_seen": "2026-07-06T11:00:28.969935+00:00"
-    },
-    "https://alternativeto.net/software/aura--ai-face-and-palm-reading/about/|AURA - AI Face & Palm Reading": {
-      "title": "AURA - AI Face & Palm Reading",
-      "link": "https://alternativeto.net/software/aura--ai-face-and-palm-reading/about/",
-      "first_seen": "2026-07-06T11:00:28.969959+00:00"
-    },
-    "https://alternativeto.net/software/showgest/about/|Showgest": {
-      "title": "Showgest",
-      "link": "https://alternativeto.net/software/showgest/about/",
-      "first_seen": "2026-07-06T11:00:28.969962+00:00"
-    },
     "https://alternativeto.net/software/bramble/about/|Bramble": {
       "title": "Bramble",
       "link": "https://alternativeto.net/software/bramble/about/",
@@ -1810,6 +1795,16 @@
       "title": "BookinTrade",
       "link": "https://alternativeto.net/software/bookintrade/about/",
       "first_seen": "2026-08-05T09:04:30.327378+00:00"
+    },
+    "https://alternativeto.net/software/mineora/about/|Mineora": {
+      "title": "Mineora",
+      "link": "https://alternativeto.net/software/mineora/about/",
+      "first_seen": "2026-08-05T11:27:00.123637+00:00"
+    },
+    "https://alternativeto.net/software/vocards/about/|Vocards": {
+      "title": "Vocards",
+      "link": "https://alternativeto.net/software/vocards/about/",
+      "first_seen": "2026-08-05T11:27:00.123656+00:00"
     }
   }
 }
