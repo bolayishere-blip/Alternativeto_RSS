@@ -1,31 +1,6 @@
 {
-  "last_checked": "2026-08-05T13:13:20.502559+00:00",
+  "last_checked": "2026-08-05T15:32:11.617111+00:00",
   "seen": {
-    "https://alternativeto.net/software/bramble/about/|Bramble": {
-      "title": "Bramble",
-      "link": "https://alternativeto.net/software/bramble/about/",
-      "first_seen": "2026-07-06T14:35:11.485746+00:00"
-    },
-    "https://alternativeto.net/software/museflow/about/|MuseFlow": {
-      "title": "MuseFlow",
-      "link": "https://alternativeto.net/software/museflow/about/",
-      "first_seen": "2026-07-06T14:35:11.485764+00:00"
-    },
-    "https://alternativeto.net/software/vestigia-landmarks-revealed/about/|Vestigia": {
-      "title": "Vestigia",
-      "link": "https://alternativeto.net/software/vestigia-landmarks-revealed/about/",
-      "first_seen": "2026-07-06T14:35:11.485768+00:00"
-    },
-    "https://alternativeto.net/software/hubtweak/about/|HubTweak": {
-      "title": "HubTweak",
-      "link": "https://alternativeto.net/software/hubtweak/about/",
-      "first_seen": "2026-07-06T14:35:11.485770+00:00"
-    },
-    "https://alternativeto.net/software/aseeksb/about/|AseeksB": {
-      "title": "AseeksB",
-      "link": "https://alternativeto.net/software/aseeksb/about/",
-      "first_seen": "2026-07-06T14:35:11.485772+00:00"
-    },
     "https://alternativeto.net/software/docflow/about/|DocFlow": {
       "title": "DocFlow",
       "link": "https://alternativeto.net/software/docflow/about/",
@@ -1805,6 +1780,41 @@
       "title": "Vocards",
       "link": "https://alternativeto.net/software/vocards/about/",
       "first_seen": "2026-08-05T11:27:00.123656+00:00"
+    },
+    "https://alternativeto.net/software/replayr/about/|ReplayR": {
+      "title": "ReplayR",
+      "link": "https://alternativeto.net/software/replayr/about/",
+      "first_seen": "2026-08-05T15:32:02.728839+00:00"
+    },
+    "https://alternativeto.net/software/keyboard-designer/about/|Keyboard Designer": {
+      "title": "Keyboard Designer",
+      "link": "https://alternativeto.net/software/keyboard-designer/about/",
+      "first_seen": "2026-08-05T15:32:02.728859+00:00"
+    },
+    "https://alternativeto.net/software/agendula/about/|Agendula": {
+      "title": "Agendula",
+      "link": "https://alternativeto.net/software/agendula/about/",
+      "first_seen": "2026-08-05T15:32:02.728862+00:00"
+    },
+    "https://alternativeto.net/software/demades/about/|Demades": {
+      "title": "Demades",
+      "link": "https://alternativeto.net/software/demades/about/",
+      "first_seen": "2026-08-05T15:32:02.728865+00:00"
+    },
+    "https://alternativeto.net/software/calendula/about/|Calendula": {
+      "title": "Calendula",
+      "link": "https://alternativeto.net/software/calendula/about/",
+      "first_seen": "2026-08-05T15:32:02.728867+00:00"
+    },
+    "https://alternativeto.net/software/svelta/about/|Svelta": {
+      "title": "Svelta",
+      "link": "https://alternativeto.net/software/svelta/about/",
+      "first_seen": "2026-08-05T15:32:02.728869+00:00"
+    },
+    "https://alternativeto.net/software/tusport/about/|TuSport": {
+      "title": "TuSport",
+      "link": "https://alternativeto.net/software/tusport/about/",
+      "first_seen": "2026-08-05T15:32:02.728871+00:00"
     }
   }
 }
