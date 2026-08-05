@@ -1,16 +1,6 @@
 {
-  "last_checked": "2026-08-05T03:28:35.843090+00:00",
+  "last_checked": "2026-08-05T06:09:12.133147+00:00",
   "seen": {
-    "https://alternativeto.net/software/odra-poker-timer/about/|Odra Poker Timer": {
-      "title": "Odra Poker Timer",
-      "link": "https://alternativeto.net/software/odra-poker-timer/about/",
-      "first_seen": "2026-07-06T06:06:27.950382+00:00"
-    },
-    "https://alternativeto.net/software/keeping-the-piece/about/|Keeping the Piece": {
-      "title": "Keeping the Piece",
-      "link": "https://alternativeto.net/software/keeping-the-piece/about/",
-      "first_seen": "2026-07-06T06:06:27.950404+00:00"
-    },
     "https://alternativeto.net/software/invoicesnest/about/|InvoicesNest": {
       "title": "InvoicesNest",
       "link": "https://alternativeto.net/software/invoicesnest/about/",
@@ -1745,6 +1735,56 @@
       "title": "SkillUp",
       "link": "https://alternativeto.net/software/skillup/about/",
       "first_seen": "2026-08-04T18:50:33.262490+00:00"
+    },
+    "https://alternativeto.net/software/oto/about/|Oto": {
+      "title": "Oto",
+      "link": "https://alternativeto.net/software/oto/about/",
+      "first_seen": "2026-08-05T06:09:00.673908+00:00"
+    },
+    "https://alternativeto.net/software/sz-cooking/about/|SZ Cooking": {
+      "title": "SZ Cooking",
+      "link": "https://alternativeto.net/software/sz-cooking/about/",
+      "first_seen": "2026-08-05T06:09:00.673929+00:00"
+    },
+    "https://alternativeto.net/software/vibeling/about/|VibeLing": {
+      "title": "VibeLing",
+      "link": "https://alternativeto.net/software/vibeling/about/",
+      "first_seen": "2026-08-05T06:09:00.673932+00:00"
+    },
+    "https://alternativeto.net/software/tourney-machine/about/|SportsEngine Tourney": {
+      "title": "SportsEngine Tourney",
+      "link": "https://alternativeto.net/software/tourney-machine/about/",
+      "first_seen": "2026-08-05T06:09:00.673934+00:00"
+    },
+    "https://alternativeto.net/software/recipe-shelf/about/|Recipe Shelf": {
+      "title": "Recipe Shelf",
+      "link": "https://alternativeto.net/software/recipe-shelf/about/",
+      "first_seen": "2026-08-05T06:09:00.673936+00:00"
+    },
+    "https://alternativeto.net/software/loggd/about/|Loggd": {
+      "title": "Loggd",
+      "link": "https://alternativeto.net/software/loggd/about/",
+      "first_seen": "2026-08-05T06:09:00.673938+00:00"
+    },
+    "https://alternativeto.net/software/chompass/about/|Chompass": {
+      "title": "Chompass",
+      "link": "https://alternativeto.net/software/chompass/about/",
+      "first_seen": "2026-08-05T06:09:00.673940+00:00"
+    },
+    "https://alternativeto.net/software/the-podcast-app--ai--podcasts/about/|The Podcast App": {
+      "title": "The Podcast App",
+      "link": "https://alternativeto.net/software/the-podcast-app--ai--podcasts/about/",
+      "first_seen": "2026-08-05T06:09:00.673945+00:00"
+    },
+    "https://alternativeto.net/software/blocktrix/about/|Blocktrix": {
+      "title": "Blocktrix",
+      "link": "https://alternativeto.net/software/blocktrix/about/",
+      "first_seen": "2026-08-05T06:09:00.673947+00:00"
+    },
+    "https://alternativeto.net/software/ai-exodus/about/|AI Exodus": {
+      "title": "AI Exodus",
+      "link": "https://alternativeto.net/software/ai-exodus/about/",
+      "first_seen": "2026-08-05T06:09:00.673961+00:00"
     }
   }
 }
