@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-05T06:09:12.133147+00:00",
+  "last_checked": "2026-08-05T09:04:33.206230+00:00",
   "seen": {
     "https://alternativeto.net/software/invoicesnest/about/|InvoicesNest": {
       "title": "InvoicesNest",
@@ -1785,6 +1785,31 @@
       "title": "AI Exodus",
       "link": "https://alternativeto.net/software/ai-exodus/about/",
       "first_seen": "2026-08-05T06:09:00.673961+00:00"
+    },
+    "https://alternativeto.net/software/the-daily-smark/about/|The Daily Smark": {
+      "title": "The Daily Smark",
+      "link": "https://alternativeto.net/software/the-daily-smark/about/",
+      "first_seen": "2026-08-05T09:04:30.327350+00:00"
+    },
+    "https://alternativeto.net/software/sctomp3--soundcloud-playlist-downloader/about/|sctomp3": {
+      "title": "sctomp3",
+      "link": "https://alternativeto.net/software/sctomp3--soundcloud-playlist-downloader/about/",
+      "first_seen": "2026-08-05T09:04:30.327370+00:00"
+    },
+    "https://alternativeto.net/software/jam-jam/about/|Jam Jam": {
+      "title": "Jam Jam",
+      "link": "https://alternativeto.net/software/jam-jam/about/",
+      "first_seen": "2026-08-05T09:04:30.327374+00:00"
+    },
+    "https://alternativeto.net/software/binge-tv-shows-and-movie-tracker/about/|Binge: TV Shows & Movie Tracker": {
+      "title": "Binge: TV Shows & Movie Tracker",
+      "link": "https://alternativeto.net/software/binge-tv-shows-and-movie-tracker/about/",
+      "first_seen": "2026-08-05T09:04:30.327376+00:00"
+    },
+    "https://alternativeto.net/software/bookintrade/about/|BookinTrade": {
+      "title": "BookinTrade",
+      "link": "https://alternativeto.net/software/bookintrade/about/",
+      "first_seen": "2026-08-05T09:04:30.327378+00:00"
     }
   }
 }
