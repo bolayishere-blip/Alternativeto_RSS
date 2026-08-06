@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-06T04:30:09.526099+00:00",
+  "last_checked": "2026-08-06T07:20:47.940077+00:00",
   "seen": {
     "https://alternativeto.net/software/zucchini/about/|Zucchini": {
       "title": "Zucchini",
@@ -1795,6 +1795,31 @@
       "title": "TuSport",
       "link": "https://alternativeto.net/software/tusport/about/",
       "first_seen": "2026-08-05T15:32:02.728871+00:00"
+    },
+    "https://alternativeto.net/software/scripta-book-and-novel-writer/about/|Scripta: Book & Novel Writer": {
+      "title": "Scripta: Book & Novel Writer",
+      "link": "https://alternativeto.net/software/scripta-book-and-novel-writer/about/",
+      "first_seen": "2026-08-06T07:20:44.083276+00:00"
+    },
+    "https://alternativeto.net/software/corkly/about/|Corkly": {
+      "title": "Corkly",
+      "link": "https://alternativeto.net/software/corkly/about/",
+      "first_seen": "2026-08-06T07:20:44.083303+00:00"
+    },
+    "https://alternativeto.net/software/dycit/about/|Dycit": {
+      "title": "Dycit",
+      "link": "https://alternativeto.net/software/dycit/about/",
+      "first_seen": "2026-08-06T07:20:44.083306+00:00"
+    },
+    "https://alternativeto.net/software/splitwin--splitting-made-easy/about/|Splitwin - Splitting made easy": {
+      "title": "Splitwin - Splitting made easy",
+      "link": "https://alternativeto.net/software/splitwin--splitting-made-easy/about/",
+      "first_seen": "2026-08-06T07:20:44.083310+00:00"
+    },
+    "https://alternativeto.net/software/ezyreader/about/|EzyReader": {
+      "title": "EzyReader",
+      "link": "https://alternativeto.net/software/ezyreader/about/",
+      "first_seen": "2026-08-06T07:20:44.083312+00:00"
     }
   }
 }
