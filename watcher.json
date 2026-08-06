@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-06T12:18:45.824867+00:00",
+  "last_checked": "2026-08-06T14:40:50.282762+00:00",
   "seen": {
     "https://alternativeto.net/software/tripprof/about/|TripProf": {
       "title": "TripProf",
@@ -1795,6 +1795,11 @@
       "title": "EzyReader",
       "link": "https://alternativeto.net/software/ezyreader/about/",
       "first_seen": "2026-08-06T07:20:44.083312+00:00"
+    },
+    "https://alternativeto.net/software/repack/about/|Repack": {
+      "title": "Repack",
+      "link": "https://alternativeto.net/software/repack/about/",
+      "first_seen": "2026-08-06T14:40:49.235317+00:00"
     }
   }
 }
