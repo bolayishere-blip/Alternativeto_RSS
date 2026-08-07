@@ -1,21 +1,6 @@
 {
-  "last_checked": "2026-08-07T15:13:14.656256+00:00",
+  "last_checked": "2026-08-07T16:11:49.385518+00:00",
   "seen": {
-    "https://alternativeto.net/software/scribeflow/about/|ScribeFlow": {
-      "title": "ScribeFlow",
-      "link": "https://alternativeto.net/software/scribeflow/about/",
-      "first_seen": "2026-07-08T15:37:36.443605+00:00"
-    },
-    "https://alternativeto.net/software/tokn-authenticator/about/|Tokn": {
-      "title": "Tokn",
-      "link": "https://alternativeto.net/software/tokn-authenticator/about/",
-      "first_seen": "2026-07-08T15:37:36.443625+00:00"
-    },
-    "https://alternativeto.net/software/golfwiz-ai/about/|GolfWiz AI": {
-      "title": "GolfWiz AI",
-      "link": "https://alternativeto.net/software/golfwiz-ai/about/",
-      "first_seen": "2026-07-08T15:37:36.443628+00:00"
-    },
     "https://alternativeto.net/software/hydrate-yourself/about/|Hydrate Yourself": {
       "title": "Hydrate Yourself",
       "link": "https://alternativeto.net/software/hydrate-yourself/about/",
@@ -1775,6 +1760,36 @@
       "title": "Argus Scan",
       "link": "https://alternativeto.net/software/argus-scan/about/",
       "first_seen": "2026-08-07T15:13:13.759282+00:00"
+    },
+    "https://alternativeto.net/software/belfry/about/|Belfry": {
+      "title": "Belfry",
+      "link": "https://alternativeto.net/software/belfry/about/",
+      "first_seen": "2026-08-07T16:11:41.609036+00:00"
+    },
+    "https://alternativeto.net/software/goami/about/|Goami": {
+      "title": "Goami",
+      "link": "https://alternativeto.net/software/goami/about/",
+      "first_seen": "2026-08-07T16:11:41.609057+00:00"
+    },
+    "https://alternativeto.net/software/lionsforge-ai-dating-coach/about/|Lionsforge": {
+      "title": "Lionsforge",
+      "link": "https://alternativeto.net/software/lionsforge-ai-dating-coach/about/",
+      "first_seen": "2026-08-07T16:11:41.609060+00:00"
+    },
+    "https://alternativeto.net/software/1m-finance-cash-flow-tracker/about/|1M Finance": {
+      "title": "1M Finance",
+      "link": "https://alternativeto.net/software/1m-finance-cash-flow-tracker/about/",
+      "first_seen": "2026-08-07T16:11:41.609063+00:00"
+    },
+    "https://alternativeto.net/software/turkishfluent/about/|TurkishFluent": {
+      "title": "TurkishFluent",
+      "link": "https://alternativeto.net/software/turkishfluent/about/",
+      "first_seen": "2026-08-07T16:11:41.609065+00:00"
+    },
+    "https://alternativeto.net/software/will-watch/about/|Will Watch": {
+      "title": "Will Watch",
+      "link": "https://alternativeto.net/software/will-watch/about/",
+      "first_seen": "2026-08-07T16:11:41.609067+00:00"
     }
   }
 }
