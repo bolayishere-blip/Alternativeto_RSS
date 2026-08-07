@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-08-07T09:06:35.745486+00:00",
+  "last_checked": "2026-08-07T10:08:44.183600+00:00",
   "seen": {
-    "https://alternativeto.net/software/flax-hospitality-platform/about/|FLAX Hospitality Platform": {
-      "title": "FLAX Hospitality Platform",
-      "link": "https://alternativeto.net/software/flax-hospitality-platform/about/",
-      "first_seen": "2026-07-08T09:35:29.245522+00:00"
-    },
     "https://alternativeto.net/software/the-running-genie/about/|The Running Genie": {
       "title": "The Running Genie",
       "link": "https://alternativeto.net/software/the-running-genie/about/",
@@ -1780,6 +1775,16 @@
       "title": "Armada",
       "link": "https://alternativeto.net/software/armada/about/",
       "first_seen": "2026-08-07T07:56:57.360318+00:00"
+    },
+    "https://alternativeto.net/software/zano/about/|Zano": {
+      "title": "Zano",
+      "link": "https://alternativeto.net/software/zano/about/",
+      "first_seen": "2026-08-07T10:08:42.762476+00:00"
+    },
+    "https://alternativeto.net/software/the-oracle/about/|The Oracle": {
+      "title": "The Oracle",
+      "link": "https://alternativeto.net/software/the-oracle/about/",
+      "first_seen": "2026-08-07T10:08:42.762498+00:00"
     }
   }
 }
