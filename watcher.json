@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-08-07T06:35:52.866918+00:00",
+  "last_checked": "2026-08-07T07:56:58.686020+00:00",
   "seen": {
-    "https://alternativeto.net/software/nexa-exchange/about/|NEXA EXCHANGE": {
-      "title": "NEXA EXCHANGE",
-      "link": "https://alternativeto.net/software/nexa-exchange/about/",
-      "first_seen": "2026-07-08T07:07:31.719052+00:00"
-    },
     "https://alternativeto.net/software/flax-hospitality-platform/about/|FLAX Hospitality Platform": {
       "title": "FLAX Hospitality Platform",
       "link": "https://alternativeto.net/software/flax-hospitality-platform/about/",
@@ -1780,6 +1775,11 @@
       "title": "Agora",
       "link": "https://alternativeto.net/software/agora-open-source-ai-chat/about/",
       "first_seen": "2026-08-07T00:18:41.972311+00:00"
+    },
+    "https://alternativeto.net/software/armada/about/|Armada": {
+      "title": "Armada",
+      "link": "https://alternativeto.net/software/armada/about/",
+      "first_seen": "2026-08-07T07:56:57.360318+00:00"
     }
   }
 }
