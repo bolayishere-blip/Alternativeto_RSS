@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-07T18:06:17.281418+00:00",
+  "last_checked": "2026-08-07T19:12:36.403127+00:00",
   "seen": {
     "https://alternativeto.net/software/hydrate-yourself/about/|Hydrate Yourself": {
       "title": "Hydrate Yourself",
@@ -1790,6 +1790,21 @@
       "title": "Will Watch",
       "link": "https://alternativeto.net/software/will-watch/about/",
       "first_seen": "2026-08-07T16:11:41.609067+00:00"
+    },
+    "https://alternativeto.net/software/reflecto/about/|Reflecto": {
+      "title": "Reflecto",
+      "link": "https://alternativeto.net/software/reflecto/about/",
+      "first_seen": "2026-08-07T19:12:34.895481+00:00"
+    },
+    "https://alternativeto.net/software/packmytrip/about/|PackMyTrip": {
+      "title": "PackMyTrip",
+      "link": "https://alternativeto.net/software/packmytrip/about/",
+      "first_seen": "2026-08-07T19:12:34.895502+00:00"
+    },
+    "https://alternativeto.net/software/worldguessr/about/|WorldGuessr": {
+      "title": "WorldGuessr",
+      "link": "https://alternativeto.net/software/worldguessr/about/",
+      "first_seen": "2026-08-07T19:12:34.895506+00:00"
     }
   }
 }
