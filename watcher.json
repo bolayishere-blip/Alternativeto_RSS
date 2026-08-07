@@ -1,46 +1,6 @@
 {
-  "last_checked": "2026-08-06T14:40:50.282762+00:00",
+  "last_checked": "2026-08-07T00:18:44.677879+00:00",
   "seen": {
-    "https://alternativeto.net/software/tripprof/about/|TripProf": {
-      "title": "TripProf",
-      "link": "https://alternativeto.net/software/tripprof/about/",
-      "first_seen": "2026-07-07T17:21:14.755928+00:00"
-    },
-    "https://alternativeto.net/software/no-fuss-gym/about/|No Fuss Gym": {
-      "title": "No Fuss Gym",
-      "link": "https://alternativeto.net/software/no-fuss-gym/about/",
-      "first_seen": "2026-07-07T17:21:14.755950+00:00"
-    },
-    "https://alternativeto.net/software/local-seo-audit-tool/about/|Local Seo Audit Tool": {
-      "title": "Local Seo Audit Tool",
-      "link": "https://alternativeto.net/software/local-seo-audit-tool/about/",
-      "first_seen": "2026-07-07T17:21:14.755953+00:00"
-    },
-    "https://alternativeto.net/software/devo-bible-quiet-time/about/|devo: Bible quiet time": {
-      "title": "devo: Bible quiet time",
-      "link": "https://alternativeto.net/software/devo-bible-quiet-time/about/",
-      "first_seen": "2026-07-07T17:21:14.755955+00:00"
-    },
-    "https://alternativeto.net/software/equora-wellness/about/|Equora Wellness": {
-      "title": "Equora Wellness",
-      "link": "https://alternativeto.net/software/equora-wellness/about/",
-      "first_seen": "2026-07-07T19:20:27.641943+00:00"
-    },
-    "https://alternativeto.net/software/roomcord/about/|Roomcord": {
-      "title": "Roomcord",
-      "link": "https://alternativeto.net/software/roomcord/about/",
-      "first_seen": "2026-07-07T19:20:27.641963+00:00"
-    },
-    "https://alternativeto.net/software/strikethrough/about/|Strikethrough": {
-      "title": "Strikethrough",
-      "link": "https://alternativeto.net/software/strikethrough/about/",
-      "first_seen": "2026-07-07T19:20:27.641966+00:00"
-    },
-    "https://alternativeto.net/software/workhand/about/|Workhand": {
-      "title": "Workhand",
-      "link": "https://alternativeto.net/software/workhand/about/",
-      "first_seen": "2026-07-07T21:06:10.395244+00:00"
-    },
     "https://alternativeto.net/software/stasht/about/|Stasht": {
       "title": "Stasht",
       "link": "https://alternativeto.net/software/stasht/about/",
@@ -1800,6 +1760,31 @@
       "title": "Repack",
       "link": "https://alternativeto.net/software/repack/about/",
       "first_seen": "2026-08-06T14:40:49.235317+00:00"
+    },
+    "https://alternativeto.net/software/dayotter/about/|DayOtter": {
+      "title": "DayOtter",
+      "link": "https://alternativeto.net/software/dayotter/about/",
+      "first_seen": "2026-08-07T00:18:41.972275+00:00"
+    },
+    "https://alternativeto.net/software/solomd/about/|SoloMD": {
+      "title": "SoloMD",
+      "link": "https://alternativeto.net/software/solomd/about/",
+      "first_seen": "2026-08-07T00:18:41.972303+00:00"
+    },
+    "https://alternativeto.net/software/gitgost/about/|gitGost": {
+      "title": "gitGost",
+      "link": "https://alternativeto.net/software/gitgost/about/",
+      "first_seen": "2026-08-07T00:18:41.972306+00:00"
+    },
+    "https://alternativeto.net/software/sterna-mail/about/|Sterna Mail": {
+      "title": "Sterna Mail",
+      "link": "https://alternativeto.net/software/sterna-mail/about/",
+      "first_seen": "2026-08-07T00:18:41.972309+00:00"
+    },
+    "https://alternativeto.net/software/agora-open-source-ai-chat/about/|Agora": {
+      "title": "Agora",
+      "link": "https://alternativeto.net/software/agora-open-source-ai-chat/about/",
+      "first_seen": "2026-08-07T00:18:41.972311+00:00"
     }
   }
 }
