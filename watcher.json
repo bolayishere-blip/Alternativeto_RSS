@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-07T14:18:05.534823+00:00",
+  "last_checked": "2026-08-07T15:13:14.656256+00:00",
   "seen": {
     "https://alternativeto.net/software/scribeflow/about/|ScribeFlow": {
       "title": "ScribeFlow",
@@ -1770,6 +1770,11 @@
       "title": "The Oracle",
       "link": "https://alternativeto.net/software/the-oracle/about/",
       "first_seen": "2026-08-07T10:08:42.762498+00:00"
+    },
+    "https://alternativeto.net/software/argus-scan/about/|Argus Scan": {
+      "title": "Argus Scan",
+      "link": "https://alternativeto.net/software/argus-scan/about/",
+      "first_seen": "2026-08-07T15:13:13.759282+00:00"
     }
   }
 }
