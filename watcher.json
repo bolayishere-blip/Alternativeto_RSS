@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-08T00:34:36.394203+00:00",
+  "last_checked": "2026-08-08T02:33:23.054737+00:00",
   "seen": {
     "https://alternativeto.net/software/netlens/about/|NetLens": {
       "title": "NetLens",
@@ -1790,6 +1790,21 @@
       "title": "WorldGuessr",
       "link": "https://alternativeto.net/software/worldguessr/about/",
       "first_seen": "2026-08-07T19:12:34.895506+00:00"
+    },
+    "https://alternativeto.net/software/folly-plant-identifier-and-care/about/|Folly: Plant Identifier & Care": {
+      "title": "Folly: Plant Identifier & Care",
+      "link": "https://alternativeto.net/software/folly-plant-identifier-and-care/about/",
+      "first_seen": "2026-08-08T02:33:20.764797+00:00"
+    },
+    "https://alternativeto.net/software/abf-pay/about/|ABF Pay": {
+      "title": "ABF Pay",
+      "link": "https://alternativeto.net/software/abf-pay/about/",
+      "first_seen": "2026-08-08T02:33:20.764830+00:00"
+    },
+    "https://alternativeto.net/software/voidaccess-strict-app-blocker/about/|VoidAccess": {
+      "title": "VoidAccess",
+      "link": "https://alternativeto.net/software/voidaccess-strict-app-blocker/about/",
+      "first_seen": "2026-08-08T02:33:20.764835+00:00"
     }
   }
 }
