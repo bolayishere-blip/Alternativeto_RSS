@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-09T08:59:04.845583+00:00",
+  "last_checked": "2026-08-09T09:50:00.509330+00:00",
   "seen": {
     "https://alternativeto.net/software/fogbreaker--explore-the-map/about/|Fogbreaker": {
       "title": "Fogbreaker",
@@ -1690,6 +1690,46 @@
       "title": "VoidAccess",
       "link": "https://alternativeto.net/software/voidaccess-strict-app-blocker/about/",
       "first_seen": "2026-08-08T02:33:20.764835+00:00"
+    },
+    "https://alternativeto.net/software/iread/about/|iRead": {
+      "title": "iRead",
+      "link": "https://alternativeto.net/software/iread/about/",
+      "first_seen": "2026-08-09T09:49:51.071323+00:00"
+    },
+    "https://alternativeto.net/software/eventflow/about/|EventFlow": {
+      "title": "EventFlow",
+      "link": "https://alternativeto.net/software/eventflow/about/",
+      "first_seen": "2026-08-09T09:49:51.071344+00:00"
+    },
+    "https://alternativeto.net/software/eatawhale/about/|EatAWhale": {
+      "title": "EatAWhale",
+      "link": "https://alternativeto.net/software/eatawhale/about/",
+      "first_seen": "2026-08-09T09:49:51.071348+00:00"
+    },
+    "https://alternativeto.net/software/juppit/about/|JuppIt": {
+      "title": "JuppIt",
+      "link": "https://alternativeto.net/software/juppit/about/",
+      "first_seen": "2026-08-09T09:49:51.071351+00:00"
+    },
+    "https://alternativeto.net/software/armsx3/about/|ARMSX3": {
+      "title": "ARMSX3",
+      "link": "https://alternativeto.net/software/armsx3/about/",
+      "first_seen": "2026-08-09T09:49:51.071362+00:00"
+    },
+    "https://alternativeto.net/software/africallshop/about/|AfriCallShop": {
+      "title": "AfriCallShop",
+      "link": "https://alternativeto.net/software/africallshop/about/",
+      "first_seen": "2026-08-09T09:49:51.071364+00:00"
+    },
+    "https://alternativeto.net/software/lumiframe/about/|LumiFrame": {
+      "title": "LumiFrame",
+      "link": "https://alternativeto.net/software/lumiframe/about/",
+      "first_seen": "2026-08-09T09:49:51.071366+00:00"
+    },
+    "https://alternativeto.net/software/rinklog/about/|RinkLog": {
+      "title": "RinkLog",
+      "link": "https://alternativeto.net/software/rinklog/about/",
+      "first_seen": "2026-08-09T09:49:51.071371+00:00"
     }
   }
 }
