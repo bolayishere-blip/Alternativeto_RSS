@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-10T11:48:22.455020+00:00",
+  "last_checked": "2026-08-10T12:35:11.165278+00:00",
   "seen": {
     "https://alternativeto.net/software/appverifier-bg/about/|AppVerifier BG": {
       "title": "AppVerifier BG",
@@ -1690,6 +1690,61 @@
       "title": "RinkLog",
       "link": "https://alternativeto.net/software/rinklog/about/",
       "first_seen": "2026-08-09T09:49:51.071371+00:00"
+    },
+    "https://alternativeto.net/software/wallpio-android-live-wallpapers/about/|Wallpio - Live Wallpapers": {
+      "title": "Wallpio - Live Wallpapers",
+      "link": "https://alternativeto.net/software/wallpio-android-live-wallpapers/about/",
+      "first_seen": "2026-08-10T12:35:00.698780+00:00"
+    },
+    "https://alternativeto.net/software/vocalbase/about/|VocalBase": {
+      "title": "VocalBase",
+      "link": "https://alternativeto.net/software/vocalbase/about/",
+      "first_seen": "2026-08-10T12:35:00.698821+00:00"
+    },
+    "https://alternativeto.net/software/ob-lite/about/|OB Lite": {
+      "title": "OB Lite",
+      "link": "https://alternativeto.net/software/ob-lite/about/",
+      "first_seen": "2026-08-10T12:35:00.698825+00:00"
+    },
+    "https://alternativeto.net/software/formfit/about/|FormFit": {
+      "title": "FormFit",
+      "link": "https://alternativeto.net/software/formfit/about/",
+      "first_seen": "2026-08-10T12:35:00.698827+00:00"
+    },
+    "https://alternativeto.net/software/bridgevox/about/|BridgeVox": {
+      "title": "BridgeVox",
+      "link": "https://alternativeto.net/software/bridgevox/about/",
+      "first_seen": "2026-08-10T12:35:00.698838+00:00"
+    },
+    "https://alternativeto.net/software/invoicewright/about/|InvoiceWright": {
+      "title": "InvoiceWright",
+      "link": "https://alternativeto.net/software/invoicewright/about/",
+      "first_seen": "2026-08-10T12:35:00.698840+00:00"
+    },
+    "https://alternativeto.net/software/mpvrx/about/|mpvRx": {
+      "title": "mpvRx",
+      "link": "https://alternativeto.net/software/mpvrx/about/",
+      "first_seen": "2026-08-10T12:35:00.698842+00:00"
+    },
+    "https://alternativeto.net/software/betascout/about/|BetaScout": {
+      "title": "BetaScout",
+      "link": "https://alternativeto.net/software/betascout/about/",
+      "first_seen": "2026-08-10T12:35:00.698848+00:00"
+    },
+    "https://alternativeto.net/software/seedlessds/about/|SeedlessDS": {
+      "title": "SeedlessDS",
+      "link": "https://alternativeto.net/software/seedlessds/about/",
+      "first_seen": "2026-08-10T12:35:00.698850+00:00"
+    },
+    "https://alternativeto.net/software/watermelonds/about/|WatermelonDS": {
+      "title": "WatermelonDS",
+      "link": "https://alternativeto.net/software/watermelonds/about/",
+      "first_seen": "2026-08-10T12:35:00.698853+00:00"
+    },
+    "https://alternativeto.net/software/melonds-android/about/|melonDS Android": {
+      "title": "melonDS Android",
+      "link": "https://alternativeto.net/software/melonds-android/about/",
+      "first_seen": "2026-08-10T12:35:00.698855+00:00"
     }
   }
 }
