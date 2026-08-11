@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-11T14:31:45.751924+00:00",
+  "last_checked": "2026-08-11T15:34:41.488715+00:00",
   "seen": {
     "https://alternativeto.net/software/notesr/about/|NoteSR": {
       "title": "NoteSR",
@@ -1720,6 +1720,131 @@
       "title": "melonDS Android",
       "link": "https://alternativeto.net/software/melonds-android/about/",
       "first_seen": "2026-08-10T12:35:00.698855+00:00"
+    },
+    "https://alternativeto.net/software/catatku/about/|Catatku": {
+      "title": "Catatku",
+      "link": "https://alternativeto.net/software/catatku/about/",
+      "first_seen": "2026-08-11T15:34:29.529367+00:00"
+    },
+    "https://alternativeto.net/software/betboss-ai/about/|Betboss.ai": {
+      "title": "Betboss.ai",
+      "link": "https://alternativeto.net/software/betboss-ai/about/",
+      "first_seen": "2026-08-11T15:34:29.529389+00:00"
+    },
+    "https://alternativeto.net/software/automatist/about/|Automatist": {
+      "title": "Automatist",
+      "link": "https://alternativeto.net/software/automatist/about/",
+      "first_seen": "2026-08-11T15:34:29.529392+00:00"
+    },
+    "https://alternativeto.net/software/bookshelf-reading-tracker/about/|Bookshelf - Reading Tracker": {
+      "title": "Bookshelf - Reading Tracker",
+      "link": "https://alternativeto.net/software/bookshelf-reading-tracker/about/",
+      "first_seen": "2026-08-11T15:34:29.529395+00:00"
+    },
+    "https://alternativeto.net/software/streak/about/|Streak": {
+      "title": "Streak",
+      "link": "https://alternativeto.net/software/streak/about/",
+      "first_seen": "2026-08-11T15:34:29.529397+00:00"
+    },
+    "https://alternativeto.net/software/lumo-wallet/about/|Lumo Wallet": {
+      "title": "Lumo Wallet",
+      "link": "https://alternativeto.net/software/lumo-wallet/about/",
+      "first_seen": "2026-08-11T15:34:29.529399+00:00"
+    },
+    "https://alternativeto.net/software/x360-mobile/about/|X360 Mobile": {
+      "title": "X360 Mobile",
+      "link": "https://alternativeto.net/software/x360-mobile/about/",
+      "first_seen": "2026-08-11T15:34:29.529401+00:00"
+    },
+    "https://alternativeto.net/software/the-carpoolio/about/|The Carpoolio": {
+      "title": "The Carpoolio",
+      "link": "https://alternativeto.net/software/the-carpoolio/about/",
+      "first_seen": "2026-08-11T15:34:29.529407+00:00"
+    },
+    "https://alternativeto.net/software/jam-platform/about/|Jam App": {
+      "title": "Jam App",
+      "link": "https://alternativeto.net/software/jam-platform/about/",
+      "first_seen": "2026-08-11T15:34:29.529409+00:00"
+    },
+    "https://alternativeto.net/software/harbor-notes/about/|Harbor Notes": {
+      "title": "Harbor Notes",
+      "link": "https://alternativeto.net/software/harbor-notes/about/",
+      "first_seen": "2026-08-11T15:34:29.529412+00:00"
+    },
+    "https://alternativeto.net/software/pho/about/|Pho": {
+      "title": "Pho",
+      "link": "https://alternativeto.net/software/pho/about/",
+      "first_seen": "2026-08-11T15:34:29.529414+00:00"
+    },
+    "https://alternativeto.net/software/pocketstubs/about/|PocketStubs": {
+      "title": "PocketStubs",
+      "link": "https://alternativeto.net/software/pocketstubs/about/",
+      "first_seen": "2026-08-11T15:34:29.529416+00:00"
+    },
+    "https://alternativeto.net/software/wellspoken/about/|Wellspoken": {
+      "title": "Wellspoken",
+      "link": "https://alternativeto.net/software/wellspoken/about/",
+      "first_seen": "2026-08-11T15:34:29.529418+00:00"
+    },
+    "https://alternativeto.net/software/restockd/about/|Restockd": {
+      "title": "Restockd",
+      "link": "https://alternativeto.net/software/restockd/about/",
+      "first_seen": "2026-08-11T15:34:29.529420+00:00"
+    },
+    "https://alternativeto.net/software/multiswap-fi/about/|multiswap.fi": {
+      "title": "multiswap.fi",
+      "link": "https://alternativeto.net/software/multiswap-fi/about/",
+      "first_seen": "2026-08-11T15:34:29.529421+00:00"
+    },
+    "https://alternativeto.net/software/memore/about/|Memore": {
+      "title": "Memore",
+      "link": "https://alternativeto.net/software/memore/about/",
+      "first_seen": "2026-08-11T15:34:29.529423+00:00"
+    },
+    "https://alternativeto.net/software/axiospec/about/|Axiospec": {
+      "title": "Axiospec",
+      "link": "https://alternativeto.net/software/axiospec/about/",
+      "first_seen": "2026-08-11T15:34:29.529425+00:00"
+    },
+    "https://alternativeto.net/software/ax360e/about/|aX360e": {
+      "title": "aX360e",
+      "link": "https://alternativeto.net/software/ax360e/about/",
+      "first_seen": "2026-08-11T15:34:29.529427+00:00"
+    },
+    "https://alternativeto.net/software/xendroid/about/|XenDroid": {
+      "title": "XenDroid",
+      "link": "https://alternativeto.net/software/xendroid/about/",
+      "first_seen": "2026-08-11T15:34:29.529428+00:00"
+    },
+    "https://alternativeto.net/software/hajimitodotxt/about/|HajimiTodotxt": {
+      "title": "HajimiTodotxt",
+      "link": "https://alternativeto.net/software/hajimitodotxt/about/",
+      "first_seen": "2026-08-11T15:34:29.529434+00:00"
+    },
+    "https://alternativeto.net/software/handit/about/|HandIt!": {
+      "title": "HandIt!",
+      "link": "https://alternativeto.net/software/handit/about/",
+      "first_seen": "2026-08-11T15:34:29.529436+00:00"
+    },
+    "https://alternativeto.net/software/supertonic-tts/about/|Supertonic TTS": {
+      "title": "Supertonic TTS",
+      "link": "https://alternativeto.net/software/supertonic-tts/about/",
+      "first_seen": "2026-08-11T15:34:29.529438+00:00"
+    },
+    "https://alternativeto.net/software/authenticator--otp-manager/about/|Authenticator by Vidus6": {
+      "title": "Authenticator by Vidus6",
+      "link": "https://alternativeto.net/software/authenticator--otp-manager/about/",
+      "first_seen": "2026-08-11T15:34:29.529440+00:00"
+    },
+    "https://alternativeto.net/software/bishare/about/|BIShare": {
+      "title": "BIShare",
+      "link": "https://alternativeto.net/software/bishare/about/",
+      "first_seen": "2026-08-11T15:34:29.529442+00:00"
+    },
+    "https://alternativeto.net/software/zangetsu/about/|Zangetsu": {
+      "title": "Zangetsu",
+      "link": "https://alternativeto.net/software/zangetsu/about/",
+      "first_seen": "2026-08-11T15:34:29.529445+00:00"
     }
   }
 }
