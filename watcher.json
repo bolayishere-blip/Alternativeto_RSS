@@ -1,26 +1,6 @@
 {
-  "last_checked": "2026-08-14T14:56:06.690498+00:00",
+  "last_checked": "2026-08-14T15:56:15.548346+00:00",
   "seen": {
-    "https://alternativeto.net/software/beagleprep/about/|BeaglePrep": {
-      "title": "BeaglePrep",
-      "link": "https://alternativeto.net/software/beagleprep/about/",
-      "first_seen": "2026-07-15T15:54:48.312398+00:00"
-    },
-    "https://alternativeto.net/software/elynd--personalized-ai-meditation/about/|ELYND": {
-      "title": "ELYND",
-      "link": "https://alternativeto.net/software/elynd--personalized-ai-meditation/about/",
-      "first_seen": "2026-07-15T15:54:48.312422+00:00"
-    },
-    "https://alternativeto.net/software/dunno--swipe-and-watch/about/|Dunno - Swipe and Watch": {
-      "title": "Dunno - Swipe and Watch",
-      "link": "https://alternativeto.net/software/dunno--swipe-and-watch/about/",
-      "first_seen": "2026-07-15T15:54:48.312434+00:00"
-    },
-    "https://alternativeto.net/software/atimelogger-pro/about/|aTimeLogger Pro": {
-      "title": "aTimeLogger Pro",
-      "link": "https://alternativeto.net/software/atimelogger-pro/about/",
-      "first_seen": "2026-07-15T15:54:48.312436+00:00"
-    },
     "https://alternativeto.net/software/sticker-maker/about/|Sticker Maker": {
       "title": "Sticker Maker",
       "link": "https://alternativeto.net/software/sticker-maker/about/",
@@ -1740,6 +1720,86 @@
       "title": "French Ready",
       "link": "https://alternativeto.net/software/french-ready-app/about/",
       "first_seen": "2026-08-13T13:41:21.937017+00:00"
+    },
+    "https://alternativeto.net/software/dingpin/about/|Dingpin": {
+      "title": "Dingpin",
+      "link": "https://alternativeto.net/software/dingpin/about/",
+      "first_seen": "2026-08-14T15:56:04.983198+00:00"
+    },
+    "https://alternativeto.net/software/traddie/about/|Traddie": {
+      "title": "Traddie",
+      "link": "https://alternativeto.net/software/traddie/about/",
+      "first_seen": "2026-08-14T15:56:04.983223+00:00"
+    },
+    "https://alternativeto.net/software/open-keep/about/|Open Keep": {
+      "title": "Open Keep",
+      "link": "https://alternativeto.net/software/open-keep/about/",
+      "first_seen": "2026-08-14T15:56:04.983227+00:00"
+    },
+    "https://alternativeto.net/software/litepipe/about/|LitePipe": {
+      "title": "LitePipe",
+      "link": "https://alternativeto.net/software/litepipe/about/",
+      "first_seen": "2026-08-14T15:56:04.983229+00:00"
+    },
+    "https://alternativeto.net/software/emucorex/about/|EmuCoreX": {
+      "title": "EmuCoreX",
+      "link": "https://alternativeto.net/software/emucorex/about/",
+      "first_seen": "2026-08-14T15:56:04.983231+00:00"
+    },
+    "https://alternativeto.net/software/emucorev/about/|EmuCoreV": {
+      "title": "EmuCoreV",
+      "link": "https://alternativeto.net/software/emucorev/about/",
+      "first_seen": "2026-08-14T15:56:04.983233+00:00"
+    },
+    "https://alternativeto.net/software/skin-intelligence/about/|Skin Intelligence": {
+      "title": "Skin Intelligence",
+      "link": "https://alternativeto.net/software/skin-intelligence/about/",
+      "first_seen": "2026-08-14T15:56:04.983235+00:00"
+    },
+    "https://alternativeto.net/software/baby-suite/about/|Baby Suite": {
+      "title": "Baby Suite",
+      "link": "https://alternativeto.net/software/baby-suite/about/",
+      "first_seen": "2026-08-14T15:56:04.983241+00:00"
+    },
+    "https://alternativeto.net/software/zip-password-remover-rar-pdf/about/|ZIP Password Remover": {
+      "title": "ZIP Password Remover",
+      "link": "https://alternativeto.net/software/zip-password-remover-rar-pdf/about/",
+      "first_seen": "2026-08-14T15:56:04.983245+00:00"
+    },
+    "https://alternativeto.net/software/incove/about/|incove": {
+      "title": "incove",
+      "link": "https://alternativeto.net/software/incove/about/",
+      "first_seen": "2026-08-14T15:56:04.983247+00:00"
+    },
+    "https://alternativeto.net/software/osmo--ai-call-assistant/about/|OsmO AI Call Assistant": {
+      "title": "OsmO AI Call Assistant",
+      "link": "https://alternativeto.net/software/osmo--ai-call-assistant/about/",
+      "first_seen": "2026-08-14T15:56:04.983249+00:00"
+    },
+    "https://alternativeto.net/software/yummyyucky/about/|YummyYucky": {
+      "title": "YummyYucky",
+      "link": "https://alternativeto.net/software/yummyyucky/about/",
+      "first_seen": "2026-08-14T15:56:04.983251+00:00"
+    },
+    "https://alternativeto.net/software/cast-receiver--dlna-and-airplay/about/|Cast Receiver": {
+      "title": "Cast Receiver",
+      "link": "https://alternativeto.net/software/cast-receiver--dlna-and-airplay/about/",
+      "first_seen": "2026-08-14T15:56:04.983253+00:00"
+    },
+    "https://alternativeto.net/software/homecrowd/about/|HomeCrowd": {
+      "title": "HomeCrowd",
+      "link": "https://alternativeto.net/software/homecrowd/about/",
+      "first_seen": "2026-08-14T15:56:04.983255+00:00"
+    },
+    "https://alternativeto.net/software/phonerig/about/|PhoneRig": {
+      "title": "PhoneRig",
+      "link": "https://alternativeto.net/software/phonerig/about/",
+      "first_seen": "2026-08-14T15:56:04.983260+00:00"
+    },
+    "https://alternativeto.net/software/futo-notes/about/|FUTO Notes": {
+      "title": "FUTO Notes",
+      "link": "https://alternativeto.net/software/futo-notes/about/",
+      "first_seen": "2026-08-14T15:56:04.983262+00:00"
     }
   }
 }
