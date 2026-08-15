@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-15T18:11:41.298195+00:00",
+  "last_checked": "2026-08-15T18:50:37.216283+00:00",
   "seen": {
     "https://alternativeto.net/software/lazyreader/about/|LazyReader": {
       "title": "LazyReader",
@@ -1765,6 +1765,66 @@
       "title": "FUTO Notes",
       "link": "https://alternativeto.net/software/futo-notes/about/",
       "first_seen": "2026-08-14T15:56:04.983262+00:00"
+    },
+    "https://alternativeto.net/software/yemplea/about/|Yemplea": {
+      "title": "Yemplea",
+      "link": "https://alternativeto.net/software/yemplea/about/",
+      "first_seen": "2026-08-15T18:50:27.907716+00:00"
+    },
+    "https://alternativeto.net/software/dream-scroll/about/|Dream Scroll": {
+      "title": "Dream Scroll",
+      "link": "https://alternativeto.net/software/dream-scroll/about/",
+      "first_seen": "2026-08-15T18:50:27.907744+00:00"
+    },
+    "https://alternativeto.net/software/slimai-calorie-tracker/about/|SlimAI Calorie Tracker": {
+      "title": "SlimAI Calorie Tracker",
+      "link": "https://alternativeto.net/software/slimai-calorie-tracker/about/",
+      "first_seen": "2026-08-15T18:50:27.907747+00:00"
+    },
+    "https://alternativeto.net/software/seizer/about/|Seizer": {
+      "title": "Seizer",
+      "link": "https://alternativeto.net/software/seizer/about/",
+      "first_seen": "2026-08-15T18:50:27.907750+00:00"
+    },
+    "https://alternativeto.net/software/rarebit/about/|RareBit": {
+      "title": "RareBit",
+      "link": "https://alternativeto.net/software/rarebit/about/",
+      "first_seen": "2026-08-15T18:50:27.907751+00:00"
+    },
+    "https://alternativeto.net/software/i-like-movies/about/|I Like Movies": {
+      "title": "I Like Movies",
+      "link": "https://alternativeto.net/software/i-like-movies/about/",
+      "first_seen": "2026-08-15T18:50:27.907753+00:00"
+    },
+    "https://alternativeto.net/software/doorstep/about/|Doorstep": {
+      "title": "Doorstep",
+      "link": "https://alternativeto.net/software/doorstep/about/",
+      "first_seen": "2026-08-15T18:50:27.907756+00:00"
+    },
+    "https://alternativeto.net/software/infrazoom-wifi-analyzer/about/|Infrazoom: WiFi Analyzer": {
+      "title": "Infrazoom: WiFi Analyzer",
+      "link": "https://alternativeto.net/software/infrazoom-wifi-analyzer/about/",
+      "first_seen": "2026-08-15T18:50:27.907761+00:00"
+    },
+    "https://alternativeto.net/software/commit-happens/about/|Commit Happens": {
+      "title": "Commit Happens",
+      "link": "https://alternativeto.net/software/commit-happens/about/",
+      "first_seen": "2026-08-15T18:50:27.907764+00:00"
+    },
+    "https://alternativeto.net/software/choppy--pilot-logbook/about/|Choppy - Pilot Logbook": {
+      "title": "Choppy - Pilot Logbook",
+      "link": "https://alternativeto.net/software/choppy--pilot-logbook/about/",
+      "first_seen": "2026-08-15T18:50:27.907766+00:00"
+    },
+    "https://alternativeto.net/software/recabulary/about/|Recabulary": {
+      "title": "Recabulary",
+      "link": "https://alternativeto.net/software/recabulary/about/",
+      "first_seen": "2026-08-15T18:50:27.907768+00:00"
+    },
+    "https://alternativeto.net/software/helpermate/about/|HelperMate": {
+      "title": "HelperMate",
+      "link": "https://alternativeto.net/software/helpermate/about/",
+      "first_seen": "2026-08-15T18:50:27.907769+00:00"
     }
   }
 }
