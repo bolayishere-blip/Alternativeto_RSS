@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-16T23:53:26.339525+00:00",
+  "last_checked": "2026-08-17T01:21:26.157842+00:00",
   "seen": {
     "https://alternativeto.net/software/athx-sports-trading/about/|AthX": {
       "title": "AthX",
@@ -1780,6 +1780,11 @@
       "title": "Thought Tracker CBT",
       "link": "https://alternativeto.net/software/thought-tracker-cbt/about/",
       "first_seen": "2026-08-15T21:25:10.904422+00:00"
+    },
+    "https://alternativeto.net/software/musly/about/|Musly": {
+      "title": "Musly",
+      "link": "https://alternativeto.net/software/musly/about/",
+      "first_seen": "2026-08-17T01:21:25.302674+00:00"
     }
   }
 }
