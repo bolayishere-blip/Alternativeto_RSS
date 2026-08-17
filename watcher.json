@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-17T14:13:11.109619+00:00",
+  "last_checked": "2026-08-17T15:12:15.206363+00:00",
   "seen": {
     "https://alternativeto.net/software/athx-sports-trading/about/|AthX": {
       "title": "AthX",
@@ -1785,6 +1785,31 @@
       "title": "Musly",
       "link": "https://alternativeto.net/software/musly/about/",
       "first_seen": "2026-08-17T01:21:25.302674+00:00"
+    },
+    "https://alternativeto.net/software/seniorsync/about/|SeniorSync": {
+      "title": "SeniorSync",
+      "link": "https://alternativeto.net/software/seniorsync/about/",
+      "first_seen": "2026-08-17T15:12:11.706210+00:00"
+    },
+    "https://alternativeto.net/software/routevn-creator/about/|RouteVN Creator": {
+      "title": "RouteVN Creator",
+      "link": "https://alternativeto.net/software/routevn-creator/about/",
+      "first_seen": "2026-08-17T15:12:11.706234+00:00"
+    },
+    "https://alternativeto.net/software/church-planner/about/|Church Planner": {
+      "title": "Church Planner",
+      "link": "https://alternativeto.net/software/church-planner/about/",
+      "first_seen": "2026-08-17T15:12:11.706238+00:00"
+    },
+    "https://alternativeto.net/software/uncover-roads/about/|Uncover Roads": {
+      "title": "Uncover Roads",
+      "link": "https://alternativeto.net/software/uncover-roads/about/",
+      "first_seen": "2026-08-17T15:12:11.706240+00:00"
+    },
+    "https://alternativeto.net/software/rocely/about/|Rocely": {
+      "title": "Rocely",
+      "link": "https://alternativeto.net/software/rocely/about/",
+      "first_seen": "2026-08-17T15:12:11.706242+00:00"
     }
   }
 }
