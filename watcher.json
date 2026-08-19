@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-19T13:01:53.010209+00:00",
+  "last_checked": "2026-08-19T13:54:44.329016+00:00",
   "seen": {
     "https://alternativeto.net/software/aether-ai/about/|Aether AI": {
       "title": "Aether AI",
@@ -1805,6 +1805,61 @@
       "title": "LitList - Reading Tracker",
       "link": "https://alternativeto.net/software/litlist--reading-tracker/about/",
       "first_seen": "2026-08-18T18:15:32.158157+00:00"
+    },
+    "https://alternativeto.net/software/opencook/about/|openCook": {
+      "title": "openCook",
+      "link": "https://alternativeto.net/software/opencook/about/",
+      "first_seen": "2026-08-19T13:54:33.789457+00:00"
+    },
+    "https://alternativeto.net/software/haimi/about/|Fluid Network Studio": {
+      "title": "Fluid Network Studio",
+      "link": "https://alternativeto.net/software/haimi/about/",
+      "first_seen": "2026-08-19T13:54:33.789484+00:00"
+    },
+    "https://alternativeto.net/software/fossify-documents/about/|Fossify Documents": {
+      "title": "Fossify Documents",
+      "link": "https://alternativeto.net/software/fossify-documents/about/",
+      "first_seen": "2026-08-19T13:54:33.789488+00:00"
+    },
+    "https://alternativeto.net/software/moxo/about/|Moxo": {
+      "title": "Moxo",
+      "link": "https://alternativeto.net/software/moxo/about/",
+      "first_seen": "2026-08-19T13:54:33.789490+00:00"
+    },
+    "https://alternativeto.net/software/bible-expert/about/|Bible Expert": {
+      "title": "Bible Expert",
+      "link": "https://alternativeto.net/software/bible-expert/about/",
+      "first_seen": "2026-08-19T13:54:33.789492+00:00"
+    },
+    "https://alternativeto.net/software/sparchef/about/|Sparchef": {
+      "title": "Sparchef",
+      "link": "https://alternativeto.net/software/sparchef/about/",
+      "first_seen": "2026-08-19T13:54:33.789494+00:00"
+    },
+    "https://alternativeto.net/software/bingebang/about/|BingeBang": {
+      "title": "BingeBang",
+      "link": "https://alternativeto.net/software/bingebang/about/",
+      "first_seen": "2026-08-19T13:54:33.789496+00:00"
+    },
+    "https://alternativeto.net/software/readlens/about/|ReadLens": {
+      "title": "ReadLens",
+      "link": "https://alternativeto.net/software/readlens/about/",
+      "first_seen": "2026-08-19T13:54:33.789501+00:00"
+    },
+    "https://alternativeto.net/software/miney-expense-tracker/about/|Miney": {
+      "title": "Miney",
+      "link": "https://alternativeto.net/software/miney-expense-tracker/about/",
+      "first_seen": "2026-08-19T13:54:33.789504+00:00"
+    },
+    "https://alternativeto.net/software/habitick--free-habit-tracker/about/|HabiTick": {
+      "title": "HabiTick",
+      "link": "https://alternativeto.net/software/habitick--free-habit-tracker/about/",
+      "first_seen": "2026-08-19T13:54:33.789510+00:00"
+    },
+    "https://alternativeto.net/software/cubelv/about/|CubeLV": {
+      "title": "CubeLV",
+      "link": "https://alternativeto.net/software/cubelv/about/",
+      "first_seen": "2026-08-19T13:54:33.789512+00:00"
     }
   }
 }
