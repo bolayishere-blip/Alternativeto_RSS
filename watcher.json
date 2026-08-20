@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-20T13:58:38.776339+00:00",
+  "last_checked": "2026-08-20T14:45:21.576966+00:00",
   "seen": {
     "https://alternativeto.net/software/rockreader/about/|RockReader": {
       "title": "RockReader",
@@ -1825,6 +1825,111 @@
       "title": "CubeLV",
       "link": "https://alternativeto.net/software/cubelv/about/",
       "first_seen": "2026-08-19T13:54:33.789512+00:00"
+    },
+    "https://alternativeto.net/software/atrium-arr-/about/|Atrium (ARR)": {
+      "title": "Atrium (ARR)",
+      "link": "https://alternativeto.net/software/atrium-arr-/about/",
+      "first_seen": "2026-08-20T14:45:11.185172+00:00"
+    },
+    "https://alternativeto.net/software/pulse-garmin-gadgetbridge-fork-/about/|Pulse (Garmin Gadgetbridge fork)": {
+      "title": "Pulse (Garmin Gadgetbridge fork)",
+      "link": "https://alternativeto.net/software/pulse-garmin-gadgetbridge-fork-/about/",
+      "first_seen": "2026-08-20T14:45:11.185198+00:00"
+    },
+    "https://alternativeto.net/software/vault-media-tracker/about/|Vault: Media Tracker": {
+      "title": "Vault: Media Tracker",
+      "link": "https://alternativeto.net/software/vault-media-tracker/about/",
+      "first_seen": "2026-08-20T14:45:11.185200+00:00"
+    },
+    "https://alternativeto.net/software/sunny-seed/about/|Sunny Seed": {
+      "title": "Sunny Seed",
+      "link": "https://alternativeto.net/software/sunny-seed/about/",
+      "first_seen": "2026-08-20T14:45:11.185204+00:00"
+    },
+    "https://alternativeto.net/software/polyglotgym/about/|PolyglotGym": {
+      "title": "PolyglotGym",
+      "link": "https://alternativeto.net/software/polyglotgym/about/",
+      "first_seen": "2026-08-20T14:45:11.185206+00:00"
+    },
+    "https://alternativeto.net/software/olva-ai/about/|OLVA.ai": {
+      "title": "OLVA.ai",
+      "link": "https://alternativeto.net/software/olva-ai/about/",
+      "first_seen": "2026-08-20T14:45:11.185207+00:00"
+    },
+    "https://alternativeto.net/software/cookin/about/|Cookin": {
+      "title": "Cookin",
+      "link": "https://alternativeto.net/software/cookin/about/",
+      "first_seen": "2026-08-20T14:45:11.185209+00:00"
+    },
+    "https://alternativeto.net/software/hourra-manager/about/|Hourra Manager": {
+      "title": "Hourra Manager",
+      "link": "https://alternativeto.net/software/hourra-manager/about/",
+      "first_seen": "2026-08-20T14:45:11.185217+00:00"
+    },
+    "https://alternativeto.net/software/read-thai-easily/about/|Read Thai Easily": {
+      "title": "Read Thai Easily",
+      "link": "https://alternativeto.net/software/read-thai-easily/about/",
+      "first_seen": "2026-08-20T14:45:11.185222+00:00"
+    },
+    "https://alternativeto.net/software/universal-interval-timer/about/|Universal Interval Timer": {
+      "title": "Universal Interval Timer",
+      "link": "https://alternativeto.net/software/universal-interval-timer/about/",
+      "first_seen": "2026-08-20T14:45:11.185225+00:00"
+    },
+    "https://alternativeto.net/software/ambrette/about/|Ambrette": {
+      "title": "Ambrette",
+      "link": "https://alternativeto.net/software/ambrette/about/",
+      "first_seen": "2026-08-20T14:45:11.185228+00:00"
+    },
+    "https://alternativeto.net/software/calm-reminders-and-journal/about/|Calm Reminders and Journal": {
+      "title": "Calm Reminders and Journal",
+      "link": "https://alternativeto.net/software/calm-reminders-and-journal/about/",
+      "first_seen": "2026-08-20T14:45:11.185230+00:00"
+    },
+    "https://alternativeto.net/software/grateful-reminders-and-journal/about/|Grateful Reminders & Journal": {
+      "title": "Grateful Reminders & Journal",
+      "link": "https://alternativeto.net/software/grateful-reminders-and-journal/about/",
+      "first_seen": "2026-08-20T14:45:11.185233+00:00"
+    },
+    "https://alternativeto.net/software/burnin/about/|Burnin": {
+      "title": "Burnin",
+      "link": "https://alternativeto.net/software/burnin/about/",
+      "first_seen": "2026-08-20T14:45:11.185249+00:00"
+    },
+    "https://alternativeto.net/software/howdyforms-event-lead-capture/about/|HowdyForms": {
+      "title": "HowdyForms",
+      "link": "https://alternativeto.net/software/howdyforms-event-lead-capture/about/",
+      "first_seen": "2026-08-20T14:45:11.185252+00:00"
+    },
+    "https://alternativeto.net/software/epicmail/about/|EpicMail": {
+      "title": "EpicMail",
+      "link": "https://alternativeto.net/software/epicmail/about/",
+      "first_seen": "2026-08-20T14:45:11.185254+00:00"
+    },
+    "https://alternativeto.net/software/calk-weight-on-track/about/|Calk": {
+      "title": "Calk",
+      "link": "https://alternativeto.net/software/calk-weight-on-track/about/",
+      "first_seen": "2026-08-20T14:45:11.185255+00:00"
+    },
+    "https://alternativeto.net/software/memorycard/about/|Memorycard": {
+      "title": "Memorycard",
+      "link": "https://alternativeto.net/software/memorycard/about/",
+      "first_seen": "2026-08-20T14:45:11.185257+00:00"
+    },
+    "https://alternativeto.net/software/sandtime-io/about/|Sandtime.io": {
+      "title": "Sandtime.io",
+      "link": "https://alternativeto.net/software/sandtime-io/about/",
+      "first_seen": "2026-08-20T14:45:11.185259+00:00"
+    },
+    "https://alternativeto.net/software/nexzy/about/|Nexzy": {
+      "title": "Nexzy",
+      "link": "https://alternativeto.net/software/nexzy/about/",
+      "first_seen": "2026-08-20T14:45:11.185260+00:00"
+    },
+    "https://alternativeto.net/software/haive-mix/about/|hAIve Mix": {
+      "title": "hAIve Mix",
+      "link": "https://alternativeto.net/software/haive-mix/about/",
+      "first_seen": "2026-08-20T14:45:11.185262+00:00"
     }
   }
 }
