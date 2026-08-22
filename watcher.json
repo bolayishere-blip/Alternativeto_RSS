@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-22T14:51:53.720772+00:00",
+  "last_checked": "2026-08-22T15:22:28.518990+00:00",
   "seen": {
     "https://alternativeto.net/software/forewords/about/|Forewords": {
       "title": "Forewords",
@@ -1795,6 +1795,31 @@
       "title": "Plannie",
       "link": "https://alternativeto.net/software/plannie-calendar/about/",
       "first_seen": "2026-08-22T01:57:43.977708+00:00"
+    },
+    "https://alternativeto.net/software/cleargram/about/|Cleargram": {
+      "title": "Cleargram",
+      "link": "https://alternativeto.net/software/cleargram/about/",
+      "first_seen": "2026-08-22T15:22:25.268942+00:00"
+    },
+    "https://alternativeto.net/software/offline-pdf-toolkit-bindery/about/|Bindery": {
+      "title": "Bindery",
+      "link": "https://alternativeto.net/software/offline-pdf-toolkit-bindery/about/",
+      "first_seen": "2026-08-22T15:22:25.268965+00:00"
+    },
+    "https://alternativeto.net/software/ma-astronomy/about/|MA Astronomy": {
+      "title": "MA Astronomy",
+      "link": "https://alternativeto.net/software/ma-astronomy/about/",
+      "first_seen": "2026-08-22T15:22:25.268967+00:00"
+    },
+    "https://alternativeto.net/software/ma-photos/about/|MA Photos": {
+      "title": "MA Photos",
+      "link": "https://alternativeto.net/software/ma-photos/about/",
+      "first_seen": "2026-08-22T15:22:25.268969+00:00"
+    },
+    "https://alternativeto.net/software/ma-app-store/about/|MA App Store": {
+      "title": "MA App Store",
+      "link": "https://alternativeto.net/software/ma-app-store/about/",
+      "first_seen": "2026-08-22T15:22:25.268970+00:00"
     }
   }
 }
