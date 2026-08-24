@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-24T08:25:56.239865+00:00",
+  "last_checked": "2026-08-24T09:23:49.633349+00:00",
   "seen": {
     "https://alternativeto.net/software/vortyx/about/|Vortyx": {
       "title": "Vortyx",
@@ -1755,6 +1755,51 @@
       "title": "MA App Store",
       "link": "https://alternativeto.net/software/ma-app-store/about/",
       "first_seen": "2026-08-22T15:22:25.268970+00:00"
+    },
+    "https://alternativeto.net/software/ma-calculator/about/|MA Calculator": {
+      "title": "MA Calculator",
+      "link": "https://alternativeto.net/software/ma-calculator/about/",
+      "first_seen": "2026-08-24T09:23:40.518847+00:00"
+    },
+    "https://alternativeto.net/software/ma-calendar/about/|MA Calendar": {
+      "title": "MA Calendar",
+      "link": "https://alternativeto.net/software/ma-calendar/about/",
+      "first_seen": "2026-08-24T09:23:40.518870+00:00"
+    },
+    "https://alternativeto.net/software/gioia-ai-wine-companion/about/|Gioia: AI Wine Companion": {
+      "title": "Gioia: AI Wine Companion",
+      "link": "https://alternativeto.net/software/gioia-ai-wine-companion/about/",
+      "first_seen": "2026-08-24T09:23:40.518874+00:00"
+    },
+    "https://alternativeto.net/software/flightfinder/about/|FlightFinder": {
+      "title": "FlightFinder",
+      "link": "https://alternativeto.net/software/flightfinder/about/",
+      "first_seen": "2026-08-24T09:23:40.518876+00:00"
+    },
+    "https://alternativeto.net/software/cobalance/about/|CoBalance": {
+      "title": "CoBalance",
+      "link": "https://alternativeto.net/software/cobalance/about/",
+      "first_seen": "2026-08-24T09:23:40.518878+00:00"
+    },
+    "https://alternativeto.net/software/teamsly/about/|Teamsly": {
+      "title": "Teamsly",
+      "link": "https://alternativeto.net/software/teamsly/about/",
+      "first_seen": "2026-08-24T09:23:40.518880+00:00"
+    },
+    "https://alternativeto.net/software/real-security-camera/about/|Real-Security-Camera": {
+      "title": "Real-Security-Camera",
+      "link": "https://alternativeto.net/software/real-security-camera/about/",
+      "first_seen": "2026-08-24T09:23:40.518882+00:00"
+    },
+    "https://alternativeto.net/software/swoodie/about/|Swoodie": {
+      "title": "Swoodie",
+      "link": "https://alternativeto.net/software/swoodie/about/",
+      "first_seen": "2026-08-24T09:23:40.518887+00:00"
+    },
+    "https://alternativeto.net/software/locreminder/about/|LocReminder": {
+      "title": "LocReminder",
+      "link": "https://alternativeto.net/software/locreminder/about/",
+      "first_seen": "2026-08-24T09:23:40.518889+00:00"
     }
   }
 }
