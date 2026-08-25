@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-25T13:01:57.936448+00:00",
+  "last_checked": "2026-08-25T13:59:43.256247+00:00",
   "seen": {
     "https://alternativeto.net/software/pocket-clear/about/|Pocket Clear": {
       "title": "Pocket Clear",
@@ -1870,6 +1870,11 @@
       "title": "Einbürgerungstest",
       "link": "https://alternativeto.net/software/einburgerungstest-2026-pro/about/",
       "first_seen": "2026-08-25T13:01:47.942045+00:00"
+    },
+    "https://alternativeto.net/software/imava/about/|Imava": {
+      "title": "Imava",
+      "link": "https://alternativeto.net/software/imava/about/",
+      "first_seen": "2026-08-25T13:59:42.443091+00:00"
     }
   }
 }
