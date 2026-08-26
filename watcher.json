@@ -1,21 +1,6 @@
 {
-  "last_checked": "2026-08-26T15:51:15.633711+00:00",
+  "last_checked": "2026-08-26T16:49:00.978001+00:00",
   "seen": {
-    "https://alternativeto.net/software/sha/about/|Sha": {
-      "title": "Sha",
-      "link": "https://alternativeto.net/software/sha/about/",
-      "first_seen": "2026-07-27T16:04:46.752325+00:00"
-    },
-    "https://alternativeto.net/software/sleeveup/about/|SleeveUp": {
-      "title": "SleeveUp",
-      "link": "https://alternativeto.net/software/sleeveup/about/",
-      "first_seen": "2026-07-27T16:04:46.752349+00:00"
-    },
-    "https://alternativeto.net/software/cove-ninja/about/|Cove Ninja": {
-      "title": "Cove Ninja",
-      "link": "https://alternativeto.net/software/cove-ninja/about/",
-      "first_seen": "2026-07-27T16:04:46.752353+00:00"
-    },
     "https://alternativeto.net/software/technomatic-2105/about/|Technomatic 2105": {
       "title": "Technomatic 2105",
       "link": "https://alternativeto.net/software/technomatic-2105/about/",
@@ -1795,6 +1780,86 @@
       "title": "Imava",
       "link": "https://alternativeto.net/software/imava/about/",
       "first_seen": "2026-08-25T13:59:42.443091+00:00"
+    },
+    "https://alternativeto.net/software/flutterby/about/|Flutterby": {
+      "title": "Flutterby",
+      "link": "https://alternativeto.net/software/flutterby/about/",
+      "first_seen": "2026-08-26T16:48:51.311540+00:00"
+    },
+    "https://alternativeto.net/software/escapor/about/|Escapor": {
+      "title": "Escapor",
+      "link": "https://alternativeto.net/software/escapor/about/",
+      "first_seen": "2026-08-26T16:48:51.311561+00:00"
+    },
+    "https://alternativeto.net/software/registry-lookup/about/|Registry Lookup": {
+      "title": "Registry Lookup",
+      "link": "https://alternativeto.net/software/registry-lookup/about/",
+      "first_seen": "2026-08-26T16:48:51.311565+00:00"
+    },
+    "https://alternativeto.net/software/zerosignal/about/|ZeroSignal": {
+      "title": "ZeroSignal",
+      "link": "https://alternativeto.net/software/zerosignal/about/",
+      "first_seen": "2026-08-26T16:48:51.311567+00:00"
+    },
+    "https://alternativeto.net/software/ma-web/about/|MA Web": {
+      "title": "MA Web",
+      "link": "https://alternativeto.net/software/ma-web/about/",
+      "first_seen": "2026-08-26T16:48:51.311569+00:00"
+    },
+    "https://alternativeto.net/software/ma-clock/about/|MA Clock": {
+      "title": "MA Clock",
+      "link": "https://alternativeto.net/software/ma-clock/about/",
+      "first_seen": "2026-08-26T16:48:51.311575+00:00"
+    },
+    "https://alternativeto.net/software/the-forest-school-app/about/|The Forest School App": {
+      "title": "The Forest School App",
+      "link": "https://alternativeto.net/software/the-forest-school-app/about/",
+      "first_seen": "2026-08-26T16:48:51.311577+00:00"
+    },
+    "https://alternativeto.net/software/guard-tour-log/about/|Guard Tour Log": {
+      "title": "Guard Tour Log",
+      "link": "https://alternativeto.net/software/guard-tour-log/about/",
+      "first_seen": "2026-08-26T16:48:51.311583+00:00"
+    },
+    "https://alternativeto.net/software/bodypal/about/|BodyPal": {
+      "title": "BodyPal",
+      "link": "https://alternativeto.net/software/bodypal/about/",
+      "first_seen": "2026-08-26T16:48:51.311585+00:00"
+    },
+    "https://alternativeto.net/software/bulletproof-recovery/about/|Bulletproof Recovery": {
+      "title": "Bulletproof Recovery",
+      "link": "https://alternativeto.net/software/bulletproof-recovery/about/",
+      "first_seen": "2026-08-26T16:48:51.311587+00:00"
+    },
+    "https://alternativeto.net/software/r2-docuo/about/|R2 Docuo": {
+      "title": "R2 Docuo",
+      "link": "https://alternativeto.net/software/r2-docuo/about/",
+      "first_seen": "2026-08-26T16:48:51.311589+00:00"
+    },
+    "https://alternativeto.net/software/unbiased-headlines/about/|Unbiased Headlines": {
+      "title": "Unbiased Headlines",
+      "link": "https://alternativeto.net/software/unbiased-headlines/about/",
+      "first_seen": "2026-08-26T16:48:51.311591+00:00"
+    },
+    "https://alternativeto.net/software/tickerall/about/|TickerAll": {
+      "title": "TickerAll",
+      "link": "https://alternativeto.net/software/tickerall/about/",
+      "first_seen": "2026-08-26T16:48:51.311593+00:00"
+    },
+    "https://alternativeto.net/software/skilldrift/about/|SkillDrift": {
+      "title": "SkillDrift",
+      "link": "https://alternativeto.net/software/skilldrift/about/",
+      "first_seen": "2026-08-26T16:48:51.311594+00:00"
+    },
+    "https://alternativeto.net/software/photon-camera-app/about/|Photon Camera App": {
+      "title": "Photon Camera App",
+      "link": "https://alternativeto.net/software/photon-camera-app/about/",
+      "first_seen": "2026-08-26T16:48:51.311596+00:00"
+    },
+    "https://alternativeto.net/software/wizestream/about/|WizeStream": {
+      "title": "WizeStream",
+      "link": "https://alternativeto.net/software/wizestream/about/",
+      "first_seen": "2026-08-26T16:48:51.311598+00:00"
     }
   }
 }
