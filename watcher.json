@@ -1,46 +1,6 @@
 {
-  "last_checked": "2026-08-28T17:11:33.600498+00:00",
+  "last_checked": "2026-08-29T00:59:49.923229+00:00",
   "seen": {
-    "https://alternativeto.net/software/localsafebox/about/|LocalSafeBox": {
-      "title": "LocalSafeBox",
-      "link": "https://alternativeto.net/software/localsafebox/about/",
-      "first_seen": "2026-07-29T17:42:30.884895+00:00"
-    },
-    "https://alternativeto.net/software/spade-launcher/about/|Spade Launcher": {
-      "title": "Spade Launcher",
-      "link": "https://alternativeto.net/software/spade-launcher/about/",
-      "first_seen": "2026-07-29T17:42:30.884923+00:00"
-    },
-    "https://alternativeto.net/software/speakfam/about/|SpeakFam": {
-      "title": "SpeakFam",
-      "link": "https://alternativeto.net/software/speakfam/about/",
-      "first_seen": "2026-07-29T17:42:30.884925+00:00"
-    },
-    "https://alternativeto.net/software/duoweb-simple-launcher/about/|DUOWEB Simple Launcher": {
-      "title": "DUOWEB Simple Launcher",
-      "link": "https://alternativeto.net/software/duoweb-simple-launcher/about/",
-      "first_seen": "2026-07-29T17:42:30.884927+00:00"
-    },
-    "https://alternativeto.net/software/double-entry-accounting-game/about/|Double Entry": {
-      "title": "Double Entry",
-      "link": "https://alternativeto.net/software/double-entry-accounting-game/about/",
-      "first_seen": "2026-07-29T17:42:30.884929+00:00"
-    },
-    "https://alternativeto.net/software/kashera-pos/about/|Kashera POS": {
-      "title": "Kashera POS",
-      "link": "https://alternativeto.net/software/kashera-pos/about/",
-      "first_seen": "2026-07-29T17:42:30.884930+00:00"
-    },
-    "https://alternativeto.net/software/cantone/about/|canTone": {
-      "title": "canTone",
-      "link": "https://alternativeto.net/software/cantone/about/",
-      "first_seen": "2026-07-29T20:04:00.762764+00:00"
-    },
-    "https://alternativeto.net/software/redbean/about/|Redbean": {
-      "title": "Redbean",
-      "link": "https://alternativeto.net/software/redbean/about/",
-      "first_seen": "2026-07-29T20:04:00.762783+00:00"
-    },
     "https://alternativeto.net/software/kronoprompt/about/|KronoPrompt": {
       "title": "KronoPrompt",
       "link": "https://alternativeto.net/software/kronoprompt/about/",
@@ -1830,6 +1790,46 @@
       "title": "Their First Words",
       "link": "https://alternativeto.net/software/their-first-words/about/",
       "first_seen": "2026-08-27T20:46:11.909185+00:00"
+    },
+    "https://alternativeto.net/software/darq-reborn/about/|DarQ Reborn": {
+      "title": "DarQ Reborn",
+      "link": "https://alternativeto.net/software/darq-reborn/about/",
+      "first_seen": "2026-08-29T00:59:40.237449+00:00"
+    },
+    "https://alternativeto.net/software/cyclauncher/about/|Cyclauncher": {
+      "title": "Cyclauncher",
+      "link": "https://alternativeto.net/software/cyclauncher/about/",
+      "first_seen": "2026-08-29T00:59:40.237467+00:00"
+    },
+    "https://alternativeto.net/software/rmblr/about/|RMBLR": {
+      "title": "RMBLR",
+      "link": "https://alternativeto.net/software/rmblr/about/",
+      "first_seen": "2026-08-29T00:59:40.237470+00:00"
+    },
+    "https://alternativeto.net/software/ccpayment/about/|CCPayment": {
+      "title": "CCPayment",
+      "link": "https://alternativeto.net/software/ccpayment/about/",
+      "first_seen": "2026-08-29T00:59:40.237476+00:00"
+    },
+    "https://alternativeto.net/software/guardian-eye-webcamera/about/|Guardian Eye WebCamera": {
+      "title": "Guardian Eye WebCamera",
+      "link": "https://alternativeto.net/software/guardian-eye-webcamera/about/",
+      "first_seen": "2026-08-29T00:59:40.237478+00:00"
+    },
+    "https://alternativeto.net/software/meteomatics-weather-app/about/|Meteomatics Weather App": {
+      "title": "Meteomatics Weather App",
+      "link": "https://alternativeto.net/software/meteomatics-weather-app/about/",
+      "first_seen": "2026-08-29T00:59:40.237482+00:00"
+    },
+    "https://alternativeto.net/software/egidio/about/|Egidio": {
+      "title": "Egidio",
+      "link": "https://alternativeto.net/software/egidio/about/",
+      "first_seen": "2026-08-29T00:59:40.237484+00:00"
+    },
+    "https://alternativeto.net/software/uptakes-sports-video-camera/about/|UpTakes": {
+      "title": "UpTakes",
+      "link": "https://alternativeto.net/software/uptakes-sports-video-camera/about/",
+      "first_seen": "2026-08-29T00:59:40.237489+00:00"
     }
   }
 }
