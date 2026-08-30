@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-30T00:16:36.496807+00:00",
+  "last_checked": "2026-08-30T05:32:15.254809+00:00",
   "seen": {
     "https://alternativeto.net/software/modus/about/|Modus": {
       "title": "Modus",
@@ -1755,6 +1755,16 @@
       "title": "UpTakes",
       "link": "https://alternativeto.net/software/uptakes-sports-video-camera/about/",
       "first_seen": "2026-08-29T00:59:40.237489+00:00"
+    },
+    "https://alternativeto.net/software/cipherpass/about/|CipherPass": {
+      "title": "CipherPass",
+      "link": "https://alternativeto.net/software/cipherpass/about/",
+      "first_seen": "2026-08-30T05:32:13.178087+00:00"
+    },
+    "https://alternativeto.net/software/binaural-lab--sleep-and-relax/about/|Binaural Lab – Sleep & Relax": {
+      "title": "Binaural Lab – Sleep & Relax",
+      "link": "https://alternativeto.net/software/binaural-lab--sleep-and-relax/about/",
+      "first_seen": "2026-08-30T05:32:13.178105+00:00"
     }
   }
 }
