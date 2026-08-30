@@ -1,51 +1,6 @@
 {
-  "last_checked": "2026-08-30T10:39:41.181139+00:00",
+  "last_checked": "2026-08-30T15:01:14.583684+00:00",
   "seen": {
-    "https://alternativeto.net/software/daymo/about/|Daymo": {
-      "title": "Daymo",
-      "link": "https://alternativeto.net/software/daymo/about/",
-      "first_seen": "2026-07-31T12:22:34.621433+00:00"
-    },
-    "https://alternativeto.net/software/orenvo-pdf/about/|Orenvo PDF": {
-      "title": "Orenvo PDF",
-      "link": "https://alternativeto.net/software/orenvo-pdf/about/",
-      "first_seen": "2026-07-31T12:22:34.621456+00:00"
-    },
-    "https://alternativeto.net/software/dice-tavern/about/|Dice Tavern": {
-      "title": "Dice Tavern",
-      "link": "https://alternativeto.net/software/dice-tavern/about/",
-      "first_seen": "2026-07-31T12:22:34.621460+00:00"
-    },
-    "https://alternativeto.net/software/hardtack/about/|Hardtack": {
-      "title": "Hardtack",
-      "link": "https://alternativeto.net/software/hardtack/about/",
-      "first_seen": "2026-07-31T12:22:34.621463+00:00"
-    },
-    "https://alternativeto.net/software/streamblix/about/|Streamblix": {
-      "title": "Streamblix",
-      "link": "https://alternativeto.net/software/streamblix/about/",
-      "first_seen": "2026-07-31T12:22:34.621465+00:00"
-    },
-    "https://alternativeto.net/software/adapte/about/|Adapte": {
-      "title": "Adapte",
-      "link": "https://alternativeto.net/software/adapte/about/",
-      "first_seen": "2026-07-31T12:22:34.621467+00:00"
-    },
-    "https://alternativeto.net/software/readaware/about/|ReadAware": {
-      "title": "ReadAware",
-      "link": "https://alternativeto.net/software/readaware/about/",
-      "first_seen": "2026-07-31T12:22:34.621468+00:00"
-    },
-    "https://alternativeto.net/software/pocket33/about/|Pocket33": {
-      "title": "Pocket33",
-      "link": "https://alternativeto.net/software/pocket33/about/",
-      "first_seen": "2026-07-31T14:59:13.701716+00:00"
-    },
-    "https://alternativeto.net/software/timill/about/|Timill": {
-      "title": "Timill",
-      "link": "https://alternativeto.net/software/timill/about/",
-      "first_seen": "2026-07-31T14:59:13.701734+00:00"
-    },
     "https://alternativeto.net/software/tineo/about/|Tineo": {
       "title": "Tineo",
       "link": "https://alternativeto.net/software/tineo/about/",
@@ -1710,6 +1665,36 @@
       "title": "Binaural Lab – Sleep & Relax",
       "link": "https://alternativeto.net/software/binaural-lab--sleep-and-relax/about/",
       "first_seen": "2026-08-30T05:32:13.178105+00:00"
+    },
+    "https://alternativeto.net/software/innercircle-stay-close/about/|InnerCircle": {
+      "title": "InnerCircle",
+      "link": "https://alternativeto.net/software/innercircle-stay-close/about/",
+      "first_seen": "2026-08-30T15:01:07.190182+00:00"
+    },
+    "https://alternativeto.net/software/momogram/about/|Momogram": {
+      "title": "Momogram",
+      "link": "https://alternativeto.net/software/momogram/about/",
+      "first_seen": "2026-08-30T15:01:07.190207+00:00"
+    },
+    "https://alternativeto.net/software/viper4android-fx/about/|ViPER4Android FX": {
+      "title": "ViPER4Android FX",
+      "link": "https://alternativeto.net/software/viper4android-fx/about/",
+      "first_seen": "2026-08-30T15:01:07.190210+00:00"
+    },
+    "https://alternativeto.net/software/bibliogenius/about/|BiblioGenius": {
+      "title": "BiblioGenius",
+      "link": "https://alternativeto.net/software/bibliogenius/about/",
+      "first_seen": "2026-08-30T15:01:07.190212+00:00"
+    },
+    "https://alternativeto.net/software/runbiz-erp/about/|RunBiz ERP": {
+      "title": "RunBiz ERP",
+      "link": "https://alternativeto.net/software/runbiz-erp/about/",
+      "first_seen": "2026-08-30T15:01:07.190214+00:00"
+    },
+    "https://alternativeto.net/software/shora/about/|Shora": {
+      "title": "Shora",
+      "link": "https://alternativeto.net/software/shora/about/",
+      "first_seen": "2026-08-30T15:01:07.190216+00:00"
     }
   }
 }
