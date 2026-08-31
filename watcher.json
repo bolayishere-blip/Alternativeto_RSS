@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-31T16:18:10.989143+00:00",
+  "last_checked": "2026-08-31T21:31:30.168744+00:00",
   "seen": {
     "https://alternativeto.net/software/reprise-karaoke-setlist/about/|Reprise: Karaoke Setlist": {
       "title": "Reprise: Karaoke Setlist",
@@ -1670,6 +1670,106 @@
       "title": "Shora",
       "link": "https://alternativeto.net/software/shora/about/",
       "first_seen": "2026-08-30T15:01:07.190216+00:00"
+    },
+    "https://alternativeto.net/software/unjumbl/about/|Unjumbl": {
+      "title": "Unjumbl",
+      "link": "https://alternativeto.net/software/unjumbl/about/",
+      "first_seen": "2026-08-31T21:31:19.947688+00:00"
+    },
+    "https://alternativeto.net/software/rhyma-collaborative-poetry/about/|Rhyma": {
+      "title": "Rhyma",
+      "link": "https://alternativeto.net/software/rhyma-collaborative-poetry/about/",
+      "first_seen": "2026-08-31T21:31:19.947716+00:00"
+    },
+    "https://alternativeto.net/software/texttimeline-importer/about/|TextTimeline Importer": {
+      "title": "TextTimeline Importer",
+      "link": "https://alternativeto.net/software/texttimeline-importer/about/",
+      "first_seen": "2026-08-31T21:31:19.947719+00:00"
+    },
+    "https://alternativeto.net/software/lingueez--vocabulary-builder/about/|Lingueez": {
+      "title": "Lingueez",
+      "link": "https://alternativeto.net/software/lingueez--vocabulary-builder/about/",
+      "first_seen": "2026-08-31T21:31:19.947721+00:00"
+    },
+    "https://alternativeto.net/software/defade/about/|DeFade": {
+      "title": "DeFade",
+      "link": "https://alternativeto.net/software/defade/about/",
+      "first_seen": "2026-08-31T21:31:19.947722+00:00"
+    },
+    "https://alternativeto.net/software/phrodia/about/|Phrodia": {
+      "title": "Phrodia",
+      "link": "https://alternativeto.net/software/phrodia/about/",
+      "first_seen": "2026-08-31T21:31:19.947724+00:00"
+    },
+    "https://alternativeto.net/software/getfixmyspeakers/about/|GetFixMySpeakers": {
+      "title": "GetFixMySpeakers",
+      "link": "https://alternativeto.net/software/getfixmyspeakers/about/",
+      "first_seen": "2026-08-31T21:31:19.947725+00:00"
+    },
+    "https://alternativeto.net/software/financial-decision-studio/about/|Financial Decision Studio": {
+      "title": "Financial Decision Studio",
+      "link": "https://alternativeto.net/software/financial-decision-studio/about/",
+      "first_seen": "2026-08-31T21:31:19.947730+00:00"
+    },
+    "https://alternativeto.net/software/lifelogr/about/|LifeLogr": {
+      "title": "LifeLogr",
+      "link": "https://alternativeto.net/software/lifelogr/about/",
+      "first_seen": "2026-08-31T21:31:19.947740+00:00"
+    },
+    "https://alternativeto.net/software/garveno/about/|Garveno": {
+      "title": "Garveno",
+      "link": "https://alternativeto.net/software/garveno/about/",
+      "first_seen": "2026-08-31T21:31:19.947742+00:00"
+    },
+    "https://alternativeto.net/software/quickhmi/about/|QuickHMI": {
+      "title": "QuickHMI",
+      "link": "https://alternativeto.net/software/quickhmi/about/",
+      "first_seen": "2026-08-31T21:31:19.947743+00:00"
+    },
+    "https://alternativeto.net/software/pointyourphone/about/|PointYourPhone": {
+      "title": "PointYourPhone",
+      "link": "https://alternativeto.net/software/pointyourphone/about/",
+      "first_seen": "2026-08-31T21:31:19.947744+00:00"
+    },
+    "https://alternativeto.net/software/bookfusion-voice/about/|Bookfusion Voice": {
+      "title": "Bookfusion Voice",
+      "link": "https://alternativeto.net/software/bookfusion-voice/about/",
+      "first_seen": "2026-08-31T21:31:19.947745+00:00"
+    },
+    "https://alternativeto.net/software/navic/about/|Navic": {
+      "title": "Navic",
+      "link": "https://alternativeto.net/software/navic/about/",
+      "first_seen": "2026-08-31T21:31:19.947746+00:00"
+    },
+    "https://alternativeto.net/software/linthra/about/|Linthra": {
+      "title": "Linthra",
+      "link": "https://alternativeto.net/software/linthra/about/",
+      "first_seen": "2026-08-31T21:31:19.947748+00:00"
+    },
+    "https://alternativeto.net/software/resethive/about/|ResetHive": {
+      "title": "ResetHive",
+      "link": "https://alternativeto.net/software/resethive/about/",
+      "first_seen": "2026-08-31T21:31:19.947748+00:00"
+    },
+    "https://alternativeto.net/software/hairhunt/about/|HairHunt": {
+      "title": "HairHunt",
+      "link": "https://alternativeto.net/software/hairhunt/about/",
+      "first_seen": "2026-08-31T21:31:19.947749+00:00"
+    },
+    "https://alternativeto.net/software/paircalm/about/|PairCalm": {
+      "title": "PairCalm",
+      "link": "https://alternativeto.net/software/paircalm/about/",
+      "first_seen": "2026-08-31T21:31:19.947751+00:00"
+    },
+    "https://alternativeto.net/software/jwrite/about/|JWrite": {
+      "title": "JWrite",
+      "link": "https://alternativeto.net/software/jwrite/about/",
+      "first_seen": "2026-08-31T21:31:19.947752+00:00"
+    },
+    "https://alternativeto.net/software/gamechanger-team-manager/about/|GameChanger - Team Manager": {
+      "title": "GameChanger - Team Manager",
+      "link": "https://alternativeto.net/software/gamechanger-team-manager/about/",
+      "first_seen": "2026-08-31T21:31:19.947754+00:00"
     }
   }
 }
