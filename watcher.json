@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-01T15:10:24.256960+00:00",
+  "last_checked": "2026-09-01T18:37:35.960423+00:00",
   "seen": {
     "https://alternativeto.net/software/reprise-karaoke-setlist/about/|Reprise: Karaoke Setlist": {
       "title": "Reprise: Karaoke Setlist",
@@ -1815,6 +1815,31 @@
       "title": "Tuwunel",
       "link": "https://alternativeto.net/software/tuwunel/about/",
       "first_seen": "2026-09-01T15:10:15.101428+00:00"
+    },
+    "https://alternativeto.net/software/lunika/about/|Lunika": {
+      "title": "Lunika",
+      "link": "https://alternativeto.net/software/lunika/about/",
+      "first_seen": "2026-09-01T18:37:32.499259+00:00"
+    },
+    "https://alternativeto.net/software/stroyka/about/|Stroyka": {
+      "title": "Stroyka",
+      "link": "https://alternativeto.net/software/stroyka/about/",
+      "first_seen": "2026-09-01T18:37:32.499279+00:00"
+    },
+    "https://alternativeto.net/software/relic/about/|Relic": {
+      "title": "Relic",
+      "link": "https://alternativeto.net/software/relic/about/",
+      "first_seen": "2026-09-01T18:37:32.499282+00:00"
+    },
+    "https://alternativeto.net/software/filamio/about/|filamio": {
+      "title": "filamio",
+      "link": "https://alternativeto.net/software/filamio/about/",
+      "first_seen": "2026-09-01T18:37:32.499284+00:00"
+    },
+    "https://alternativeto.net/software/vitacal/about/|VitaCal": {
+      "title": "VitaCal",
+      "link": "https://alternativeto.net/software/vitacal/about/",
+      "first_seen": "2026-09-01T18:37:32.499286+00:00"
     }
   }
 }
