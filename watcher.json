@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-01T10:31:19.343272+00:00",
+  "last_checked": "2026-09-01T15:10:24.256960+00:00",
   "seen": {
     "https://alternativeto.net/software/reprise-karaoke-setlist/about/|Reprise: Karaoke Setlist": {
       "title": "Reprise: Karaoke Setlist",
@@ -1770,6 +1770,51 @@
       "title": "GameChanger - Team Manager",
       "link": "https://alternativeto.net/software/gamechanger-team-manager/about/",
       "first_seen": "2026-08-31T21:31:19.947754+00:00"
+    },
+    "https://alternativeto.net/software/dinoreader/about/|DinoReader": {
+      "title": "DinoReader",
+      "link": "https://alternativeto.net/software/dinoreader/about/",
+      "first_seen": "2026-09-01T15:10:15.101376+00:00"
+    },
+    "https://alternativeto.net/software/openpost/about/|OpenPost": {
+      "title": "OpenPost",
+      "link": "https://alternativeto.net/software/openpost/about/",
+      "first_seen": "2026-09-01T15:10:15.101408+00:00"
+    },
+    "https://alternativeto.net/software/openfamily-frank-johnette-/about/|OpenFamily App": {
+      "title": "OpenFamily App",
+      "link": "https://alternativeto.net/software/openfamily-frank-johnette-/about/",
+      "first_seen": "2026-09-01T15:10:15.101411+00:00"
+    },
+    "https://alternativeto.net/software/intervalcoach/about/|IntervalCoach": {
+      "title": "IntervalCoach",
+      "link": "https://alternativeto.net/software/intervalcoach/about/",
+      "first_seen": "2026-09-01T15:10:15.101413+00:00"
+    },
+    "https://alternativeto.net/software/wadacrush/about/|wadaCrush": {
+      "title": "wadaCrush",
+      "link": "https://alternativeto.net/software/wadacrush/about/",
+      "first_seen": "2026-09-01T15:10:15.101415+00:00"
+    },
+    "https://alternativeto.net/software/videox--video-editor/about/|VideoX": {
+      "title": "VideoX",
+      "link": "https://alternativeto.net/software/videox--video-editor/about/",
+      "first_seen": "2026-09-01T15:10:15.101417+00:00"
+    },
+    "https://alternativeto.net/software/nexoria-chat/about/|Nexoria Chat": {
+      "title": "Nexoria Chat",
+      "link": "https://alternativeto.net/software/nexoria-chat/about/",
+      "first_seen": "2026-09-01T15:10:15.101419+00:00"
+    },
+    "https://alternativeto.net/software/linksight/about/|LinkSight": {
+      "title": "LinkSight",
+      "link": "https://alternativeto.net/software/linksight/about/",
+      "first_seen": "2026-09-01T15:10:15.101425+00:00"
+    },
+    "https://alternativeto.net/software/tuwunel/about/|Tuwunel": {
+      "title": "Tuwunel",
+      "link": "https://alternativeto.net/software/tuwunel/about/",
+      "first_seen": "2026-09-01T15:10:15.101428+00:00"
     }
   }
 }
