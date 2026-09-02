@@ -1,11 +1,6 @@
 {
-  "last_checked": "2026-09-02T10:51:39.035167+00:00",
+  "last_checked": "2026-09-02T15:00:23.435629+00:00",
   "seen": {
-    "https://alternativeto.net/software/reprise-karaoke-setlist/about/|Reprise: Karaoke Setlist": {
-      "title": "Reprise: Karaoke Setlist",
-      "link": "https://alternativeto.net/software/reprise-karaoke-setlist/about/",
-      "first_seen": "2026-08-03T12:00:15.622959+00:00"
-    },
     "https://alternativeto.net/software/c2--live-streaming/about/|C2 - Live Streaming": {
       "title": "C2 - Live Streaming",
       "link": "https://alternativeto.net/software/c2--live-streaming/about/",
@@ -1840,6 +1835,96 @@
       "title": "VitaCal",
       "link": "https://alternativeto.net/software/vitacal/about/",
       "first_seen": "2026-09-01T18:37:32.499286+00:00"
+    },
+    "https://alternativeto.net/software/usbridge-remote-desktop/about/|USBridge": {
+      "title": "USBridge",
+      "link": "https://alternativeto.net/software/usbridge-remote-desktop/about/",
+      "first_seen": "2026-09-02T15:00:13.403553+00:00"
+    },
+    "https://alternativeto.net/software/halanoi/about/|Halanoi": {
+      "title": "Halanoi",
+      "link": "https://alternativeto.net/software/halanoi/about/",
+      "first_seen": "2026-09-02T15:00:13.403585+00:00"
+    },
+    "https://alternativeto.net/software/growspot/about/|GrowSpot": {
+      "title": "GrowSpot",
+      "link": "https://alternativeto.net/software/growspot/about/",
+      "first_seen": "2026-09-02T15:00:13.403588+00:00"
+    },
+    "https://alternativeto.net/software/k7-media-server/about/|K7 media server": {
+      "title": "K7 media server",
+      "link": "https://alternativeto.net/software/k7-media-server/about/",
+      "first_seen": "2026-09-02T15:00:13.403590+00:00"
+    },
+    "https://alternativeto.net/software/duoloft/about/|Duoloft": {
+      "title": "Duoloft",
+      "link": "https://alternativeto.net/software/duoloft/about/",
+      "first_seen": "2026-09-02T15:00:13.403592+00:00"
+    },
+    "https://alternativeto.net/software/trackdeals/about/|TrackDeals": {
+      "title": "TrackDeals",
+      "link": "https://alternativeto.net/software/trackdeals/about/",
+      "first_seen": "2026-09-02T15:00:13.403594+00:00"
+    },
+    "https://alternativeto.net/software/22-hours/about/|22 Hours": {
+      "title": "22 Hours",
+      "link": "https://alternativeto.net/software/22-hours/about/",
+      "first_seen": "2026-09-02T15:00:13.403600+00:00"
+    },
+    "https://alternativeto.net/software/subcrisp/about/|SubCrisp": {
+      "title": "SubCrisp",
+      "link": "https://alternativeto.net/software/subcrisp/about/",
+      "first_seen": "2026-09-02T15:00:13.403606+00:00"
+    },
+    "https://alternativeto.net/software/geoproof/about/|GeoProof": {
+      "title": "GeoProof",
+      "link": "https://alternativeto.net/software/geoproof/about/",
+      "first_seen": "2026-09-02T15:00:13.403608+00:00"
+    },
+    "https://alternativeto.net/software/commitfit/about/|CommitFit": {
+      "title": "CommitFit",
+      "link": "https://alternativeto.net/software/commitfit/about/",
+      "first_seen": "2026-09-02T15:00:13.403610+00:00"
+    },
+    "https://alternativeto.net/software/heyid/about/|HEYID": {
+      "title": "HEYID",
+      "link": "https://alternativeto.net/software/heyid/about/",
+      "first_seen": "2026-09-02T15:00:13.403612+00:00"
+    },
+    "https://alternativeto.net/software/screenmetric-movie-ratings/about/|ScreenMetric": {
+      "title": "ScreenMetric",
+      "link": "https://alternativeto.net/software/screenmetric-movie-ratings/about/",
+      "first_seen": "2026-09-02T15:00:13.403614+00:00"
+    },
+    "https://alternativeto.net/software/gdprchat/about/|GDPRchat": {
+      "title": "GDPRchat",
+      "link": "https://alternativeto.net/software/gdprchat/about/",
+      "first_seen": "2026-09-02T15:00:13.403616+00:00"
+    },
+    "https://alternativeto.net/software/procoach/about/|ProCoach": {
+      "title": "ProCoach",
+      "link": "https://alternativeto.net/software/procoach/about/",
+      "first_seen": "2026-09-02T15:00:13.403618+00:00"
+    },
+    "https://alternativeto.net/software/tidemark/about/|Tidemark": {
+      "title": "Tidemark",
+      "link": "https://alternativeto.net/software/tidemark/about/",
+      "first_seen": "2026-09-02T15:00:13.403619+00:00"
+    },
+    "https://alternativeto.net/software/eider--split-expenses/about/|Eider - Split Expenses": {
+      "title": "Eider - Split Expenses",
+      "link": "https://alternativeto.net/software/eider--split-expenses/about/",
+      "first_seen": "2026-09-02T15:00:13.403621+00:00"
+    },
+    "https://alternativeto.net/software/psyfy/about/|Psyfy": {
+      "title": "Psyfy",
+      "link": "https://alternativeto.net/software/psyfy/about/",
+      "first_seen": "2026-09-02T15:00:13.403623+00:00"
+    },
+    "https://alternativeto.net/software/bixberry/about/|Bixberry": {
+      "title": "Bixberry",
+      "link": "https://alternativeto.net/software/bixberry/about/",
+      "first_seen": "2026-09-02T15:00:13.403625+00:00"
     }
   }
 }
