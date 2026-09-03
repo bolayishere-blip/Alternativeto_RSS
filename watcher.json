@@ -1,46 +1,6 @@
 {
-  "last_checked": "2026-09-03T14:55:06.434513+00:00",
+  "last_checked": "2026-09-03T18:24:05.816742+00:00",
   "seen": {
-    "https://alternativeto.net/software/aleph-beta/about/|Aleph Beta": {
-      "title": "Aleph Beta",
-      "link": "https://alternativeto.net/software/aleph-beta/about/",
-      "first_seen": "2026-08-04T15:13:21.381063+00:00"
-    },
-    "https://alternativeto.net/software/store-and-forget/about/|Store & Forget": {
-      "title": "Store & Forget",
-      "link": "https://alternativeto.net/software/store-and-forget/about/",
-      "first_seen": "2026-08-04T15:13:21.381089+00:00"
-    },
-    "https://alternativeto.net/software/bitematch-dinner-decision/about/|BiteMatch": {
-      "title": "BiteMatch",
-      "link": "https://alternativeto.net/software/bitematch-dinner-decision/about/",
-      "first_seen": "2026-08-04T15:13:21.381106+00:00"
-    },
-    "https://alternativeto.net/software/lunanova-daily-astrology/about/|LunaNova": {
-      "title": "LunaNova",
-      "link": "https://alternativeto.net/software/lunanova-daily-astrology/about/",
-      "first_seen": "2026-08-04T15:13:21.381110+00:00"
-    },
-    "https://alternativeto.net/software/sloga/about/|Sloga": {
-      "title": "Sloga",
-      "link": "https://alternativeto.net/software/sloga/about/",
-      "first_seen": "2026-08-04T17:07:45.850375+00:00"
-    },
-    "https://alternativeto.net/software/ownbit-multisig-and-cold-wallet/about/|Ownbit": {
-      "title": "Ownbit",
-      "link": "https://alternativeto.net/software/ownbit-multisig-and-cold-wallet/about/",
-      "first_seen": "2026-08-04T17:07:45.850401+00:00"
-    },
-    "https://alternativeto.net/software/youtube-clips/about/|YouTube Clips": {
-      "title": "YouTube Clips",
-      "link": "https://alternativeto.net/software/youtube-clips/about/",
-      "first_seen": "2026-08-04T17:07:45.850405+00:00"
-    },
-    "https://alternativeto.net/software/warpfire-io/about/|Warpfire.io": {
-      "title": "Warpfire.io",
-      "link": "https://alternativeto.net/software/warpfire-io/about/",
-      "first_seen": "2026-08-04T17:07:45.850407+00:00"
-    },
     "https://alternativeto.net/software/kylon/about/|Kylon": {
       "title": "Kylon",
       "link": "https://alternativeto.net/software/kylon/about/",
@@ -1915,6 +1875,76 @@
       "title": "Bixberry",
       "link": "https://alternativeto.net/software/bixberry/about/",
       "first_seen": "2026-09-02T15:00:13.403625+00:00"
+    },
+    "https://alternativeto.net/software/inkiostro-markdown-editor/about/|Inkiostro": {
+      "title": "Inkiostro",
+      "link": "https://alternativeto.net/software/inkiostro-markdown-editor/about/",
+      "first_seen": "2026-09-03T18:23:54.264644+00:00"
+    },
+    "https://alternativeto.net/software/ember-dating-app/about/|Ember Dating App": {
+      "title": "Ember Dating App",
+      "link": "https://alternativeto.net/software/ember-dating-app/about/",
+      "first_seen": "2026-09-03T18:23:54.264670+00:00"
+    },
+    "https://alternativeto.net/software/fluera/about/|Fluera": {
+      "title": "Fluera",
+      "link": "https://alternativeto.net/software/fluera/about/",
+      "first_seen": "2026-09-03T18:23:54.264673+00:00"
+    },
+    "https://alternativeto.net/software/shizumu/about/|shizumu": {
+      "title": "shizumu",
+      "link": "https://alternativeto.net/software/shizumu/about/",
+      "first_seen": "2026-09-03T18:23:54.264675+00:00"
+    },
+    "https://alternativeto.net/software/baby-atlas/about/|Baby Atlas": {
+      "title": "Baby Atlas",
+      "link": "https://alternativeto.net/software/baby-atlas/about/",
+      "first_seen": "2026-09-03T18:23:54.264677+00:00"
+    },
+    "https://alternativeto.net/software/filestonas/about/|FilesToNAS": {
+      "title": "FilesToNAS",
+      "link": "https://alternativeto.net/software/filestonas/about/",
+      "first_seen": "2026-09-03T18:23:54.264679+00:00"
+    },
+    "https://alternativeto.net/software/contago/about/|ContaGo": {
+      "title": "ContaGo",
+      "link": "https://alternativeto.net/software/contago/about/",
+      "first_seen": "2026-09-03T18:23:54.264680+00:00"
+    },
+    "https://alternativeto.net/software/openhelper-ai/about/|OpenHelper AI": {
+      "title": "OpenHelper AI",
+      "link": "https://alternativeto.net/software/openhelper-ai/about/",
+      "first_seen": "2026-09-03T18:23:54.264686+00:00"
+    },
+    "https://alternativeto.net/software/notes-that-talk-with-you/about/|Notes that talk with you": {
+      "title": "Notes that talk with you",
+      "link": "https://alternativeto.net/software/notes-that-talk-with-you/about/",
+      "first_seen": "2026-09-03T18:23:54.264688+00:00"
+    },
+    "https://alternativeto.net/software/ivisionguard/about/|iVisionGuard": {
+      "title": "iVisionGuard",
+      "link": "https://alternativeto.net/software/ivisionguard/about/",
+      "first_seen": "2026-09-03T18:23:54.264690+00:00"
+    },
+    "https://alternativeto.net/software/domowik/about/|Domowik": {
+      "title": "Domowik",
+      "link": "https://alternativeto.net/software/domowik/about/",
+      "first_seen": "2026-09-03T18:23:54.264692+00:00"
+    },
+    "https://alternativeto.net/software/prisma3d/about/|Prisma3D": {
+      "title": "Prisma3D",
+      "link": "https://alternativeto.net/software/prisma3d/about/",
+      "first_seen": "2026-09-03T18:23:54.264694+00:00"
+    },
+    "https://alternativeto.net/software/push-latte/about/|Push Latte": {
+      "title": "Push Latte",
+      "link": "https://alternativeto.net/software/push-latte/about/",
+      "first_seen": "2026-09-03T18:23:54.264696+00:00"
+    },
+    "https://alternativeto.net/software/musescore-com/about/|MuseScore.com": {
+      "title": "MuseScore.com",
+      "link": "https://alternativeto.net/software/musescore-com/about/",
+      "first_seen": "2026-09-03T18:23:54.264708+00:00"
     }
   }
 }
