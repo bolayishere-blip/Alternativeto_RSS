@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-05T15:11:23.503191+00:00",
+  "last_checked": "2026-09-05T17:23:34.324015+00:00",
   "seen": {
     "https://alternativeto.net/software/dayotter/about/|DayOtter": {
       "title": "DayOtter",
@@ -1910,6 +1910,56 @@
       "title": "Aerium Browser",
       "link": "https://alternativeto.net/software/aerium-browser/about/",
       "first_seen": "2026-09-05T00:22:19.278490+00:00"
+    },
+    "https://alternativeto.net/software/rmdialer/about/|RMDialer": {
+      "title": "RMDialer",
+      "link": "https://alternativeto.net/software/rmdialer/about/",
+      "first_seen": "2026-09-05T17:23:24.789884+00:00"
+    },
+    "https://alternativeto.net/software/walt/about/|Walt": {
+      "title": "Walt",
+      "link": "https://alternativeto.net/software/walt/about/",
+      "first_seen": "2026-09-05T17:23:24.789914+00:00"
+    },
+    "https://alternativeto.net/software/vault-explorer/about/|Vault Explorer": {
+      "title": "Vault Explorer",
+      "link": "https://alternativeto.net/software/vault-explorer/about/",
+      "first_seen": "2026-09-05T17:23:24.789917+00:00"
+    },
+    "https://alternativeto.net/software/zipline-android/about/|Zipline Android": {
+      "title": "Zipline Android",
+      "link": "https://alternativeto.net/software/zipline-android/about/",
+      "first_seen": "2026-09-05T17:23:24.789920+00:00"
+    },
+    "https://alternativeto.net/software/remote-wallpaper-android/about/|Remote Wallpaper Android": {
+      "title": "Remote Wallpaper Android",
+      "link": "https://alternativeto.net/software/remote-wallpaper-android/about/",
+      "first_seen": "2026-09-05T17:23:24.789922+00:00"
+    },
+    "https://alternativeto.net/software/dns-speed-tester/about/|Dns Speed Tester": {
+      "title": "Dns Speed Tester",
+      "link": "https://alternativeto.net/software/dns-speed-tester/about/",
+      "first_seen": "2026-09-05T17:23:24.789924+00:00"
+    },
+    "https://alternativeto.net/software/spam-call-blocker/about/|Spam Call Blocker": {
+      "title": "Spam Call Blocker",
+      "link": "https://alternativeto.net/software/spam-call-blocker/about/",
+      "first_seen": "2026-09-05T17:23:24.789926+00:00"
+    },
+    "https://alternativeto.net/software/wellbody/about/|Wellbody": {
+      "title": "Wellbody",
+      "link": "https://alternativeto.net/software/wellbody/about/",
+      "first_seen": "2026-09-05T17:23:24.789931+00:00"
+    },
+    "https://alternativeto.net/software/famvibe/about/|FamVibe": {
+      "title": "FamVibe",
+      "link": "https://alternativeto.net/software/famvibe/about/",
+      "first_seen": "2026-09-05T17:23:24.789934+00:00"
+    },
+    "https://alternativeto.net/software/kidsfirst/about/|KidsFirst": {
+      "title": "KidsFirst",
+      "link": "https://alternativeto.net/software/kidsfirst/about/",
+      "first_seen": "2026-09-05T17:23:24.789936+00:00"
     }
   }
 }
