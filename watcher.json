@@ -1,21 +1,6 @@
 {
-  "last_checked": "2026-09-06T18:25:44.172033+00:00",
+  "last_checked": "2026-09-06T20:41:57.751736+00:00",
   "seen": {
-    "https://alternativeto.net/software/reflecto/about/|Reflecto": {
-      "title": "Reflecto",
-      "link": "https://alternativeto.net/software/reflecto/about/",
-      "first_seen": "2026-08-07T19:12:34.895481+00:00"
-    },
-    "https://alternativeto.net/software/packmytrip/about/|PackMyTrip": {
-      "title": "PackMyTrip",
-      "link": "https://alternativeto.net/software/packmytrip/about/",
-      "first_seen": "2026-08-07T19:12:34.895502+00:00"
-    },
-    "https://alternativeto.net/software/worldguessr/about/|WorldGuessr": {
-      "title": "WorldGuessr",
-      "link": "https://alternativeto.net/software/worldguessr/about/",
-      "first_seen": "2026-08-07T19:12:34.895506+00:00"
-    },
     "https://alternativeto.net/software/folly-plant-identifier-and-care/about/|Folly: Plant Identifier & Care": {
       "title": "Folly: Plant Identifier & Care",
       "link": "https://alternativeto.net/software/folly-plant-identifier-and-care/about/",
@@ -1885,6 +1870,51 @@
       "title": "KidsFirst",
       "link": "https://alternativeto.net/software/kidsfirst/about/",
       "first_seen": "2026-09-05T17:23:24.789936+00:00"
+    },
+    "https://alternativeto.net/software/atom-budget/about/|Atom Budget": {
+      "title": "Atom Budget",
+      "link": "https://alternativeto.net/software/atom-budget/about/",
+      "first_seen": "2026-09-06T20:41:48.894601+00:00"
+    },
+    "https://alternativeto.net/software/armsx1/about/|ARMSX1": {
+      "title": "ARMSX1",
+      "link": "https://alternativeto.net/software/armsx1/about/",
+      "first_seen": "2026-09-06T20:41:48.894625+00:00"
+    },
+    "https://alternativeto.net/software/lacloud-local-area-cloud-/about/|LACloud (Local Area Cloud)": {
+      "title": "LACloud (Local Area Cloud)",
+      "link": "https://alternativeto.net/software/lacloud-local-area-cloud-/about/",
+      "first_seen": "2026-09-06T20:41:48.894628+00:00"
+    },
+    "https://alternativeto.net/software/lyraboo/about/|Lyraboo": {
+      "title": "Lyraboo",
+      "link": "https://alternativeto.net/software/lyraboo/about/",
+      "first_seen": "2026-09-06T20:41:48.894629+00:00"
+    },
+    "https://alternativeto.net/software/awaydoomscrollin-/about/|AwayDoomscrollin'": {
+      "title": "AwayDoomscrollin'",
+      "link": "https://alternativeto.net/software/awaydoomscrollin-/about/",
+      "first_seen": "2026-09-06T20:41:48.894631+00:00"
+    },
+    "https://alternativeto.net/software/fob/about/|Fob": {
+      "title": "Fob",
+      "link": "https://alternativeto.net/software/fob/about/",
+      "first_seen": "2026-09-06T20:41:48.894633+00:00"
+    },
+    "https://alternativeto.net/software/easy2share/about/|easy2share": {
+      "title": "easy2share",
+      "link": "https://alternativeto.net/software/easy2share/about/",
+      "first_seen": "2026-09-06T20:41:48.894634+00:00"
+    },
+    "https://alternativeto.net/software/orfeotask/about/|OrfeoTask": {
+      "title": "OrfeoTask",
+      "link": "https://alternativeto.net/software/orfeotask/about/",
+      "first_seen": "2026-09-06T20:41:48.894640+00:00"
+    },
+    "https://alternativeto.net/software/let-it-be/about/|Let It Be": {
+      "title": "Let It Be",
+      "link": "https://alternativeto.net/software/let-it-be/about/",
+      "first_seen": "2026-09-06T20:41:48.894642+00:00"
     }
   }
 }
