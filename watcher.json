@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-07T22:12:39.596131+00:00",
+  "last_checked": "2026-09-08T00:29:57.052056+00:00",
   "seen": {
     "https://alternativeto.net/software/iread/about/|iRead": {
       "title": "iRead",
@@ -1900,6 +1900,51 @@
       "title": "Let It Be",
       "link": "https://alternativeto.net/software/let-it-be/about/",
       "first_seen": "2026-09-06T20:41:48.894642+00:00"
+    },
+    "https://alternativeto.net/software/junban/about/|Junban": {
+      "title": "Junban",
+      "link": "https://alternativeto.net/software/junban/about/",
+      "first_seen": "2026-09-08T00:29:48.301276+00:00"
+    },
+    "https://alternativeto.net/software/opentrailpaper/about/|OpenTrailPaper": {
+      "title": "OpenTrailPaper",
+      "link": "https://alternativeto.net/software/opentrailpaper/about/",
+      "first_seen": "2026-09-08T00:29:48.301295+00:00"
+    },
+    "https://alternativeto.net/software/strimix-radio/about/|StrimiX Radio": {
+      "title": "StrimiX Radio",
+      "link": "https://alternativeto.net/software/strimix-radio/about/",
+      "first_seen": "2026-09-08T00:29:48.301298+00:00"
+    },
+    "https://alternativeto.net/software/breathgate/about/|BreathGate": {
+      "title": "BreathGate",
+      "link": "https://alternativeto.net/software/breathgate/about/",
+      "first_seen": "2026-09-08T00:29:48.301301+00:00"
+    },
+    "https://alternativeto.net/software/send-2290/about/|Send 2290": {
+      "title": "Send 2290",
+      "link": "https://alternativeto.net/software/send-2290/about/",
+      "first_seen": "2026-09-08T00:29:48.301303+00:00"
+    },
+    "https://alternativeto.net/software/dictation-daddy/about/|Dictation Daddy": {
+      "title": "Dictation Daddy",
+      "link": "https://alternativeto.net/software/dictation-daddy/about/",
+      "first_seen": "2026-09-08T00:29:48.301305+00:00"
+    },
+    "https://alternativeto.net/software/ipano360--360-panorama-stitcher/about/|iPano360 Stitcher": {
+      "title": "iPano360 Stitcher",
+      "link": "https://alternativeto.net/software/ipano360--360-panorama-stitcher/about/",
+      "first_seen": "2026-09-08T00:29:48.301306+00:00"
+    },
+    "https://alternativeto.net/software/moneyworks-lite/about/|MoneyWorks Lite": {
+      "title": "MoneyWorks Lite",
+      "link": "https://alternativeto.net/software/moneyworks-lite/about/",
+      "first_seen": "2026-09-08T00:29:48.301311+00:00"
+    },
+    "https://alternativeto.net/software/kotidy--organisation-du-foyer/about/|Kotidy": {
+      "title": "Kotidy",
+      "link": "https://alternativeto.net/software/kotidy--organisation-du-foyer/about/",
+      "first_seen": "2026-09-08T00:29:48.301314+00:00"
     }
   }
 }
