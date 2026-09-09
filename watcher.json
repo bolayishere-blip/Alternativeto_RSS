@@ -1,61 +1,6 @@
 {
-  "last_checked": "2026-09-09T11:08:26.492593+00:00",
+  "last_checked": "2026-09-09T15:06:13.505101+00:00",
   "seen": {
-    "https://alternativeto.net/software/wallpio-android-live-wallpapers/about/|Wallpio - Live Wallpapers": {
-      "title": "Wallpio - Live Wallpapers",
-      "link": "https://alternativeto.net/software/wallpio-android-live-wallpapers/about/",
-      "first_seen": "2026-08-10T12:35:00.698780+00:00"
-    },
-    "https://alternativeto.net/software/vocalbase/about/|VocalBase": {
-      "title": "VocalBase",
-      "link": "https://alternativeto.net/software/vocalbase/about/",
-      "first_seen": "2026-08-10T12:35:00.698821+00:00"
-    },
-    "https://alternativeto.net/software/ob-lite/about/|OB Lite": {
-      "title": "OB Lite",
-      "link": "https://alternativeto.net/software/ob-lite/about/",
-      "first_seen": "2026-08-10T12:35:00.698825+00:00"
-    },
-    "https://alternativeto.net/software/formfit/about/|FormFit": {
-      "title": "FormFit",
-      "link": "https://alternativeto.net/software/formfit/about/",
-      "first_seen": "2026-08-10T12:35:00.698827+00:00"
-    },
-    "https://alternativeto.net/software/bridgevox/about/|BridgeVox": {
-      "title": "BridgeVox",
-      "link": "https://alternativeto.net/software/bridgevox/about/",
-      "first_seen": "2026-08-10T12:35:00.698838+00:00"
-    },
-    "https://alternativeto.net/software/invoicewright/about/|InvoiceWright": {
-      "title": "InvoiceWright",
-      "link": "https://alternativeto.net/software/invoicewright/about/",
-      "first_seen": "2026-08-10T12:35:00.698840+00:00"
-    },
-    "https://alternativeto.net/software/mpvrx/about/|mpvRx": {
-      "title": "mpvRx",
-      "link": "https://alternativeto.net/software/mpvrx/about/",
-      "first_seen": "2026-08-10T12:35:00.698842+00:00"
-    },
-    "https://alternativeto.net/software/betascout/about/|BetaScout": {
-      "title": "BetaScout",
-      "link": "https://alternativeto.net/software/betascout/about/",
-      "first_seen": "2026-08-10T12:35:00.698848+00:00"
-    },
-    "https://alternativeto.net/software/seedlessds/about/|SeedlessDS": {
-      "title": "SeedlessDS",
-      "link": "https://alternativeto.net/software/seedlessds/about/",
-      "first_seen": "2026-08-10T12:35:00.698850+00:00"
-    },
-    "https://alternativeto.net/software/watermelonds/about/|WatermelonDS": {
-      "title": "WatermelonDS",
-      "link": "https://alternativeto.net/software/watermelonds/about/",
-      "first_seen": "2026-08-10T12:35:00.698853+00:00"
-    },
-    "https://alternativeto.net/software/melonds-android/about/|melonDS Android": {
-      "title": "melonDS Android",
-      "link": "https://alternativeto.net/software/melonds-android/about/",
-      "first_seen": "2026-08-10T12:35:00.698855+00:00"
-    },
     "https://alternativeto.net/software/catatku/about/|Catatku": {
       "title": "Catatku",
       "link": "https://alternativeto.net/software/catatku/about/",
@@ -2055,6 +2000,51 @@
       "title": "BirthMinder",
       "link": "https://alternativeto.net/software/birthminder/about/",
       "first_seen": "2026-09-09T11:08:18.840376+00:00"
+    },
+    "https://alternativeto.net/software/tastefinder/about/|TasteFinder": {
+      "title": "TasteFinder",
+      "link": "https://alternativeto.net/software/tastefinder/about/",
+      "first_seen": "2026-09-09T15:06:04.714785+00:00"
+    },
+    "https://alternativeto.net/software/fizziq/about/|FizziQ": {
+      "title": "FizziQ",
+      "link": "https://alternativeto.net/software/fizziq/about/",
+      "first_seen": "2026-09-09T15:06:04.714816+00:00"
+    },
+    "https://alternativeto.net/software/traveller-ai-route-planner/about/|Traveller": {
+      "title": "Traveller",
+      "link": "https://alternativeto.net/software/traveller-ai-route-planner/about/",
+      "first_seen": "2026-09-09T15:06:04.714820+00:00"
+    },
+    "https://alternativeto.net/software/gobby-cleaner/about/|Gobby Cleaner": {
+      "title": "Gobby Cleaner",
+      "link": "https://alternativeto.net/software/gobby-cleaner/about/",
+      "first_seen": "2026-09-09T15:06:04.714822+00:00"
+    },
+    "https://alternativeto.net/software/gigngo/about/|GigNGo": {
+      "title": "GigNGo",
+      "link": "https://alternativeto.net/software/gigngo/about/",
+      "first_seen": "2026-09-09T15:06:04.714825+00:00"
+    },
+    "https://alternativeto.net/software/where-s-my-money-/about/|Where's My Money?": {
+      "title": "Where's My Money?",
+      "link": "https://alternativeto.net/software/where-s-my-money-/about/",
+      "first_seen": "2026-09-09T15:06:04.714827+00:00"
+    },
+    "https://alternativeto.net/software/whisprjournal/about/|WhisprJournal": {
+      "title": "WhisprJournal",
+      "link": "https://alternativeto.net/software/whisprjournal/about/",
+      "first_seen": "2026-09-09T15:06:04.714829+00:00"
+    },
+    "https://alternativeto.net/software/mtvp/about/|MTVP": {
+      "title": "MTVP",
+      "link": "https://alternativeto.net/software/mtvp/about/",
+      "first_seen": "2026-09-09T15:06:04.714835+00:00"
+    },
+    "https://alternativeto.net/software/meta-muse/about/|Meta Muse": {
+      "title": "Meta Muse",
+      "link": "https://alternativeto.net/software/meta-muse/about/",
+      "first_seen": "2026-09-09T15:06:04.714837+00:00"
     }
   }
 }
