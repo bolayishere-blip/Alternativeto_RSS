@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-09T21:09:47.268185+00:00",
+  "last_checked": "2026-09-09T23:15:04.368310+00:00",
   "seen": {
     "https://alternativeto.net/software/catatku/about/|Catatku": {
       "title": "Catatku",
@@ -2045,6 +2045,21 @@
       "title": "Meta Muse",
       "link": "https://alternativeto.net/software/meta-muse/about/",
       "first_seen": "2026-09-09T15:06:04.714837+00:00"
+    },
+    "https://alternativeto.net/software/crewbox-pro/about/|CrewBox Pro": {
+      "title": "CrewBox Pro",
+      "link": "https://alternativeto.net/software/crewbox-pro/about/",
+      "first_seen": "2026-09-09T23:15:02.479023+00:00"
+    },
+    "https://alternativeto.net/software/tempo-screen-time-blocker/about/|Tempo: Screen Time Blocker": {
+      "title": "Tempo: Screen Time Blocker",
+      "link": "https://alternativeto.net/software/tempo-screen-time-blocker/about/",
+      "first_seen": "2026-09-09T23:15:02.479045+00:00"
+    },
+    "https://alternativeto.net/software/backspace-back-pain-relief/about/|BackSpace: Back Pain Relief": {
+      "title": "BackSpace: Back Pain Relief",
+      "link": "https://alternativeto.net/software/backspace-back-pain-relief/about/",
+      "first_seen": "2026-09-09T23:15:02.479049+00:00"
     }
   }
 }
