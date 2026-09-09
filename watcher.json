@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-09T05:57:10.805363+00:00",
+  "last_checked": "2026-09-09T11:08:26.492593+00:00",
   "seen": {
     "https://alternativeto.net/software/wallpio-android-live-wallpapers/about/|Wallpio - Live Wallpapers": {
       "title": "Wallpio - Live Wallpapers",
@@ -2020,6 +2020,41 @@
       "title": "Invoiciz",
       "link": "https://alternativeto.net/software/invoiciz-easy-invoice-maker/about/",
       "first_seen": "2026-09-09T05:57:01.413045+00:00"
+    },
+    "https://alternativeto.net/software/sshborg/about/|SSHBorg": {
+      "title": "SSHBorg",
+      "link": "https://alternativeto.net/software/sshborg/about/",
+      "first_seen": "2026-09-09T11:08:18.840338+00:00"
+    },
+    "https://alternativeto.net/software/verisense/about/|VeriSense": {
+      "title": "VeriSense",
+      "link": "https://alternativeto.net/software/verisense/about/",
+      "first_seen": "2026-09-09T11:08:18.840363+00:00"
+    },
+    "https://alternativeto.net/software/steadily-me/about/|Steadily.me": {
+      "title": "Steadily.me",
+      "link": "https://alternativeto.net/software/steadily-me/about/",
+      "first_seen": "2026-09-09T11:08:18.840366+00:00"
+    },
+    "https://alternativeto.net/software/firmapanel-procurement-toolkit/about/|FirmaPanel Procurement Toolkit": {
+      "title": "FirmaPanel Procurement Toolkit",
+      "link": "https://alternativeto.net/software/firmapanel-procurement-toolkit/about/",
+      "first_seen": "2026-09-09T11:08:18.840368+00:00"
+    },
+    "https://alternativeto.net/software/gibson-learn-and-play-guitar/about/|Gibson": {
+      "title": "Gibson",
+      "link": "https://alternativeto.net/software/gibson-learn-and-play-guitar/about/",
+      "first_seen": "2026-09-09T11:08:18.840370+00:00"
+    },
+    "https://alternativeto.net/software/rme-pdf-scanner/about/|RME PDF Scanner": {
+      "title": "RME PDF Scanner",
+      "link": "https://alternativeto.net/software/rme-pdf-scanner/about/",
+      "first_seen": "2026-09-09T11:08:18.840372+00:00"
+    },
+    "https://alternativeto.net/software/birthminder/about/|BirthMinder": {
+      "title": "BirthMinder",
+      "link": "https://alternativeto.net/software/birthminder/about/",
+      "first_seen": "2026-09-09T11:08:18.840376+00:00"
     }
   }
 }
