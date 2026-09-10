@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-10T05:59:02.960265+00:00",
+  "last_checked": "2026-09-10T11:08:25.897847+00:00",
   "seen": {
     "https://alternativeto.net/software/catatku/about/|Catatku": {
       "title": "Catatku",
@@ -2060,6 +2060,31 @@
       "title": "BackSpace: Back Pain Relief",
       "link": "https://alternativeto.net/software/backspace-back-pain-relief/about/",
       "first_seen": "2026-09-09T23:15:02.479049+00:00"
+    },
+    "https://alternativeto.net/software/cardjar/about/|CardJar": {
+      "title": "CardJar",
+      "link": "https://alternativeto.net/software/cardjar/about/",
+      "first_seen": "2026-09-10T11:08:21.792744+00:00"
+    },
+    "https://alternativeto.net/software/kidtime/about/|Kidtime": {
+      "title": "Kidtime",
+      "link": "https://alternativeto.net/software/kidtime/about/",
+      "first_seen": "2026-09-10T11:08:21.792772+00:00"
+    },
+    "https://alternativeto.net/software/frame-37/about/|FRAME 37": {
+      "title": "FRAME 37",
+      "link": "https://alternativeto.net/software/frame-37/about/",
+      "first_seen": "2026-09-10T11:08:21.792775+00:00"
+    },
+    "https://alternativeto.net/software/spiritspark-daily-bible-verse/about/|SpiritSpark": {
+      "title": "SpiritSpark",
+      "link": "https://alternativeto.net/software/spiritspark-daily-bible-verse/about/",
+      "first_seen": "2026-09-10T11:08:21.792778+00:00"
+    },
+    "https://alternativeto.net/software/jaap-daily-naam-jap-counter/about/|Jaap Daily: Naam Jap Counter": {
+      "title": "Jaap Daily: Naam Jap Counter",
+      "link": "https://alternativeto.net/software/jaap-daily-naam-jap-counter/about/",
+      "first_seen": "2026-09-10T11:08:21.792780+00:00"
     }
   }
 }
