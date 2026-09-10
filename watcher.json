@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-10T18:18:27.481588+00:00",
+  "last_checked": "2026-09-10T20:59:09.130312+00:00",
   "seen": {
     "https://alternativeto.net/software/minutedai/about/|MinutedAI": {
       "title": "MinutedAI",
@@ -1960,6 +1960,31 @@
       "title": "Jaap Daily: Naam Jap Counter",
       "link": "https://alternativeto.net/software/jaap-daily-naam-jap-counter/about/",
       "first_seen": "2026-09-10T11:08:21.792780+00:00"
+    },
+    "https://alternativeto.net/software/videotapr/about/|Videotapr": {
+      "title": "Videotapr",
+      "link": "https://alternativeto.net/software/videotapr/about/",
+      "first_seen": "2026-09-10T20:59:05.294787+00:00"
+    },
+    "https://alternativeto.net/software/ketonoir/about/|KetoNoir": {
+      "title": "KetoNoir",
+      "link": "https://alternativeto.net/software/ketonoir/about/",
+      "first_seen": "2026-09-10T20:59:05.294811+00:00"
+    },
+    "https://alternativeto.net/software/cairn-milestones/about/|Cairn Milestones": {
+      "title": "Cairn Milestones",
+      "link": "https://alternativeto.net/software/cairn-milestones/about/",
+      "first_seen": "2026-09-10T20:59:05.294815+00:00"
+    },
+    "https://alternativeto.net/software/kokoro-voice-studio/about/|Kokoro Voice Studio": {
+      "title": "Kokoro Voice Studio",
+      "link": "https://alternativeto.net/software/kokoro-voice-studio/about/",
+      "first_seen": "2026-09-10T20:59:05.294818+00:00"
+    },
+    "https://alternativeto.net/software/jaap-daily-naam-jap-counter/about/|Jaap Daily": {
+      "title": "Jaap Daily",
+      "link": "https://alternativeto.net/software/jaap-daily-naam-jap-counter/about/",
+      "first_seen": "2026-09-10T20:59:05.294825+00:00"
     }
   }
 }
