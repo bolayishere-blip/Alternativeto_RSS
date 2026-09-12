@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-11T23:13:53.867892+00:00",
+  "last_checked": "2026-09-12T05:54:56.232317+00:00",
   "seen": {
     "https://alternativeto.net/software/discs-cd-ripping-and-music-2/about/|Discs: CD Ripping & Music": {
       "title": "Discs: CD Ripping & Music",
@@ -1920,6 +1920,41 @@
       "title": "Jaap Daily",
       "link": "https://alternativeto.net/software/jaap-daily-naam-jap-counter/about/",
       "first_seen": "2026-09-10T20:59:05.294825+00:00"
+    },
+    "https://alternativeto.net/software/morok/about/|Morok": {
+      "title": "Morok",
+      "link": "https://alternativeto.net/software/morok/about/",
+      "first_seen": "2026-09-12T05:54:48.220129+00:00"
+    },
+    "https://alternativeto.net/software/lunar-log/about/|Lunar Log": {
+      "title": "Lunar Log",
+      "link": "https://alternativeto.net/software/lunar-log/about/",
+      "first_seen": "2026-09-12T05:54:48.220151+00:00"
+    },
+    "https://alternativeto.net/software/joyful-muslims/about/|Joyful Muslims": {
+      "title": "Joyful Muslims",
+      "link": "https://alternativeto.net/software/joyful-muslims/about/",
+      "first_seen": "2026-09-12T05:54:48.220154+00:00"
+    },
+    "https://alternativeto.net/software/kanap-what-to-watch-tonight/about/|Kanap: What to Watch Tonight": {
+      "title": "Kanap: What to Watch Tonight",
+      "link": "https://alternativeto.net/software/kanap-what-to-watch-tonight/about/",
+      "first_seen": "2026-09-12T05:54:48.220156+00:00"
+    },
+    "https://alternativeto.net/software/monkeycode/about/|MonkeyCode": {
+      "title": "MonkeyCode",
+      "link": "https://alternativeto.net/software/monkeycode/about/",
+      "first_seen": "2026-09-12T05:54:48.220158+00:00"
+    },
+    "https://alternativeto.net/software/amaradio/about/|AMARadio": {
+      "title": "AMARadio",
+      "link": "https://alternativeto.net/software/amaradio/about/",
+      "first_seen": "2026-09-12T05:54:48.220160+00:00"
+    },
+    "https://alternativeto.net/software/limitsim/about/|LimitSIM": {
+      "title": "LimitSIM",
+      "link": "https://alternativeto.net/software/limitsim/about/",
+      "first_seen": "2026-09-12T05:54:48.220161+00:00"
     }
   }
 }
