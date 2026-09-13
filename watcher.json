@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-13T00:57:02.082140+00:00",
+  "last_checked": "2026-09-13T05:53:45.354430+00:00",
   "seen": {
     "https://alternativeto.net/software/dingpin/about/|Dingpin": {
       "title": "Dingpin",
@@ -1865,6 +1865,21 @@
       "title": "LimitSIM",
       "link": "https://alternativeto.net/software/limitsim/about/",
       "first_seen": "2026-09-12T05:54:48.220161+00:00"
+    },
+    "https://alternativeto.net/software/secret-messenger/about/|SECRET Messenger": {
+      "title": "SECRET Messenger",
+      "link": "https://alternativeto.net/software/secret-messenger/about/",
+      "first_seen": "2026-09-13T05:53:43.012314+00:00"
+    },
+    "https://alternativeto.net/software/apps2samsung/about/|Apps2Samsung": {
+      "title": "Apps2Samsung",
+      "link": "https://alternativeto.net/software/apps2samsung/about/",
+      "first_seen": "2026-09-13T05:53:43.012337+00:00"
+    },
+    "https://alternativeto.net/software/underfiction/about/|Underfiction": {
+      "title": "Underfiction",
+      "link": "https://alternativeto.net/software/underfiction/about/",
+      "first_seen": "2026-09-13T05:53:43.012341+00:00"
     }
   }
 }
