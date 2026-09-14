@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-14T10:53:58.816294+00:00",
+  "last_checked": "2026-09-14T16:49:22.904619+00:00",
   "seen": {
     "https://alternativeto.net/software/yemplea/about/|Yemplea": {
       "title": "Yemplea",
@@ -1925,6 +1925,21 @@
       "title": "Veilr",
       "link": "https://alternativeto.net/software/veilr/about/",
       "first_seen": "2026-09-14T10:53:47.966022+00:00"
+    },
+    "https://alternativeto.net/software/owntv/about/|OwnTV": {
+      "title": "OwnTV",
+      "link": "https://alternativeto.net/software/owntv/about/",
+      "first_seen": "2026-09-14T16:49:20.750191+00:00"
+    },
+    "https://alternativeto.net/software/moneysplit/about/|MoneySplit": {
+      "title": "MoneySplit",
+      "link": "https://alternativeto.net/software/moneysplit/about/",
+      "first_seen": "2026-09-14T16:49:20.750217+00:00"
+    },
+    "https://alternativeto.net/software/esplayer/about/|Esplayer": {
+      "title": "Esplayer",
+      "link": "https://alternativeto.net/software/esplayer/about/",
+      "first_seen": "2026-09-14T16:49:20.750219+00:00"
     }
   }
 }
