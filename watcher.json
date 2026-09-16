@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-16T06:10:50.667131+00:00",
+  "last_checked": "2026-09-16T11:47:19.086133+00:00",
   "seen": {
     "https://alternativeto.net/software/seniorsync/about/|SeniorSync": {
       "title": "SeniorSync",
@@ -1960,6 +1960,61 @@
       "title": "SaaveMe",
       "link": "https://alternativeto.net/software/saaveme/about/",
       "first_seen": "2026-09-15T20:18:44.209904+00:00"
+    },
+    "https://alternativeto.net/software/tensana--bloodpressuredb/about/|Tensana": {
+      "title": "Tensana",
+      "link": "https://alternativeto.net/software/tensana--bloodpressuredb/about/",
+      "first_seen": "2026-09-16T11:47:07.851580+00:00"
+    },
+    "https://alternativeto.net/software/synct/about/|SYNCT": {
+      "title": "SYNCT",
+      "link": "https://alternativeto.net/software/synct/about/",
+      "first_seen": "2026-09-16T11:47:07.851605+00:00"
+    },
+    "https://alternativeto.net/software/gomining/about/|GoMining": {
+      "title": "GoMining",
+      "link": "https://alternativeto.net/software/gomining/about/",
+      "first_seen": "2026-09-16T11:47:07.851609+00:00"
+    },
+    "https://alternativeto.net/software/metro-gnome/about/|Metro Gnome": {
+      "title": "Metro Gnome",
+      "link": "https://alternativeto.net/software/metro-gnome/about/",
+      "first_seen": "2026-09-16T11:47:07.851610+00:00"
+    },
+    "https://alternativeto.net/software/cinemacc/about/|CinemaCC": {
+      "title": "CinemaCC",
+      "link": "https://alternativeto.net/software/cinemacc/about/",
+      "first_seen": "2026-09-16T11:47:07.851612+00:00"
+    },
+    "https://alternativeto.net/software/sparringpoker/about/|SparringPoker": {
+      "title": "SparringPoker",
+      "link": "https://alternativeto.net/software/sparringpoker/about/",
+      "first_seen": "2026-09-16T11:47:07.851614+00:00"
+    },
+    "https://alternativeto.net/software/sapiro/about/|Sapiro": {
+      "title": "Sapiro",
+      "link": "https://alternativeto.net/software/sapiro/about/",
+      "first_seen": "2026-09-16T11:47:07.851616+00:00"
+    },
+    "https://alternativeto.net/software/shareclip/about/|ShareCLIP": {
+      "title": "ShareCLIP",
+      "link": "https://alternativeto.net/software/shareclip/about/",
+      "first_seen": "2026-09-16T11:47:07.851621+00:00"
+    },
+    "https://alternativeto.net/software/smsecure-encrypted-sms/about/|SMSecure": {
+      "title": "SMSecure",
+      "link": "https://alternativeto.net/software/smsecure-encrypted-sms/about/",
+      "first_seen": "2026-09-16T11:47:07.851624+00:00"
+    },
+    "https://alternativeto.net/software/flashbyte/about/|Flashbyte": {
+      "title": "Flashbyte",
+      "link": "https://alternativeto.net/software/flashbyte/about/",
+      "first_seen": "2026-09-16T11:47:07.851626+00:00"
+    },
+    "https://alternativeto.net/software/lifey/about/|Lifey": {
+      "title": "Lifey",
+      "link": "https://alternativeto.net/software/lifey/about/",
+      "first_seen": "2026-09-16T11:47:07.851628+00:00"
     }
   }
 }
