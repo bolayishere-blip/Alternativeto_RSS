@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-17T10:05:09.362188+00:00",
+  "last_checked": "2026-09-17T14:58:00.351795+00:00",
   "seen": {
     "https://alternativeto.net/software/eylet/about/|eylet": {
       "title": "eylet",
@@ -1990,6 +1990,41 @@
       "title": "Lifey",
       "link": "https://alternativeto.net/software/lifey/about/",
       "first_seen": "2026-09-16T11:47:07.851628+00:00"
+    },
+    "https://alternativeto.net/software/kadr-movie-tv-tracker/about/|Kadr Movie TV Tracker": {
+      "title": "Kadr Movie TV Tracker",
+      "link": "https://alternativeto.net/software/kadr-movie-tv-tracker/about/",
+      "first_seen": "2026-09-17T14:57:51.259602+00:00"
+    },
+    "https://alternativeto.net/software/rhymeable/about/|Rhymeable": {
+      "title": "Rhymeable",
+      "link": "https://alternativeto.net/software/rhymeable/about/",
+      "first_seen": "2026-09-17T14:57:51.259624+00:00"
+    },
+    "https://alternativeto.net/software/heahy/about/|heahy": {
+      "title": "heahy",
+      "link": "https://alternativeto.net/software/heahy/about/",
+      "first_seen": "2026-09-17T14:57:51.259628+00:00"
+    },
+    "https://alternativeto.net/software/nri-dating/about/|NRI Dating": {
+      "title": "NRI Dating",
+      "link": "https://alternativeto.net/software/nri-dating/about/",
+      "first_seen": "2026-09-17T14:57:51.259630+00:00"
+    },
+    "https://alternativeto.net/software/monitabs-money-and-debt-tracker/about/|MoniTabs": {
+      "title": "MoniTabs",
+      "link": "https://alternativeto.net/software/monitabs-money-and-debt-tracker/about/",
+      "first_seen": "2026-09-17T14:57:51.259633+00:00"
+    },
+    "https://alternativeto.net/software/euphoria-ai-choices/about/|Euphoria": {
+      "title": "Euphoria",
+      "link": "https://alternativeto.net/software/euphoria-ai-choices/about/",
+      "first_seen": "2026-09-17T14:57:51.259638+00:00"
+    },
+    "https://alternativeto.net/software/switchithub/about/|SwitchitHub": {
+      "title": "SwitchitHub",
+      "link": "https://alternativeto.net/software/switchithub/about/",
+      "first_seen": "2026-09-17T14:57:51.259640+00:00"
     }
   }
 }
