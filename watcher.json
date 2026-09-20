@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-20T17:43:19.004489+00:00",
+  "last_checked": "2026-09-20T19:49:46.769686+00:00",
   "seen": {
     "https://alternativeto.net/software/runable/about/|Runable": {
       "title": "Runable",
@@ -1900,6 +1900,26 @@
       "title": "DeskJoin Screen",
       "link": "https://alternativeto.net/software/deskjoin-screen/about/",
       "first_seen": "2026-09-19T16:22:05.008005+00:00"
+    },
+    "https://alternativeto.net/software/wordbook-by-atahabaki/about/|WordBook for Android": {
+      "title": "WordBook for Android",
+      "link": "https://alternativeto.net/software/wordbook-by-atahabaki/about/",
+      "first_seen": "2026-09-20T19:49:44.335598+00:00"
+    },
+    "https://alternativeto.net/software/marvin-money/about/|Marvin Money": {
+      "title": "Marvin Money",
+      "link": "https://alternativeto.net/software/marvin-money/about/",
+      "first_seen": "2026-09-20T19:49:44.335618+00:00"
+    },
+    "https://alternativeto.net/software/swiftly-player/about/|Swiftly Player": {
+      "title": "Swiftly Player",
+      "link": "https://alternativeto.net/software/swiftly-player/about/",
+      "first_seen": "2026-09-20T19:49:44.335621+00:00"
+    },
+    "https://alternativeto.net/software/dosezy/about/|Dosezy": {
+      "title": "Dosezy",
+      "link": "https://alternativeto.net/software/dosezy/about/",
+      "first_seen": "2026-09-20T19:49:44.335623+00:00"
     }
   }
 }
