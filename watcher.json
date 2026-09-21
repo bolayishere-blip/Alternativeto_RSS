@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-21T20:34:15.146994+00:00",
+  "last_checked": "2026-09-21T23:36:02.015485+00:00",
   "seen": {
     "https://alternativeto.net/software/ma-calculator/about/|MA Calculator": {
       "title": "MA Calculator",
@@ -1825,6 +1825,111 @@
       "title": "Dosezy",
       "link": "https://alternativeto.net/software/dosezy/about/",
       "first_seen": "2026-09-20T19:49:44.335623+00:00"
+    },
+    "https://alternativeto.net/software/bireader/about/|BiReader": {
+      "title": "BiReader",
+      "link": "https://alternativeto.net/software/bireader/about/",
+      "first_seen": "2026-09-21T23:35:52.164631+00:00"
+    },
+    "https://alternativeto.net/software/memoflow/about/|MemoFlow": {
+      "title": "MemoFlow",
+      "link": "https://alternativeto.net/software/memoflow/about/",
+      "first_seen": "2026-09-21T23:35:52.164662+00:00"
+    },
+    "https://alternativeto.net/software/safety-on/about/|Safety On": {
+      "title": "Safety On",
+      "link": "https://alternativeto.net/software/safety-on/about/",
+      "first_seen": "2026-09-21T23:35:52.164665+00:00"
+    },
+    "https://alternativeto.net/software/kidsshield/about/|KidsShield": {
+      "title": "KidsShield",
+      "link": "https://alternativeto.net/software/kidsshield/about/",
+      "first_seen": "2026-09-21T23:35:52.164666+00:00"
+    },
+    "https://alternativeto.net/software/bulkforged/about/|BulkForged": {
+      "title": "BulkForged",
+      "link": "https://alternativeto.net/software/bulkforged/about/",
+      "first_seen": "2026-09-21T23:35:52.164668+00:00"
+    },
+    "https://alternativeto.net/software/a1-job-search-jobs-and-hiring/about/|A1: Job Search, Jobs & Hiring": {
+      "title": "A1: Job Search, Jobs & Hiring",
+      "link": "https://alternativeto.net/software/a1-job-search-jobs-and-hiring/about/",
+      "first_seen": "2026-09-21T23:35:52.164678+00:00"
+    },
+    "https://alternativeto.net/software/lifttrace/about/|LiftTrace": {
+      "title": "LiftTrace",
+      "link": "https://alternativeto.net/software/lifttrace/about/",
+      "first_seen": "2026-09-21T23:35:52.164679+00:00"
+    },
+    "https://alternativeto.net/software/time-blokker/about/|Time Blokker": {
+      "title": "Time Blokker",
+      "link": "https://alternativeto.net/software/time-blokker/about/",
+      "first_seen": "2026-09-21T23:35:52.164685+00:00"
+    },
+    "https://alternativeto.net/software/spenco-ai/about/|Spenco AI": {
+      "title": "Spenco AI",
+      "link": "https://alternativeto.net/software/spenco-ai/about/",
+      "first_seen": "2026-09-21T23:35:52.164687+00:00"
+    },
+    "https://alternativeto.net/software/zuckoff/about/|ZuckOff": {
+      "title": "ZuckOff",
+      "link": "https://alternativeto.net/software/zuckoff/about/",
+      "first_seen": "2026-09-21T23:35:52.164688+00:00"
+    },
+    "https://alternativeto.net/software/entguard-vpn/about/|EntGuard VPN": {
+      "title": "EntGuard VPN",
+      "link": "https://alternativeto.net/software/entguard-vpn/about/",
+      "first_seen": "2026-09-21T23:35:52.164690+00:00"
+    },
+    "https://alternativeto.net/software/eventsend/about/|EventSend": {
+      "title": "EventSend",
+      "link": "https://alternativeto.net/software/eventsend/about/",
+      "first_seen": "2026-09-21T23:35:52.164692+00:00"
+    },
+    "https://alternativeto.net/software/trackpile/about/|Trackpile": {
+      "title": "Trackpile",
+      "link": "https://alternativeto.net/software/trackpile/about/",
+      "first_seen": "2026-09-21T23:35:52.164693+00:00"
+    },
+    "https://alternativeto.net/software/motion-cues/about/|Motion Cues": {
+      "title": "Motion Cues",
+      "link": "https://alternativeto.net/software/motion-cues/about/",
+      "first_seen": "2026-09-21T23:35:52.164694+00:00"
+    },
+    "https://alternativeto.net/software/adinand-email-cleaner/about/|Adinand Email Cleaner": {
+      "title": "Adinand Email Cleaner",
+      "link": "https://alternativeto.net/software/adinand-email-cleaner/about/",
+      "first_seen": "2026-09-21T23:35:52.164695+00:00"
+    },
+    "https://alternativeto.net/software/zency--document-manager/about/|Zency": {
+      "title": "Zency",
+      "link": "https://alternativeto.net/software/zency--document-manager/about/",
+      "first_seen": "2026-09-21T23:35:52.164697+00:00"
+    },
+    "https://alternativeto.net/software/zoho-scanner/about/|Zoho Scanner": {
+      "title": "Zoho Scanner",
+      "link": "https://alternativeto.net/software/zoho-scanner/about/",
+      "first_seen": "2026-09-21T23:35:52.164698+00:00"
+    },
+    "https://alternativeto.net/software/docfind/about/|DocFind": {
+      "title": "DocFind",
+      "link": "https://alternativeto.net/software/docfind/about/",
+      "first_seen": "2026-09-21T23:35:52.164700+00:00"
+    },
+    "https://alternativeto.net/software/subsense/about/|SubSense": {
+      "title": "SubSense",
+      "link": "https://alternativeto.net/software/subsense/about/",
+      "first_seen": "2026-09-21T23:35:52.164701+00:00"
+    },
+    "https://alternativeto.net/software/pdfgear-scan/about/|PDFgear Scan": {
+      "title": "PDFgear Scan",
+      "link": "https://alternativeto.net/software/pdfgear-scan/about/",
+      "first_seen": "2026-09-21T23:35:52.164702+00:00"
+    },
+    "https://alternativeto.net/software/improvement-roll/about/|Improvement Roll": {
+      "title": "Improvement Roll",
+      "link": "https://alternativeto.net/software/improvement-roll/about/",
+      "first_seen": "2026-09-21T23:35:52.164704+00:00"
     }
   }
 }
