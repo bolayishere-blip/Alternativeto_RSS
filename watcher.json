@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-29T06:11:36.941750+00:00",
+  "last_checked": "2026-09-29T13:05:36.589473+00:00",
   "seen": {
     "https://alternativeto.net/software/innercircle-stay-close/about/|InnerCircle": {
       "title": "InnerCircle",
@@ -2140,6 +2140,91 @@
       "title": "Micromegas",
       "link": "https://alternativeto.net/software/micromegas/about/",
       "first_seen": "2026-09-29T06:11:27.104890+00:00"
+    },
+    "https://alternativeto.net/software/reach-ssh/about/|Reach SSH": {
+      "title": "Reach SSH",
+      "link": "https://alternativeto.net/software/reach-ssh/about/",
+      "first_seen": "2026-09-29T13:05:27.386922+00:00"
+    },
+    "https://alternativeto.net/software/inkprint/about/|InkPrint": {
+      "title": "InkPrint",
+      "link": "https://alternativeto.net/software/inkprint/about/",
+      "first_seen": "2026-09-29T13:05:27.386945+00:00"
+    },
+    "https://alternativeto.net/software/queryast-lens/about/|QueryAST Lens": {
+      "title": "QueryAST Lens",
+      "link": "https://alternativeto.net/software/queryast-lens/about/",
+      "first_seen": "2026-09-29T13:05:27.386952+00:00"
+    },
+    "https://alternativeto.net/software/kurubeats/about/|KuruBeats": {
+      "title": "KuruBeats",
+      "link": "https://alternativeto.net/software/kurubeats/about/",
+      "first_seen": "2026-09-29T13:05:27.386955+00:00"
+    },
+    "https://alternativeto.net/software/monogram/about/|Monogram": {
+      "title": "Monogram",
+      "link": "https://alternativeto.net/software/monogram/about/",
+      "first_seen": "2026-09-29T13:05:27.386957+00:00"
+    },
+    "https://alternativeto.net/software/anxiety-checklist/about/|Anxiety Checklist": {
+      "title": "Anxiety Checklist",
+      "link": "https://alternativeto.net/software/anxiety-checklist/about/",
+      "first_seen": "2026-09-29T13:05:27.386961+00:00"
+    },
+    "https://alternativeto.net/software/teleprompter-by-postcrows/about/|Teleprompter Record Video": {
+      "title": "Teleprompter Record Video",
+      "link": "https://alternativeto.net/software/teleprompter-by-postcrows/about/",
+      "first_seen": "2026-09-29T13:05:27.386963+00:00"
+    },
+    "https://alternativeto.net/software/wellness-project/about/|Wellness Project": {
+      "title": "Wellness Project",
+      "link": "https://alternativeto.net/software/wellness-project/about/",
+      "first_seen": "2026-09-29T13:05:27.386968+00:00"
+    },
+    "https://alternativeto.net/software/docuscanr/about/|DocuScanr": {
+      "title": "DocuScanr",
+      "link": "https://alternativeto.net/software/docuscanr/about/",
+      "first_seen": "2026-09-29T13:05:27.386970+00:00"
+    },
+    "https://alternativeto.net/software/pearcinema/about/|PearCinema": {
+      "title": "PearCinema",
+      "link": "https://alternativeto.net/software/pearcinema/about/",
+      "first_seen": "2026-09-29T13:05:27.386973+00:00"
+    },
+    "https://alternativeto.net/software/peartune/about/|PearTune": {
+      "title": "PearTune",
+      "link": "https://alternativeto.net/software/peartune/about/",
+      "first_seen": "2026-09-29T13:05:27.386975+00:00"
+    },
+    "https://alternativeto.net/software/pearguard/about/|PearGuard": {
+      "title": "PearGuard",
+      "link": "https://alternativeto.net/software/pearguard/about/",
+      "first_seen": "2026-09-29T13:05:27.386977+00:00"
+    },
+    "https://alternativeto.net/software/pearcircle/about/|PearCircle": {
+      "title": "PearCircle",
+      "link": "https://alternativeto.net/software/pearcircle/about/",
+      "first_seen": "2026-09-29T13:05:27.386980+00:00"
+    },
+    "https://alternativeto.net/software/pearcal/about/|PearCal": {
+      "title": "PearCal",
+      "link": "https://alternativeto.net/software/pearcal/about/",
+      "first_seen": "2026-09-29T13:05:27.386982+00:00"
+    },
+    "https://alternativeto.net/software/pearpetal/about/|PearPetal": {
+      "title": "PearPetal",
+      "link": "https://alternativeto.net/software/pearpetal/about/",
+      "first_seen": "2026-09-29T13:05:27.386984+00:00"
+    },
+    "https://alternativeto.net/software/pearlist/about/|PearList": {
+      "title": "PearList",
+      "link": "https://alternativeto.net/software/pearlist/about/",
+      "first_seen": "2026-09-29T13:05:27.386986+00:00"
+    },
+    "https://alternativeto.net/software/veyrnox/about/|Veyrnox": {
+      "title": "Veyrnox",
+      "link": "https://alternativeto.net/software/veyrnox/about/",
+      "first_seen": "2026-09-29T13:05:27.386987+00:00"
     }
   }
 }
