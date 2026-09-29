@@ -1,36 +1,6 @@
 {
-  "last_checked": "2026-09-29T13:05:36.589473+00:00",
+  "last_checked": "2026-09-29T18:36:09.675907+00:00",
   "seen": {
-    "https://alternativeto.net/software/innercircle-stay-close/about/|InnerCircle": {
-      "title": "InnerCircle",
-      "link": "https://alternativeto.net/software/innercircle-stay-close/about/",
-      "first_seen": "2026-08-30T15:01:07.190182+00:00"
-    },
-    "https://alternativeto.net/software/momogram/about/|Momogram": {
-      "title": "Momogram",
-      "link": "https://alternativeto.net/software/momogram/about/",
-      "first_seen": "2026-08-30T15:01:07.190207+00:00"
-    },
-    "https://alternativeto.net/software/viper4android-fx/about/|ViPER4Android FX": {
-      "title": "ViPER4Android FX",
-      "link": "https://alternativeto.net/software/viper4android-fx/about/",
-      "first_seen": "2026-08-30T15:01:07.190210+00:00"
-    },
-    "https://alternativeto.net/software/bibliogenius/about/|BiblioGenius": {
-      "title": "BiblioGenius",
-      "link": "https://alternativeto.net/software/bibliogenius/about/",
-      "first_seen": "2026-08-30T15:01:07.190212+00:00"
-    },
-    "https://alternativeto.net/software/runbiz-erp/about/|RunBiz ERP": {
-      "title": "RunBiz ERP",
-      "link": "https://alternativeto.net/software/runbiz-erp/about/",
-      "first_seen": "2026-08-30T15:01:07.190214+00:00"
-    },
-    "https://alternativeto.net/software/shora/about/|Shora": {
-      "title": "Shora",
-      "link": "https://alternativeto.net/software/shora/about/",
-      "first_seen": "2026-08-30T15:01:07.190216+00:00"
-    },
     "https://alternativeto.net/software/unjumbl/about/|Unjumbl": {
       "title": "Unjumbl",
       "link": "https://alternativeto.net/software/unjumbl/about/",
@@ -2225,6 +2195,31 @@
       "title": "Veyrnox",
       "link": "https://alternativeto.net/software/veyrnox/about/",
       "first_seen": "2026-09-29T13:05:27.386987+00:00"
+    },
+    "https://alternativeto.net/software/screentide--screen-time-controls/about/|Screentide.app": {
+      "title": "Screentide.app",
+      "link": "https://alternativeto.net/software/screentide--screen-time-controls/about/",
+      "first_seen": "2026-09-29T18:36:06.080092+00:00"
+    },
+    "https://alternativeto.net/software/stowqr/about/|StowQR": {
+      "title": "StowQR",
+      "link": "https://alternativeto.net/software/stowqr/about/",
+      "first_seen": "2026-09-29T18:36:06.080119+00:00"
+    },
+    "https://alternativeto.net/software/desk-and-park/about/|Desk & Park": {
+      "title": "Desk & Park",
+      "link": "https://alternativeto.net/software/desk-and-park/about/",
+      "first_seen": "2026-09-29T18:36:06.080122+00:00"
+    },
+    "https://alternativeto.net/software/lumideo/about/|Lumideo": {
+      "title": "Lumideo",
+      "link": "https://alternativeto.net/software/lumideo/about/",
+      "first_seen": "2026-09-29T18:36:06.080124+00:00"
+    },
+    "https://alternativeto.net/software/tabi/about/|TABI": {
+      "title": "TABI",
+      "link": "https://alternativeto.net/software/tabi/about/",
+      "first_seen": "2026-09-29T18:36:06.080125+00:00"
     }
   }
 }
