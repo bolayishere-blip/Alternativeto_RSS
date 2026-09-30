@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-30T14:06:37.086100+00:00",
+  "last_checked": "2026-09-30T19:16:01.799348+00:00",
   "seen": {
     "https://alternativeto.net/software/unjumbl/about/|Unjumbl": {
       "title": "Unjumbl",
@@ -2220,6 +2220,121 @@
       "title": "TABI",
       "link": "https://alternativeto.net/software/tabi/about/",
       "first_seen": "2026-09-29T18:36:06.080125+00:00"
+    },
+    "https://alternativeto.net/software/beviamolo/about/|Beviamolo": {
+      "title": "Beviamolo",
+      "link": "https://alternativeto.net/software/beviamolo/about/",
+      "first_seen": "2026-09-30T19:15:53.169957+00:00"
+    },
+    "https://alternativeto.net/software/dextop/about/|Dextop": {
+      "title": "Dextop",
+      "link": "https://alternativeto.net/software/dextop/about/",
+      "first_seen": "2026-09-30T19:15:53.169983+00:00"
+    },
+    "https://alternativeto.net/software/fieldary/about/|Fieldary": {
+      "title": "Fieldary",
+      "link": "https://alternativeto.net/software/fieldary/about/",
+      "first_seen": "2026-09-30T19:15:53.169986+00:00"
+    },
+    "https://alternativeto.net/software/talkpilot/about/|TalkPilot": {
+      "title": "TalkPilot",
+      "link": "https://alternativeto.net/software/talkpilot/about/",
+      "first_seen": "2026-09-30T19:15:53.169989+00:00"
+    },
+    "https://alternativeto.net/software/terra-gospel/about/|Terra Gospel": {
+      "title": "Terra Gospel",
+      "link": "https://alternativeto.net/software/terra-gospel/about/",
+      "first_seen": "2026-09-30T19:15:53.169991+00:00"
+    },
+    "https://alternativeto.net/software/paint-vault/about/|Paint vault": {
+      "title": "Paint vault",
+      "link": "https://alternativeto.net/software/paint-vault/about/",
+      "first_seen": "2026-09-30T19:15:53.169993+00:00"
+    },
+    "https://alternativeto.net/software/ubunye-method/about/|Ubunye Method": {
+      "title": "Ubunye Method",
+      "link": "https://alternativeto.net/software/ubunye-method/about/",
+      "first_seen": "2026-09-30T19:15:53.169995+00:00"
+    },
+    "https://alternativeto.net/software/bingo-pe-quente/about/|Bingo Pé Quente": {
+      "title": "Bingo Pé Quente",
+      "link": "https://alternativeto.net/software/bingo-pe-quente/about/",
+      "first_seen": "2026-09-30T19:15:53.170000+00:00"
+    },
+    "https://alternativeto.net/software/newtube-for-android/about/|NewTube for Android": {
+      "title": "NewTube for Android",
+      "link": "https://alternativeto.net/software/newtube-for-android/about/",
+      "first_seen": "2026-09-30T19:15:53.170003+00:00"
+    },
+    "https://alternativeto.net/software/calibraw/about/|CalibRaw": {
+      "title": "CalibRaw",
+      "link": "https://alternativeto.net/software/calibraw/about/",
+      "first_seen": "2026-09-30T19:15:53.170005+00:00"
+    },
+    "https://alternativeto.net/software/truvark/about/|Truvark": {
+      "title": "Truvark",
+      "link": "https://alternativeto.net/software/truvark/about/",
+      "first_seen": "2026-09-30T19:15:53.170007+00:00"
+    },
+    "https://alternativeto.net/software/ucplaces/about/|UCPlaces": {
+      "title": "UCPlaces",
+      "link": "https://alternativeto.net/software/ucplaces/about/",
+      "first_seen": "2026-09-30T19:15:53.170009+00:00"
+    },
+    "https://alternativeto.net/software/list/about/|LIST": {
+      "title": "LIST",
+      "link": "https://alternativeto.net/software/list/about/",
+      "first_seen": "2026-09-30T19:15:53.170011+00:00"
+    },
+    "https://alternativeto.net/software/tgget/about/|TGGET": {
+      "title": "TGGET",
+      "link": "https://alternativeto.net/software/tgget/about/",
+      "first_seen": "2026-09-30T19:15:53.170013+00:00"
+    },
+    "https://alternativeto.net/software/zenflow-meditation-timer-by-djump/about/|ZenFlow": {
+      "title": "ZenFlow",
+      "link": "https://alternativeto.net/software/zenflow-meditation-timer-by-djump/about/",
+      "first_seen": "2026-09-30T19:15:53.170015+00:00"
+    },
+    "https://alternativeto.net/software/taxr/about/|Taxr": {
+      "title": "Taxr",
+      "link": "https://alternativeto.net/software/taxr/about/",
+      "first_seen": "2026-09-30T19:15:53.170021+00:00"
+    },
+    "https://alternativeto.net/software/ebbi/about/|Ebbi": {
+      "title": "Ebbi",
+      "link": "https://alternativeto.net/software/ebbi/about/",
+      "first_seen": "2026-09-30T19:15:53.170023+00:00"
+    },
+    "https://alternativeto.net/software/virtual-mic/about/|Virtual Mic": {
+      "title": "Virtual Mic",
+      "link": "https://alternativeto.net/software/virtual-mic/about/",
+      "first_seen": "2026-09-30T19:15:53.170025+00:00"
+    },
+    "https://alternativeto.net/software/omniteca/about/|Omniteca": {
+      "title": "Omniteca",
+      "link": "https://alternativeto.net/software/omniteca/about/",
+      "first_seen": "2026-09-30T19:15:53.170027+00:00"
+    },
+    "https://alternativeto.net/software/countclub/about/|CountClub": {
+      "title": "CountClub",
+      "link": "https://alternativeto.net/software/countclub/about/",
+      "first_seen": "2026-09-30T19:15:53.170029+00:00"
+    },
+    "https://alternativeto.net/software/gcam-services-provider/about/|Gcam Services Provider": {
+      "title": "Gcam Services Provider",
+      "link": "https://alternativeto.net/software/gcam-services-provider/about/",
+      "first_seen": "2026-09-30T19:15:53.170031+00:00"
+    },
+    "https://alternativeto.net/software/abelnotes/about/|AbelNotes": {
+      "title": "AbelNotes",
+      "link": "https://alternativeto.net/software/abelnotes/about/",
+      "first_seen": "2026-09-30T19:15:53.170035+00:00"
+    },
+    "https://alternativeto.net/software/nxtslidde/about/|NXTslide": {
+      "title": "NXTslide",
+      "link": "https://alternativeto.net/software/nxtslidde/about/",
+      "first_seen": "2026-09-30T19:15:53.170037+00:00"
     }
   }
 }
