@@ -1,51 +1,6 @@
 {
-  "last_checked": "2026-10-01T08:50:06.240111+00:00",
+  "last_checked": "2026-10-01T15:47:16.135018+00:00",
   "seen": {
-    "https://alternativeto.net/software/dinoreader/about/|DinoReader": {
-      "title": "DinoReader",
-      "link": "https://alternativeto.net/software/dinoreader/about/",
-      "first_seen": "2026-09-01T15:10:15.101376+00:00"
-    },
-    "https://alternativeto.net/software/openpost/about/|OpenPost": {
-      "title": "OpenPost",
-      "link": "https://alternativeto.net/software/openpost/about/",
-      "first_seen": "2026-09-01T15:10:15.101408+00:00"
-    },
-    "https://alternativeto.net/software/openfamily-frank-johnette-/about/|OpenFamily App": {
-      "title": "OpenFamily App",
-      "link": "https://alternativeto.net/software/openfamily-frank-johnette-/about/",
-      "first_seen": "2026-09-01T15:10:15.101411+00:00"
-    },
-    "https://alternativeto.net/software/intervalcoach/about/|IntervalCoach": {
-      "title": "IntervalCoach",
-      "link": "https://alternativeto.net/software/intervalcoach/about/",
-      "first_seen": "2026-09-01T15:10:15.101413+00:00"
-    },
-    "https://alternativeto.net/software/wadacrush/about/|wadaCrush": {
-      "title": "wadaCrush",
-      "link": "https://alternativeto.net/software/wadacrush/about/",
-      "first_seen": "2026-09-01T15:10:15.101415+00:00"
-    },
-    "https://alternativeto.net/software/videox--video-editor/about/|VideoX": {
-      "title": "VideoX",
-      "link": "https://alternativeto.net/software/videox--video-editor/about/",
-      "first_seen": "2026-09-01T15:10:15.101417+00:00"
-    },
-    "https://alternativeto.net/software/nexoria-chat/about/|Nexoria Chat": {
-      "title": "Nexoria Chat",
-      "link": "https://alternativeto.net/software/nexoria-chat/about/",
-      "first_seen": "2026-09-01T15:10:15.101419+00:00"
-    },
-    "https://alternativeto.net/software/linksight/about/|LinkSight": {
-      "title": "LinkSight",
-      "link": "https://alternativeto.net/software/linksight/about/",
-      "first_seen": "2026-09-01T15:10:15.101425+00:00"
-    },
-    "https://alternativeto.net/software/tuwunel/about/|Tuwunel": {
-      "title": "Tuwunel",
-      "link": "https://alternativeto.net/software/tuwunel/about/",
-      "first_seen": "2026-09-01T15:10:15.101428+00:00"
-    },
     "https://alternativeto.net/software/lunika/about/|Lunika": {
       "title": "Lunika",
       "link": "https://alternativeto.net/software/lunika/about/",
@@ -2235,6 +2190,111 @@
       "title": "NXTslide",
       "link": "https://alternativeto.net/software/nxtslidde/about/",
       "first_seen": "2026-09-30T19:15:53.170037+00:00"
+    },
+    "https://alternativeto.net/software/stardo/about/|StarDo": {
+      "title": "StarDo",
+      "link": "https://alternativeto.net/software/stardo/about/",
+      "first_seen": "2026-10-01T15:47:04.823227+00:00"
+    },
+    "https://alternativeto.net/software/garret/about/|garret": {
+      "title": "garret",
+      "link": "https://alternativeto.net/software/garret/about/",
+      "first_seen": "2026-10-01T15:47:04.823249+00:00"
+    },
+    "https://alternativeto.net/software/cuplido--couples-app/about/|Cuplido": {
+      "title": "Cuplido",
+      "link": "https://alternativeto.net/software/cuplido--couples-app/about/",
+      "first_seen": "2026-10-01T15:47:04.823253+00:00"
+    },
+    "https://alternativeto.net/software/hellerio/about/|HellerIO": {
+      "title": "HellerIO",
+      "link": "https://alternativeto.net/software/hellerio/about/",
+      "first_seen": "2026-10-01T15:47:04.823256+00:00"
+    },
+    "https://alternativeto.net/software/flashcard-maker-memoword/about/|MemoWord": {
+      "title": "MemoWord",
+      "link": "https://alternativeto.net/software/flashcard-maker-memoword/about/",
+      "first_seen": "2026-10-01T15:47:04.823258+00:00"
+    },
+    "https://alternativeto.net/software/retrek/about/|reTrek": {
+      "title": "reTrek",
+      "link": "https://alternativeto.net/software/retrek/about/",
+      "first_seen": "2026-10-01T15:47:04.823260+00:00"
+    },
+    "https://alternativeto.net/software/noviora/about/|Noviora": {
+      "title": "Noviora",
+      "link": "https://alternativeto.net/software/noviora/about/",
+      "first_seen": "2026-10-01T15:47:04.823262+00:00"
+    },
+    "https://alternativeto.net/software/kingtide/about/|Kingtide": {
+      "title": "Kingtide",
+      "link": "https://alternativeto.net/software/kingtide/about/",
+      "first_seen": "2026-10-01T15:47:04.823267+00:00"
+    },
+    "https://alternativeto.net/software/droiddeck/about/|DroidDeck": {
+      "title": "DroidDeck",
+      "link": "https://alternativeto.net/software/droiddeck/about/",
+      "first_seen": "2026-10-01T15:47:04.823270+00:00"
+    },
+    "https://alternativeto.net/software/iode-browser/about/|iodé Browser": {
+      "title": "iodé Browser",
+      "link": "https://alternativeto.net/software/iode-browser/about/",
+      "first_seen": "2026-10-01T15:47:04.823272+00:00"
+    },
+    "https://alternativeto.net/software/transportyou/about/|TransportYou": {
+      "title": "TransportYou",
+      "link": "https://alternativeto.net/software/transportyou/about/",
+      "first_seen": "2026-10-01T15:47:04.823274+00:00"
+    },
+    "https://alternativeto.net/software/offi-ng/about/|Offi NG": {
+      "title": "Offi NG",
+      "link": "https://alternativeto.net/software/offi-ng/about/",
+      "first_seen": "2026-10-01T15:47:04.823275+00:00"
+    },
+    "https://alternativeto.net/software/lazzolead/about/|LazzoLead": {
+      "title": "LazzoLead",
+      "link": "https://alternativeto.net/software/lazzolead/about/",
+      "first_seen": "2026-10-01T15:47:04.823277+00:00"
+    },
+    "https://alternativeto.net/software/fieldnote/about/|FieldNote": {
+      "title": "FieldNote",
+      "link": "https://alternativeto.net/software/fieldnote/about/",
+      "first_seen": "2026-10-01T15:47:04.823279+00:00"
+    },
+    "https://alternativeto.net/software/gamecard/about/|GameCard": {
+      "title": "GameCard",
+      "link": "https://alternativeto.net/software/gamecard/about/",
+      "first_seen": "2026-10-01T15:47:04.823285+00:00"
+    },
+    "https://alternativeto.net/software/simply-fluent/about/|Simply Fluent": {
+      "title": "Simply Fluent",
+      "link": "https://alternativeto.net/software/simply-fluent/about/",
+      "first_seen": "2026-10-01T15:47:04.823288+00:00"
+    },
+    "https://alternativeto.net/software/nullgen-ai-blocker/about/|Nullgen AI Blocker": {
+      "title": "Nullgen AI Blocker",
+      "link": "https://alternativeto.net/software/nullgen-ai-blocker/about/",
+      "first_seen": "2026-10-01T15:47:04.823290+00:00"
+    },
+    "https://alternativeto.net/software/futurionex/about/|Futurionex": {
+      "title": "Futurionex",
+      "link": "https://alternativeto.net/software/futurionex/about/",
+      "first_seen": "2026-10-01T15:47:04.823291+00:00"
+    },
+    "https://alternativeto.net/software/pomia/about/|Pomia": {
+      "title": "Pomia",
+      "link": "https://alternativeto.net/software/pomia/about/",
+      "first_seen": "2026-10-01T15:47:04.823294+00:00"
+    },
+    "https://alternativeto.net/software/handoverboat/about/|HandoverBoat": {
+      "title": "HandoverBoat",
+      "link": "https://alternativeto.net/software/handoverboat/about/",
+      "first_seen": "2026-10-01T15:47:04.823295+00:00"
+    },
+    "https://alternativeto.net/software/offline-ai-meeting-note-taker/about/|Offline AI Meeting: Note Taker": {
+      "title": "Offline AI Meeting: Note Taker",
+      "link": "https://alternativeto.net/software/offline-ai-meeting-note-taker/about/",
+      "first_seen": "2026-10-01T15:47:04.823297+00:00"
     }
   }
 }
