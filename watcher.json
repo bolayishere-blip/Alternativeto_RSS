@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-02T17:50:36.365530+00:00",
+  "last_checked": "2026-10-02T21:56:31.210052+00:00",
   "seen": {
     "https://alternativeto.net/software/inkiostro-markdown-editor/about/|Inkiostro": {
       "title": "Inkiostro",
@@ -2180,6 +2180,131 @@
       "title": "Offline AI Meeting: Note Taker",
       "link": "https://alternativeto.net/software/offline-ai-meeting-note-taker/about/",
       "first_seen": "2026-10-01T15:47:04.823297+00:00"
+    },
+    "https://alternativeto.net/software/randomizer-1/about/|Randomizer": {
+      "title": "Randomizer",
+      "link": "https://alternativeto.net/software/randomizer-1/about/",
+      "first_seen": "2026-10-02T21:56:21.363306+00:00"
+    },
+    "https://alternativeto.net/software/grafite-sudoku/about/|Grafite Sudoku": {
+      "title": "Grafite Sudoku",
+      "link": "https://alternativeto.net/software/grafite-sudoku/about/",
+      "first_seen": "2026-10-02T21:56:21.363327+00:00"
+    },
+    "https://alternativeto.net/software/lingard/about/|Lingard": {
+      "title": "Lingard",
+      "link": "https://alternativeto.net/software/lingard/about/",
+      "first_seen": "2026-10-02T21:56:21.363330+00:00"
+    },
+    "https://alternativeto.net/software/linkti/about/|Linkti": {
+      "title": "Linkti",
+      "link": "https://alternativeto.net/software/linkti/about/",
+      "first_seen": "2026-10-02T21:56:21.363331+00:00"
+    },
+    "https://alternativeto.net/software/seabook-fish-id-and-scuba-dive-log/about/|Seabook: Fish ID & Scuba Dive Log": {
+      "title": "Seabook: Fish ID & Scuba Dive Log",
+      "link": "https://alternativeto.net/software/seabook-fish-id-and-scuba-dive-log/about/",
+      "first_seen": "2026-10-02T21:56:21.363333+00:00"
+    },
+    "https://alternativeto.net/software/protego/about/|Protego": {
+      "title": "Protego",
+      "link": "https://alternativeto.net/software/protego/about/",
+      "first_seen": "2026-10-02T21:56:21.363334+00:00"
+    },
+    "https://alternativeto.net/software/pinx/about/|Pinx": {
+      "title": "Pinx",
+      "link": "https://alternativeto.net/software/pinx/about/",
+      "first_seen": "2026-10-02T21:56:21.363336+00:00"
+    },
+    "https://alternativeto.net/software/welqo/about/|Welqo": {
+      "title": "Welqo",
+      "link": "https://alternativeto.net/software/welqo/about/",
+      "first_seen": "2026-10-02T21:56:21.363340+00:00"
+    },
+    "https://alternativeto.net/software/elora/about/|Elora": {
+      "title": "Elora",
+      "link": "https://alternativeto.net/software/elora/about/",
+      "first_seen": "2026-10-02T21:56:21.363342+00:00"
+    },
+    "https://alternativeto.net/software/u2-secured-vault/about/|U2 Secured Vault": {
+      "title": "U2 Secured Vault",
+      "link": "https://alternativeto.net/software/u2-secured-vault/about/",
+      "first_seen": "2026-10-02T21:56:21.363343+00:00"
+    },
+    "https://alternativeto.net/software/orangedeck/about/|OrangeDeck": {
+      "title": "OrangeDeck",
+      "link": "https://alternativeto.net/software/orangedeck/about/",
+      "first_seen": "2026-10-02T21:56:21.363345+00:00"
+    },
+    "https://alternativeto.net/software/gander/about/|Gander": {
+      "title": "Gander",
+      "link": "https://alternativeto.net/software/gander/about/",
+      "first_seen": "2026-10-02T21:56:21.363366+00:00"
+    },
+    "https://alternativeto.net/software/dida/about/|DIDA": {
+      "title": "DIDA",
+      "link": "https://alternativeto.net/software/dida/about/",
+      "first_seen": "2026-10-02T21:56:21.363368+00:00"
+    },
+    "https://alternativeto.net/software/opus-suite/about/|OPUS Suite": {
+      "title": "OPUS Suite",
+      "link": "https://alternativeto.net/software/opus-suite/about/",
+      "first_seen": "2026-10-02T21:56:21.363370+00:00"
+    },
+    "https://alternativeto.net/software/u2-secured-authenticator/about/|U2 Secured Authenticator": {
+      "title": "U2 Secured Authenticator",
+      "link": "https://alternativeto.net/software/u2-secured-authenticator/about/",
+      "first_seen": "2026-10-02T21:56:21.363372+00:00"
+    },
+    "https://alternativeto.net/software/wollight/about/|WolLight": {
+      "title": "WolLight",
+      "link": "https://alternativeto.net/software/wollight/about/",
+      "first_seen": "2026-10-02T21:56:21.363374+00:00"
+    },
+    "https://alternativeto.net/software/ebb/about/|Ebb": {
+      "title": "Ebb",
+      "link": "https://alternativeto.net/software/ebb/about/",
+      "first_seen": "2026-10-02T21:56:21.363376+00:00"
+    },
+    "https://alternativeto.net/software/google-shortcut-launcher/about/|Google Shortcut Launcher": {
+      "title": "Google Shortcut Launcher",
+      "link": "https://alternativeto.net/software/google-shortcut-launcher/about/",
+      "first_seen": "2026-10-02T21:56:21.363378+00:00"
+    },
+    "https://alternativeto.net/software/find-my-sun/about/|Find my Sun": {
+      "title": "Find my Sun",
+      "link": "https://alternativeto.net/software/find-my-sun/about/",
+      "first_seen": "2026-10-02T21:56:21.363380+00:00"
+    },
+    "https://alternativeto.net/software/bible4me/about/|Bible4Me": {
+      "title": "Bible4Me",
+      "link": "https://alternativeto.net/software/bible4me/about/",
+      "first_seen": "2026-10-02T21:56:21.363382+00:00"
+    },
+    "https://alternativeto.net/software/nonfollowers/about/|Nonfollowers": {
+      "title": "Nonfollowers",
+      "link": "https://alternativeto.net/software/nonfollowers/about/",
+      "first_seen": "2026-10-02T21:56:21.363384+00:00"
+    },
+    "https://alternativeto.net/software/tune-music-player/about/|Tune Music Player": {
+      "title": "Tune Music Player",
+      "link": "https://alternativeto.net/software/tune-music-player/about/",
+      "first_seen": "2026-10-02T21:56:21.363385+00:00"
+    },
+    "https://alternativeto.net/software/yesta/about/|Yesta": {
+      "title": "Yesta",
+      "link": "https://alternativeto.net/software/yesta/about/",
+      "first_seen": "2026-10-02T21:56:21.363387+00:00"
+    },
+    "https://alternativeto.net/software/terravaria/about/|Terravaria": {
+      "title": "Terravaria",
+      "link": "https://alternativeto.net/software/terravaria/about/",
+      "first_seen": "2026-10-02T21:56:21.363388+00:00"
+    },
+    "https://alternativeto.net/software/slongehoops/about/|SlongeHoops": {
+      "title": "SlongeHoops",
+      "link": "https://alternativeto.net/software/slongehoops/about/",
+      "first_seen": "2026-10-02T21:56:21.363392+00:00"
     }
   }
 }
