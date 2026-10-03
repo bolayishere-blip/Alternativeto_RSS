@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-03T11:56:21.828563+00:00",
+  "last_checked": "2026-10-03T16:01:12.986022+00:00",
   "seen": {
     "https://alternativeto.net/software/inkiostro-markdown-editor/about/|Inkiostro": {
       "title": "Inkiostro",
@@ -2305,6 +2305,71 @@
       "title": "SlongeHoops",
       "link": "https://alternativeto.net/software/slongehoops/about/",
       "first_seen": "2026-10-02T21:56:21.363392+00:00"
+    },
+    "https://alternativeto.net/software/topicle/about/|Topicle": {
+      "title": "Topicle",
+      "link": "https://alternativeto.net/software/topicle/about/",
+      "first_seen": "2026-10-03T16:01:02.560602+00:00"
+    },
+    "https://alternativeto.net/software/smiles-remit/about/|Smiles Remit": {
+      "title": "Smiles Remit",
+      "link": "https://alternativeto.net/software/smiles-remit/about/",
+      "first_seen": "2026-10-03T16:01:02.560622+00:00"
+    },
+    "https://alternativeto.net/software/controlla--commission-tracker/about/|Controlla": {
+      "title": "Controlla",
+      "link": "https://alternativeto.net/software/controlla--commission-tracker/about/",
+      "first_seen": "2026-10-03T16:01:02.560624+00:00"
+    },
+    "https://alternativeto.net/software/the-architecture-within/about/|The Architecture Within": {
+      "title": "The Architecture Within",
+      "link": "https://alternativeto.net/software/the-architecture-within/about/",
+      "first_seen": "2026-10-03T16:01:02.560625+00:00"
+    },
+    "https://alternativeto.net/software/robin-baby-tracker/about/|Robin: Baby Tracker": {
+      "title": "Robin: Baby Tracker",
+      "link": "https://alternativeto.net/software/robin-baby-tracker/about/",
+      "first_seen": "2026-10-03T16:01:02.560628+00:00"
+    },
+    "https://alternativeto.net/software/instarem/about/|Instarem": {
+      "title": "Instarem",
+      "link": "https://alternativeto.net/software/instarem/about/",
+      "first_seen": "2026-10-03T16:01:02.560629+00:00"
+    },
+    "https://alternativeto.net/software/vault-by-nodepy/about/|Vault by NODEPY": {
+      "title": "Vault by NODEPY",
+      "link": "https://alternativeto.net/software/vault-by-nodepy/about/",
+      "first_seen": "2026-10-03T16:01:02.560631+00:00"
+    },
+    "https://alternativeto.net/software/gymmane/about/|GymMane": {
+      "title": "GymMane",
+      "link": "https://alternativeto.net/software/gymmane/about/",
+      "first_seen": "2026-10-03T16:01:02.560634+00:00"
+    },
+    "https://alternativeto.net/software/pixel-tag-drawer/about/|Pixel Tag Drawer": {
+      "title": "Pixel Tag Drawer",
+      "link": "https://alternativeto.net/software/pixel-tag-drawer/about/",
+      "first_seen": "2026-10-03T16:01:02.560635+00:00"
+    },
+    "https://alternativeto.net/software/arvio/about/|ARVIO": {
+      "title": "ARVIO",
+      "link": "https://alternativeto.net/software/arvio/about/",
+      "first_seen": "2026-10-03T16:01:02.560637+00:00"
+    },
+    "https://alternativeto.net/software/airlearn/about/|Airlearn": {
+      "title": "Airlearn",
+      "link": "https://alternativeto.net/software/airlearn/about/",
+      "first_seen": "2026-10-03T16:01:02.560638+00:00"
+    },
+    "https://alternativeto.net/software/meli-live/about/|Meli Live": {
+      "title": "Meli Live",
+      "link": "https://alternativeto.net/software/meli-live/about/",
+      "first_seen": "2026-10-03T16:01:02.560639+00:00"
+    },
+    "https://alternativeto.net/software/server-config-generator/about/|Server Config Generator": {
+      "title": "Server Config Generator",
+      "link": "https://alternativeto.net/software/server-config-generator/about/",
+      "first_seen": "2026-10-03T16:01:02.560640+00:00"
     }
   }
 }
