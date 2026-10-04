@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-04T12:45:16.755399+00:00",
+  "last_checked": "2026-10-04T17:05:37.815651+00:00",
   "seen": {
     "https://alternativeto.net/software/filipinoblush/about/|FilipinoBlush": {
       "title": "FilipinoBlush",
@@ -2300,6 +2300,66 @@
       "title": "Server Config Generator",
       "link": "https://alternativeto.net/software/server-config-generator/about/",
       "first_seen": "2026-10-03T16:01:02.560640+00:00"
+    },
+    "https://alternativeto.net/software/komicove/about/|Komicove": {
+      "title": "Komicove",
+      "link": "https://alternativeto.net/software/komicove/about/",
+      "first_seen": "2026-10-04T17:05:28.416545+00:00"
+    },
+    "https://alternativeto.net/software/binge-boss/about/|Binge Boss": {
+      "title": "Binge Boss",
+      "link": "https://alternativeto.net/software/binge-boss/about/",
+      "first_seen": "2026-10-04T17:05:28.416564+00:00"
+    },
+    "https://alternativeto.net/software/colitu-vpn/about/|Colitu VPN": {
+      "title": "Colitu VPN",
+      "link": "https://alternativeto.net/software/colitu-vpn/about/",
+      "first_seen": "2026-10-04T17:05:28.416567+00:00"
+    },
+    "https://alternativeto.net/software/numopay/about/|NumoPay": {
+      "title": "NumoPay",
+      "link": "https://alternativeto.net/software/numopay/about/",
+      "first_seen": "2026-10-04T17:05:28.416569+00:00"
+    },
+    "https://alternativeto.net/software/chingari/about/|Chingari": {
+      "title": "Chingari",
+      "link": "https://alternativeto.net/software/chingari/about/",
+      "first_seen": "2026-10-04T17:05:28.416571+00:00"
+    },
+    "https://alternativeto.net/software/better-xcloud/about/|Better xCloud": {
+      "title": "Better xCloud",
+      "link": "https://alternativeto.net/software/better-xcloud/about/",
+      "first_seen": "2026-10-04T17:05:28.416573+00:00"
+    },
+    "https://alternativeto.net/software/filestoeuro/about/|FilesToEuro": {
+      "title": "FilesToEuro",
+      "link": "https://alternativeto.net/software/filestoeuro/about/",
+      "first_seen": "2026-10-04T17:05:28.416575+00:00"
+    },
+    "https://alternativeto.net/software/my-thai/about/|My Thai": {
+      "title": "My Thai",
+      "link": "https://alternativeto.net/software/my-thai/about/",
+      "first_seen": "2026-10-04T17:05:28.416581+00:00"
+    },
+    "https://alternativeto.net/software/shadowfinder/about/|ShadowFinder": {
+      "title": "ShadowFinder",
+      "link": "https://alternativeto.net/software/shadowfinder/about/",
+      "first_seen": "2026-10-04T17:05:28.416583+00:00"
+    },
+    "https://alternativeto.net/software/bandbinder/about/|BandBinder": {
+      "title": "BandBinder",
+      "link": "https://alternativeto.net/software/bandbinder/about/",
+      "first_seen": "2026-10-04T17:05:28.416589+00:00"
+    },
+    "https://alternativeto.net/software/carmainty/about/|Carmainty": {
+      "title": "Carmainty",
+      "link": "https://alternativeto.net/software/carmainty/about/",
+      "first_seen": "2026-10-04T17:05:28.416591+00:00"
+    },
+    "https://alternativeto.net/software/server-config-generator/about/|ProxyForge": {
+      "title": "ProxyForge",
+      "link": "https://alternativeto.net/software/server-config-generator/about/",
+      "first_seen": "2026-10-04T17:05:28.416596+00:00"
     }
   }
 }
