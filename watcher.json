@@ -1,56 +1,6 @@
 {
-  "last_checked": "2026-10-05T08:55:23.115770+00:00",
+  "last_checked": "2026-10-05T18:05:42.513400+00:00",
   "seen": {
-    "https://alternativeto.net/software/rmdialer/about/|RMDialer": {
-      "title": "RMDialer",
-      "link": "https://alternativeto.net/software/rmdialer/about/",
-      "first_seen": "2026-09-05T17:23:24.789884+00:00"
-    },
-    "https://alternativeto.net/software/walt/about/|Walt": {
-      "title": "Walt",
-      "link": "https://alternativeto.net/software/walt/about/",
-      "first_seen": "2026-09-05T17:23:24.789914+00:00"
-    },
-    "https://alternativeto.net/software/vault-explorer/about/|Vault Explorer": {
-      "title": "Vault Explorer",
-      "link": "https://alternativeto.net/software/vault-explorer/about/",
-      "first_seen": "2026-09-05T17:23:24.789917+00:00"
-    },
-    "https://alternativeto.net/software/zipline-android/about/|Zipline Android": {
-      "title": "Zipline Android",
-      "link": "https://alternativeto.net/software/zipline-android/about/",
-      "first_seen": "2026-09-05T17:23:24.789920+00:00"
-    },
-    "https://alternativeto.net/software/remote-wallpaper-android/about/|Remote Wallpaper Android": {
-      "title": "Remote Wallpaper Android",
-      "link": "https://alternativeto.net/software/remote-wallpaper-android/about/",
-      "first_seen": "2026-09-05T17:23:24.789922+00:00"
-    },
-    "https://alternativeto.net/software/dns-speed-tester/about/|Dns Speed Tester": {
-      "title": "Dns Speed Tester",
-      "link": "https://alternativeto.net/software/dns-speed-tester/about/",
-      "first_seen": "2026-09-05T17:23:24.789924+00:00"
-    },
-    "https://alternativeto.net/software/spam-call-blocker/about/|Spam Call Blocker": {
-      "title": "Spam Call Blocker",
-      "link": "https://alternativeto.net/software/spam-call-blocker/about/",
-      "first_seen": "2026-09-05T17:23:24.789926+00:00"
-    },
-    "https://alternativeto.net/software/wellbody/about/|Wellbody": {
-      "title": "Wellbody",
-      "link": "https://alternativeto.net/software/wellbody/about/",
-      "first_seen": "2026-09-05T17:23:24.789931+00:00"
-    },
-    "https://alternativeto.net/software/famvibe/about/|FamVibe": {
-      "title": "FamVibe",
-      "link": "https://alternativeto.net/software/famvibe/about/",
-      "first_seen": "2026-09-05T17:23:24.789934+00:00"
-    },
-    "https://alternativeto.net/software/kidsfirst/about/|KidsFirst": {
-      "title": "KidsFirst",
-      "link": "https://alternativeto.net/software/kidsfirst/about/",
-      "first_seen": "2026-09-05T17:23:24.789936+00:00"
-    },
     "https://alternativeto.net/software/atom-budget/about/|Atom Budget": {
       "title": "Atom Budget",
       "link": "https://alternativeto.net/software/atom-budget/about/",
@@ -2235,6 +2185,131 @@
       "title": "ProxyForge",
       "link": "https://alternativeto.net/software/server-config-generator/about/",
       "first_seen": "2026-10-04T17:05:28.416596+00:00"
+    },
+    "https://alternativeto.net/software/pola-baby/about/|Pola Baby": {
+      "title": "Pola Baby",
+      "link": "https://alternativeto.net/software/pola-baby/about/",
+      "first_seen": "2026-10-05T18:05:33.116119+00:00"
+    },
+    "https://alternativeto.net/software/waterie/about/|Waterie": {
+      "title": "Waterie",
+      "link": "https://alternativeto.net/software/waterie/about/",
+      "first_seen": "2026-10-05T18:05:33.116141+00:00"
+    },
+    "https://alternativeto.net/software/raka-ai/about/|Raka AI": {
+      "title": "Raka AI",
+      "link": "https://alternativeto.net/software/raka-ai/about/",
+      "first_seen": "2026-10-05T18:05:33.116144+00:00"
+    },
+    "https://alternativeto.net/software/directory-viewer/about/|Directory Viewer": {
+      "title": "Directory Viewer",
+      "link": "https://alternativeto.net/software/directory-viewer/about/",
+      "first_seen": "2026-10-05T18:05:33.116146+00:00"
+    },
+    "https://alternativeto.net/software/midpoint-tcg-and-sports-card-scanner-/about/|Midpoint": {
+      "title": "Midpoint",
+      "link": "https://alternativeto.net/software/midpoint-tcg-and-sports-card-scanner-/about/",
+      "first_seen": "2026-10-05T18:05:33.116148+00:00"
+    },
+    "https://alternativeto.net/software/apreet/about/|apreet": {
+      "title": "apreet",
+      "link": "https://alternativeto.net/software/apreet/about/",
+      "first_seen": "2026-10-05T18:05:33.116151+00:00"
+    },
+    "https://alternativeto.net/software/elportalo/about/|elPortalO": {
+      "title": "elPortalO",
+      "link": "https://alternativeto.net/software/elportalo/about/",
+      "first_seen": "2026-10-05T18:05:33.116153+00:00"
+    },
+    "https://alternativeto.net/software/tiqqo/about/|Tiqqo": {
+      "title": "Tiqqo",
+      "link": "https://alternativeto.net/software/tiqqo/about/",
+      "first_seen": "2026-10-05T18:05:33.116158+00:00"
+    },
+    "https://alternativeto.net/software/synchronized-presence/about/|Synchronized Presence": {
+      "title": "Synchronized Presence",
+      "link": "https://alternativeto.net/software/synchronized-presence/about/",
+      "first_seen": "2026-10-05T18:05:33.116163+00:00"
+    },
+    "https://alternativeto.net/software/voca/about/|Voca": {
+      "title": "Voca",
+      "link": "https://alternativeto.net/software/voca/about/",
+      "first_seen": "2026-10-05T18:05:33.116166+00:00"
+    },
+    "https://alternativeto.net/software/wallpaper-studio-smart-launcher-/about/|Wallpaper Studio": {
+      "title": "Wallpaper Studio",
+      "link": "https://alternativeto.net/software/wallpaper-studio-smart-launcher-/about/",
+      "first_seen": "2026-10-05T18:05:33.116168+00:00"
+    },
+    "https://alternativeto.net/software/watch-face-catalog/about/|Watch Face Catalog": {
+      "title": "Watch Face Catalog",
+      "link": "https://alternativeto.net/software/watch-face-catalog/about/",
+      "first_seen": "2026-10-05T18:05:33.116170+00:00"
+    },
+    "https://alternativeto.net/software/facelapse/about/|FaceLapse": {
+      "title": "FaceLapse",
+      "link": "https://alternativeto.net/software/facelapse/about/",
+      "first_seen": "2026-10-05T18:05:33.116172+00:00"
+    },
+    "https://alternativeto.net/software/lethio-macro-tracker/about/|Lethio Macro Tracker": {
+      "title": "Lethio Macro Tracker",
+      "link": "https://alternativeto.net/software/lethio-macro-tracker/about/",
+      "first_seen": "2026-10-05T18:05:33.116173+00:00"
+    },
+    "https://alternativeto.net/software/dottie-s-garden/about/|Dottie's Garden": {
+      "title": "Dottie's Garden",
+      "link": "https://alternativeto.net/software/dottie-s-garden/about/",
+      "first_seen": "2026-10-05T18:05:33.116175+00:00"
+    },
+    "https://alternativeto.net/software/nowt/about/|Nowt": {
+      "title": "Nowt",
+      "link": "https://alternativeto.net/software/nowt/about/",
+      "first_seen": "2026-10-05T18:05:33.116177+00:00"
+    },
+    "https://alternativeto.net/software/clubcards-loyalty-card-wallet/about/|ClubCards": {
+      "title": "ClubCards",
+      "link": "https://alternativeto.net/software/clubcards-loyalty-card-wallet/about/",
+      "first_seen": "2026-10-05T18:05:33.116179+00:00"
+    },
+    "https://alternativeto.net/software/notirecall/about/|NotiRecall": {
+      "title": "NotiRecall",
+      "link": "https://alternativeto.net/software/notirecall/about/",
+      "first_seen": "2026-10-05T18:05:33.116181+00:00"
+    },
+    "https://alternativeto.net/software/playtranslate/about/|PlayTranslate": {
+      "title": "PlayTranslate",
+      "link": "https://alternativeto.net/software/playtranslate/about/",
+      "first_seen": "2026-10-05T18:05:33.116183+00:00"
+    },
+    "https://alternativeto.net/software/tingles-asmr/about/|Tingles ASMR": {
+      "title": "Tingles ASMR",
+      "link": "https://alternativeto.net/software/tingles-asmr/about/",
+      "first_seen": "2026-10-05T18:05:33.116185+00:00"
+    },
+    "https://alternativeto.net/software/canopy--ancient-arabian-astro/about/|Canopy - Ancient Arabian Astro": {
+      "title": "Canopy - Ancient Arabian Astro",
+      "link": "https://alternativeto.net/software/canopy--ancient-arabian-astro/about/",
+      "first_seen": "2026-10-05T18:05:33.116189+00:00"
+    },
+    "https://alternativeto.net/software/ekynavy/about/|EkyNavy": {
+      "title": "EkyNavy",
+      "link": "https://alternativeto.net/software/ekynavy/about/",
+      "first_seen": "2026-10-05T18:05:33.116190+00:00"
+    },
+    "https://alternativeto.net/software/biomanager/about/|BioManager": {
+      "title": "BioManager",
+      "link": "https://alternativeto.net/software/biomanager/about/",
+      "first_seen": "2026-10-05T18:05:33.116193+00:00"
+    },
+    "https://alternativeto.net/software/open-grind/about/|Open Grind": {
+      "title": "Open Grind",
+      "link": "https://alternativeto.net/software/open-grind/about/",
+      "first_seen": "2026-10-05T18:05:33.116195+00:00"
+    },
+    "https://alternativeto.net/software/ulives/about/|ulives": {
+      "title": "ulives",
+      "link": "https://alternativeto.net/software/ulives/about/",
+      "first_seen": "2026-10-05T18:05:33.116197+00:00"
     }
   }
 }
