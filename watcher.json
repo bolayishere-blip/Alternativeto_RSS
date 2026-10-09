@@ -1,41 +1,6 @@
 {
-  "last_checked": "2026-10-09T06:31:39.437959+00:00",
+  "last_checked": "2026-10-09T13:44:10.120037+00:00",
   "seen": {
-    "https://alternativeto.net/software/sshborg/about/|SSHBorg": {
-      "title": "SSHBorg",
-      "link": "https://alternativeto.net/software/sshborg/about/",
-      "first_seen": "2026-09-09T11:08:18.840338+00:00"
-    },
-    "https://alternativeto.net/software/verisense/about/|VeriSense": {
-      "title": "VeriSense",
-      "link": "https://alternativeto.net/software/verisense/about/",
-      "first_seen": "2026-09-09T11:08:18.840363+00:00"
-    },
-    "https://alternativeto.net/software/steadily-me/about/|Steadily.me": {
-      "title": "Steadily.me",
-      "link": "https://alternativeto.net/software/steadily-me/about/",
-      "first_seen": "2026-09-09T11:08:18.840366+00:00"
-    },
-    "https://alternativeto.net/software/firmapanel-procurement-toolkit/about/|FirmaPanel Procurement Toolkit": {
-      "title": "FirmaPanel Procurement Toolkit",
-      "link": "https://alternativeto.net/software/firmapanel-procurement-toolkit/about/",
-      "first_seen": "2026-09-09T11:08:18.840368+00:00"
-    },
-    "https://alternativeto.net/software/gibson-learn-and-play-guitar/about/|Gibson": {
-      "title": "Gibson",
-      "link": "https://alternativeto.net/software/gibson-learn-and-play-guitar/about/",
-      "first_seen": "2026-09-09T11:08:18.840370+00:00"
-    },
-    "https://alternativeto.net/software/rme-pdf-scanner/about/|RME PDF Scanner": {
-      "title": "RME PDF Scanner",
-      "link": "https://alternativeto.net/software/rme-pdf-scanner/about/",
-      "first_seen": "2026-09-09T11:08:18.840372+00:00"
-    },
-    "https://alternativeto.net/software/birthminder/about/|BirthMinder": {
-      "title": "BirthMinder",
-      "link": "https://alternativeto.net/software/birthminder/about/",
-      "first_seen": "2026-09-09T11:08:18.840376+00:00"
-    },
     "https://alternativeto.net/software/tastefinder/about/|TasteFinder": {
       "title": "TasteFinder",
       "link": "https://alternativeto.net/software/tastefinder/about/",
@@ -2460,6 +2425,81 @@
       "title": "ExplorePDF",
       "link": "https://alternativeto.net/software/explorepdf/about/",
       "first_seen": "2026-10-08T20:09:36.804605+00:00"
+    },
+    "https://alternativeto.net/software/counted-split-expense/about/|Counted": {
+      "title": "Counted",
+      "link": "https://alternativeto.net/software/counted-split-expense/about/",
+      "first_seen": "2026-10-09T13:44:01.176019+00:00"
+    },
+    "https://alternativeto.net/software/opengym/about/|openGym": {
+      "title": "openGym",
+      "link": "https://alternativeto.net/software/opengym/about/",
+      "first_seen": "2026-10-09T13:44:01.176041+00:00"
+    },
+    "https://alternativeto.net/software/a-quiet-counter/about/|a quiet counter": {
+      "title": "a quiet counter",
+      "link": "https://alternativeto.net/software/a-quiet-counter/about/",
+      "first_seen": "2026-10-09T13:44:01.176044+00:00"
+    },
+    "https://alternativeto.net/software/opentv/about/|OpenTV": {
+      "title": "OpenTV",
+      "link": "https://alternativeto.net/software/opentv/about/",
+      "first_seen": "2026-10-09T13:44:01.176047+00:00"
+    },
+    "https://alternativeto.net/software/powvpn/about/|PowVPN": {
+      "title": "PowVPN",
+      "link": "https://alternativeto.net/software/powvpn/about/",
+      "first_seen": "2026-10-09T13:44:01.176049+00:00"
+    },
+    "https://alternativeto.net/software/fidelio/about/|Fidelio": {
+      "title": "Fidelio",
+      "link": "https://alternativeto.net/software/fidelio/about/",
+      "first_seen": "2026-10-09T13:44:01.176051+00:00"
+    },
+    "https://alternativeto.net/software/nullun/about/|Nullun": {
+      "title": "Nullun",
+      "link": "https://alternativeto.net/software/nullun/about/",
+      "first_seen": "2026-10-09T13:44:01.176053+00:00"
+    },
+    "https://alternativeto.net/software/saam/about/|Saam": {
+      "title": "Saam",
+      "link": "https://alternativeto.net/software/saam/about/",
+      "first_seen": "2026-10-09T13:44:01.176058+00:00"
+    },
+    "https://alternativeto.net/software/trackmyprojects/about/|trackMyProjects": {
+      "title": "trackMyProjects",
+      "link": "https://alternativeto.net/software/trackmyprojects/about/",
+      "first_seen": "2026-10-09T13:44:01.176060+00:00"
+    },
+    "https://alternativeto.net/software/calority/about/|Calority": {
+      "title": "Calority",
+      "link": "https://alternativeto.net/software/calority/about/",
+      "first_seen": "2026-10-09T13:44:01.176063+00:00"
+    },
+    "https://alternativeto.net/software/calorisnap/about/|Calorisnap": {
+      "title": "Calorisnap",
+      "link": "https://alternativeto.net/software/calorisnap/about/",
+      "first_seen": "2026-10-09T13:44:01.176065+00:00"
+    },
+    "https://alternativeto.net/software/astrohelm/about/|AstroHelm": {
+      "title": "AstroHelm",
+      "link": "https://alternativeto.net/software/astrohelm/about/",
+      "first_seen": "2026-10-09T13:44:01.176067+00:00"
+    },
+    "https://alternativeto.net/software/dana/about/|Dana Pet Care": {
+      "title": "Dana Pet Care",
+      "link": "https://alternativeto.net/software/dana/about/",
+      "first_seen": "2026-10-09T13:44:01.176069+00:00"
+    },
+    "https://alternativeto.net/software/riffgame/about/|Riffgame": {
+      "title": "Riffgame",
+      "link": "https://alternativeto.net/software/riffgame/about/",
+      "first_seen": "2026-10-09T13:44:01.176074+00:00"
+    },
+    "https://alternativeto.net/software/ringdroid-ringtone-editor/about/|Ringdroid - Ringtone Editor": {
+      "title": "Ringdroid - Ringtone Editor",
+      "link": "https://alternativeto.net/software/ringdroid-ringtone-editor/about/",
+      "first_seen": "2026-10-09T13:44:01.176076+00:00"
     }
   }
 }
