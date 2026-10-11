@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-11T07:18:05.274233+00:00",
+  "last_checked": "2026-10-11T14:11:43.371990+00:00",
   "seen": {
     "https://alternativeto.net/software/morok/about/|Morok": {
       "title": "Morok",
@@ -2455,6 +2455,31 @@
       "title": "Amavie",
       "link": "https://alternativeto.net/software/amavie/about/",
       "first_seen": "2026-10-10T19:00:51.704319+00:00"
+    },
+    "https://alternativeto.net/software/e-p-i-c-studios/about/|E.P.I.C. Studios": {
+      "title": "E.P.I.C. Studios",
+      "link": "https://alternativeto.net/software/e-p-i-c-studios/about/",
+      "first_seen": "2026-10-11T14:11:39.339115+00:00"
+    },
+    "https://alternativeto.net/software/cat-collector/about/|Cat Collector": {
+      "title": "Cat Collector",
+      "link": "https://alternativeto.net/software/cat-collector/about/",
+      "first_seen": "2026-10-11T14:11:39.339134+00:00"
+    },
+    "https://alternativeto.net/software/tetherly/about/|Tetherly": {
+      "title": "Tetherly",
+      "link": "https://alternativeto.net/software/tetherly/about/",
+      "first_seen": "2026-10-11T14:11:39.339137+00:00"
+    },
+    "https://alternativeto.net/software/comfort/about/|Comfort": {
+      "title": "Comfort",
+      "link": "https://alternativeto.net/software/comfort/about/",
+      "first_seen": "2026-10-11T14:11:39.339140+00:00"
+    },
+    "https://alternativeto.net/software/regym/about/|ReGym": {
+      "title": "ReGym",
+      "link": "https://alternativeto.net/software/regym/about/",
+      "first_seen": "2026-10-11T14:11:39.339150+00:00"
     }
   }
 }
