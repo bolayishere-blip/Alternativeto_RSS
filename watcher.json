@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-12T08:46:53.187524+00:00",
+  "last_checked": "2026-10-12T18:15:08.194617+00:00",
   "seen": {
     "https://alternativeto.net/software/secret-messenger/about/|SECRET Messenger": {
       "title": "SECRET Messenger",
@@ -2445,6 +2445,131 @@
       "title": "ReGym",
       "link": "https://alternativeto.net/software/regym/about/",
       "first_seen": "2026-10-11T14:11:39.339150+00:00"
+    },
+    "https://alternativeto.net/software/vscodroid/about/|VSCodroid": {
+      "title": "VSCodroid",
+      "link": "https://alternativeto.net/software/vscodroid/about/",
+      "first_seen": "2026-10-12T18:14:59.125975+00:00"
+    },
+    "https://alternativeto.net/software/peptidelab/about/|PeptideLab": {
+      "title": "PeptideLab",
+      "link": "https://alternativeto.net/software/peptidelab/about/",
+      "first_seen": "2026-10-12T18:14:59.125995+00:00"
+    },
+    "https://alternativeto.net/software/dejavu/about/|Dejavu": {
+      "title": "Dejavu",
+      "link": "https://alternativeto.net/software/dejavu/about/",
+      "first_seen": "2026-10-12T18:14:59.125999+00:00"
+    },
+    "https://alternativeto.net/software/baraati/about/|Baraati": {
+      "title": "Baraati",
+      "link": "https://alternativeto.net/software/baraati/about/",
+      "first_seen": "2026-10-12T18:14:59.126001+00:00"
+    },
+    "https://alternativeto.net/software/the-face-analysis/about/|The Face Analysis": {
+      "title": "The Face Analysis",
+      "link": "https://alternativeto.net/software/the-face-analysis/about/",
+      "first_seen": "2026-10-12T18:14:59.126003+00:00"
+    },
+    "https://alternativeto.net/software/burrak-ai/about/|Burrak AI": {
+      "title": "Burrak AI",
+      "link": "https://alternativeto.net/software/burrak-ai/about/",
+      "first_seen": "2026-10-12T18:14:59.126005+00:00"
+    },
+    "https://alternativeto.net/software/trendme-ai/about/|Trendme AI": {
+      "title": "Trendme AI",
+      "link": "https://alternativeto.net/software/trendme-ai/about/",
+      "first_seen": "2026-10-12T18:14:59.126007+00:00"
+    },
+    "https://alternativeto.net/software/joker-ai/about/|Joker AI": {
+      "title": "Joker AI",
+      "link": "https://alternativeto.net/software/joker-ai/about/",
+      "first_seen": "2026-10-12T18:14:59.126012+00:00"
+    },
+    "https://alternativeto.net/software/sport-ai/about/|Sport AI": {
+      "title": "Sport AI",
+      "link": "https://alternativeto.net/software/sport-ai/about/",
+      "first_seen": "2026-10-12T18:14:59.126014+00:00"
+    },
+    "https://alternativeto.net/software/tomoshi/about/|Tomoshi": {
+      "title": "Tomoshi",
+      "link": "https://alternativeto.net/software/tomoshi/about/",
+      "first_seen": "2026-10-12T18:14:59.126016+00:00"
+    },
+    "https://alternativeto.net/software/viridia/about/|Viridia": {
+      "title": "Viridia",
+      "link": "https://alternativeto.net/software/viridia/about/",
+      "first_seen": "2026-10-12T18:14:59.126018+00:00"
+    },
+    "https://alternativeto.net/software/pepstock/about/|PepStock": {
+      "title": "PepStock",
+      "link": "https://alternativeto.net/software/pepstock/about/",
+      "first_seen": "2026-10-12T18:14:59.126020+00:00"
+    },
+    "https://alternativeto.net/software/klaro-ai/about/|Klaro AI": {
+      "title": "Klaro AI",
+      "link": "https://alternativeto.net/software/klaro-ai/about/",
+      "first_seen": "2026-10-12T18:14:59.126022+00:00"
+    },
+    "https://alternativeto.net/software/biohack-track/about/|BioHack Track": {
+      "title": "BioHack Track",
+      "link": "https://alternativeto.net/software/biohack-track/about/",
+      "first_seen": "2026-10-12T18:14:59.126024+00:00"
+    },
+    "https://alternativeto.net/software/faceclock/about/|FaceClock": {
+      "title": "FaceClock",
+      "link": "https://alternativeto.net/software/faceclock/about/",
+      "first_seen": "2026-10-12T18:14:59.126026+00:00"
+    },
+    "https://alternativeto.net/software/livedeck/about/|LiveDeck": {
+      "title": "LiveDeck",
+      "link": "https://alternativeto.net/software/livedeck/about/",
+      "first_seen": "2026-10-12T18:14:59.126028+00:00"
+    },
+    "https://alternativeto.net/software/videraser/about/|VidEraser": {
+      "title": "VidEraser",
+      "link": "https://alternativeto.net/software/videraser/about/",
+      "first_seen": "2026-10-12T18:14:59.126029+00:00"
+    },
+    "https://alternativeto.net/software/viddub/about/|VidDub": {
+      "title": "VidDub",
+      "link": "https://alternativeto.net/software/viddub/about/",
+      "first_seen": "2026-10-12T18:14:59.126031+00:00"
+    },
+    "https://alternativeto.net/software/savorai/about/|SavorAI": {
+      "title": "SavorAI",
+      "link": "https://alternativeto.net/software/savorai/about/",
+      "first_seen": "2026-10-12T18:14:59.126033+00:00"
+    },
+    "https://alternativeto.net/software/edgely-console/about/|Edgely Console": {
+      "title": "Edgely Console",
+      "link": "https://alternativeto.net/software/edgely-console/about/",
+      "first_seen": "2026-10-12T18:14:59.126035+00:00"
+    },
+    "https://alternativeto.net/software/nokees/about/|Nokees": {
+      "title": "Nokees",
+      "link": "https://alternativeto.net/software/nokees/about/",
+      "first_seen": "2026-10-12T18:14:59.126037+00:00"
+    },
+    "https://alternativeto.net/software/tasqs/about/|Tasqs": {
+      "title": "Tasqs",
+      "link": "https://alternativeto.net/software/tasqs/about/",
+      "first_seen": "2026-10-12T18:14:59.126038+00:00"
+    },
+    "https://alternativeto.net/software/iqfood/about/|IQFood": {
+      "title": "IQFood",
+      "link": "https://alternativeto.net/software/iqfood/about/",
+      "first_seen": "2026-10-12T18:14:59.126040+00:00"
+    },
+    "https://alternativeto.net/software/gymus/about/|Gymus": {
+      "title": "Gymus",
+      "link": "https://alternativeto.net/software/gymus/about/",
+      "first_seen": "2026-10-12T18:14:59.126042+00:00"
+    },
+    "https://alternativeto.net/software/danmarcrm-scan/about/|DanmarCRM Scan": {
+      "title": "DanmarCRM Scan",
+      "link": "https://alternativeto.net/software/danmarcrm-scan/about/",
+      "first_seen": "2026-10-12T18:14:59.126047+00:00"
     }
   }
 }
