@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-13T20:38:23.876121+00:00",
+  "last_checked": "2026-10-13T23:54:09.211162+00:00",
   "seen": {
     "https://alternativeto.net/software/dove/about/|Dove": {
       "title": "Dove",
@@ -2680,6 +2680,26 @@
       "title": "devBoard",
       "link": "https://alternativeto.net/software/devboard/about/",
       "first_seen": "2026-10-13T20:38:14.929033+00:00"
+    },
+    "https://alternativeto.net/software/oxproxion/about/|oxproxion": {
+      "title": "oxproxion",
+      "link": "https://alternativeto.net/software/oxproxion/about/",
+      "first_seen": "2026-10-13T23:54:05.983625+00:00"
+    },
+    "https://alternativeto.net/software/suby/about/|Suby": {
+      "title": "Suby",
+      "link": "https://alternativeto.net/software/suby/about/",
+      "first_seen": "2026-10-13T23:54:05.983646+00:00"
+    },
+    "https://alternativeto.net/software/virtual-change-room/about/|Virtual Change Room": {
+      "title": "Virtual Change Room",
+      "link": "https://alternativeto.net/software/virtual-change-room/about/",
+      "first_seen": "2026-10-13T23:54:05.983649+00:00"
+    },
+    "https://alternativeto.net/software/xedialer/about/|XeDialer": {
+      "title": "XeDialer",
+      "link": "https://alternativeto.net/software/xedialer/about/",
+      "first_seen": "2026-10-13T23:54:05.983651+00:00"
     }
   }
 }
