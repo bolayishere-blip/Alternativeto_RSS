@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-15T14:43:43.955483+00:00",
+  "last_checked": "2026-10-15T18:42:13.547559+00:00",
   "seen": {
     "https://alternativeto.net/software/fledgenow/about/|FledgeNow": {
       "title": "FledgeNow",
@@ -2685,6 +2685,131 @@
       "title": "PepMinder",
       "link": "https://alternativeto.net/software/pepminder/about/",
       "first_seen": "2026-10-14T14:37:35.852014+00:00"
+    },
+    "https://alternativeto.net/software/tonivo/about/|Tonivo": {
+      "title": "Tonivo",
+      "link": "https://alternativeto.net/software/tonivo/about/",
+      "first_seen": "2026-10-15T18:42:03.107606+00:00"
+    },
+    "https://alternativeto.net/software/teem-family-and-friends-locator/about/|Teem": {
+      "title": "Teem",
+      "link": "https://alternativeto.net/software/teem-family-and-friends-locator/about/",
+      "first_seen": "2026-10-15T18:42:03.107630+00:00"
+    },
+    "https://alternativeto.net/software/agentic-sovereign-capital/about/|Agentic Sovereign Capital": {
+      "title": "Agentic Sovereign Capital",
+      "link": "https://alternativeto.net/software/agentic-sovereign-capital/about/",
+      "first_seen": "2026-10-15T18:42:03.107632+00:00"
+    },
+    "https://alternativeto.net/software/bild-health/about/|Bild Health": {
+      "title": "Bild Health",
+      "link": "https://alternativeto.net/software/bild-health/about/",
+      "first_seen": "2026-10-15T18:42:03.107634+00:00"
+    },
+    "https://alternativeto.net/software/bpmcountr/about/|BPMcountR": {
+      "title": "BPMcountR",
+      "link": "https://alternativeto.net/software/bpmcountr/about/",
+      "first_seen": "2026-10-15T18:42:03.107637+00:00"
+    },
+    "https://alternativeto.net/software/nucube/about/|Nucube": {
+      "title": "Nucube",
+      "link": "https://alternativeto.net/software/nucube/about/",
+      "first_seen": "2026-10-15T18:42:03.107638+00:00"
+    },
+    "https://alternativeto.net/software/best-wallet-monero-wallet/about/|Best Wallet - Monero wallet": {
+      "title": "Best Wallet - Monero wallet",
+      "link": "https://alternativeto.net/software/best-wallet-monero-wallet/about/",
+      "first_seen": "2026-10-15T18:42:03.107640+00:00"
+    },
+    "https://alternativeto.net/software/aialysis-live/about/|aiALYSIS Live": {
+      "title": "aiALYSIS Live",
+      "link": "https://alternativeto.net/software/aialysis-live/about/",
+      "first_seen": "2026-10-15T18:42:03.107643+00:00"
+    },
+    "https://alternativeto.net/software/samla-ai/about/|samla.ai": {
+      "title": "samla.ai",
+      "link": "https://alternativeto.net/software/samla-ai/about/",
+      "first_seen": "2026-10-15T18:42:03.107645+00:00"
+    },
+    "https://alternativeto.net/software/safe-and-informed/about/|Safe & Informed": {
+      "title": "Safe & Informed",
+      "link": "https://alternativeto.net/software/safe-and-informed/about/",
+      "first_seen": "2026-10-15T18:42:03.107647+00:00"
+    },
+    "https://alternativeto.net/software/famino/about/|Famino": {
+      "title": "Famino",
+      "link": "https://alternativeto.net/software/famino/about/",
+      "first_seen": "2026-10-15T18:42:03.107648+00:00"
+    },
+    "https://alternativeto.net/software/diarypack/about/|DiaryPack": {
+      "title": "DiaryPack",
+      "link": "https://alternativeto.net/software/diarypack/about/",
+      "first_seen": "2026-10-15T18:42:03.107649+00:00"
+    },
+    "https://alternativeto.net/software/clypy/about/|Clypy": {
+      "title": "Clypy",
+      "link": "https://alternativeto.net/software/clypy/about/",
+      "first_seen": "2026-10-15T18:42:03.107650+00:00"
+    },
+    "https://alternativeto.net/software/neurospicy-adhd-mood-tracker/about/|NeuroSpicy": {
+      "title": "NeuroSpicy",
+      "link": "https://alternativeto.net/software/neurospicy-adhd-mood-tracker/about/",
+      "first_seen": "2026-10-15T18:42:03.107651+00:00"
+    },
+    "https://alternativeto.net/software/verdetto-qr-and-barcode-scanner/about/|Verdetto": {
+      "title": "Verdetto",
+      "link": "https://alternativeto.net/software/verdetto-qr-and-barcode-scanner/about/",
+      "first_seen": "2026-10-15T18:42:03.107652+00:00"
+    },
+    "https://alternativeto.net/software/keysnap/about/|KeySnap": {
+      "title": "KeySnap",
+      "link": "https://alternativeto.net/software/keysnap/about/",
+      "first_seen": "2026-10-15T18:42:03.107654+00:00"
+    },
+    "https://alternativeto.net/software/lemon-switch-emulator/about/|Lemon Switch Emulator": {
+      "title": "Lemon Switch Emulator",
+      "link": "https://alternativeto.net/software/lemon-switch-emulator/about/",
+      "first_seen": "2026-10-15T18:42:03.107655+00:00"
+    },
+    "https://alternativeto.net/software/pizza-boy-double-slice/about/|Pizza Boy Double Slice": {
+      "title": "Pizza Boy Double Slice",
+      "link": "https://alternativeto.net/software/pizza-boy-double-slice/about/",
+      "first_seen": "2026-10-15T18:42:03.107656+00:00"
+    },
+    "https://alternativeto.net/software/scenelingo/about/|SceneLingo": {
+      "title": "SceneLingo",
+      "link": "https://alternativeto.net/software/scenelingo/about/",
+      "first_seen": "2026-10-15T18:42:03.107657+00:00"
+    },
+    "https://alternativeto.net/software/droidsender/about/|DroidSender": {
+      "title": "DroidSender",
+      "link": "https://alternativeto.net/software/droidsender/about/",
+      "first_seen": "2026-10-15T18:42:03.107660+00:00"
+    },
+    "https://alternativeto.net/software/learn-farsi/about/|Learn Farsi": {
+      "title": "Learn Farsi",
+      "link": "https://alternativeto.net/software/learn-farsi/about/",
+      "first_seen": "2026-10-15T18:42:03.107662+00:00"
+    },
+    "https://alternativeto.net/software/healing-sounds-sound-therapy/about/|Healing Sounds": {
+      "title": "Healing Sounds",
+      "link": "https://alternativeto.net/software/healing-sounds-sound-therapy/about/",
+      "first_seen": "2026-10-15T18:42:03.107663+00:00"
+    },
+    "https://alternativeto.net/software/ip-camera-viewer-and-monitor/about/|IP Camera Viewer & Monitor": {
+      "title": "IP Camera Viewer & Monitor",
+      "link": "https://alternativeto.net/software/ip-camera-viewer-and-monitor/about/",
+      "first_seen": "2026-10-15T18:42:03.107664+00:00"
+    },
+    "https://alternativeto.net/software/punch-list-inspection-report/about/|Punch List: Inspection Report": {
+      "title": "Punch List: Inspection Report",
+      "link": "https://alternativeto.net/software/punch-list-inspection-report/about/",
+      "first_seen": "2026-10-15T18:42:03.107665+00:00"
+    },
+    "https://alternativeto.net/software/metadata-remover-photo-exif/about/|Metadata Remover - Photo EXIF": {
+      "title": "Metadata Remover - Photo EXIF",
+      "link": "https://alternativeto.net/software/metadata-remover-photo-exif/about/",
+      "first_seen": "2026-10-15T18:42:03.107667+00:00"
     }
   }
 }
