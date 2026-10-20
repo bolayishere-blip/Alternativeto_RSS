@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-20T15:06:07.742537+00:00",
+  "last_checked": "2026-10-20T19:11:55.688265+00:00",
   "seen": {
     "https://alternativeto.net/software/wordbook-by-atahabaki/about/|WordBook for Android": {
       "title": "WordBook for Android",
@@ -2970,6 +2970,131 @@
       "title": "Atlas: Control Impulse Buying",
       "link": "https://alternativeto.net/software/atlas-control-impulse-buying/about/",
       "first_seen": "2026-10-20T05:14:57.694264+00:00"
+    },
+    "https://alternativeto.net/software/everyunitknown/about/|EveryUnitKnown": {
+      "title": "EveryUnitKnown",
+      "link": "https://alternativeto.net/software/everyunitknown/about/",
+      "first_seen": "2026-10-20T19:11:44.771736+00:00"
+    },
+    "https://alternativeto.net/software/waifu-deck/about/|Waifu Deck": {
+      "title": "Waifu Deck",
+      "link": "https://alternativeto.net/software/waifu-deck/about/",
+      "first_seen": "2026-10-20T19:11:44.771757+00:00"
+    },
+    "https://alternativeto.net/software/groupspot/about/|GroupSpot": {
+      "title": "GroupSpot",
+      "link": "https://alternativeto.net/software/groupspot/about/",
+      "first_seen": "2026-10-20T19:11:44.771760+00:00"
+    },
+    "https://alternativeto.net/software/mystoria/about/|myStoria": {
+      "title": "myStoria",
+      "link": "https://alternativeto.net/software/mystoria/about/",
+      "first_seen": "2026-10-20T19:11:44.771763+00:00"
+    },
+    "https://alternativeto.net/software/pocket-pressure/about/|Pocket Pressure": {
+      "title": "Pocket Pressure",
+      "link": "https://alternativeto.net/software/pocket-pressure/about/",
+      "first_seen": "2026-10-20T19:11:44.771765+00:00"
+    },
+    "https://alternativeto.net/software/pva-codes/about/|PVACodes": {
+      "title": "PVACodes",
+      "link": "https://alternativeto.net/software/pva-codes/about/",
+      "first_seen": "2026-10-20T19:11:44.771767+00:00"
+    },
+    "https://alternativeto.net/software/bingers/about/|Bingers": {
+      "title": "Bingers",
+      "link": "https://alternativeto.net/software/bingers/about/",
+      "first_seen": "2026-10-20T19:11:44.771769+00:00"
+    },
+    "https://alternativeto.net/software/oopsmemo/about/|OopsMemo": {
+      "title": "OopsMemo",
+      "link": "https://alternativeto.net/software/oopsmemo/about/",
+      "first_seen": "2026-10-20T19:11:44.771774+00:00"
+    },
+    "https://alternativeto.net/software/moneytime-play-and-earn-money/about/|MoneyTime": {
+      "title": "MoneyTime",
+      "link": "https://alternativeto.net/software/moneytime-play-and-earn-money/about/",
+      "first_seen": "2026-10-20T19:11:44.771777+00:00"
+    },
+    "https://alternativeto.net/software/wmimo/about/|wmimo": {
+      "title": "wmimo",
+      "link": "https://alternativeto.net/software/wmimo/about/",
+      "first_seen": "2026-10-20T19:11:44.771779+00:00"
+    },
+    "https://alternativeto.net/software/reps-gym-workout-log/about/|Reps: Gym Workout Log": {
+      "title": "Reps: Gym Workout Log",
+      "link": "https://alternativeto.net/software/reps-gym-workout-log/about/",
+      "first_seen": "2026-10-20T19:11:44.771781+00:00"
+    },
+    "https://alternativeto.net/software/kooindaa/about/|Kooindaa": {
+      "title": "Kooindaa",
+      "link": "https://alternativeto.net/software/kooindaa/about/",
+      "first_seen": "2026-10-20T19:11:44.771783+00:00"
+    },
+    "https://alternativeto.net/software/diane/about/|Diane": {
+      "title": "Diane",
+      "link": "https://alternativeto.net/software/diane/about/",
+      "first_seen": "2026-10-20T19:11:44.771784+00:00"
+    },
+    "https://alternativeto.net/software/99managers-futsal-edition/about/|99Managers Futsal Edition": {
+      "title": "99Managers Futsal Edition",
+      "link": "https://alternativeto.net/software/99managers-futsal-edition/about/",
+      "first_seen": "2026-10-20T19:11:44.771787+00:00"
+    },
+    "https://alternativeto.net/software/storii/about/|Storii": {
+      "title": "Storii",
+      "link": "https://alternativeto.net/software/storii/about/",
+      "first_seen": "2026-10-20T19:11:44.771788+00:00"
+    },
+    "https://alternativeto.net/software/open-open-radio/about/|Open Open Radio": {
+      "title": "Open Open Radio",
+      "link": "https://alternativeto.net/software/open-open-radio/about/",
+      "first_seen": "2026-10-20T19:11:44.771794+00:00"
+    },
+    "https://alternativeto.net/software/smart-timetable/about/|Smart Timetable": {
+      "title": "Smart Timetable",
+      "link": "https://alternativeto.net/software/smart-timetable/about/",
+      "first_seen": "2026-10-20T19:11:44.771796+00:00"
+    },
+    "https://alternativeto.net/software/pomocat--focus-timer/about/|Pomocat": {
+      "title": "Pomocat",
+      "link": "https://alternativeto.net/software/pomocat--focus-timer/about/",
+      "first_seen": "2026-10-20T19:11:44.771798+00:00"
+    },
+    "https://alternativeto.net/software/plan-joy--to-do-and-reminders/about/|Plan Joy": {
+      "title": "Plan Joy",
+      "link": "https://alternativeto.net/software/plan-joy--to-do-and-reminders/about/",
+      "first_seen": "2026-10-20T19:11:44.771800+00:00"
+    },
+    "https://alternativeto.net/software/habicat/about/|Habicat": {
+      "title": "Habicat",
+      "link": "https://alternativeto.net/software/habicat/about/",
+      "first_seen": "2026-10-20T19:11:44.771802+00:00"
+    },
+    "https://alternativeto.net/software/another-page/about/|Another Page": {
+      "title": "Another Page",
+      "link": "https://alternativeto.net/software/another-page/about/",
+      "first_seen": "2026-10-20T19:11:44.771803+00:00"
+    },
+    "https://alternativeto.net/software/study-bunny/about/|Study Bunny": {
+      "title": "Study Bunny",
+      "link": "https://alternativeto.net/software/study-bunny/about/",
+      "first_seen": "2026-10-20T19:11:44.771805+00:00"
+    },
+    "https://alternativeto.net/software/aviate-flight-companion/about/|Aviate": {
+      "title": "Aviate",
+      "link": "https://alternativeto.net/software/aviate-flight-companion/about/",
+      "first_seen": "2026-10-20T19:11:44.771807+00:00"
+    },
+    "https://alternativeto.net/software/omnia-music-player/about/|Omnia Music Player": {
+      "title": "Omnia Music Player",
+      "link": "https://alternativeto.net/software/omnia-music-player/about/",
+      "first_seen": "2026-10-20T19:11:44.771809+00:00"
+    },
+    "https://alternativeto.net/software/flashback--game-boy-camera-app/about/|Epilogue Flashback": {
+      "title": "Epilogue Flashback",
+      "link": "https://alternativeto.net/software/flashback--game-boy-camera-app/about/",
+      "first_seen": "2026-10-20T19:11:44.771811+00:00"
     }
   }
 }
