@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-22T11:37:19.330624+00:00",
+  "last_checked": "2026-10-22T16:01:14.783762+00:00",
   "seen": {
     "https://alternativeto.net/software/the-pantry-kitchen-inventory/about/|The Pantry: Kitchen Inventory": {
       "title": "The Pantry: Kitchen Inventory",
@@ -3090,6 +3090,66 @@
       "title": "Chucho",
       "link": "https://alternativeto.net/software/chucho/about/",
       "first_seen": "2026-10-21T22:43:06.713393+00:00"
+    },
+    "https://alternativeto.net/software/ividiyo/about/|Ividiyo": {
+      "title": "Ividiyo",
+      "link": "https://alternativeto.net/software/ividiyo/about/",
+      "first_seen": "2026-10-22T16:01:03.173130+00:00"
+    },
+    "https://alternativeto.net/software/zetfeed/about/|Zetfeed": {
+      "title": "Zetfeed",
+      "link": "https://alternativeto.net/software/zetfeed/about/",
+      "first_seen": "2026-10-22T16:01:03.173156+00:00"
+    },
+    "https://alternativeto.net/software/tsemp/about/|Tsemp": {
+      "title": "Tsemp",
+      "link": "https://alternativeto.net/software/tsemp/about/",
+      "first_seen": "2026-10-22T16:01:03.173160+00:00"
+    },
+    "https://alternativeto.net/software/teamcounter/about/|TeamCounter": {
+      "title": "TeamCounter",
+      "link": "https://alternativeto.net/software/teamcounter/about/",
+      "first_seen": "2026-10-22T16:01:03.173163+00:00"
+    },
+    "https://alternativeto.net/software/tv-remote/about/|Tv-Remote": {
+      "title": "Tv-Remote",
+      "link": "https://alternativeto.net/software/tv-remote/about/",
+      "first_seen": "2026-10-22T16:01:03.173169+00:00"
+    },
+    "https://alternativeto.net/software/key-launcher/about/|Key Launcher": {
+      "title": "Key Launcher",
+      "link": "https://alternativeto.net/software/key-launcher/about/",
+      "first_seen": "2026-10-22T16:01:03.173171+00:00"
+    },
+    "https://alternativeto.net/software/peaknav/about/|PeakNav": {
+      "title": "PeakNav",
+      "link": "https://alternativeto.net/software/peaknav/about/",
+      "first_seen": "2026-10-22T16:01:03.173173+00:00"
+    },
+    "https://alternativeto.net/software/oclo/about/|Oclo": {
+      "title": "Oclo",
+      "link": "https://alternativeto.net/software/oclo/about/",
+      "first_seen": "2026-10-22T16:01:03.173178+00:00"
+    },
+    "https://alternativeto.net/software/somaphi/about/|Somaphi": {
+      "title": "Somaphi",
+      "link": "https://alternativeto.net/software/somaphi/about/",
+      "first_seen": "2026-10-22T16:01:03.173181+00:00"
+    },
+    "https://alternativeto.net/software/anisync/about/|Anisync": {
+      "title": "Anisync",
+      "link": "https://alternativeto.net/software/anisync/about/",
+      "first_seen": "2026-10-22T16:01:03.173183+00:00"
+    },
+    "https://alternativeto.net/software/clearsms/about/|Clear SMS": {
+      "title": "Clear SMS",
+      "link": "https://alternativeto.net/software/clearsms/about/",
+      "first_seen": "2026-10-22T16:01:03.173186+00:00"
+    },
+    "https://alternativeto.net/software/morrow-audiobook-player/about/|Morrow Audiobook Player": {
+      "title": "Morrow Audiobook Player",
+      "link": "https://alternativeto.net/software/morrow-audiobook-player/about/",
+      "first_seen": "2026-10-22T16:01:03.173188+00:00"
     }
   }
 }
