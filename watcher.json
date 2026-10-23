@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-23T16:56:22.061242+00:00",
+  "last_checked": "2026-10-23T20:15:48.774922+00:00",
   "seen": {
     "https://alternativeto.net/software/flawless-workout-tracker/about/|Flawless: Workout Tracker": {
       "title": "Flawless: Workout Tracker",
@@ -3125,6 +3125,46 @@
       "title": "BingeTube",
       "link": "https://alternativeto.net/software/bingetube/about/",
       "first_seen": "2026-10-23T11:59:02.166179+00:00"
+    },
+    "https://alternativeto.net/software/media-archive/about/|Media Archive": {
+      "title": "Media Archive",
+      "link": "https://alternativeto.net/software/media-archive/about/",
+      "first_seen": "2026-10-23T20:15:40.342036+00:00"
+    },
+    "https://alternativeto.net/software/cellarion/about/|Cellarion": {
+      "title": "Cellarion",
+      "link": "https://alternativeto.net/software/cellarion/about/",
+      "first_seen": "2026-10-23T20:15:40.342060+00:00"
+    },
+    "https://alternativeto.net/software/cryptex-vault/about/|Cryptex Vault": {
+      "title": "Cryptex Vault",
+      "link": "https://alternativeto.net/software/cryptex-vault/about/",
+      "first_seen": "2026-10-23T20:15:40.342063+00:00"
+    },
+    "https://alternativeto.net/software/lunio-daily-safety-check-in/about/|Lunio App": {
+      "title": "Lunio App",
+      "link": "https://alternativeto.net/software/lunio-daily-safety-check-in/about/",
+      "first_seen": "2026-10-23T20:15:40.342064+00:00"
+    },
+    "https://alternativeto.net/software/kaizen-focus-and-study-timer/about/|Kaizen: Focus & Study Timer": {
+      "title": "Kaizen: Focus & Study Timer",
+      "link": "https://alternativeto.net/software/kaizen-focus-and-study-timer/about/",
+      "first_seen": "2026-10-23T20:15:40.342074+00:00"
+    },
+    "https://alternativeto.net/software/aviary-by-sukrit-saha/about/|Aviary by Sukrit Saha": {
+      "title": "Aviary by Sukrit Saha",
+      "link": "https://alternativeto.net/software/aviary-by-sukrit-saha/about/",
+      "first_seen": "2026-10-23T20:15:40.342076+00:00"
+    },
+    "https://alternativeto.net/software/void-apps/about/|VOID // APPS": {
+      "title": "VOID // APPS",
+      "link": "https://alternativeto.net/software/void-apps/about/",
+      "first_seen": "2026-10-23T20:15:40.342077+00:00"
+    },
+    "https://alternativeto.net/software/youcoded/about/|YouCoded": {
+      "title": "YouCoded",
+      "link": "https://alternativeto.net/software/youcoded/about/",
+      "first_seen": "2026-10-23T20:15:40.342081+00:00"
     }
   }
 }
