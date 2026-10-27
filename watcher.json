@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-27T06:02:47.389216+00:00",
+  "last_checked": "2026-10-27T12:03:20.446556+00:00",
   "seen": {
     "https://alternativeto.net/software/dateprism/about/|DatePrism": {
       "title": "DatePrism",
@@ -3240,6 +3240,26 @@
       "title": "DayBloq",
       "link": "https://alternativeto.net/software/daybloq/about/",
       "first_seen": "2026-10-26T21:47:31.574098+00:00"
+    },
+    "https://alternativeto.net/software/wallshuffle/about/|WallShuffle": {
+      "title": "WallShuffle",
+      "link": "https://alternativeto.net/software/wallshuffle/about/",
+      "first_seen": "2026-10-27T12:03:17.633004+00:00"
+    },
+    "https://alternativeto.net/software/reperto/about/|Reperto": {
+      "title": "Reperto",
+      "link": "https://alternativeto.net/software/reperto/about/",
+      "first_seen": "2026-10-27T12:03:17.633026+00:00"
+    },
+    "https://alternativeto.net/software/mivpn/about/|MiVPN": {
+      "title": "MiVPN",
+      "link": "https://alternativeto.net/software/mivpn/about/",
+      "first_seen": "2026-10-27T12:03:17.633030+00:00"
+    },
+    "https://alternativeto.net/software/karl/about/|Karl": {
+      "title": "Karl",
+      "link": "https://alternativeto.net/software/karl/about/",
+      "first_seen": "2026-10-27T12:03:17.633033+00:00"
     }
   }
 }
