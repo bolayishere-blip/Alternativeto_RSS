@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-27T17:56:50.339416+00:00",
+  "last_checked": "2026-10-27T22:01:40.223302+00:00",
   "seen": {
     "https://alternativeto.net/software/dateprism/about/|DatePrism": {
       "title": "DatePrism",
@@ -3260,6 +3260,131 @@
       "title": "Karl",
       "link": "https://alternativeto.net/software/karl/about/",
       "first_seen": "2026-10-27T12:03:17.633033+00:00"
+    },
+    "https://alternativeto.net/software/rng-lens/about/|rng-lens": {
+      "title": "rng-lens",
+      "link": "https://alternativeto.net/software/rng-lens/about/",
+      "first_seen": "2026-10-27T22:01:30.507869+00:00"
+    },
+    "https://alternativeto.net/software/quilcast/about/|Quilcast": {
+      "title": "Quilcast",
+      "link": "https://alternativeto.net/software/quilcast/about/",
+      "first_seen": "2026-10-27T22:01:30.507889+00:00"
+    },
+    "https://alternativeto.net/software/abs/about/|ABS+": {
+      "title": "ABS+",
+      "link": "https://alternativeto.net/software/abs/about/",
+      "first_seen": "2026-10-27T22:01:30.507892+00:00"
+    },
+    "https://alternativeto.net/software/mesh/about/|Mesh+": {
+      "title": "Mesh+",
+      "link": "https://alternativeto.net/software/mesh/about/",
+      "first_seen": "2026-10-27T22:01:30.507895+00:00"
+    },
+    "https://alternativeto.net/software/plain-wallet/about/|Plain Wallet": {
+      "title": "Plain Wallet",
+      "link": "https://alternativeto.net/software/plain-wallet/about/",
+      "first_seen": "2026-10-27T22:01:30.507896+00:00"
+    },
+    "https://alternativeto.net/software/cldr/about/|cldr": {
+      "title": "cldr",
+      "link": "https://alternativeto.net/software/cldr/about/",
+      "first_seen": "2026-10-27T22:01:30.507898+00:00"
+    },
+    "https://alternativeto.net/software/mealpreptai/about/|MealPreptAi": {
+      "title": "MealPreptAi",
+      "link": "https://alternativeto.net/software/mealpreptai/about/",
+      "first_seen": "2026-10-27T22:01:30.507900+00:00"
+    },
+    "https://alternativeto.net/software/braxby/about/|braxby": {
+      "title": "braxby",
+      "link": "https://alternativeto.net/software/braxby/about/",
+      "first_seen": "2026-10-27T22:01:30.507904+00:00"
+    },
+    "https://alternativeto.net/software/vyral/about/|Vyral": {
+      "title": "Vyral",
+      "link": "https://alternativeto.net/software/vyral/about/",
+      "first_seen": "2026-10-27T22:01:30.507909+00:00"
+    },
+    "https://alternativeto.net/software/satoru/about/|Satoru": {
+      "title": "Satoru",
+      "link": "https://alternativeto.net/software/satoru/about/",
+      "first_seen": "2026-10-27T22:01:30.507911+00:00"
+    },
+    "https://alternativeto.net/software/riva-psy/about/|Riva Psy": {
+      "title": "Riva Psy",
+      "link": "https://alternativeto.net/software/riva-psy/about/",
+      "first_seen": "2026-10-27T22:01:30.507913+00:00"
+    },
+    "https://alternativeto.net/software/snappacy/about/|Snappacy": {
+      "title": "Snappacy",
+      "link": "https://alternativeto.net/software/snappacy/about/",
+      "first_seen": "2026-10-27T22:01:30.507915+00:00"
+    },
+    "https://alternativeto.net/software/punctum/about/|Punctum": {
+      "title": "Punctum",
+      "link": "https://alternativeto.net/software/punctum/about/",
+      "first_seen": "2026-10-27T22:01:30.507916+00:00"
+    },
+    "https://alternativeto.net/software/cold-ones/about/|Cold Ones": {
+      "title": "Cold Ones",
+      "link": "https://alternativeto.net/software/cold-ones/about/",
+      "first_seen": "2026-10-27T22:01:30.507918+00:00"
+    },
+    "https://alternativeto.net/software/circuit-trace/about/|Circuit Trace": {
+      "title": "Circuit Trace",
+      "link": "https://alternativeto.net/software/circuit-trace/about/",
+      "first_seen": "2026-10-27T22:01:30.507920+00:00"
+    },
+    "https://alternativeto.net/software/valet-wallet/about/|Valet wallet": {
+      "title": "Valet wallet",
+      "link": "https://alternativeto.net/software/valet-wallet/about/",
+      "first_seen": "2026-10-27T22:01:30.507921+00:00"
+    },
+    "https://alternativeto.net/software/diary-ai-journal-and-companion/about/|diAry Ai Journal": {
+      "title": "diAry Ai Journal",
+      "link": "https://alternativeto.net/software/diary-ai-journal-and-companion/about/",
+      "first_seen": "2026-10-27T22:01:30.507922+00:00"
+    },
+    "https://alternativeto.net/software/splitz/about/|Splitz": {
+      "title": "Splitz",
+      "link": "https://alternativeto.net/software/splitz/about/",
+      "first_seen": "2026-10-27T22:01:30.507924+00:00"
+    },
+    "https://alternativeto.net/software/slabline/about/|Slabline": {
+      "title": "Slabline",
+      "link": "https://alternativeto.net/software/slabline/about/",
+      "first_seen": "2026-10-27T22:01:30.507926+00:00"
+    },
+    "https://alternativeto.net/software/grape-ai-notes/about/|Grape AI Notes": {
+      "title": "Grape AI Notes",
+      "link": "https://alternativeto.net/software/grape-ai-notes/about/",
+      "first_seen": "2026-10-27T22:01:30.507927+00:00"
+    },
+    "https://alternativeto.net/software/yakihonne/about/|Yakihonne": {
+      "title": "Yakihonne",
+      "link": "https://alternativeto.net/software/yakihonne/about/",
+      "first_seen": "2026-10-27T22:01:30.507929+00:00"
+    },
+    "https://alternativeto.net/software/mixify-android/about/|Mixify (Android)": {
+      "title": "Mixify (Android)",
+      "link": "https://alternativeto.net/software/mixify-android/about/",
+      "first_seen": "2026-10-27T22:01:30.507930+00:00"
+    },
+    "https://alternativeto.net/software/blixt-wallet/about/|Blixt Wallet": {
+      "title": "Blixt Wallet",
+      "link": "https://alternativeto.net/software/blixt-wallet/about/",
+      "first_seen": "2026-10-27T22:01:30.507931+00:00"
+    },
+    "https://alternativeto.net/software/macrion/about/|Macrion": {
+      "title": "Macrion",
+      "link": "https://alternativeto.net/software/macrion/about/",
+      "first_seen": "2026-10-27T22:01:30.507933+00:00"
+    },
+    "https://alternativeto.net/software/how-many/about/|how many": {
+      "title": "how many",
+      "link": "https://alternativeto.net/software/how-many/about/",
+      "first_seen": "2026-10-27T22:01:30.507934+00:00"
     }
   }
 }
